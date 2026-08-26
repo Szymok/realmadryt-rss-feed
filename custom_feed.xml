@@ -1,1 +1,94 @@
-Sukces! Wygenerowano plik custom_feed.xml z 12 artykułami.
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>RealMadryt.pl custom feed</title>
+    <link>https://www.realmadryt.pl/aktualnosci</link>
+    <description>Custom feed from realmadryt.pl</description>
+    <lastBuildDate>Wed, 26 Aug 2026 20:16:43 GMT</lastBuildDate>
+    
+        <item>
+            <title><![CDATA[Królewskie wygrywają w Amsterdamie]]></title>
+            <link>https://www.realmadryt.pl/news/151883-krolewskie-wygrywaja-w-amsterdamie</link>
+            <pubDate>Wed, 26 Aug 2026 22:02:00 GMT</pubDate>
+            <description><![CDATA[I są bliżej Ligi Mistrzyń]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madryt – Real Sociedad [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/151881-real-madryt-real-sociedad-na-zywo</link>
+            <pubDate>Wed, 26 Aug 2026 20:50:00 GMT</pubDate>
+            <description><![CDATA[Trwa zaległy mecz 1. kolejki La Ligi]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madryt – Real Sociedad: Znamy składy!]]></title>
+            <link>https://www.realmadryt.pl/news/151877-real-madryt-real-sociedad-znamy-sklady</link>
+            <pubDate>Wed, 26 Aug 2026 19:43:00 GMT</pubDate>
+            <description><![CDATA[Wiemy, na kogo postawił Mourinho]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Celta blokuje transfer Javiego Ruedy do Nottingham Forest]]></title>
+            <link>https://www.realmadryt.pl/news/151880-celta-blokuje-transfer-javiego-ruedy-do-nottingham-forest</link>
+            <pubDate>Wed, 26 Aug 2026 19:32:00 GMT</pubDate>
+            <description><![CDATA[Klub z Galicji zaoferuje mu lepszy kontrakt]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oficjalnie: Manu Serrano odchodzi do rezerw Deportivo]]></title>
+            <link>https://www.realmadryt.pl/news/151879-oficjalnie-manu-serrano-odchodzi-do-rezerw-deportivo</link>
+            <pubDate>Wed, 26 Aug 2026 18:56:00 GMT</pubDate>
+            <description><![CDATA[Obrońca kończy ośmioletnią przygodę z Realem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[MARCA: Cádiz włącza się do walki o Manuela Ángela, Real obniżył cenę]]></title>
+            <link>https://www.realmadryt.pl/news/151878-marca-cadiz-wlacza-sie-do-walki-o-manuela-angela-real-obnizyl-cene</link>
+            <pubDate>Wed, 26 Aug 2026 18:51:00 GMT</pubDate>
+            <description><![CDATA[Gdzie ostatecznie trafi 22-latek?]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[SER: Rodrygo przechodzi rekompozycję sylwetki i ma wrócić silniejszy]]></title>
+            <link>https://www.realmadryt.pl/news/151876-ser-rodrygo-przechodzi-rekompozycje-sylwetki-i-ma-wrocic-silniejszy</link>
+            <pubDate>Wed, 26 Aug 2026 17:29:00 GMT</pubDate>
+            <description><![CDATA[Brazylijczyk chce zwiększyć masę mięśniową bez utraty szybkości]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Atlético wybucha: „Jedyną ofiarą w sprawie Juliána jesteśmy my”]]></title>
+            <link>https://www.realmadryt.pl/news/151875-atletico-wybucha-jedyna-ofiara-w-sprawie-juliana-jestesmy-my</link>
+            <pubDate>Wed, 26 Aug 2026 16:18:00 GMT</pubDate>
+            <description><![CDATA[Madrycki klub atakuje Barcelonę]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Laporta: Jesteśmy bardzo zainteresowani Juliánem Álvarezem, nasza oferta pozostaje aktualna]]></title>
+            <link>https://www.realmadryt.pl/news/151874-laporta-jestesmy-bardzo-zainteresowani-julianem-alvarezem-nasza-oferta-pozostaje-aktualna</link>
+            <pubDate>Wed, 26 Aug 2026 14:41:00 GMT</pubDate>
+            <description><![CDATA[„Docierają do nas informacje, że Atlético Madryt chce sprzedać zawodnika innym zainteresowanym”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Barrenetxea: Dobrze mi się gra przeciwko Realowi Madryt]]></title>
+            <link>https://www.realmadryt.pl/news/151869-barrenetxea-dobrze-mi-sie-gra-przeciwko-realowi-madryt</link>
+            <pubDate>Wed, 26 Aug 2026 14:30:00 GMT</pubDate>
+            <description><![CDATA[„Barcelona wydaje mi się mocniejsza, ale Real z Mourinho może wszystko zmienić”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Kurs 10.0 na wygraną Realu Madryt z Sociedad! 176 zł na konto główne i 400 zł w bonusach!]]></title>
+            <link>https://www.realmadryt.pl/news/151873-kurs-10-0-na-wygrana-realu-madryt-z-sociedad-176-zl-na-konto-glowne-i-400-zl-w-bonusach</link>
+            <pubDate>Wed, 26 Aug 2026 13:46:00 GMT</pubDate>
+            <description><![CDATA[Artykuł sponsorowany]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madryt przebudował defensywę, ale wątpliwości nie zniknęły]]></title>
+            <link>https://www.realmadryt.pl/news/151865-real-madryt-przebudowal-defensywe-ale-watpliwosci-nie-zniknely</link>
+            <pubDate>Wed, 26 Aug 2026 13:24:00 GMT</pubDate>
+            <description><![CDATA[Mourinho ma w tej formacji sporo problemów do rozwiązania]]></description>
+        </item>
+        
+</channel>
+</rss>
