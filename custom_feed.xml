@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 29 Aug 2026 15:19:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 18:43:47 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Bellingham: Prawdopodobnie gram teraz na swojej najlepszej pozycji]]></title>
+            <link>https://www.realmadryt.pl/news/151970-bellingham-prawdopodobnie-gram-teraz-na-swojej-najlepszej-pozycji</link>
+            <pubDate>Sat, 29 Aug 2026 19:37:00 GMT</pubDate>
+            <description><![CDATA[„Przede wszystkim wszyscy nowi zrobili na grupie bardzo dobre wrażenie jako ludzie”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Kulisy ostatniego treningu przed Málagą [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/151969-kulisy-ostatniego-treningu-przed-malaga-video</link>
+            <pubDate>Sat, 29 Aug 2026 19:27:00 GMT</pubDate>
+            <description><![CDATA[Nad czym pracowano w Valdebebas?]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Cucurella wyprzedza Carrerasa]]></title>
+            <link>https://www.realmadryt.pl/news/151968-cucurella-wyprzedza-carrerasa</link>
+            <pubDate>Sat, 29 Aug 2026 18:00:00 GMT</pubDate>
+            <description><![CDATA[Marc wykorzystał słabszy moment kolegi]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Agent Diomandé: Yan miał oferty z Liverpoolu i PSG, ale wybrał Real Madryt]]></title>
             <link>https://www.realmadryt.pl/news/151967-agent-diomande-yan-mial-oferty-z-liverpoolu-i-psg-ale-wybral-real-madryt</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/151949-mourinho-chce-miec-tchouameniego-w-pelni-zdrowego-i-wole-jeszcze-troche-poczekac</link>
             <pubDate>Sat, 29 Aug 2026 11:59:00 GMT</pubDate>
             <description><![CDATA[Trener zabrał głos przed meczem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Reset Viníciusa]]></title>
-            <link>https://www.realmadryt.pl/news/151959-reset-viniciusa</link>
-            <pubDate>Sat, 29 Aug 2026 11:26:00 GMT</pubDate>
-            <description><![CDATA[Brazylijczyk wrócił na Bernabéu i zaakceptował nową rolę]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Endrick szuka światełka w tunelu]]></title>
-            <link>https://www.realmadryt.pl/news/151958-endrick-szuka-swiatelka-w-tunelu</link>
-            <pubDate>Sat, 29 Aug 2026 10:59:00 GMT</pubDate>
-            <description><![CDATA[Na razie jednak go nie widzi]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kwadrans ostatniego treningu przed Málagą [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/151948-kwadrans-ostatniego-treningu-przed-malaga-video</link>
-            <pubDate>Sat, 29 Aug 2026 10:32:00 GMT</pubDate>
-            <description><![CDATA[Kto jest gotowy do gry?]]></description>
         </item>
         
 </channel>
