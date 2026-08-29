@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 29 Aug 2026 18:43:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 21:16:41 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Mastantuono błyszczał, ale Fiorentina poniosła kolejną klęskę]]></title>
+            <link>https://www.realmadryt.pl/news/151971-mastantuono-blyszczal-ale-fiorentina-poniosla-kolejna-kleske</link>
+            <pubDate>Sat, 29 Aug 2026 20:46:00 GMT</pubDate>
+            <description><![CDATA[Frosinone wygrało 3:0]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Bellingham: Prawdopodobnie gram teraz na swojej najlepszej pozycji]]></title>
             <link>https://www.realmadryt.pl/news/151970-bellingham-prawdopodobnie-gram-teraz-na-swojej-najlepszej-pozycji</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/151960-ostatni-trening-przed-malaga</link>
             <pubDate>Sat, 29 Aug 2026 12:07:00 GMT</pubDate>
             <description><![CDATA[Królewscy zakończyli przygotowania do meczu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho: Chcę mieć Tchouaméniego w pełni zdrowego i wolę jeszcze trochę poczekać]]></title>
-            <link>https://www.realmadryt.pl/news/151949-mourinho-chce-miec-tchouameniego-w-pelni-zdrowego-i-wole-jeszcze-troche-poczekac</link>
-            <pubDate>Sat, 29 Aug 2026 11:59:00 GMT</pubDate>
-            <description><![CDATA[Trener zabrał głos przed meczem]]></description>
         </item>
         
 </channel>
