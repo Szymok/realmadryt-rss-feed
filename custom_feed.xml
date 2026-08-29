@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 28 Aug 2026 22:20:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 03:46:18 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[MARCA: Valverde ma grać tylko w środku pola]]></title>
+            <link>https://www.realmadryt.pl/news/151945-marca-valverde-ma-grac-tylko-w-srodku-pola</link>
+            <pubDate>Sat, 29 Aug 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Urugwajczyk wykorzystuje nieobecność Tchouaméniego]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/151950-dzisiejsze-okladki</link>
+            <pubDate>Sat, 29 Aug 2026 00:32:00 GMT</pubDate>
+            <description><![CDATA[„Ogór lata”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[AS: Florentino spełni obietnicę wyborczą, socios dostaną wyjątkowe koszulki]]></title>
             <link>https://www.realmadryt.pl/news/151952-as-florentino-spelni-obietnice-wyborcza-socios-dostana-wyjatkowe-koszulki</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/151934-oficjalnie-alvaro-morata-zawodnikiem-leganes</link>
             <pubDate>Fri, 28 Aug 2026 17:04:00 GMT</pubDate>
             <description><![CDATA[Zaskakujący powrót napastnika do Hiszpanii stał się faktem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Damian Jones zawodnikiem Realu Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/151937-oficjalnie-damian-jones-zawodnikiem-realu-madryt</link>
-            <pubDate>Fri, 28 Aug 2026 16:59:00 GMT</pubDate>
-            <description><![CDATA[Siódme wzmocnienie koszykarskiej drużyny]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Rayan Zinebi wypożyczony do Castilli]]></title>
-            <link>https://www.realmadryt.pl/news/151936-oficjalnie-rayan-zinebi-wypozyczony-do-castilli</link>
-            <pubDate>Fri, 28 Aug 2026 16:47:00 GMT</pubDate>
-            <description><![CDATA[Granada potwierdziła transfer]]></description>
         </item>
         
 </channel>
