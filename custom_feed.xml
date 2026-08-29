@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 29 Aug 2026 21:16:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 23:28:30 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/151975-dzisiejsze-okladki</link>
+            <pubDate>Sun, 30 Aug 2026 00:45:00 GMT</pubDate>
+            <description><![CDATA[„Mamy wszystko, by dalej się rozwijać”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[AS: Manuel Ángel o krok od Fulham]]></title>
+            <link>https://www.realmadryt.pl/news/151972-as-manuel-angel-o-krok-od-fulham</link>
+            <pubDate>Sat, 29 Aug 2026 23:30:00 GMT</pubDate>
+            <description><![CDATA[Kolejny wychowanek ma dołączyć do Arbeloi]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Mastantuono błyszczał, ale Fiorentina poniosła kolejną klęskę]]></title>
             <link>https://www.realmadryt.pl/news/151971-mastantuono-blyszczal-ale-fiorentina-poniosla-kolejna-kleske</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/151961-poznalismy-terminarz-fazy-ligowej-ligi-mistrzow-2026-27</link>
             <pubDate>Sat, 29 Aug 2026 13:09:00 GMT</pubDate>
             <description><![CDATA[Real zaczyna od meczu z Interem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho: Najlepszy piłkarz świata nie jest z PSG ani z reprezentacji Hiszpanii, wiemy, gdzie gra]]></title>
-            <link>https://www.realmadryt.pl/news/151962-mourinho-najlepszy-pilkarz-swiata-nie-jest-z-psg-ani-z-reprezentacji-hiszpanii-wiemy-gdzie-gra</link>
-            <pubDate>Sat, 29 Aug 2026 12:39:00 GMT</pubDate>
-            <description><![CDATA[Zapis przedmeczowej konferencji z trenerem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Ostatni trening przed Málagą]]></title>
-            <link>https://www.realmadryt.pl/news/151960-ostatni-trening-przed-malaga</link>
-            <pubDate>Sat, 29 Aug 2026 12:07:00 GMT</pubDate>
-            <description><![CDATA[Królewscy zakończyli przygotowania do meczu]]></description>
         </item>
         
 </channel>
