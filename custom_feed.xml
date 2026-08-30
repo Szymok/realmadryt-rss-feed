@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Aug 2026 12:51:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 17:06:01 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Bellingham MVP meczu z Málagą]]></title>
+            <link>https://www.realmadryt.pl/news/151992-bellingham-mvp-meczu-z-malaga</link>
+            <pubDate>Sun, 30 Aug 2026 19:01:00 GMT</pubDate>
+            <description><![CDATA[Wyróżnienie dla Anglika]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oceń piłkarzy po meczu z Málagą]]></title>
+            <link>https://www.realmadryt.pl/news/151989-ocen-pilkarzy-po-meczu-z-malaga</link>
+            <pubDate>Sun, 30 Aug 2026 18:59:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do wspólnego wystawiania not]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Walec w 11 minut]]></title>
+            <link>https://www.realmadryt.pl/news/151990-walec-w-11-minut</link>
+            <pubDate>Sun, 30 Aug 2026 16:50:00 GMT</pubDate>
+            <description><![CDATA[Real Madryt ograł Málagę 4:0]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madryt – Málaga: Znamy składy!]]></title>
+            <link>https://www.realmadryt.pl/news/151987-real-madryt-malaga-znamy-sklady</link>
+            <pubDate>Sun, 30 Aug 2026 15:42:00 GMT</pubDate>
+            <description><![CDATA[Wiemy, na kogo postawił Mourinho]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Media: Gabriel Jesus zostanie piłkarzem Barcelony]]></title>
+            <link>https://www.realmadryt.pl/news/151988-media-gabriel-jesus-zostanie-pilkarzem-barcelony</link>
+            <pubDate>Sun, 30 Aug 2026 15:25:00 GMT</pubDate>
+            <description><![CDATA[Katalończycy będą mieli nowego napastnika]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Burzliwa relacja Mourinho z Málagą]]></title>
             <link>https://www.realmadryt.pl/news/151986-burzliwa-relacja-mourinho-z-malaga</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/151981-juan-martinez-munuera-na-malage</link>
             <pubDate>Sun, 30 Aug 2026 10:00:00 GMT</pubDate>
             <description><![CDATA[Sędzią VAR będzie Daniel Jesús Trujillo Suárez]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 30 sierpnia]]></title>
-            <link>https://www.realmadryt.pl/news/151979-kartka-z-kalendarza-30-sierpnia</link>
-            <pubDate>Sun, 30 Aug 2026 09:18:00 GMT</pubDate>
-            <description><![CDATA[Pierwszy Superpuchar Europy i ligowy debiut Beckhama]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Fan Guardioli zmierzy się z Mourinho na Bernabéu]]></title>
-            <link>https://www.realmadryt.pl/news/151978-fan-guardioli-zmierzy-sie-z-mourinho-na-bernabeu</link>
-            <pubDate>Sun, 30 Aug 2026 08:40:00 GMT</pubDate>
-            <description><![CDATA[Funes przez lata czerpał inspirację z futbolu Pepa]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Donikąd i z powrotem]]></title>
-            <link>https://www.realmadryt.pl/news/151964-donikad-i-z-powrotem</link>
-            <pubDate>Sun, 30 Aug 2026 08:18:00 GMT</pubDate>
-            <description><![CDATA[Zapowiedź meczu z Málagą]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real Madryt chciał go za 250 tysięcy euro, dziś jest liderem Málagi]]></title>
-            <link>https://www.realmadryt.pl/news/151977-real-madryt-chcial-go-za-250-tysiecy-euro-dzis-jest-liderem-malagi</link>
-            <pubDate>Sun, 30 Aug 2026 07:55:00 GMT</pubDate>
-            <description><![CDATA[Izan Merino trzy lata temu mógł trafić do Madrytu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[„Najlepszy transfer siedzi na ławce”]]></title>
-            <link>https://www.realmadryt.pl/news/151976-najlepszy-transfer-siedzi-na-lawce</link>
-            <pubDate>Sun, 30 Aug 2026 07:40:00 GMT</pubDate>
-            <description><![CDATA[Portugalczyk w niespełna dwa miesiące miał odmienić codzienność zespołu]]></description>
         </item>
         
 </channel>
