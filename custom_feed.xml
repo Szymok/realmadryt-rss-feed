@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Aug 2026 19:49:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 22:16:31 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152005-dzisiejsze-okladki</link>
+            <pubDate>Mon, 31 Aug 2026 00:07:00 GMT</pubDate>
+            <description><![CDATA[„Bernabéu się bawi”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Wygrane derby na inaugurację sezonu]]></title>
+            <link>https://www.realmadryt.pl/news/152004-wygrane-derby-na-inauguracje-sezonu</link>
+            <pubDate>Sun, 30 Aug 2026 23:29:00 GMT</pubDate>
+            <description><![CDATA[Piłkarki pokonują Atlético]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Porażka koszykarzy w pierwszym sparingu]]></title>
+            <link>https://www.realmadryt.pl/news/152001-porazka-koszykarzy-w-pierwszym-sparingu</link>
+            <pubDate>Sun, 30 Aug 2026 22:17:00 GMT</pubDate>
+            <description><![CDATA[Królewscy przegrali z Breogánem]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Courtois: W drugiej połowie zabrakło nam wrzucenia jeszcze wyższego biegu]]></title>
             <link>https://www.realmadryt.pl/news/152000-courtois-w-drugiej-polowie-zabraklo-nam-wrzucenia-jeszcze-wyzszego-biegu</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/151992-bellingham-mvp-meczu-z-malaga</link>
             <pubDate>Sun, 30 Aug 2026 19:01:00 GMT</pubDate>
             <description><![CDATA[Wyróżnienie dla Anglika]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oceń piłkarzy po meczu z Málagą]]></title>
-            <link>https://www.realmadryt.pl/news/151989-ocen-pilkarzy-po-meczu-z-malaga</link>
-            <pubDate>Sun, 30 Aug 2026 18:59:00 GMT</pubDate>
-            <description><![CDATA[Zapraszamy do wspólnego wystawiania not]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Walec w 11 minut]]></title>
-            <link>https://www.realmadryt.pl/news/151990-walec-w-11-minut</link>
-            <pubDate>Sun, 30 Aug 2026 16:50:00 GMT</pubDate>
-            <description><![CDATA[Real Madryt ograł Málagę 4:0]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real Madryt – Málaga: Znamy składy!]]></title>
-            <link>https://www.realmadryt.pl/news/151987-real-madryt-malaga-znamy-sklady</link>
-            <pubDate>Sun, 30 Aug 2026 15:42:00 GMT</pubDate>
-            <description><![CDATA[Wiemy, na kogo postawił Mourinho]]></description>
         </item>
         
 </channel>
