@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 31 Aug 2026 00:41:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 06:12:32 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Co najbardziej podoba ci się w Realu Mourinho?]]></title>
+            <link>https://www.realmadryt.pl/news/152007-glos-kibica-co-najbardziej-podoba-ci-sie-w-realu-mourinho</link>
+            <pubDate>Mon, 31 Aug 2026 07:25:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do dzisiejszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mourinho już poprawił swój najlepszy start w Realu]]></title>
+            <link>https://www.realmadryt.pl/news/152008-mourinho-juz-poprawil-swoj-najlepszy-start-w-realu</link>
+            <pubDate>Mon, 31 Aug 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Portugalczyk pierwszy raz ma komplet]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/152005-dzisiejsze-okladki</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/151991-bellingham-teraz-mam-wieksza-swobode-ruchow-dlatego-gram-tak-dobrze</link>
             <pubDate>Sun, 30 Aug 2026 19:11:00 GMT</pubDate>
             <description><![CDATA[Pierwsze wypowiedzi z murawy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Muñoz: Trudny początek? Wiedzieliśmy, z kim gramy]]></title>
-            <link>https://www.realmadryt.pl/news/151993-munoz-trudny-poczatek-wiedzielismy-z-kim-gramy</link>
-            <pubDate>Sun, 30 Aug 2026 19:10:00 GMT</pubDate>
-            <description><![CDATA[Pierwsze komentarze z murawy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bellingham MVP meczu z Málagą]]></title>
-            <link>https://www.realmadryt.pl/news/151992-bellingham-mvp-meczu-z-malaga</link>
-            <pubDate>Sun, 30 Aug 2026 19:01:00 GMT</pubDate>
-            <description><![CDATA[Wyróżnienie dla Anglika]]></description>
         </item>
         
 </channel>
