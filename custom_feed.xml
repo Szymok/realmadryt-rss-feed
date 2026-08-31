@@ -4,13 +4,34 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 31 Aug 2026 19:46:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 23:31:37 GMT</lastBuildDate>
     
         <item>
-            <title><![CDATA[FC Barcelona – Rayo Vallecano [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/152024-fc-barcelona-rayo-vallecano-na-zywo</link>
+            <title><![CDATA[Oficjalnie: David Jiménez piłkarzem Realu Oviedo]]></title>
+            <link>https://www.realmadryt.pl/news/152031-oficjalnie-david-jimenez-pilkarzem-realu-oviedo</link>
+            <pubDate>Tue, 01 Sep 2026 00:57:00 GMT</pubDate>
+            <description><![CDATA[Prawy obrońca odchodzi z Castilli]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152030-dzisiejsze-okladki</link>
+            <pubDate>Tue, 01 Sep 2026 00:34:00 GMT</pubDate>
+            <description><![CDATA[„Messi zostawia po sobie lukę, której nie da się wypełnić”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Rachad zmarnował karnego, bezbramkowy remis Castilli [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152025-rachad-zmarnowal-karnego-bezbramkowy-remis-castilli-video</link>
+            <pubDate>Mon, 31 Aug 2026 23:24:00 GMT</pubDate>
+            <description><![CDATA[Podział punktów z Teruelem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[3. kolejka: Barcelona odzyskuje fotel lidera [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152024-3-kolejka-barcelona-odzyskuje-fotel-lidera-video</link>
             <pubDate>Mon, 31 Aug 2026 21:00:00 GMT</pubDate>
-            <description><![CDATA[Katalończycy chcą odzyskać fotel lidera]]></description>
+            <description><![CDATA[Katalończycy wygrali z Rayo]]></description>
         </item>
         
         <item>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152015-trzech-pomocnikow-realu-zawieszonych-na-mecz-z-interem</link>
             <pubDate>Mon, 31 Aug 2026 15:14:00 GMT</pubDate>
             <description><![CDATA[Pierwszy problem Mourinho]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kim jest Sergio Martínez?]]></title>
-            <link>https://www.realmadryt.pl/news/152014-kim-jest-sergio-martinez</link>
-            <pubDate>Mon, 31 Aug 2026 13:02:00 GMT</pubDate>
-            <description><![CDATA[Hiszpan jest porównywany do Pogby]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[A Bola: Benfica chce Arribasa]]></title>
-            <link>https://www.realmadryt.pl/news/152013-a-bola-benfica-chce-arribasa</link>
-            <pubDate>Mon, 31 Aug 2026 12:43:00 GMT</pubDate>
-            <description><![CDATA[Real może zarobić 9 milionów euro]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Królewscy mają dziś wolne]]></title>
-            <link>https://www.realmadryt.pl/news/152011-krolewscy-maja-dzis-wolne</link>
-            <pubDate>Mon, 31 Aug 2026 11:40:00 GMT</pubDate>
-            <description><![CDATA[Krótki odpoczynek przed kolejnym meczem]]></description>
         </item>
         
 </channel>
