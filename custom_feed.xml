@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 01 Sep 2026 17:05:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 19:55:35 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Romano: Dani Ceballos zostanie piłkarzem Betisu]]></title>
+            <link>https://www.realmadryt.pl/news/152053-romano-dani-ceballos-zostanie-pilkarzem-betisu</link>
+            <pubDate>Tue, 01 Sep 2026 19:56:00 GMT</pubDate>
+            <description><![CDATA[Hiszpan wreszcie wraca na Benito Villamarín]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Pierwszy trening w tym tygodniu]]></title>
             <link>https://www.realmadryt.pl/news/152052-pierwszy-trening-w-tym-tygodniu</link>
@@ -14,8 +21,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Sky: Chema przechodzi ze Stuttgartu do Brighton [AKTUALIZACJA]]]></title>
-            <link>https://www.realmadryt.pl/news/152051-sky-chema-przechodzi-ze-stuttgartu-do-brighton-aktualizacja</link>
+            <title><![CDATA[Sky: Chema przechodzi ze Stuttgartu do Brighton [AKTUALIZACJA #2]]]></title>
+            <link>https://www.realmadryt.pl/news/152051-sky-chema-przechodzi-ze-stuttgartu-do-brighton-aktualizacja-2</link>
             <pubDate>Tue, 01 Sep 2026 18:25:00 GMT</pubDate>
             <description><![CDATA[Real ma zarobić na kolejnym transferze wychowanka]]></description>
         </item>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152034-mourinho-odmienil-atmosfere-w-realu-madryt</link>
             <pubDate>Tue, 01 Sep 2026 14:00:00 GMT</pubDate>
             <description><![CDATA[Zniknęły ubiegłoroczne napięcia]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[8 września poznamy nominowanych do Złotej Piłki]]></title>
-            <link>https://www.realmadryt.pl/news/152044-8-wrzesnia-poznamy-nominowanych-do-zlotej-pilki</link>
-            <pubDate>Tue, 01 Sep 2026 13:12:00 GMT</pubDate>
-            <description><![CDATA[Gala odbędzie się 26 października w Londynie]]></description>
         </item>
         
 </channel>
