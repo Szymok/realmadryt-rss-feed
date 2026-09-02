@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 01 Sep 2026 22:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:22:05 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Oficjalnie: Dani Ceballos wrócił do Realu Betis]]></title>
+            <link>https://www.realmadryt.pl/news/152054-oficjalnie-dani-ceballos-wrocil-do-realu-betis</link>
+            <pubDate>Wed, 02 Sep 2026 01:19:00 GMT</pubDate>
+            <description><![CDATA[Hiszpanowi w końcu się udało]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152065-dzisiejsze-okladki</link>
+            <pubDate>Wed, 02 Sep 2026 00:49:00 GMT</pubDate>
+            <description><![CDATA[„Jonathan David, «dziewiątka» dla Atlético”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oficjalnie: Chema Andrés piłkarzem Brighton]]></title>
+            <link>https://www.realmadryt.pl/news/152055-oficjalnie-chema-andres-pilkarzem-brighton</link>
+            <pubDate>Wed, 02 Sep 2026 00:33:00 GMT</pubDate>
+            <description><![CDATA[Połowa kwoty trafia na konto Królewskich]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oficjalnie: Enzo Fernández piłkarzem Manchesteru City]]></title>
+            <link>https://www.realmadryt.pl/news/152042-oficjalnie-enzo-fernandez-pilkarzem-manchesteru-city</link>
+            <pubDate>Wed, 02 Sep 2026 00:30:00 GMT</pubDate>
+            <description><![CDATA[Argentyńczyk przez wiele miesięcy był łączony z Realem]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Real Madryt zakończył letnie okienko – tak wygląda kadra na sezon 2026/27]]></title>
             <link>https://www.realmadryt.pl/news/152057-real-madryt-zakonczyl-letnie-okienko-tak-wyglada-kadra-na-sezon-2026-27</link>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/152050-media-enzo-fernandez-zostanie-pilkarzem-manchesteru-city</link>
             <pubDate>Tue, 01 Sep 2026 17:54:00 GMT</pubDate>
             <description><![CDATA[Argentyńczyk ma kosztować 125 milionów funtów]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Antonio Rüdiger zakończył reprezentacyjną karierę]]></title>
-            <link>https://www.realmadryt.pl/news/152049-oficjalnie-antonio-rudiger-zakonczyl-reprezentacyjna-kariere</link>
-            <pubDate>Tue, 01 Sep 2026 16:42:00 GMT</pubDate>
-            <description><![CDATA[Niemiec chce skupić się na grze dla Realu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[MARCA: Rüdiger zakończy reprezentacyjną karierę, bo chce skupić się na Realu Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/152048-marca-rudiger-zakonczy-reprezentacyjna-kariere-bo-chce-skupic-sie-na-realu-madryt</link>
-            <pubDate>Tue, 01 Sep 2026 16:19:00 GMT</pubDate>
-            <description><![CDATA[Obrońca chce jak najdłużej grać na wysokim poziomie]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Pierwszy ligowy Klasyk w niedzielę wieczorem]]></title>
-            <link>https://www.realmadryt.pl/news/152047-oficjalnie-pierwszy-ligowy-klasyk-w-niedziele-wieczorem</link>
-            <pubDate>Tue, 01 Sep 2026 16:03:00 GMT</pubDate>
-            <description><![CDATA[Znamy datę i godzinę meczu Barcelony z Realem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Sąd odrzucił wniosek Realu o przedłużenie terminu śledztwa w sprawie Negreiry]]></title>
-            <link>https://www.realmadryt.pl/news/152046-sad-odrzucil-wniosek-realu-o-przedluzenie-terminu-sledztwa-w-sprawie-negreiry</link>
-            <pubDate>Tue, 01 Sep 2026 15:37:00 GMT</pubDate>
-            <description><![CDATA[Decyzja nie oznacza zakończenia ani umorzenia sprawy]]></description>
         </item>
         
 </channel>
