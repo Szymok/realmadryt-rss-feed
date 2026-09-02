@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Sep 2026 17:21:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 19:56:45 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[The Athletic: Po fiasku w sprawie Rodriego Real zmienił swoją narrację na nielogiczną]]></title>
+            <link>https://www.realmadryt.pl/news/152082-the-athletic-po-fiasku-w-sprawie-rodriego-real-zmienil-swoja-narracje-na-nielogiczna</link>
+            <pubDate>Wed, 02 Sep 2026 21:00:00 GMT</pubDate>
+            <description><![CDATA[Wcześniej faworytem Mourinho na nowego pomocnika był Enzo]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Valdebebas zamieniło się w gigantyczny plan zdjęciowy]]></title>
+            <link>https://www.realmadryt.pl/news/152083-valdebebas-zamienilo-sie-w-gigantyczny-plan-zdjeciowy</link>
+            <pubDate>Wed, 02 Sep 2026 20:28:00 GMT</pubDate>
+            <description><![CDATA[Do ośrodka treningowego zjechali najwięksi sponsorzy klubu]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Chińskie media atakują Real Madryt za wpis o Nepalu i Tybecie]]></title>
+            <link>https://www.realmadryt.pl/news/152080-chinskie-media-atakuja-real-madryt-za-wpis-o-nepalu-i-tybecie</link>
+            <pubDate>Wed, 02 Sep 2026 20:10:00 GMT</pubDate>
+            <description><![CDATA[Klubowi zarzucono „podsycanie ukrytych narracji separatystycznych”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Almeida broni projektu Realu w Valdebebas: „Chodzi o to, co zyska Madryt”]]></title>
             <link>https://www.realmadryt.pl/news/152077-almeida-broni-projektu-realu-w-valdebebas-chodzi-o-to-co-zyska-madryt</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152072-co-real-madryt-moze-zrobic-z-asencio</link>
             <pubDate>Wed, 02 Sep 2026 13:20:00 GMT</pubDate>
             <description><![CDATA[Od kary finansowej po rozstanie]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Sergio Martínez trenował z pierwszym zespołem]]></title>
-            <link>https://www.realmadryt.pl/news/152071-sergio-martinez-trenowal-z-pierwszym-zespolem</link>
-            <pubDate>Wed, 02 Sep 2026 12:47:00 GMT</pubDate>
-            <description><![CDATA[Kolejna zajęcia w Valdebebas]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Lewandowski: Real jest teraz mocniejszy z nowymi zawodnikami i Mourinho]]></title>
-            <link>https://www.realmadryt.pl/news/152070-lewandowski-real-jest-teraz-mocniejszy-z-nowymi-zawodnikami-i-mourinho</link>
-            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Polak udzielił wywiadu dziennikowi AS]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Pau Quesada: Nie możemy myśleć o przewadze z pierwszego meczu]]></title>
-            <link>https://www.realmadryt.pl/news/152060-pau-quesada-nie-mozemy-myslec-o-przewadze-z-pierwszego-meczu</link>
-            <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[„Chcemy wygrać i zrobić to z dobrymi odczuciami”]]></description>
         </item>
         
 </channel>
