@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Sep 2026 00:22:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:50:29 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Carvajal i Alaba nie znaleźli nowego klubu]]></title>
+            <link>https://www.realmadryt.pl/news/152064-carvajal-i-alaba-nie-znalezli-nowego-klubu</link>
+            <pubDate>Wed, 02 Sep 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Mogą podpisać kontrakt już po zamknięciu okienka]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Oficjalnie: Dani Ceballos wrócił do Realu Betis]]></title>
             <link>https://www.realmadryt.pl/news/152054-oficjalnie-dani-ceballos-wrocil-do-realu-betis</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152051-media-chema-przechodzi-ze-stuttgartu-do-brighton</link>
             <pubDate>Tue, 01 Sep 2026 18:25:00 GMT</pubDate>
             <description><![CDATA[Real ma zarobić na kolejnym transferze wychowanka]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Media: Enzo Fernández zostanie piłkarzem Manchesteru City]]></title>
-            <link>https://www.realmadryt.pl/news/152050-media-enzo-fernandez-zostanie-pilkarzem-manchesteru-city</link>
-            <pubDate>Tue, 01 Sep 2026 17:54:00 GMT</pubDate>
-            <description><![CDATA[Argentyńczyk ma kosztować 125 milionów funtów]]></description>
         </item>
         
 </channel>
