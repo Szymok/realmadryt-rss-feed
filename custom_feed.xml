@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Sep 2026 19:56:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 22:19:22 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152088-dzisiejsze-okladki</link>
+            <pubDate>Thu, 03 Sep 2026 00:15:00 GMT</pubDate>
+            <description><![CDATA[„Madryt jest moim domem i chciałbym wrócić”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oficjalnie: Emanuel Benjamín zawodnikiem rezerw FC Porto]]></title>
+            <link>https://www.realmadryt.pl/news/152086-oficjalnie-emanuel-benjamin-zawodnikiem-rezerw-fc-porto</link>
+            <pubDate>Wed, 02 Sep 2026 23:02:00 GMT</pubDate>
+            <description><![CDATA[Obrońca opuścił Real Madryt C]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madryt C gotowy na rozpoczęcie sezonu]]></title>
+            <link>https://www.realmadryt.pl/news/152085-real-madryt-c-gotowy-na-rozpoczecie-sezonu</link>
+            <pubDate>Wed, 02 Sep 2026 22:46:00 GMT</pubDate>
+            <description><![CDATA[Kadra przeszła gruntowną przebudowę]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Królewskie awansują do fazy ligowej Ligi Mistrzyń]]></title>
+            <link>https://www.realmadryt.pl/news/152084-krolewskie-awansuja-do-fazy-ligowej-ligi-mistrzyn</link>
+            <pubDate>Wed, 02 Sep 2026 22:34:00 GMT</pubDate>
+            <description><![CDATA[Plan zrealizowany]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[The Athletic: Po fiasku w sprawie Rodriego Real zmienił swoją narrację na nielogiczną]]></title>
             <link>https://www.realmadryt.pl/news/152082-the-athletic-po-fiasku-w-sprawie-rodriego-real-zmienil-swoja-narracje-na-nielogiczna</link>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/152076-diomande-gra-w-realu-madryt-to-spelnienie-dzieciecego-marzenia</link>
             <pubDate>Wed, 02 Sep 2026 17:24:00 GMT</pubDate>
             <description><![CDATA[„Na treningach poziom jest tak wysoki, że nie masz innego wyjścia, jak wejść na jeszcze wyższy poziom”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Cucurella nowym ulubieńcem kibiców Realu]]></title>
-            <link>https://www.realmadryt.pl/news/152075-cucurella-nowym-ulubiencem-kibicow-realu</link>
-            <pubDate>Wed, 02 Sep 2026 16:13:00 GMT</pubDate>
-            <description><![CDATA[Dobry start reprezentanta Hiszpanii]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Le Parisien: Grupa przestępcza planowała porwanie Kyliana Mbappé]]></title>
-            <link>https://www.realmadryt.pl/news/152074-le-parisien-grupa-przestepcza-planowala-porwanie-kyliana-mbappe</link>
-            <pubDate>Wed, 02 Sep 2026 14:32:00 GMT</pubDate>
-            <description><![CDATA[Potencjalni sprawcy zostali aresztowani]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real Madryt pozyskał Jorge Rajado z Atlético]]></title>
-            <link>https://www.realmadryt.pl/news/152073-real-madryt-pozyskal-jorge-rajado-z-atletico</link>
-            <pubDate>Wed, 02 Sep 2026 14:00:00 GMT</pubDate>
-            <description><![CDATA[Kolejny gracz Rojiblancos trafia do Valdebebas]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Co Real Madryt może zrobić z Asencio?]]></title>
-            <link>https://www.realmadryt.pl/news/152072-co-real-madryt-moze-zrobic-z-asencio</link>
-            <pubDate>Wed, 02 Sep 2026 13:20:00 GMT</pubDate>
-            <description><![CDATA[Od kary finansowej po rozstanie]]></description>
         </item>
         
 </channel>
