@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Sep 2026 19:59:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 22:24:08 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152122-dzisiejsze-okladki</link>
+            <pubDate>Fri, 04 Sep 2026 00:06:00 GMT</pubDate>
+            <description><![CDATA[„Pachnie Ligą Mistrzów”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Castilla nie zagra w Premier League International Cup]]></title>
+            <link>https://www.realmadryt.pl/news/152119-castilla-nie-zagra-w-premier-league-international-cup</link>
+            <pubDate>Thu, 03 Sep 2026 22:26:00 GMT</pubDate>
+            <description><![CDATA[Królewscy zrezygnowali z tego turnieju]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Kadra Realu Madryt na fazę ligową Ligi Mistrzów]]></title>
+            <link>https://www.realmadryt.pl/news/152118-kadra-realu-madryt-na-faze-ligowa-ligi-mistrzow</link>
+            <pubDate>Thu, 03 Sep 2026 22:17:00 GMT</pubDate>
+            <description><![CDATA[Królewscy zgłosili aż 35 piłkarzy!]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Selekcjoner Maroka próbuje jeszcze przekonać Thiago Pitarcha do reprezentowania Lwów Atlasu?]]></title>
             <link>https://www.realmadryt.pl/news/152115-selekcjoner-maroka-probuje-jeszcze-przekonac-thiago-pitarcha-do-reprezentowania-lwow-atlasu</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152107-kadra-betisu-na-mecz-z-realem-madryt</link>
             <pubDate>Thu, 03 Sep 2026 15:33:00 GMT</pubDate>
             <description><![CDATA[Ceballos nie zagra z Królewskimi]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Luis Enrique: Złotą Piłkę powinien wygrać piłkarz PSG]]></title>
-            <link>https://www.realmadryt.pl/news/152106-luis-enrique-zlota-pilke-powinien-wygrac-pilkarz-psg</link>
-            <pubDate>Thu, 03 Sep 2026 15:15:00 GMT</pubDate>
-            <description><![CDATA[Trener PSG odpowiedział Mourinho]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Alejandro Hernández Hernández na Betis]]></title>
-            <link>https://www.realmadryt.pl/news/152105-alejandro-hernandez-hernandez-na-betis</link>
-            <pubDate>Thu, 03 Sep 2026 14:36:00 GMT</pubDate>
-            <description><![CDATA[Sędzią VAR będzie Javier Iglesias Villanueva]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Asencio uniknął odpowiedzialności karnej po przebaczeniu pokrzywdzonych]]></title>
-            <link>https://www.realmadryt.pl/news/152104-asencio-uniknal-odpowiedzialnosci-karnej-po-przebaczeniu-pokrzywdzonych</link>
-            <pubDate>Thu, 03 Sep 2026 14:08:00 GMT</pubDate>
-            <description><![CDATA[Dobra wiadomość dla stopera]]></description>
         </item>
         
 </channel>
