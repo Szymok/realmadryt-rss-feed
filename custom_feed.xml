@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Sep 2026 00:25:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 04:49:19 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Modrić: Madryt jest moim domem, oczywiście, że chciałbym kiedyś wrócić]]></title>
+            <link>https://www.realmadryt.pl/news/152089-modric-madryt-jest-moim-domem-oczywiscie-ze-chcialbym-kiedys-wrocic</link>
+            <pubDate>Thu, 03 Sep 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Chorwat udzielił wywiadu dla dziennika MARCA]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/152088-dzisiejsze-okladki</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152079-cope-real-madryt-wszczal-postepowanie-dyscyplinarne-wobec-asencio</link>
             <pubDate>Wed, 02 Sep 2026 17:42:00 GMT</pubDate>
             <description><![CDATA[Jaka kara czeka stopera?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Diomandé: Gra w Realu Madryt to spełnienie dziecięcego marzenia]]></title>
-            <link>https://www.realmadryt.pl/news/152076-diomande-gra-w-realu-madryt-to-spelnienie-dzieciecego-marzenia</link>
-            <pubDate>Wed, 02 Sep 2026 17:24:00 GMT</pubDate>
-            <description><![CDATA[„Na treningach poziom jest tak wysoki, że nie masz innego wyjścia, jak wejść na jeszcze wyższy poziom”]]></description>
         </item>
         
 </channel>
