@@ -4,8 +4,50 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Sep 2026 13:42:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 17:15:27 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Asencio: Teraz przyszła pora, abym to ja zabrał głos]]></title>
+            <link>https://www.realmadryt.pl/news/152114-asencio-teraz-przyszla-pora-abym-to-ja-zabral-glos</link>
+            <pubDate>Thu, 03 Sep 2026 18:30:00 GMT</pubDate>
+            <description><![CDATA[Komunikat piłkarza Królewskich]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[RealMadryt.pl x Lebull: 950 zł na start albo freebety na weekend. Złap okazję przy meczu z Betisem]]></title>
+            <link>https://www.realmadryt.pl/news/152113-realmadryt-pl-x-lebull-950-zl-na-start-albo-freebety-na-weekend-zlap-okazje-przy-meczu-z-betisem</link>
+            <pubDate>Thu, 03 Sep 2026 18:30:00 GMT</pubDate>
+            <description><![CDATA[Artykuł sponsorowany]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Modrić: Mourinho sprawi, że Real znów będzie budził strach, dla niego zrobiłbym wszystko]]></title>
+            <link>https://www.realmadryt.pl/news/152110-modric-mourinho-sprawi-ze-real-znow-bedzie-budzil-strach-dla-niego-zrobilbym-wszystko</link>
+            <pubDate>Thu, 03 Sep 2026 17:49:00 GMT</pubDate>
+            <description><![CDATA[Chorwat udzielił wywiadu dla dziennika AS]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mbappé zawodnikiem na Pięć Gwiazdek za sierpień]]></title>
+            <link>https://www.realmadryt.pl/news/152112-mbappe-zawodnikiem-na-piec-gwiazdek-za-sierpien</link>
+            <pubDate>Thu, 03 Sep 2026 17:46:00 GMT</pubDate>
+            <description><![CDATA[Pierwsza nagroda w tym sezonie]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Galopem do przerwy na reprezentacje]]></title>
+            <link>https://www.realmadryt.pl/news/152094-galopem-do-przerwy-na-reprezentacje</link>
+            <pubDate>Thu, 03 Sep 2026 16:58:00 GMT</pubDate>
+            <description><![CDATA[Mourinho podkreśla znaczenie najbliższych meczów]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Ancelotti: Real Madryt to mój klub, mój dom i moja rodzina]]></title>
+            <link>https://www.realmadryt.pl/news/152108-ancelotti-real-madryt-to-moj-klub-moj-dom-i-moja-rodzina</link>
+            <pubDate>Thu, 03 Sep 2026 16:07:00 GMT</pubDate>
+            <description><![CDATA[„Z Mourinho wymieniamy się pomysłami i wiadomościami”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Kadra Betisu na mecz z Realem Madryt]]></title>
             <link>https://www.realmadryt.pl/news/152107-kadra-betisu-na-mecz-z-realem-madryt</link>
@@ -46,48 +88,6 @@
             <link>https://www.realmadryt.pl/news/152103-pellegrini-teraz-widze-w-mourinho-duzo-bardziej-dojrzalego-trenera</link>
             <pubDate>Thu, 03 Sep 2026 13:40:00 GMT</pubDate>
             <description><![CDATA[Konferencja prasowa z trenerem Betisu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Ostatni trening przed Betisem]]></title>
-            <link>https://www.realmadryt.pl/news/152100-ostatni-trening-przed-betisem</link>
-            <pubDate>Thu, 03 Sep 2026 13:14:00 GMT</pubDate>
-            <description><![CDATA[Kolejna zajęcia w Valdebebas]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Ancelotti odwiedził Real Madryt w Valdebebas]]></title>
-            <link>https://www.realmadryt.pl/news/152101-ancelotti-odwiedzil-real-madryt-w-valdebebas</link>
-            <pubDate>Thu, 03 Sep 2026 12:37:00 GMT</pubDate>
-            <description><![CDATA[Były trener spotkał się z obecnym i piłkarzami]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[MARCA: Wyrok w sprawie Negreiry możliwy pod koniec 2027 roku]]></title>
-            <link>https://www.realmadryt.pl/news/152099-marca-wyrok-w-sprawie-negreiry-mozliwy-pod-koniec-2027-roku</link>
-            <pubDate>Thu, 03 Sep 2026 12:13:00 GMT</pubDate>
-            <description><![CDATA[Śledztwo zbliża się do końca]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Ceballos: Powiedziałem Realowi, że nadszedł moment, by się rozstać, Mourinho to zrozumiał]]></title>
-            <link>https://www.realmadryt.pl/news/152098-ceballos-powiedzialem-realowi-ze-nadszedl-moment-by-sie-rozstac-mourinho-to-zrozumial</link>
-            <pubDate>Thu, 03 Sep 2026 11:36:00 GMT</pubDate>
-            <description><![CDATA[„Realowi mogę tylko podziękować”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho: Piłkarzem Realu jest się 24 godziny na dobę, siedem dni w tygodniu i dwanaście miesięcy w roku]]></title>
-            <link>https://www.realmadryt.pl/news/152097-mourinho-pilkarzem-realu-jest-sie-24-godziny-na-dobe-siedem-dni-w-tygodniu-i-dwanascie-miesiecy-w-roku</link>
-            <pubDate>Thu, 03 Sep 2026 10:46:00 GMT</pubDate>
-            <description><![CDATA[Zapis przedmeczowej konferencji z trenerem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kwadrans ostatniego treningu przed Betisem [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/152093-kwadrans-ostatniego-treningu-przed-betisem-video</link>
-            <pubDate>Thu, 03 Sep 2026 10:41:00 GMT</pubDate>
-            <description><![CDATA[Kto jest gotowy do gry?]]></description>
         </item>
         
 </channel>
