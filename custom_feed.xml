@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Sep 2026 17:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 19:59:06 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Selekcjoner Maroka próbuje jeszcze przekonać Thiago Pitarcha do reprezentowania Lwów Atlasu?]]></title>
+            <link>https://www.realmadryt.pl/news/152115-selekcjoner-maroka-probuje-jeszcze-przekonac-thiago-pitarcha-do-reprezentowania-lwow-atlasu</link>
+            <pubDate>Thu, 03 Sep 2026 20:10:00 GMT</pubDate>
+            <description><![CDATA[Doniesienia z Afryki]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[El Confidencial: Diomandé ma być asem Mourinho i zmusić Viníciusa do pokazania najlepszej wersji]]></title>
+            <link>https://www.realmadryt.pl/news/152111-el-confidencial-diomande-ma-byc-asem-mourinho-i-zmusic-viniciusa-do-pokazania-najlepszej-wersji</link>
+            <pubDate>Thu, 03 Sep 2026 19:20:00 GMT</pubDate>
+            <description><![CDATA[Trener nie ma żadnych wątpliwości co do jego potencjału]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Asencio: Teraz przyszła pora, abym to ja zabrał głos]]></title>
             <link>https://www.realmadryt.pl/news/152114-asencio-teraz-przyszla-pora-abym-to-ja-zabral-glos</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152104-asencio-uniknal-odpowiedzialnosci-karnej-po-przebaczeniu-pokrzywdzonych</link>
             <pubDate>Thu, 03 Sep 2026 14:08:00 GMT</pubDate>
             <description><![CDATA[Dobra wiadomość dla stopera]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kadra na Betis]]></title>
-            <link>https://www.realmadryt.pl/news/152102-kadra-na-betis</link>
-            <pubDate>Thu, 03 Sep 2026 13:51:00 GMT</pubDate>
-            <description><![CDATA[Mourinho nie może liczyć na 7 graczy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Pellegrini: Teraz widzę w Mourinho dużo bardziej dojrzałego trenera]]></title>
-            <link>https://www.realmadryt.pl/news/152103-pellegrini-teraz-widze-w-mourinho-duzo-bardziej-dojrzalego-trenera</link>
-            <pubDate>Thu, 03 Sep 2026 13:40:00 GMT</pubDate>
-            <description><![CDATA[Konferencja prasowa z trenerem Betisu]]></description>
         </item>
         
 </channel>
