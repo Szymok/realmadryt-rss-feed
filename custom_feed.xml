@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 04 Sep 2026 21:48:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:35:51 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152151-dzisiejsze-okladki</link>
+            <pubDate>Sat, 05 Sep 2026 00:49:00 GMT</pubDate>
+            <description><![CDATA[„Pierwszy nokaut”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mourinho: Drużyna rozegrała świetny mecz]]></title>
+            <link>https://www.realmadryt.pl/news/152148-mourinho-druzyna-rozegrala-swietny-mecz</link>
+            <pubDate>Fri, 04 Sep 2026 23:56:00 GMT</pubDate>
+            <description><![CDATA[Pomeczowa konferencja z Portugalczykiem]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Betis 1:0 Real Madryt [VIDEO]]]></title>
             <link>https://www.realmadryt.pl/news/152146-betis-1-0-real-madryt-video</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152138-riquelme-real-wyglada-na-bardziej-poukladany-i-ma-jasniejsze-pomysly</link>
             <pubDate>Fri, 04 Sep 2026 15:00:00 GMT</pubDate>
             <description><![CDATA[„Postaramy się sprawić, żeby Mbappé i Bellingham nie czuli się komfortowo”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[AS: Mourinho ma specjalny plan dla Diomandé]]></title>
-            <link>https://www.realmadryt.pl/news/152127-as-mourinho-ma-specjalny-plan-dla-diomande</link>
-            <pubDate>Fri, 04 Sep 2026 14:20:00 GMT</pubDate>
-            <description><![CDATA[Bez pośpiechu i bez presji]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Courtois: Czeka nas bardzo ważny mecz na stadionie, na którym zawsze gra się trudno]]></title>
-            <link>https://www.realmadryt.pl/news/152132-courtois-czeka-nas-bardzo-wazny-mecz-na-stadionie-na-ktorym-zawsze-gra-sie-trudno</link>
-            <pubDate>Fri, 04 Sep 2026 13:40:00 GMT</pubDate>
-            <description><![CDATA[„Musimy zachowywać koncentrację i być aktywni również wtedy, gdy bronimy niżej”]]></description>
         </item>
         
 </channel>
