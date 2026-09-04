@@ -4,13 +4,41 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 04 Sep 2026 19:33:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 21:48:56 GMT</lastBuildDate>
     
         <item>
-            <title><![CDATA[Betis – Real Madryt [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/152135-betis-real-madryt-na-zywo</link>
+            <title><![CDATA[Betis 1:0 Real Madryt [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152146-betis-1-0-real-madryt-video</link>
+            <pubDate>Fri, 04 Sep 2026 23:42:00 GMT</pubDate>
+            <description><![CDATA[Skrót meczu]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Álvaro Valles: Trochę próbowałem zdekoncentrować Mbappé i wyszło]]></title>
+            <link>https://www.realmadryt.pl/news/152145-alvaro-valles-troche-probowalem-zdekoncentrowac-mbappe-i-wyszlo</link>
+            <pubDate>Fri, 04 Sep 2026 23:29:00 GMT</pubDate>
+            <description><![CDATA[Pierwsze wypowiedzi z murawy]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Arda Güler MVP meczu z Betisem]]></title>
+            <link>https://www.realmadryt.pl/news/152144-arda-guler-mvp-meczu-z-betisem</link>
+            <pubDate>Fri, 04 Sep 2026 23:17:00 GMT</pubDate>
+            <description><![CDATA[Wyróżnienie dla Turka]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oceń piłkarzy po meczu z Betisem]]></title>
+            <link>https://www.realmadryt.pl/news/152141-ocen-pilkarzy-po-meczu-z-betisem</link>
+            <pubDate>Fri, 04 Sep 2026 23:11:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do wspólnego wystawiania not]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Z taką sktuecznością nie dało się wygrać]]></title>
+            <link>https://www.realmadryt.pl/news/152135-z-taka-sktuecznoscia-nie-dalo-sie-wygrac</link>
             <pubDate>Fri, 04 Sep 2026 20:50:00 GMT</pubDate>
-            <description><![CDATA[Trwa mecz 4. kolejki La Ligi]]></description>
+            <description><![CDATA[Pierwsza porażka w tym sezonie]]></description>
         </item>
         
         <item>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/152132-courtois-czeka-nas-bardzo-wazny-mecz-na-stadionie-na-ktorym-zawsze-gra-sie-trudno</link>
             <pubDate>Fri, 04 Sep 2026 13:40:00 GMT</pubDate>
             <description><![CDATA[„Musimy zachowywać koncentrację i być aktywni również wtedy, gdy bronimy niżej”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mbappé strzela gola – Ty zgarniasz 176 złotych na konto główne w BETFAN!]]></title>
-            <link>https://www.realmadryt.pl/news/152131-mbappe-strzela-gola-ty-zgarniasz-176-zlotych-na-konto-glowne-w-betfan</link>
-            <pubDate>Fri, 04 Sep 2026 13:00:00 GMT</pubDate>
-            <description><![CDATA[Artykuł sponsorowany]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Ponad pięć lat od ostatniej wyjazdowej wygranej z Betisem]]></title>
-            <link>https://www.realmadryt.pl/news/152109-ponad-piec-lat-od-ostatniej-wyjazdowej-wygranej-z-betisem</link>
-            <pubDate>Fri, 04 Sep 2026 12:55:00 GMT</pubDate>
-            <description><![CDATA[Real Madryt ma złą serię do przełamania]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Królewscy są już w Sewilli]]></title>
-            <link>https://www.realmadryt.pl/news/152134-krolewscy-sa-juz-w-sewilli</link>
-            <pubDate>Fri, 04 Sep 2026 12:47:00 GMT</pubDate>
-            <description><![CDATA[Ekipa na miejscu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Simeone: Od 20 lat nic się nie zmienia, Real Madryt i Barcelona są przed nami, a my staramy się do nich zbliżyć]]></title>
-            <link>https://www.realmadryt.pl/news/152133-simeone-od-20-lat-nic-sie-nie-zmienia-real-madryt-i-barcelona-sa-przed-nami-a-my-staramy-sie-do-nich-zblizyc</link>
-            <pubDate>Fri, 04 Sep 2026 12:40:00 GMT</pubDate>
-            <description><![CDATA[Refleksje trenera Atlético]]></description>
         </item>
         
 </channel>
