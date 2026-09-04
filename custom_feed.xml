@@ -4,8 +4,71 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 04 Sep 2026 09:03:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:30:44 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Riquelme: Real wygląda na bardziej poukładany i ma jaśniejsze pomysły]]></title>
+            <link>https://www.realmadryt.pl/news/152138-riquelme-real-wyglada-na-bardziej-poukladany-i-ma-jasniejsze-pomysly</link>
+            <pubDate>Fri, 04 Sep 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[„Postaramy się sprawić, żeby Mbappé i Bellingham nie czuli się komfortowo”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[AS: Mourinho ma specjalny plan dla Diomandé]]></title>
+            <link>https://www.realmadryt.pl/news/152127-as-mourinho-ma-specjalny-plan-dla-diomande</link>
+            <pubDate>Fri, 04 Sep 2026 14:20:00 GMT</pubDate>
+            <description><![CDATA[Bez pośpiechu i bez presji]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Courtois: Czeka nas bardzo ważny mecz na stadionie, na którym zawsze gra się trudno]]></title>
+            <link>https://www.realmadryt.pl/news/152132-courtois-czeka-nas-bardzo-wazny-mecz-na-stadionie-na-ktorym-zawsze-gra-sie-trudno</link>
+            <pubDate>Fri, 04 Sep 2026 13:40:00 GMT</pubDate>
+            <description><![CDATA[„Musimy zachowywać koncentrację i być aktywni również wtedy, gdy bronimy niżej”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mbappé strzela gola – Ty zgarniasz 176 złotych na konto główne w BETFAN!]]></title>
+            <link>https://www.realmadryt.pl/news/152131-mbappe-strzela-gola-ty-zgarniasz-176-zlotych-na-konto-glowne-w-betfan</link>
+            <pubDate>Fri, 04 Sep 2026 13:00:00 GMT</pubDate>
+            <description><![CDATA[Artykuł sponsorowany]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Ponad pięć lat od ostatniej wyjazdowej wygranej z Betisem]]></title>
+            <link>https://www.realmadryt.pl/news/152109-ponad-piec-lat-od-ostatniej-wyjazdowej-wygranej-z-betisem</link>
+            <pubDate>Fri, 04 Sep 2026 12:55:00 GMT</pubDate>
+            <description><![CDATA[Real Madryt ma złą serię do przełamania]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Królewscy są już w Sewilli]]></title>
+            <link>https://www.realmadryt.pl/news/152134-krolewscy-sa-juz-w-sewilli</link>
+            <pubDate>Fri, 04 Sep 2026 12:47:00 GMT</pubDate>
+            <description><![CDATA[Ekipa na miejscu]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Simeone: Od 20 lat nic się nie zmienia, Real Madryt i Barcelona są przed nami, a my staramy się do nich zbliżyć]]></title>
+            <link>https://www.realmadryt.pl/news/152133-simeone-od-20-lat-nic-sie-nie-zmienia-real-madryt-i-barcelona-sa-przed-nami-a-my-staramy-sie-do-nich-zblizyc</link>
+            <pubDate>Fri, 04 Sep 2026 12:40:00 GMT</pubDate>
+            <description><![CDATA[Refleksje trenera Atlético]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Diego Llorente: U Mourinho widzicie tylko to, co on chce, żebyście zobaczyli]]></title>
+            <link>https://www.realmadryt.pl/news/152129-diego-llorente-u-mourinho-widzicie-tylko-to-co-on-chce-zebyscie-zobaczyli</link>
+            <pubDate>Fri, 04 Sep 2026 12:15:00 GMT</pubDate>
+            <description><![CDATA[„Jeśli ktoś ma ucierpieć na krytyce, on woli, żeby spadła ona na niego”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[MARCA: Sergio Martínez już przekonuje Mourinho]]></title>
+            <link>https://www.realmadryt.pl/news/152128-marca-sergio-martinez-juz-przekonuje-mourinho</link>
+            <pubDate>Fri, 04 Sep 2026 11:35:00 GMT</pubDate>
+            <description><![CDATA[Hiszpan bardzo szybko doczekał się powołania]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Fran García: Mourinho to idealny wybór, jeśli ktoś może uporządkować Real, to właśnie on]]></title>
             <link>https://www.realmadryt.pl/news/152126-fran-garcia-mourinho-to-idealny-wybor-jesli-ktos-moze-uporzadkowac-real-to-wlasnie-on</link>
@@ -25,69 +88,6 @@
             <link>https://www.realmadryt.pl/news/152116-96</link>
             <pubDate>Fri, 04 Sep 2026 10:00:00 GMT</pubDate>
             <description><![CDATA[Zapowiedź meczu z Betisem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 4 września]]></title>
-            <link>https://www.realmadryt.pl/news/152123-kartka-z-kalendarza-4-wrzesnia</link>
-            <pubDate>Fri, 04 Sep 2026 09:09:00 GMT</pubDate>
-            <description><![CDATA[Urodziny Albiola, pierwszy Puchar Interkontynentalny i debiuty ważnych zawodników]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[GŁOS KIBICA: Rola Diomandé]]></title>
-            <link>https://www.realmadryt.pl/news/152121-glos-kibica-rola-diomande</link>
-            <pubDate>Fri, 04 Sep 2026 08:18:00 GMT</pubDate>
-            <description><![CDATA[Zapraszamy do dzisiejszej ankiety]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Betis – Real Madryt: Przewidywane składy]]></title>
-            <link>https://www.realmadryt.pl/news/152120-betis-real-madryt-przewidywane-sklady</link>
-            <pubDate>Fri, 04 Sep 2026 07:25:00 GMT</pubDate>
-            <description><![CDATA[Na kogo postawi Mourinho?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[MARCA: Mourinho chce Realu na pełnej prędkości, ale z pasem bezpieczeństwa]]></title>
-            <link>https://www.realmadryt.pl/news/152117-marca-mourinho-chce-realu-na-pelnej-predkosci-ale-z-pasem-bezpieczenstwa</link>
-            <pubDate>Fri, 04 Sep 2026 05:30:00 GMT</pubDate>
-            <description><![CDATA[Równowaga ma być przepisem na sukces]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Dzisiejsze okładki]]></title>
-            <link>https://www.realmadryt.pl/news/152122-dzisiejsze-okladki</link>
-            <pubDate>Fri, 04 Sep 2026 00:06:00 GMT</pubDate>
-            <description><![CDATA[„Pachnie Ligą Mistrzów”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Castilla nie zagra w Premier League International Cup]]></title>
-            <link>https://www.realmadryt.pl/news/152119-castilla-nie-zagra-w-premier-league-international-cup</link>
-            <pubDate>Thu, 03 Sep 2026 22:26:00 GMT</pubDate>
-            <description><![CDATA[Królewscy zrezygnowali z tego turnieju]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kadra Realu Madryt na fazę ligową Ligi Mistrzów]]></title>
-            <link>https://www.realmadryt.pl/news/152118-kadra-realu-madryt-na-faze-ligowa-ligi-mistrzow</link>
-            <pubDate>Thu, 03 Sep 2026 22:17:00 GMT</pubDate>
-            <description><![CDATA[Królewscy zgłosili aż 35 piłkarzy!]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Selekcjoner Maroka próbuje jeszcze przekonać Thiago Pitarcha do reprezentowania Lwów Atlasu?]]></title>
-            <link>https://www.realmadryt.pl/news/152115-selekcjoner-maroka-probuje-jeszcze-przekonac-thiago-pitarcha-do-reprezentowania-lwow-atlasu</link>
-            <pubDate>Thu, 03 Sep 2026 20:10:00 GMT</pubDate>
-            <description><![CDATA[Doniesienia z Afryki]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[El Confidencial: Diomandé ma być asem Mourinho i zmusić Viníciusa do pokazania najlepszej wersji]]></title>
-            <link>https://www.realmadryt.pl/news/152111-el-confidencial-diomande-ma-byc-asem-mourinho-i-zmusic-viniciusa-do-pokazania-najlepszej-wersji</link>
-            <pubDate>Thu, 03 Sep 2026 19:20:00 GMT</pubDate>
-            <description><![CDATA[Trener nie ma żadnych wątpliwości co do jego potencjału]]></description>
         </item>
         
 </channel>
