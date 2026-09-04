@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 04 Sep 2026 00:13:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 04:35:10 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[MARCA: Mourinho chce Realu na pełnej prędkości, ale z pasem bezpieczeństwa]]></title>
+            <link>https://www.realmadryt.pl/news/152117-marca-mourinho-chce-realu-na-pelnej-predkosci-ale-z-pasem-bezpieczenstwa</link>
+            <pubDate>Fri, 04 Sep 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Równowaga ma być przepisem na sukces]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/152122-dzisiejsze-okladki</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152108-ancelotti-real-madryt-to-moj-klub-moj-dom-i-moja-rodzina</link>
             <pubDate>Thu, 03 Sep 2026 16:07:00 GMT</pubDate>
             <description><![CDATA[„Z Mourinho wymieniamy się pomysłami i wiadomościami”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kadra Betisu na mecz z Realem Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/152107-kadra-betisu-na-mecz-z-realem-madryt</link>
-            <pubDate>Thu, 03 Sep 2026 15:33:00 GMT</pubDate>
-            <description><![CDATA[Ceballos nie zagra z Królewskimi]]></description>
         </item>
         
 </channel>
