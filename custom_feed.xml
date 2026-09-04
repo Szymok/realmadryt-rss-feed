@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 04 Sep 2026 17:04:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 19:33:06 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Betis – Real Madryt [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/152135-betis-real-madryt-na-zywo</link>
+            <pubDate>Fri, 04 Sep 2026 20:50:00 GMT</pubDate>
+            <description><![CDATA[Trwa mecz 4. kolejki La Ligi]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Rozgrzewka przed Betisem [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/152142-rozgrzewka-przed-betisem-na-zywo</link>
+            <pubDate>Fri, 04 Sep 2026 20:10:00 GMT</pubDate>
+            <description><![CDATA[Obraz ze stadionu]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Betis – Real Madryt: Znamy składy!]]></title>
+            <link>https://www.realmadryt.pl/news/152140-betis-real-madryt-znamy-sklady</link>
+            <pubDate>Fri, 04 Sep 2026 19:41:00 GMT</pubDate>
+            <description><![CDATA[Wiemy, kto powalczy o ligowe punkty]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Telewizyjny terminarz 4. kolejki La Ligi]]></title>
             <link>https://www.realmadryt.pl/news/152125-telewizyjny-terminarz-4-kolejki-la-ligi</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152133-simeone-od-20-lat-nic-sie-nie-zmienia-real-madryt-i-barcelona-sa-przed-nami-a-my-staramy-sie-do-nich-zblizyc</link>
             <pubDate>Fri, 04 Sep 2026 12:40:00 GMT</pubDate>
             <description><![CDATA[Refleksje trenera Atlético]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Diego Llorente: U Mourinho widzicie tylko to, co on chce, żebyście zobaczyli]]></title>
-            <link>https://www.realmadryt.pl/news/152129-diego-llorente-u-mourinho-widzicie-tylko-to-co-on-chce-zebyscie-zobaczyli</link>
-            <pubDate>Fri, 04 Sep 2026 12:15:00 GMT</pubDate>
-            <description><![CDATA[„Jeśli ktoś ma ucierpieć na krytyce, on woli, żeby spadła ona na niego”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[MARCA: Sergio Martínez już przekonuje Mourinho]]></title>
-            <link>https://www.realmadryt.pl/news/152128-marca-sergio-martinez-juz-przekonuje-mourinho</link>
-            <pubDate>Fri, 04 Sep 2026 11:35:00 GMT</pubDate>
-            <description><![CDATA[Hiszpan bardzo szybko doczekał się powołania]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Fran García: Mourinho to idealny wybór, jeśli ktoś może uporządkować Real, to właśnie on]]></title>
-            <link>https://www.realmadryt.pl/news/152126-fran-garcia-mourinho-to-idealny-wybor-jesli-ktos-moze-uporzadkowac-real-to-wlasnie-on</link>
-            <pubDate>Fri, 04 Sep 2026 10:55:00 GMT</pubDate>
-            <description><![CDATA[„Chciałem odejść z Realu, żeby odgrywać ważniejszą rolę”]]></description>
         </item>
         
 </channel>
