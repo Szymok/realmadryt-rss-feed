@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Sep 2026 16:10:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 18:15:35 GMT</lastBuildDate>
     
         <item>
-            <title><![CDATA[Inter Mediolan – Napoli: Rywale Królewskich grają mecz na szczycie [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/152167-inter-mediolan-napoli-rywale-krolewskich-graja-mecz-na-szczycie-na-zywo</link>
+            <title><![CDATA[4. kolejka: Atlético zostało rozbite w Bilbao i pozostaje za Realem Madryt [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152168-4-kolejka-atletico-zostalo-rozbite-w-bilbao-i-pozostaje-za-realem-madryt-video</link>
+            <pubDate>Sat, 05 Sep 2026 18:17:00 GMT</pubDate>
+            <description><![CDATA[Liderująca Barcelona gra w niedzielę]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Inter z 3-bramkową remontadą w meczu z Napoli]]></title>
+            <link>https://www.realmadryt.pl/news/152167-inter-z-3-bramkowa-remontada-w-meczu-z-napoli</link>
             <pubDate>Sat, 05 Sep 2026 17:40:00 GMT</pubDate>
-            <description><![CDATA[Obserwacja wtorkowych przeciwników]]></description>
+            <description><![CDATA[Rywale Królewskich triumfują w meczu na szczycie]]></description>
         </item>
         
         <item>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152157-oceny-zawodnikow-po-meczu-z-betisem</link>
             <pubDate>Sat, 05 Sep 2026 10:15:00 GMT</pubDate>
             <description><![CDATA[Jak grali nasi?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Pellegrini: Jedna żółta więcej czy mniej nie decyduje o wyniku]]></title>
-            <link>https://www.realmadryt.pl/news/152153-pellegrini-jedna-zolta-wiecej-czy-mniej-nie-decyduje-o-wyniku</link>
-            <pubDate>Sat, 05 Sep 2026 10:00:00 GMT</pubDate>
-            <description><![CDATA[„Wygraliśmy nie przez sędziego”]]></description>
         </item>
         
 </channel>
