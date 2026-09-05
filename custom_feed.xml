@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Sep 2026 10:11:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:27:31 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Ile jest wart piłkarz?]]></title>
+            <link>https://www.realmadryt.pl/news/152164-ile-jest-wart-pilkarz</link>
+            <pubDate>Sat, 05 Sep 2026 15:22:00 GMT</pubDate>
+            <description><![CDATA[Felieton Jorge Valdano]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Podcast 8x02: Pasja]]></title>
+            <link>https://www.realmadryt.pl/news/152162-podcast-8x02-pasja</link>
+            <pubDate>Sat, 05 Sep 2026 14:31:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do wysłuchania naszych opinii]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Co obejrzeć w weekend bez meczu Realu Madryt?]]></title>
+            <link>https://www.realmadryt.pl/news/152163-co-obejrzec-w-weekend-bez-meczu-realu-madryt</link>
+            <pubDate>Sat, 05 Sep 2026 14:26:00 GMT</pubDate>
+            <description><![CDATA[Hity w Anglii i Włoszech]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Castilla zgarnia komplet punktów, debiut Sergio Martíneza]]></title>
+            <link>https://www.realmadryt.pl/news/152161-castilla-zgarnia-komplet-punktow-debiut-sergio-martineza</link>
+            <pubDate>Sat, 05 Sep 2026 13:58:00 GMT</pubDate>
+            <description><![CDATA[Zwycięstwo z Juventudem Torremolinos]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Najłatwiej poświęcić Ardę Gülera]]></title>
+            <link>https://www.realmadryt.pl/news/152160-najlatwiej-poswiecic-arde-gulera</link>
+            <pubDate>Sat, 05 Sep 2026 12:42:00 GMT</pubDate>
+            <description><![CDATA[Turek był jednym z najlepszych na boisku]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[BMV zacięło się przy pierwszym poważnym sprawdzianie]]></title>
             <link>https://www.realmadryt.pl/news/152159-bmv-zacielo-sie-przy-pierwszym-powaznym-sprawdzianie</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/152156-bartra-rzut-karny-jesli-jestes-w-polu-karnym-ale-nie-dotykasz-ziemi-to-sie-liczy</link>
             <pubDate>Sat, 05 Sep 2026 08:52:00 GMT</pubDate>
             <description><![CDATA[Obrońca tłumaczy kontrowersję z meczu z Realem Madryt]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[POSTMECZ: Czy to był „świetny” mecz Realu Madryt?]]></title>
-            <link>https://www.realmadryt.pl/news/152154-postmecz-czy-to-byl-swietny-mecz-realu-madryt</link>
-            <pubDate>Sat, 05 Sep 2026 08:35:00 GMT</pubDate>
-            <description><![CDATA[Debata na dzień po porażce]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Pierwszy domowy mecz Castilli]]></title>
-            <link>https://www.realmadryt.pl/news/152149-pierwszy-domowy-mecz-castilli</link>
-            <pubDate>Sat, 05 Sep 2026 08:00:00 GMT</pubDate>
-            <description><![CDATA[2. kolejka Primera Federación]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[GŁOS KIBICA: Zdjęcie Viníciusa z boiska]]></title>
-            <link>https://www.realmadryt.pl/news/152155-glos-kibica-zdjecie-viniciusa-z-boiska</link>
-            <pubDate>Sat, 05 Sep 2026 07:30:00 GMT</pubDate>
-            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Czy Realowi Madryt należała się powtórka rzutu karnego? [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/152152-czy-realowi-madryt-nalezala-sie-powtorka-rzutu-karnego-video</link>
-            <pubDate>Sat, 05 Sep 2026 07:00:00 GMT</pubDate>
-            <description><![CDATA[Sytuacja wielokrotnie złożona z polem do interpretacji]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Żaden z piłkarzy Realu nie wypowiedział się po porażce z Betisem]]></title>
-            <link>https://www.realmadryt.pl/news/152150-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-po-porazce-z-betisem</link>
-            <pubDate>Sat, 05 Sep 2026 05:30:00 GMT</pubDate>
-            <description><![CDATA[Zaczynamy]]></description>
         </item>
         
 </channel>
