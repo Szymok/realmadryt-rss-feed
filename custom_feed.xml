@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Sep 2026 13:27:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:10:15 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Inter Mediolan – Napoli: Rywale Królewskich grają mecz na szczycie [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/152167-inter-mediolan-napoli-rywale-krolewskich-graja-mecz-na-szczycie-na-zywo</link>
+            <pubDate>Sat, 05 Sep 2026 17:40:00 GMT</pubDate>
+            <description><![CDATA[Obserwacja wtorkowych przeciwników]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mastantuono zmieniony w przerwie, Fiorentina znów przegrała]]></title>
+            <link>https://www.realmadryt.pl/news/152166-mastantuono-zmieniony-w-przerwie-fiorentina-znow-przegrala</link>
+            <pubDate>Sat, 05 Sep 2026 17:22:00 GMT</pubDate>
+            <description><![CDATA[Słaby występ Argentyńczyka]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oficjalnie: Modrić będzie kontynuować karierę reprezentacyjną]]></title>
+            <link>https://www.realmadryt.pl/news/152165-oficjalnie-modric-bedzie-kontynuowac-kariere-reprezentacyjna</link>
+            <pubDate>Sat, 05 Sep 2026 15:51:00 GMT</pubDate>
+            <description><![CDATA[Legenda nie staje]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Ile jest wart piłkarz?]]></title>
             <link>https://www.realmadryt.pl/news/152164-ile-jest-wart-pilkarz</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152153-pellegrini-jedna-zolta-wiecej-czy-mniej-nie-decyduje-o-wyniku</link>
             <pubDate>Sat, 05 Sep 2026 10:00:00 GMT</pubDate>
             <description><![CDATA[„Wygraliśmy nie przez sędziego”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 5 września]]></title>
-            <link>https://www.realmadryt.pl/news/152147-kartka-z-kalendarza-5-wrzesnia</link>
-            <pubDate>Sat, 05 Sep 2026 09:25:00 GMT</pubDate>
-            <description><![CDATA[Urodziny byłych zawodników, debiuty legendarnych zawodników i covidowy skandal]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Corriere dello Sport: Endrick priorytetem Romy na styczeń]]></title>
-            <link>https://www.realmadryt.pl/news/152143-corriere-dello-sport-endrick-priorytetem-romy-na-styczen</link>
-            <pubDate>Sat, 05 Sep 2026 09:05:00 GMT</pubDate>
-            <description><![CDATA[Brazylijczyk znów opuści Real zimą?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bartra: Rzut karny? Jeśli jesteś w polu karnym, ale nie dotykasz ziemi, to się liczy]]></title>
-            <link>https://www.realmadryt.pl/news/152156-bartra-rzut-karny-jesli-jestes-w-polu-karnym-ale-nie-dotykasz-ziemi-to-sie-liczy</link>
-            <pubDate>Sat, 05 Sep 2026 08:52:00 GMT</pubDate>
-            <description><![CDATA[Obrońca tłumaczy kontrowersję z meczu z Realem Madryt]]></description>
         </item>
         
 </channel>
