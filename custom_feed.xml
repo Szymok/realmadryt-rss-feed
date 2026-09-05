@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:23:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 05:59:00 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Zdjęcie Viníciusa z boiska]]></title>
+            <link>https://www.realmadryt.pl/news/152155-glos-kibica-zdjecie-viniciusa-z-boiska</link>
+            <pubDate>Sat, 05 Sep 2026 07:30:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Czy Realowi Madryt należała się powtórka rzutu karnego? [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152152-czy-realowi-madryt-nalezala-sie-powtorka-rzutu-karnego-video</link>
+            <pubDate>Sat, 05 Sep 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Sytuacja wielokrotnie złożona z polem do interpretacji]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Żaden z piłkarzy Realu nie wypowiedział się po porażce z Betisem]]></title>
+            <link>https://www.realmadryt.pl/news/152150-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-po-porazce-z-betisem</link>
+            <pubDate>Sat, 05 Sep 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Zaczynamy]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/152151-dzisiejsze-okladki</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152140-betis-real-madryt-znamy-sklady</link>
             <pubDate>Fri, 04 Sep 2026 19:41:00 GMT</pubDate>
             <description><![CDATA[Wiemy, kto powalczy o ligowe punkty]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Telewizyjny terminarz 4. kolejki La Ligi]]></title>
-            <link>https://www.realmadryt.pl/news/152125-telewizyjny-terminarz-4-kolejki-la-ligi</link>
-            <pubDate>Fri, 04 Sep 2026 18:00:00 GMT</pubDate>
-            <description><![CDATA[Mecz Realu skomentują Piotr Laboga i Tomasz Ćwiąkała]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[AS: Joan Martínez odrzucił kilka ofert, by zostać w Realu]]></title>
-            <link>https://www.realmadryt.pl/news/152136-as-joan-martinez-odrzucil-kilka-ofert-by-zostac-w-realu</link>
-            <pubDate>Fri, 04 Sep 2026 15:40:00 GMT</pubDate>
-            <description><![CDATA[W Castilli zapracuje na awans do pierwszej drużyny?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Riquelme: Real wygląda na bardziej poukładany i ma jaśniejsze pomysły]]></title>
-            <link>https://www.realmadryt.pl/news/152138-riquelme-real-wyglada-na-bardziej-poukladany-i-ma-jasniejsze-pomysly</link>
-            <pubDate>Fri, 04 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[„Postaramy się sprawić, żeby Mbappé i Bellingham nie czuli się komfortowo”]]></description>
         </item>
         
 </channel>
