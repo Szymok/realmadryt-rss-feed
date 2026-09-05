@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Sep 2026 20:31:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 22:16:42 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152173-dzisiejsze-okladki</link>
+            <pubDate>Sun, 06 Sep 2026 00:03:00 GMT</pubDate>
+            <description><![CDATA[„Vinícius ciągłym problemem dla Realu”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Koszykarze rozbili Baskonię w drugim sparingu]]></title>
+            <link>https://www.realmadryt.pl/news/152171-koszykarze-rozbili-baskonie-w-drugim-sparingu</link>
+            <pubDate>Sat, 05 Sep 2026 23:09:00 GMT</pubDate>
+            <description><![CDATA[Wysokie i efektowne zwycięstwo]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Rzuty karne to pięta achillesowa Mbappé]]></title>
             <link>https://www.realmadryt.pl/news/152169-rzuty-karne-to-pieta-achillesowa-mbappe</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152160-najlatwiej-poswiecic-arde-gulera</link>
             <pubDate>Sat, 05 Sep 2026 12:42:00 GMT</pubDate>
             <description><![CDATA[Turek był jednym z najlepszych na boisku]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[BMV zacięło się przy pierwszym poważnym sprawdzianie]]></title>
-            <link>https://www.realmadryt.pl/news/152159-bmv-zacielo-sie-przy-pierwszym-powaznym-sprawdzianie</link>
-            <pubDate>Sat, 05 Sep 2026 11:51:00 GMT</pubDate>
-            <description><![CDATA[Dramatyczna skuteczność atakujących]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Królewscy mają dziś wolne]]></title>
-            <link>https://www.realmadryt.pl/news/152158-krolewscy-maja-dzis-wolne</link>
-            <pubDate>Sat, 05 Sep 2026 11:00:00 GMT</pubDate>
-            <description><![CDATA[Krótki odpoczynek przed kolejnym meczem]]></description>
         </item>
         
 </channel>
