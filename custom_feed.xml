@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Sep 2026 21:42:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 23:10:40 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152194-dzisiejsze-okladki</link>
+            <pubDate>Mon, 07 Sep 2026 00:27:00 GMT</pubDate>
+            <description><![CDATA[„Kulisy operacji Viniego i Diomandé”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Tylko remis z Eibarem]]></title>
             <link>https://www.realmadryt.pl/news/152190-tylko-remis-z-eibarem</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152180-powazny-problem-w-srodku-pola</link>
             <pubDate>Sun, 06 Sep 2026 11:14:00 GMT</pubDate>
             <description><![CDATA[Jak załatać taką dziurę?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Pedro Martínez: Trafiliśmy na bardzo osłabionego rywala]]></title>
-            <link>https://www.realmadryt.pl/news/152179-pedro-martinez-trafilismy-na-bardzo-oslabionego-rywala</link>
-            <pubDate>Sun, 06 Sep 2026 11:05:00 GMT</pubDate>
-            <description><![CDATA[Wypowiedzi trenera po wysokim zwycięstwie z Baskonią]]></description>
         </item>
         
 </channel>
