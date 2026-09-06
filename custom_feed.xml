@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Sep 2026 12:29:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 15:41:32 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Bezbramkowy remis Realu C, brutalny atak na Gabriego Valero [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152186-bezbramkowy-remis-realu-c-brutalny-atak-na-gabriego-valero-video</link>
+            <pubDate>Sun, 06 Sep 2026 17:17:00 GMT</pubDate>
+            <description><![CDATA[Sędzia ocenił agresję na żółtą kartkę]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[CalcioMercato: Milan planuje zimą wypożyczyć Endricka z opcją wykupu]]></title>
+            <link>https://www.realmadryt.pl/news/152185-calciomercato-milan-planuje-zima-wypozyczyc-endricka-z-opcja-wykupu</link>
+            <pubDate>Sun, 06 Sep 2026 15:48:00 GMT</pubDate>
+            <description><![CDATA[Brazylijczyk znów łączony z włoskim klubem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[4. kolejka: Valencia podejmuje liderującą Barcelonę [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/152184-4-kolejka-valencia-podejmuje-liderujaca-barcelone-na-zywo</link>
+            <pubDate>Sun, 06 Sep 2026 15:30:00 GMT</pubDate>
+            <description><![CDATA[Katalończycy mogą uciec Królewskim]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Huijsen utrzymuje formę]]></title>
             <link>https://www.realmadryt.pl/news/152183-huijsen-utrzymuje-forme</link>
@@ -17,7 +38,7 @@
             <title><![CDATA[KONKURS! Wygraj dwa bilety premium na mecz Realu Madryt na Bernabéu!]]></title>
             <link>https://www.realmadryt.pl/news/152137-konkurs-wygraj-dwa-bilety-premium-na-mecz-realu-madryt-na-bernabeu</link>
             <pubDate>Sun, 06 Sep 2026 14:00:00 GMT</pubDate>
-            <description><![CDATA[Wytypuj spotkanie z Interem]]></description>
+            <description><![CDATA[Tylko dla Socios RealMadryt.pl]]></description>
         </item>
         
         <item>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152176-kartka-z-kalendarza-6-wrzesnia</link>
             <pubDate>Sun, 06 Sep 2026 10:20:00 GMT</pubDate>
             <description><![CDATA[Wicemistrzostwo świata lekkoatlety, urodziny aktora i bardzo dobry występ Hazarda]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Sędzia od „gróźb” przeciwko Realowi: „Nie było żadnej akcji, w której Real zostałby pokrzywdzony”]]></title>
-            <link>https://www.realmadryt.pl/news/152172-sedzia-od-grozb-przeciwko-realowi-nie-bylo-zadnej-akcji-w-ktorej-real-zostalby-pokrzywdzony</link>
-            <pubDate>Sun, 06 Sep 2026 09:30:00 GMT</pubDate>
-            <description><![CDATA[„Przy wtargnięciu w pole karne nie można używać przybliżenia”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Opta: Real na 6. miejscu wśród faworytów do wygrania Ligi Mistrzów]]></title>
-            <link>https://www.realmadryt.pl/news/152139-opta-real-na-6-miejscu-wsrod-faworytow-do-wygrania-ligi-mistrzow</link>
-            <pubDate>Sun, 06 Sep 2026 08:40:00 GMT</pubDate>
-            <description><![CDATA[Czyje plecy oglądają Królewscy?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[BBC: Czterech piłkarzy powiązanych z Realem było na letniej liście celów Arsenalu]]></title>
-            <link>https://www.realmadryt.pl/news/152174-bbc-czterech-pilkarzy-powiazanych-z-realem-bylo-na-letniej-liscie-celow-arsenalu</link>
-            <pubDate>Sun, 06 Sep 2026 07:50:00 GMT</pubDate>
-            <description><![CDATA[Kanonierzy zainteresowani graczami Królewskich]]></description>
         </item>
         
 </channel>
