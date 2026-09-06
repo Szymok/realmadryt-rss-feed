@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Sep 2026 19:30:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 21:42:41 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Tylko remis z Eibarem]]></title>
+            <link>https://www.realmadryt.pl/news/152190-tylko-remis-z-eibarem</link>
+            <pubDate>Sun, 06 Sep 2026 22:55:00 GMT</pubDate>
+            <description><![CDATA[Niespodzianka w Valdebebas]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Debiutancki gol i asysta Jacobo w Strasbourgu [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152188-debiutancki-gol-i-asysta-jacobo-w-strasbourgu-video</link>
+            <pubDate>Sun, 06 Sep 2026 21:49:00 GMT</pubDate>
+            <description><![CDATA[Jego drużyna rozbiła Troyes 6:2]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Bezbramkowy remis Realu C, brutalny atak na Gabriego Valero [VIDEO]]]></title>
             <link>https://www.realmadryt.pl/news/152186-bezbramkowy-remis-realu-c-brutalny-atak-na-gabriego-valero-video</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152179-pedro-martinez-trafilismy-na-bardzo-oslabionego-rywala</link>
             <pubDate>Sun, 06 Sep 2026 11:05:00 GMT</pubDate>
             <description><![CDATA[Wypowiedzi trenera po wysokim zwycięstwie z Baskonią]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Michael Oliver na Inter]]></title>
-            <link>https://www.realmadryt.pl/news/152178-michael-oliver-na-inter</link>
-            <pubDate>Sun, 06 Sep 2026 10:25:00 GMT</pubDate>
-            <description><![CDATA[Brytyjscy sędziowie na starcie z Włochami]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 6 września]]></title>
-            <link>https://www.realmadryt.pl/news/152176-kartka-z-kalendarza-6-wrzesnia</link>
-            <pubDate>Sun, 06 Sep 2026 10:20:00 GMT</pubDate>
-            <description><![CDATA[Wicemistrzostwo świata lekkoatlety, urodziny aktora i bardzo dobry występ Hazarda]]></description>
         </item>
         
 </channel>
