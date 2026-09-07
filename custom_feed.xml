@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 07 Sep 2026 20:04:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 22:48:42 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152228-dzisiejsze-okladki</link>
+            <pubDate>Tue, 08 Sep 2026 00:19:00 GMT</pubDate>
+            <description><![CDATA[„Mocny start Ligi Mistrzów”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oficjalny komunikat Realu Madryt ws. flag na Bernabéu]]></title>
+            <link>https://www.realmadryt.pl/news/152226-oficjalny-komunikat-realu-madryt-ws-flag-na-bernabeu</link>
+            <pubDate>Mon, 07 Sep 2026 22:24:00 GMT</pubDate>
+            <description><![CDATA[Reakcja na oskarżenia na socialach i w mediach]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mecze Castilli, Realu C i Juvenilu A przełożone przez Puchar Interkontynentalny U-20]]></title>
+            <link>https://www.realmadryt.pl/news/152225-mecze-castilli-realu-c-i-juvenilu-a-przelozone-przez-puchar-interkontynentalny-u-20</link>
+            <pubDate>Mon, 07 Sep 2026 22:13:00 GMT</pubDate>
+            <description><![CDATA[Real Madryt wnioskował o „wyczyszczenie” terminarza]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Vinícius do sędziego przed kartką: „Najpierw opuść ręce. Najpierw ręce, opuść ręce” [VIDEO]]]></title>
             <link>https://www.realmadryt.pl/news/152224-vinicius-do-sedziego-przed-kartka-najpierw-opusc-rece-najpierw-rece-opusc-rece-video</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152205-gdzie-obejrzec-mecz-z-interem</link>
             <pubDate>Mon, 07 Sep 2026 17:05:00 GMT</pubDate>
             <description><![CDATA[Kto skomentuje jutrzejsze spotkanie?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mbappé: Moje zwycięstwo w Złotej Piłce nie byłoby kradzieżą]]></title>
-            <link>https://www.realmadryt.pl/news/152209-mbappe-moje-zwyciestwo-w-zlotej-pilce-nie-byloby-kradzieza</link>
-            <pubDate>Mon, 07 Sep 2026 16:14:00 GMT</pubDate>
-            <description><![CDATA[„Wychodzę z założenia, że historyczne osiągnięcia powinny być nagradzane”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real Madrid TV: Rażące różnice w traktowaniu graczy Realu i Barçy przez sędziów [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/152208-real-madrid-tv-razace-roznice-w-traktowaniu-graczy-realu-i-barcy-przez-sedziow-video</link>
-            <pubDate>Mon, 07 Sep 2026 15:46:00 GMT</pubDate>
-            <description><![CDATA[Tradycyjny filmik z przykładami]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho: Naszym punktem wyjścia są problemy i musimy pracować, żeby zbudować stabilność jak Inter]]></title>
-            <link>https://www.realmadryt.pl/news/152207-mourinho-naszym-punktem-wyjscia-sa-problemy-i-musimy-pracowac-zeby-zbudowac-stabilnosc-jak-inter</link>
-            <pubDate>Mon, 07 Sep 2026 14:46:00 GMT</pubDate>
-            <description><![CDATA[Zapis przedmeczowej konferencji z trenerem]]></description>
         </item>
         
 </channel>
