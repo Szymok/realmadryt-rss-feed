@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 07 Sep 2026 00:59:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 05:52:18 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[El Debate: Klub uderza w sędziów, ale Mourinho i drużyna biją się we własne piersi]]></title>
+            <link>https://www.realmadryt.pl/news/152193-el-debate-klub-uderza-w-sedziow-ale-mourinho-i-druzyna-bija-sie-we-wlasne-piersi</link>
+            <pubDate>Mon, 07 Sep 2026 07:50:00 GMT</pubDate>
+            <description><![CDATA[Głównym tematem brak skuteczności i poczucia pilności]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Kto w środku pola na Inter obok Valverde?]]></title>
+            <link>https://www.realmadryt.pl/news/152195-glos-kibica-kto-w-srodku-pola-na-inter-obok-valverde</link>
+            <pubDate>Mon, 07 Sep 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety?]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Vozpópuli: Syn Florentino stoi za agencją, która dokonała latem wielkich transferów z Realem Madryt]]></title>
+            <link>https://www.realmadryt.pl/news/152191-vozpopuli-syn-florentino-stoi-za-agencja-ktora-dokonala-latem-wielkich-transferow-z-realem-madryt</link>
+            <pubDate>Mon, 07 Sep 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Pytania o możliwy konflikt interesów]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/152194-dzisiejsze-okladki</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152182-as-ceballos-bedzie-zarabial-w-betisie-o-polowe-mniej-niz-w-realu</link>
             <pubDate>Sun, 06 Sep 2026 13:32:00 GMT</pubDate>
             <description><![CDATA[Pomocnik poświęcił wiele, by wrócić do Verdiblancos]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Tchouaméni i Endrick trenowali z drużyną!]]></title>
-            <link>https://www.realmadryt.pl/news/152181-tchouameni-i-endrick-trenowali-z-druzyna</link>
-            <pubDate>Sun, 06 Sep 2026 12:33:00 GMT</pubDate>
-            <description><![CDATA[Dobre wieści z Valdebebas]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[„Operacja między Viníciusem a Realem Madryt była niczym trylogia filmów romantycznych”]]></title>
-            <link>https://www.realmadryt.pl/news/152177-operacja-miedzy-viniciusem-a-realem-madryt-byla-niczym-trylogia-filmow-romantycznych</link>
-            <pubDate>Sun, 06 Sep 2026 11:15:00 GMT</pubDate>
-            <description><![CDATA[Dyrektor operacyjny Roc Nation rozmawiał z dziennikiem MARCA]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Poważny problem w środku pola]]></title>
-            <link>https://www.realmadryt.pl/news/152180-powazny-problem-w-srodku-pola</link>
-            <pubDate>Sun, 06 Sep 2026 11:14:00 GMT</pubDate>
-            <description><![CDATA[Jak załatać taką dziurę?]]></description>
         </item>
         
 </channel>
