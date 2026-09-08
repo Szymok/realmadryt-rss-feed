@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 07 Sep 2026 22:48:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 00:50:24 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Real Madryt – Inter Mediolan: Przewidywane składy]]></title>
+            <link>https://www.realmadryt.pl/news/152232-real-madryt-inter-mediolan-przewidywane-sklady</link>
+            <pubDate>Tue, 08 Sep 2026 01:45:00 GMT</pubDate>
+            <description><![CDATA[Królewscy mogą mieć nawet 11 nieobecnych]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/152228-dzisiejsze-okladki</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152211-real-moze-atakowac-z-powietrza</link>
             <pubDate>Mon, 07 Sep 2026 17:10:00 GMT</pubDate>
             <description><![CDATA[Królewscy mają u siebie wielu wysokich graczy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Gdzie obejrzeć mecz z Interem?]]></title>
-            <link>https://www.realmadryt.pl/news/152205-gdzie-obejrzec-mecz-z-interem</link>
-            <pubDate>Mon, 07 Sep 2026 17:05:00 GMT</pubDate>
-            <description><![CDATA[Kto skomentuje jutrzejsze spotkanie?]]></description>
         </item>
         
 </channel>
