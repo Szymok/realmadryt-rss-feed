@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 08 Sep 2026 00:50:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 05:30:18 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Złota Piłka dla Mbappé]]></title>
+            <link>https://www.realmadryt.pl/news/152230-glos-kibica-zlota-pilka-dla-mbappe</link>
+            <pubDate>Tue, 08 Sep 2026 07:30:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Dzisiaj poznamy nominowanych do nagród Złotej Piłki]]></title>
+            <link>https://www.realmadryt.pl/news/152229-dzisiaj-poznamy-nominowanych-do-nagrod-zlotej-pilki</link>
+            <pubDate>Tue, 08 Sep 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Ogłoszone zostaną nazwiska w aż 10 kategoriach]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Szef sędziów odpowiada Mourinho: „Wygląda na to, że niepowtórzony karny pojawi się w »Czasie rewizji«”]]></title>
+            <link>https://www.realmadryt.pl/news/152231-szef-sedziow-odpowiada-mourinho-wyglada-na-to-ze-niepowtorzony-karny-pojawi-sie-w-czasie-rewizji</link>
+            <pubDate>Tue, 08 Sep 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Dla komitetu sprawa jest „bardzo jasna”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Real Madryt – Inter Mediolan: Przewidywane składy]]></title>
             <link>https://www.realmadryt.pl/news/152232-real-madryt-inter-mediolan-przewidywane-sklady</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152217-marca-benzema-uwieziony-w-arabii-saudyjskiej</link>
             <pubDate>Mon, 07 Sep 2026 19:33:00 GMT</pubDate>
             <description><![CDATA[Powrót Francuza do Europy jest skomplikowany]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Güler prosi o więcej]]></title>
-            <link>https://www.realmadryt.pl/news/152214-guler-prosi-o-wiecej</link>
-            <pubDate>Mon, 07 Sep 2026 18:46:00 GMT</pubDate>
-            <description><![CDATA[Turek nadal nie gra od deski do deski]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Vinícius: Ten sezon będzie inny niż dwa ostatnie i wygramy Ligę Mistrzów]]></title>
-            <link>https://www.realmadryt.pl/news/152212-vinicius-ten-sezon-bedzie-inny-niz-dwa-ostatnie-i-wygramy-lige-mistrzow</link>
-            <pubDate>Mon, 07 Sep 2026 17:44:00 GMT</pubDate>
-            <description><![CDATA[Materiał z Brazylijczykiem z klubowych mediów]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real może atakować z powietrza]]></title>
-            <link>https://www.realmadryt.pl/news/152211-real-moze-atakowac-z-powietrza</link>
-            <pubDate>Mon, 07 Sep 2026 17:10:00 GMT</pubDate>
-            <description><![CDATA[Królewscy mają u siebie wielu wysokich graczy]]></description>
         </item>
         
 </channel>
