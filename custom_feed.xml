@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 08 Sep 2026 18:05:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 21:07:00 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Oceń piłkarzy po meczu z Interem]]></title>
+            <link>https://www.realmadryt.pl/news/152247-ocen-pilkarzy-po-meczu-z-interem</link>
+            <pubDate>Tue, 08 Sep 2026 22:57:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do wspólnego wystawiania not]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Szczęście w nieszczęściu]]></title>
+            <link>https://www.realmadryt.pl/news/152245-szczescie-w-nieszczesciu</link>
+            <pubDate>Tue, 08 Sep 2026 20:50:00 GMT</pubDate>
+            <description><![CDATA[Real wygrał z Interem 2:1]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mourinho: Nasza drużyna ma trudności z konstruowaniem akcji i pewne ograniczenia]]></title>
+            <link>https://www.realmadryt.pl/news/152244-mourinho-nasza-druzyna-ma-trudnosci-z-konstruowaniem-akcji-i-pewne-ograniczenia</link>
+            <pubDate>Tue, 08 Sep 2026 20:10:00 GMT</pubDate>
+            <description><![CDATA[Ostatnie wypowiedzi przed meczem]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Real Madryt – Inter Mediolan: Znamy składy!]]></title>
             <link>https://www.realmadryt.pl/news/152241-real-madryt-inter-mediolan-znamy-sklady</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152199-kadra-na-inter</link>
             <pubDate>Tue, 08 Sep 2026 12:20:00 GMT</pubDate>
             <description><![CDATA[Mourinho nie może liczyć na 8 graczy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real bez porażki na inaugurację w Lidze Mistrzów od 2020 roku]]></title>
-            <link>https://www.realmadryt.pl/news/152222-real-bez-porazki-na-inauguracje-w-lidze-mistrzow-od-2020-roku</link>
-            <pubDate>Tue, 08 Sep 2026 12:15:00 GMT</pubDate>
-            <description><![CDATA[Od tamtej pory same zwycięstwa Królewskich]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Jednej nocy wygrał Ligę Mistrzów i dogadał się z Realem Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/152235-jednej-nocy-wygral-lige-mistrzow-i-dogadal-sie-z-realem-madryt</link>
-            <pubDate>Tue, 08 Sep 2026 11:30:00 GMT</pubDate>
-            <description><![CDATA[Nostalgiczny wieczór dla Mourinho]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[El Confidencial: Sąsiedzi Bernabéu zabrali się teraz za zablokowanie meczów NFL]]></title>
-            <link>https://www.realmadryt.pl/news/152223-el-confidencial-sasiedzi-bernabeu-zabrali-sie-teraz-za-zablokowanie-meczow-nfl</link>
-            <pubDate>Tue, 08 Sep 2026 10:50:00 GMT</pubDate>
-            <description><![CDATA[Ubiegłoroczne spotkanie okazało się za głośne]]></description>
         </item>
         
 </channel>
