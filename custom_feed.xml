@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 08 Sep 2026 21:07:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 23:22:12 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152255-dzisiejsze-okladki</link>
+            <pubDate>Wed, 09 Sep 2026 00:49:00 GMT</pubDate>
+            <description><![CDATA[„Test zaliczony”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mourinho: Wiedzieliśmy, że będziemy mieć trudności przeciwko bardzo silnej drużynie z naszą drugą linią]]></title>
+            <link>https://www.realmadryt.pl/news/152251-mourinho-wiedzielismy-ze-bedziemy-miec-trudnosci-przeciwko-bardzo-silnej-druzynie-z-nasza-druga-linia</link>
+            <pubDate>Tue, 08 Sep 2026 23:26:00 GMT</pubDate>
+            <description><![CDATA[Pierwsze pomeczowe komentarze trenera]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madryt 2:1 Inter Mediolan [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152249-real-madryt-2-1-inter-mediolan-video</link>
+            <pubDate>Tue, 08 Sep 2026 23:15:00 GMT</pubDate>
+            <description><![CDATA[Skrót meczu]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Valverde: Wygraliśmy, ale musimy być świadomi, że nie zagraliśmy wielkiego meczu]]></title>
+            <link>https://www.realmadryt.pl/news/152248-valverde-wygralismy-ale-musimy-byc-swiadomi-ze-nie-zagralismy-wielkiego-meczu</link>
+            <pubDate>Tue, 08 Sep 2026 23:13:00 GMT</pubDate>
+            <description><![CDATA[Pierwsze wypowiedzi z murawy]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Fede Valverde MVP meczu z Interem]]></title>
+            <link>https://www.realmadryt.pl/news/152246-fede-valverde-mvp-meczu-z-interem</link>
+            <pubDate>Tue, 08 Sep 2026 23:09:00 GMT</pubDate>
+            <description><![CDATA[Wyróżnienie dla strzelca drugiego gola]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Oceń piłkarzy po meczu z Interem]]></title>
             <link>https://www.realmadryt.pl/news/152247-ocen-pilkarzy-po-meczu-z-interem</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/152240-pewne-zwyciestwo-juvenilu-a-z-interem-dublet-yaneza</link>
             <pubDate>Tue, 08 Sep 2026 18:34:00 GMT</pubDate>
             <description><![CDATA[Wygrana na inaugurację Ligi Młodzieżowej]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Czterech piłkarzy Realu Madryt nominowanych do Złotej Piłki 2026]]></title>
-            <link>https://www.realmadryt.pl/news/152239-czterech-pilkarzy-realu-madryt-nominowanych-do-zlotej-pilki-2026</link>
-            <pubDate>Tue, 08 Sep 2026 16:42:00 GMT</pubDate>
-            <description><![CDATA[Dominacja Paris Saint-Germain]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Lamine Yamal: Hałas ze strony Realu? Jeśli od dwóch lat niczego nie wygrali, to jest ich problem]]></title>
-            <link>https://www.realmadryt.pl/news/152238-lamine-yamal-halas-ze-strony-realu-jesli-od-dwoch-lat-niczego-nie-wygrali-to-jest-ich-problem</link>
-            <pubDate>Tue, 08 Sep 2026 14:03:00 GMT</pubDate>
-            <description><![CDATA[„Złota Piłka? Ja nie zamierzam o nic błagać”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Courtois nominowany do nagrody dla Bramkarza Roku]]></title>
-            <link>https://www.realmadryt.pl/news/152237-courtois-nominowany-do-nagrody-dla-bramkarza-roku</link>
-            <pubDate>Tue, 08 Sep 2026 13:35:00 GMT</pubDate>
-            <description><![CDATA[Belg powalczy o jedną z głównych nagród]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mbappé: Jeśli będziemy grać jak z Betisem, to będę strzelać gole]]></title>
-            <link>https://www.realmadryt.pl/news/152236-mbappe-jesli-bedziemy-grac-jak-z-betisem-to-bede-strzelac-gole</link>
-            <pubDate>Tue, 08 Sep 2026 12:29:00 GMT</pubDate>
-            <description><![CDATA[„Rekord Cristiano? Przede mną jeszcze długa droga”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kadra na Inter]]></title>
-            <link>https://www.realmadryt.pl/news/152199-kadra-na-inter</link>
-            <pubDate>Tue, 08 Sep 2026 12:20:00 GMT</pubDate>
-            <description><![CDATA[Mourinho nie może liczyć na 8 graczy]]></description>
         </item>
         
 </channel>
