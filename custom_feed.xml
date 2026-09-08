@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 08 Sep 2026 10:04:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 14:30:48 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Lamine Yamal: Hałas ze strony Realu? Jeśli od dwóch lat niczego nie wygrali, to jest ich problem]]></title>
+            <link>https://www.realmadryt.pl/news/152238-lamine-yamal-halas-ze-strony-realu-jesli-od-dwoch-lat-niczego-nie-wygrali-to-jest-ich-problem</link>
+            <pubDate>Tue, 08 Sep 2026 14:03:00 GMT</pubDate>
+            <description><![CDATA[„Złota Piłka? Ja nie zamierzam o nic błagać”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Courtois nominowany do nagrody dla Bramkarza Roku]]></title>
+            <link>https://www.realmadryt.pl/news/152237-courtois-nominowany-do-nagrody-dla-bramkarza-roku</link>
+            <pubDate>Tue, 08 Sep 2026 13:35:00 GMT</pubDate>
+            <description><![CDATA[Belg powalczy o jedną z głównych nagród]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mbappé: Jeśli będziemy grać jak z Betisem, to będę strzelać gole]]></title>
+            <link>https://www.realmadryt.pl/news/152236-mbappe-jesli-bedziemy-grac-jak-z-betisem-to-bede-strzelac-gole</link>
+            <pubDate>Tue, 08 Sep 2026 12:29:00 GMT</pubDate>
+            <description><![CDATA[„Rekord Cristiano? Przede mną jeszcze długa droga”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Kadra na Inter]]></title>
+            <link>https://www.realmadryt.pl/news/152199-kadra-na-inter</link>
+            <pubDate>Tue, 08 Sep 2026 12:20:00 GMT</pubDate>
+            <description><![CDATA[Mourinho nie może liczyć na 8 graczy]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real bez porażki na inaugurację w Lidze Mistrzów od 2020 roku]]></title>
+            <link>https://www.realmadryt.pl/news/152222-real-bez-porazki-na-inauguracje-w-lidze-mistrzow-od-2020-roku</link>
+            <pubDate>Tue, 08 Sep 2026 12:15:00 GMT</pubDate>
+            <description><![CDATA[Od tamtej pory same zwycięstwa Królewskich]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Jednej nocy wygrał Ligę Mistrzów i dogadał się z Realem Madryt]]></title>
             <link>https://www.realmadryt.pl/news/152235-jednej-nocy-wygral-lige-mistrzow-i-dogadal-sie-z-realem-madryt</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/152220-mourinho-sezon-nie-jest-autostrada-sa-w-nim-tez-podjazdy-zjazdy-i-zakrety</link>
             <pubDate>Tue, 08 Sep 2026 08:25:00 GMT</pubDate>
             <description><![CDATA[„Jeśli kiedyś nie broniłem piłkarzy, to traciłem panowanie nad emocjami”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real nie przegrał z Interem w Madrycie od blisko 60 lat]]></title>
-            <link>https://www.realmadryt.pl/news/152213-real-nie-przegral-z-interem-w-madrycie-od-blisko-60-lat</link>
-            <pubDate>Tue, 08 Sep 2026 08:13:00 GMT</pubDate>
-            <description><![CDATA[Był tylko jeden taki przypadek]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Juvenil A rozpoczyna walkę o obronę tytułu w Lidze Młodzieżowej]]></title>
-            <link>https://www.realmadryt.pl/news/152234-juvenil-a-rozpoczyna-walke-o-obrone-tytulu-w-lidze-mlodziezowej</link>
-            <pubDate>Tue, 08 Sep 2026 08:08:00 GMT</pubDate>
-            <description><![CDATA[Królewscy zagrają na inaugurację z Interem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Użyj kodu RMPL w Betclic i zacznij fazę ligową Ligi Mistrzów razem z Realem!]]></title>
-            <link>https://www.realmadryt.pl/news/152215-uzyj-kodu-rmpl-w-betclic-i-zacznij-faze-ligowa-ligi-mistrzow-razem-z-realem</link>
-            <pubDate>Tue, 08 Sep 2026 08:00:00 GMT</pubDate>
-            <description><![CDATA[Artykuł sponsorowany]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[GŁOS KIBICA: Złota Piłka dla Mbappé]]></title>
-            <link>https://www.realmadryt.pl/news/152230-glos-kibica-zlota-pilka-dla-mbappe</link>
-            <pubDate>Tue, 08 Sep 2026 07:30:00 GMT</pubDate>
-            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Dzisiaj poznamy nominowanych do nagród Złotej Piłki]]></title>
-            <link>https://www.realmadryt.pl/news/152229-dzisiaj-poznamy-nominowanych-do-nagrod-zlotej-pilki</link>
-            <pubDate>Tue, 08 Sep 2026 07:00:00 GMT</pubDate>
-            <description><![CDATA[Ogłoszone zostaną nazwiska w aż 10 kategoriach]]></description>
         </item>
         
 </channel>
