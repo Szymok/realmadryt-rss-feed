@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 09 Sep 2026 01:20:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:14:14 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dziewięć odbiorów Viníciusa i gwizdy z trybun]]></title>
+            <link>https://www.realmadryt.pl/news/152261-dziewiec-odbiorow-viniciusa-i-gwizdy-z-trybun</link>
+            <pubDate>Wed, 09 Sep 2026 08:14:00 GMT</pubDate>
+            <description><![CDATA[Ogromna praca Brazylijczyka bez piłki]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Komitet Arbitrów: Karny Mbappé nie powinien był zostać powtórzony [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152254-komitet-arbitrow-karny-mbappe-nie-powinien-byl-zostac-powtorzony-video</link>
+            <pubDate>Wed, 09 Sep 2026 08:00:00 GMT</pubDate>
+            <description><![CDATA[Przyznano rację sędziom]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Gwizdy Bernabéu]]></title>
+            <link>https://www.realmadryt.pl/news/152257-glos-kibica-gwizdy-bernabeu</link>
+            <pubDate>Wed, 09 Sep 2026 07:40:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mbappé: Pragnę zdobycia Ligi Mistrzów w Madrycie bardziej niż czegokolwiek innego [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152259-mbappe-pragne-zdobycia-ligi-mistrzow-w-madrycie-bardziej-niz-czegokolwiek-innego-video</link>
+            <pubDate>Wed, 09 Sep 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Francuz był gościem w słynnym studiu CBS]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Courtois: Powinniśmy byli zamknąć mecz wcześniej]]></title>
+            <link>https://www.realmadryt.pl/news/152253-courtois-powinnismy-byli-zamknac-mecz-wczesniej</link>
+            <pubDate>Wed, 09 Sep 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[„Przez to cierpieliśmy w końcówce”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/152255-dzisiejsze-okladki</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/152245-szczescie-w-nieszczesciu</link>
             <pubDate>Tue, 08 Sep 2026 20:50:00 GMT</pubDate>
             <description><![CDATA[Real wygrał z Interem 2:1]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho: Nasza drużyna ma trudności z konstruowaniem akcji i pewne ograniczenia]]></title>
-            <link>https://www.realmadryt.pl/news/152244-mourinho-nasza-druzyna-ma-trudnosci-z-konstruowaniem-akcji-i-pewne-ograniczenia</link>
-            <pubDate>Tue, 08 Sep 2026 20:10:00 GMT</pubDate>
-            <description><![CDATA[Ostatnie wypowiedzi przed meczem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real Madryt – Inter Mediolan: Znamy składy!]]></title>
-            <link>https://www.realmadryt.pl/news/152241-real-madryt-inter-mediolan-znamy-sklady</link>
-            <pubDate>Tue, 08 Sep 2026 19:44:00 GMT</pubDate>
-            <description><![CDATA[Wiemy, kto powalczy o europejskie punkty]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Piqué: Błędów sędziowskich jest mnóstwo, ale historycznie częściej szły one na korzyść Realu]]></title>
-            <link>https://www.realmadryt.pl/news/152243-pique-bledow-sedziowskich-jest-mnostwo-ale-historycznie-czesciej-szly-one-na-korzysc-realu</link>
-            <pubDate>Tue, 08 Sep 2026 19:28:00 GMT</pubDate>
-            <description><![CDATA[Geri zabrał głos]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Minuta ciszy przed meczami Ligi Mistrzów]]></title>
-            <link>https://www.realmadryt.pl/news/152242-oficjalnie-minuta-ciszy-przed-meczami-ligi-mistrzow</link>
-            <pubDate>Tue, 08 Sep 2026 18:52:00 GMT</pubDate>
-            <description><![CDATA[W tym przed spotkaniem na Bernabéu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Pewne zwycięstwo Juvenilu A z Interem, dublet Yáñeza]]></title>
-            <link>https://www.realmadryt.pl/news/152240-pewne-zwyciestwo-juvenilu-a-z-interem-dublet-yaneza</link>
-            <pubDate>Tue, 08 Sep 2026 18:34:00 GMT</pubDate>
-            <description><![CDATA[Wygrana na inaugurację Ligi Młodzieżowej]]></description>
         </item>
         
 </channel>
