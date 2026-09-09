@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 09 Sep 2026 21:10:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 23:13:05 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152284-dzisiejsze-okladki</link>
+            <pubDate>Thu, 10 Sep 2026 00:31:00 GMT</pubDate>
+            <description><![CDATA[„Przyjemność i niezadowolenie”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Huijsen odcina się od wpisu na Facebooku prowokującego Lautaro]]></title>
+            <link>https://www.realmadryt.pl/news/152283-huijsen-odcina-sie-od-wpisu-na-facebooku-prowokujacego-lautaro</link>
+            <pubDate>Wed, 09 Sep 2026 23:39:00 GMT</pubDate>
+            <description><![CDATA[W tych czasach trzeba wyjaśniać takie rzeczy]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Oficjalnie: Cristian David zawodnikiem CFR Cluj]]></title>
             <link>https://www.realmadryt.pl/news/152280-oficjalnie-cristian-david-zawodnikiem-cfr-cluj</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152268-ratownik-courtois</link>
             <pubDate>Wed, 09 Sep 2026 12:06:00 GMT</pubDate>
             <description><![CDATA[Belg miał z Interem pełne ręce roboty]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Znamy zwycięzcę dwóch biletów na mecz Realu na Bernabéu!]]></title>
-            <link>https://www.realmadryt.pl/news/152267-znamy-zwyciezce-dwoch-biletow-na-mecz-realu-na-bernabeu</link>
-            <pubDate>Wed, 09 Sep 2026 11:40:00 GMT</pubDate>
-            <description><![CDATA[Wyniki konkursu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Królewscy mają dziś wolne]]></title>
-            <link>https://www.realmadryt.pl/news/152266-krolewscy-maja-dzis-wolne</link>
-            <pubDate>Wed, 09 Sep 2026 11:00:00 GMT</pubDate>
-            <description><![CDATA[Krótki odpoczynek przed kolejnym meczem]]></description>
         </item>
         
 </channel>
