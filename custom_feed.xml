@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 09 Sep 2026 11:25:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:12:39 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Kane na czele rankingu The Athletic do Złotej Piłki, Mbappé tuż za podium]]></title>
+            <link>https://www.realmadryt.pl/news/152276-kane-na-czele-rankingu-the-athletic-do-zlotej-pilki-mbappe-tuz-za-podium</link>
+            <pubDate>Wed, 09 Sep 2026 16:42:00 GMT</pubDate>
+            <description><![CDATA[W czołowej 10 również Bellingham]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Okdiario: Bernabéu nie wybacza Viníciusowi, ale Real nie zamierza go zostawić]]></title>
+            <link>https://www.realmadryt.pl/news/152273-okdiario-bernabeu-nie-wybacza-viniciusowi-ale-real-nie-zamierza-go-zostawic</link>
+            <pubDate>Wed, 09 Sep 2026 15:15:00 GMT</pubDate>
+            <description><![CDATA[Brazylijczyk nieustannie słyszy gwizdy]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Isco pierwszym piłkarzem, który zagrał w Lidze Mistrzów w barwach pięciu różnych hiszpańskich klubów]]></title>
+            <link>https://www.realmadryt.pl/news/152271-isco-pierwszym-pilkarzem-ktory-zagral-w-lidze-mistrzow-w-barwach-pieciu-roznych-hiszpanskich-klubow</link>
+            <pubDate>Wed, 09 Sep 2026 14:30:00 GMT</pubDate>
+            <description><![CDATA[Były gracz Realu zapisał się w historii]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Podcast 8x03: Podłoga i sufit]]></title>
+            <link>https://www.realmadryt.pl/news/152272-podcast-8x03-podloga-i-sufit</link>
+            <pubDate>Wed, 09 Sep 2026 13:51:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do wysłuchania naszych opinii]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Eberl: Olise? Nie musimy ulegać żadnej ofercie, niezależnie od kwoty]]></title>
             <link>https://www.realmadryt.pl/news/152270-eberl-olise-nie-musimy-ulegac-zadnej-ofercie-niezaleznie-od-kwoty</link>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/152256-mourinho-vinicius-nie-jest-w-topowej-formie-ale-pracuje-i-zasluguje-na-moj-szacunek</link>
             <pubDate>Wed, 09 Sep 2026 09:50:00 GMT</pubDate>
             <description><![CDATA[Zapis pomeczowej konferencji z trenerem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Huijsen: Gwizdy przy zwycięstwie? Taka jest rzeczywistość w najlepszym i największym klubie świata]]></title>
-            <link>https://www.realmadryt.pl/news/152263-huijsen-gwizdy-przy-zwyciestwie-taka-jest-rzeczywistosc-w-najlepszym-i-najwiekszym-klubie-swiata</link>
-            <pubDate>Wed, 09 Sep 2026 09:39:00 GMT</pubDate>
-            <description><![CDATA[„Dużo mi pomaga i jestem zadowolony”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Dlaczego Carreras nie mógł wejść na boisko przez ponad dwie minuty?]]></title>
-            <link>https://www.realmadryt.pl/news/152264-dlaczego-carreras-nie-mogl-wejsc-na-boisko-przez-ponad-dwie-minuty</link>
-            <pubDate>Wed, 09 Sep 2026 09:26:00 GMT</pubDate>
-            <description><![CDATA[Real odczuł wczoraj nowe zmiany]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mbappé zrównał się z Raúlem w historycznej klasyfikacji strzelców Pucharu Europy]]></title>
-            <link>https://www.realmadryt.pl/news/152258-mbappe-zrownal-sie-z-raulem-w-historycznej-klasyfikacji-strzelcow-pucharu-europy</link>
-            <pubDate>Wed, 09 Sep 2026 09:20:00 GMT</pubDate>
-            <description><![CDATA[Musi strzelić drugie tyle, by dorównać Cristiano]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[POSTMECZ: Czy Mourinho powinien był wystawić pomocnika ze szkółki zamiast Trenta?]]></title>
-            <link>https://www.realmadryt.pl/news/152260-postmecz-czy-mourinho-powinien-byl-wystawic-pomocnika-ze-szkolki-zamiast-trenta</link>
-            <pubDate>Wed, 09 Sep 2026 08:40:00 GMT</pubDate>
-            <description><![CDATA[Pomeczowa debata]]></description>
         </item>
         
 </channel>
