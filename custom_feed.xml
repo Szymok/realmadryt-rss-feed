@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 09 Sep 2026 15:12:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:36:31 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[1. kolejka LM: Barça kontra Feyenoord, Atlético na Anfield i Arsenal w Neapolu [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/152274-1-kolejka-lm-barca-kontra-feyenoord-atletico-na-anfield-i-arsenal-w-neapolu-na-zywo</link>
+            <pubDate>Wed, 09 Sep 2026 18:15:00 GMT</pubDate>
+            <description><![CDATA[Kolejne emocje z Champions League]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Kane na czele rankingu The Athletic do Złotej Piłki, Mbappé tuż za podium]]></title>
             <link>https://www.realmadryt.pl/news/152276-kane-na-czele-rankingu-the-athletic-do-zlotej-pilki-mbappe-tuz-za-podium</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152252-kartka-z-kalendarza-9-wrzesnia</link>
             <pubDate>Wed, 09 Sep 2026 10:07:00 GMT</pubDate>
             <description><![CDATA[Urodziny młodzieniaszka]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho: Vinícius nie jest w topowej formie, ale pracuje i zasługuje na mój szacunek]]></title>
-            <link>https://www.realmadryt.pl/news/152256-mourinho-vinicius-nie-jest-w-topowej-formie-ale-pracuje-i-zasluguje-na-moj-szacunek</link>
-            <pubDate>Wed, 09 Sep 2026 09:50:00 GMT</pubDate>
-            <description><![CDATA[Zapis pomeczowej konferencji z trenerem]]></description>
         </item>
         
 </channel>
