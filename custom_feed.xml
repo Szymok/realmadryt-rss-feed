@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 10 Sep 2026 01:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 05:56:58 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Vinícius a Bernabéu]]></title>
+            <link>https://www.realmadryt.pl/news/152285-glos-kibica-vinicius-a-bernabeu</link>
+            <pubDate>Thu, 10 Sep 2026 07:40:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Henry: W Złotej Piłce postawiłbym na Mbappé]]></title>
+            <link>https://www.realmadryt.pl/news/152277-henry-w-zlotej-pilce-postawilbym-na-mbappe</link>
+            <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Francuz ocenia kandydatów]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Szatnia zachowuje spokój i nie przejmuje się słabą skutecznością]]></title>
+            <link>https://www.realmadryt.pl/news/152281-szatnia-zachowuje-spokoj-i-nie-przejmuje-sie-slaba-skutecznoscia</link>
+            <pubDate>Thu, 10 Sep 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Piłkarze wierzą, że piłka w końcu zacznie wpadać]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/152284-dzisiejsze-okladki</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152272-podcast-8x03-podloga-i-sufit</link>
             <pubDate>Wed, 09 Sep 2026 13:51:00 GMT</pubDate>
             <description><![CDATA[Zapraszamy do wysłuchania naszych opinii]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Eberl: Olise? Nie musimy ulegać żadnej ofercie, niezależnie od kwoty]]></title>
-            <link>https://www.realmadryt.pl/news/152270-eberl-olise-nie-musimy-ulegac-zadnej-ofercie-niezaleznie-od-kwoty</link>
-            <pubDate>Wed, 09 Sep 2026 13:12:00 GMT</pubDate>
-            <description><![CDATA[„Michael zrobił u nas niesamowite postępy”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bartra: Manipulowanie zdjęciami, by wywierać presję na sędziów, to poważna sprawa]]></title>
-            <link>https://www.realmadryt.pl/news/152269-bartra-manipulowanie-zdjeciami-by-wywierac-presje-na-sedziow-to-powazna-sprawa</link>
-            <pubDate>Wed, 09 Sep 2026 12:55:00 GMT</pubDate>
-            <description><![CDATA[„Dobrze, że jest tyle kamer”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Ratownik Courtois]]></title>
-            <link>https://www.realmadryt.pl/news/152268-ratownik-courtois</link>
-            <pubDate>Wed, 09 Sep 2026 12:06:00 GMT</pubDate>
-            <description><![CDATA[Belg miał z Interem pełne ręce roboty]]></description>
         </item>
         
 </channel>
