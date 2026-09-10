@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 10 Sep 2026 17:51:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:16:46 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Asencio zaczyna od zera]]></title>
+            <link>https://www.realmadryt.pl/news/152308-asencio-zaczyna-od-zera</link>
+            <pubDate>Thu, 10 Sep 2026 20:39:00 GMT</pubDate>
+            <description><![CDATA[Hiszpan wraca i chce odbudować swoją pozycję]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mbappé: Krytyka mojej pracy w defensywie? To nie jest normalne, ale to ludzka natura, istnieje też ta głupsza krytyka]]></title>
+            <link>https://www.realmadryt.pl/news/152307-mbappe-krytyka-mojej-pracy-w-defensywie-to-nie-jest-normalne-ale-to-ludzka-natura-istnieje-tez-ta-glupsza-krytyka</link>
+            <pubDate>Thu, 10 Sep 2026 19:54:00 GMT</pubDate>
+            <description><![CDATA[Francuz odpowiada krytykom]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Tebas: Kto więc kłamie – członek rządu Maroka czy FIFA?]]></title>
             <link>https://www.realmadryt.pl/news/152306-tebas-kto-wiec-klamie-czlonek-rzadu-maroka-czy-fifa</link>
@@ -35,8 +49,8 @@
         </item>
         
         <item>
-            <title><![CDATA[1. kolejka Ligi Mistrzów: Grają Roma i Bayern, a także Puchacz na Old Trafford [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/152303-1-kolejka-ligi-mistrzow-graja-roma-i-bayern-a-takze-puchacz-na-old-trafford-na-zywo</link>
+            <title><![CDATA[1. kolejka Ligi Mistrzów: Remis Romy; Gra Bayern, a także Puchacz na Old Trafford [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/152303-1-kolejka-ligi-mistrzow-remis-romy-gra-bayern-a-takze-puchacz-na-old-trafford-na-zywo</link>
             <pubDate>Thu, 10 Sep 2026 18:00:00 GMT</pubDate>
             <description><![CDATA[Obserwujemy rywali, faworytów i Polaka]]></description>
         </item>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152297-prezes-marokanskiej-federacji-dostapimy-zaszczytu-organizacji-finalu-mistrzostw-swiata</link>
             <pubDate>Thu, 10 Sep 2026 14:44:00 GMT</pubDate>
             <description><![CDATA[Finał jednak nie dla Bernabéu?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Deco: Bernardo chciał przyjść do Barçy, ale chciał mieć zagwarantowane minuty]]></title>
-            <link>https://www.realmadryt.pl/news/152296-deco-bernardo-chcial-przyjsc-do-barcy-ale-chcial-miec-zagwarantowane-minuty</link>
-            <pubDate>Thu, 10 Sep 2026 14:12:00 GMT</pubDate>
-            <description><![CDATA[Wypowiedzi dyrektora katalońskiego klubu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Umtiti: Wszyscy myśleli, że powrót Mourinho coś zmieni, ale w tym sezonie znów będzie Realowi trudno]]></title>
-            <link>https://www.realmadryt.pl/news/152295-umtiti-wszyscy-mysleli-ze-powrot-mourinho-cos-zmieni-ale-w-tym-sezonie-znow-bedzie-realowi-trudno</link>
-            <pubDate>Thu, 10 Sep 2026 14:09:00 GMT</pubDate>
-            <description><![CDATA[Wypowiedzi byłego obrońcy Barcelony]]></description>
         </item>
         
 </channel>
