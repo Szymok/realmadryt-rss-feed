@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 10 Sep 2026 20:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 22:41:26 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152315-dzisiejsze-okladki</link>
+            <pubDate>Fri, 11 Sep 2026 00:16:00 GMT</pubDate>
+            <description><![CDATA[„Real nagrodzi Ardę”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Asencio zaczyna od zera]]></title>
             <link>https://www.realmadryt.pl/news/152308-asencio-zaczyna-od-zera</link>
@@ -49,10 +56,10 @@
         </item>
         
         <item>
-            <title><![CDATA[1. kolejka Ligi Mistrzów: Remis Romy; Gra Bayern, a także Puchacz na Old Trafford [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/152303-1-kolejka-ligi-mistrzow-remis-romy-gra-bayern-a-takze-puchacz-na-old-trafford-na-zywo</link>
+            <title><![CDATA[1. kolejka Ligi Mistrzów: Pewne wygrane Bayernu, United i Como, tylko remis Romy]]></title>
+            <link>https://www.realmadryt.pl/news/152303-1-kolejka-ligi-mistrzow-pewne-wygrane-bayernu-united-i-como-tylko-remis-romy</link>
             <pubDate>Thu, 10 Sep 2026 18:00:00 GMT</pubDate>
-            <description><![CDATA[Obserwujemy rywali, faworytów i Polaka]]></description>
+            <description><![CDATA[Obserwowaliśmy rywali, faworytów i Polaka]]></description>
         </item>
         
         <item>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152298-as-real-madryt-przygotowuje-ardzie-gulerowi-nowy-kontrakt</link>
             <pubDate>Thu, 10 Sep 2026 15:01:00 GMT</pubDate>
             <description><![CDATA[Klub chce docenić pozycję pomocnika w zespole]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Prezes marokańskiej federacji: Dostąpimy zaszczytu organizacji finału mistrzostw świata]]></title>
-            <link>https://www.realmadryt.pl/news/152297-prezes-marokanskiej-federacji-dostapimy-zaszczytu-organizacji-finalu-mistrzostw-swiata</link>
-            <pubDate>Thu, 10 Sep 2026 14:44:00 GMT</pubDate>
-            <description><![CDATA[Finał jednak nie dla Bernabéu?]]></description>
         </item>
         
 </channel>
