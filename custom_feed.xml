@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 11 Sep 2026 00:33:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 05:14:55 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Bellingham przyznaje się Hamiltonowi: „Nie mam prawa jazdy” [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152310-bellingham-przyznaje-sie-hamiltonowi-nie-mam-prawa-jazdy-video</link>
+            <pubDate>Fri, 11 Sep 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Aktywności związane z obecnością F1 w Madrycie]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Media: Real wierzy w środku pola w Bellinghama i Gülera, którym chce przedłużyć kontrakty]]></title>
+            <link>https://www.realmadryt.pl/news/152313-media-real-wierzy-w-srodku-pola-w-bellinghama-i-gulera-ktorym-chce-przedluzyc-kontrakty</link>
+            <pubDate>Fri, 11 Sep 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Turek ma mieć już wstępne porozumienie]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/152315-dzisiejsze-okladki</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152300-mbappe-mam-ogromna-ochote-pokazac-ze-w-tym-sezonie-mozemy-dokonac-wielkich-rzeczy</link>
             <pubDate>Thu, 10 Sep 2026 15:06:00 GMT</pubDate>
             <description><![CDATA[„Zaczęliśmy sezon w pozytywny sposób”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[TEAMtalk: Fulham Arbeloi pod ostrzałem krytyki]]></title>
-            <link>https://www.realmadryt.pl/news/152299-teamtalk-fulham-arbeloi-pod-ostrzalem-krytyki</link>
-            <pubDate>Thu, 10 Sep 2026 15:04:00 GMT</pubDate>
-            <description><![CDATA[Były trener Realu szybko straci nową pracę?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[AS: Real Madryt przygotowuje Ardzie Gülerowi nowy kontrakt]]></title>
-            <link>https://www.realmadryt.pl/news/152298-as-real-madryt-przygotowuje-ardzie-gulerowi-nowy-kontrakt</link>
-            <pubDate>Thu, 10 Sep 2026 15:01:00 GMT</pubDate>
-            <description><![CDATA[Klub chce docenić pozycję pomocnika w zespole]]></description>
         </item>
         
 </channel>
