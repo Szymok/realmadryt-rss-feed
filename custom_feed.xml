@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 12 Sep 2026 17:59:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:23:52 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Real Madryt – Rayo Vallecano [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/152364-real-madryt-rayo-vallecano-na-zywo</link>
+            <pubDate>Sat, 12 Sep 2026 20:50:00 GMT</pubDate>
+            <description><![CDATA[Trwa mecz 5. kolejki La Ligi]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Rozgrzewka przed Rayo [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/152362-rozgrzewka-przed-rayo-na-zywo</link>
+            <pubDate>Sat, 12 Sep 2026 20:10:00 GMT</pubDate>
+            <description><![CDATA[Obraz ze stadionu]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Real Madryt – Rayo Vallecano: Znamy składy!]]></title>
             <link>https://www.realmadryt.pl/news/152361-real-madryt-rayo-vallecano-znamy-sklady</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152352-ten-sam-rywal-inny-fede</link>
             <pubDate>Sat, 12 Sep 2026 11:35:00 GMT</pubDate>
             <description><![CDATA[Właśnie w meczu z Rayo Urugwajczyk zamknął trudny dla siebie etap]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kolejne wyzwanie Endricka]]></title>
-            <link>https://www.realmadryt.pl/news/152351-kolejne-wyzwanie-endricka</link>
-            <pubDate>Sat, 12 Sep 2026 11:07:00 GMT</pubDate>
-            <description><![CDATA[Brazylijczyk startuje z trudnej pozycji]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Gaz do dechy]]></title>
-            <link>https://www.realmadryt.pl/news/152343-gaz-do-dechy</link>
-            <pubDate>Sat, 12 Sep 2026 11:00:00 GMT</pubDate>
-            <description><![CDATA[Zapowiedź meczu z Rayo Vallecano]]></description>
         </item>
         
 </channel>
