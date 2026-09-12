@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 12 Sep 2026 12:38:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:49:44 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[„Szczęście” też można wytrenować]]></title>
+            <link>https://www.realmadryt.pl/news/152356-szczescie-tez-mozna-wytrenowac</link>
+            <pubDate>Sat, 12 Sep 2026 15:22:00 GMT</pubDate>
+            <description><![CDATA[Mourinho podkreśla wagę skutecznego pressingu]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Courtois o kolegach z drużyny: „Największy żartowniś to Mbappé” [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152358-courtois-o-kolegach-z-druzyny-najwiekszy-zartownis-to-mbappe-video</link>
+            <pubDate>Sat, 12 Sep 2026 15:16:00 GMT</pubDate>
+            <description><![CDATA[Aktywność przy okazji wizyty na torze F1]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Thiago nie składa broni]]></title>
             <link>https://www.realmadryt.pl/news/152357-thiago-nie-sklada-broni</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152337-huijsen-mysle-ze-prezentuje-wysoki-poziom-i-duza-w-tym-zasluga-rowniez-mistera</link>
             <pubDate>Sat, 12 Sep 2026 09:00:00 GMT</pubDate>
             <description><![CDATA[„Koledzy z drużyny również mnie wspierają”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Selekcjoner Wybrzeża Kości Słoniowej pochwalił Mourinho za taktykę w sprawie Diomandé]]></title>
-            <link>https://www.realmadryt.pl/news/152350-selekcjoner-wybrzeza-kosci-sloniowej-pochwalil-mourinho-za-taktyke-w-sprawie-diomande</link>
-            <pubDate>Sat, 12 Sep 2026 08:59:00 GMT</pubDate>
-            <description><![CDATA[Przypadek Iworyjczyka coraz gorętszym tematem także w Afryce]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Moretto: Galatasaray chciało zaoferować 50 milionów euro za Camavingę]]></title>
-            <link>https://www.realmadryt.pl/news/152349-moretto-galatasaray-chcialo-zaoferowac-50-milionow-euro-za-camavinge</link>
-            <pubDate>Sat, 12 Sep 2026 08:22:00 GMT</pubDate>
-            <description><![CDATA[Francuz nie zamierzał jednak odchodzić]]></description>
         </item>
         
 </channel>
