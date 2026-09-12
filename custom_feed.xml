@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 12 Sep 2026 00:15:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 04:48:45 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Mbappé dla France Football cz.3: W poprzednim sezonie nie było lepszego zawodnika ode mnie]]></title>
+            <link>https://www.realmadryt.pl/news/152336-mbappe-dla-france-football-cz-3-w-poprzednim-sezonie-nie-bylo-lepszego-zawodnika-ode-mnie</link>
+            <pubDate>Sat, 12 Sep 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[„Nie żałuję swoich słów o PSG i Lidze Mistrzów”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/152345-dzisiejsze-okladki</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152330-victor-garcia-verdura-na-rayo</link>
             <pubDate>Fri, 11 Sep 2026 18:18:00 GMT</pubDate>
             <description><![CDATA[Sędzią VAR będzie Juan Luis Pulido Santana]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Courtois w Drużynie Tygodnia Ligi Mistrzów]]></title>
-            <link>https://www.realmadryt.pl/news/152331-courtois-w-druzynie-tygodnia-ligi-mistrzow</link>
-            <pubDate>Fri, 11 Sep 2026 17:52:00 GMT</pubDate>
-            <description><![CDATA[Świetna forma Belga]]></description>
         </item>
         
 </channel>
