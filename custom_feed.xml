@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 11 Sep 2026 22:08:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 00:15:47 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152345-dzisiejsze-okladki</link>
+            <pubDate>Sat, 12 Sep 2026 00:55:00 GMT</pubDate>
+            <description><![CDATA[„Mou chce zamknąć rany”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Królewskie wygrywają na Riazor [VIDEO]]]></title>
             <link>https://www.realmadryt.pl/news/152341-krolewskie-wygrywaja-na-riazor-video</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152331-courtois-w-druzynie-tygodnia-ligi-mistrzow</link>
             <pubDate>Fri, 11 Sep 2026 17:52:00 GMT</pubDate>
             <description><![CDATA[Świetna forma Belga]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[FootyHeadlines Znamy kolor trzeciej koszulki Realu na sezon 2027/28]]></title>
-            <link>https://www.realmadryt.pl/news/152329-footyheadlines-znamy-kolor-trzeciej-koszulki-realu-na-sezon-2027-28</link>
-            <pubDate>Fri, 11 Sep 2026 17:40:00 GMT</pubDate>
-            <description><![CDATA[Powrót do klasyki]]></description>
         </item>
         
 </channel>
