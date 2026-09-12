@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 12 Sep 2026 15:49:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 17:59:50 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Real Madryt – Rayo Vallecano: Znamy składy!]]></title>
+            <link>https://www.realmadryt.pl/news/152361-real-madryt-rayo-vallecano-znamy-sklady</link>
+            <pubDate>Sat, 12 Sep 2026 19:41:00 GMT</pubDate>
+            <description><![CDATA[Wiemy, kto powalczy o ligowe punkty]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Nick Smith Jr. blisko dołączenia do Realu Madryt]]></title>
+            <link>https://www.realmadryt.pl/news/152360-nick-smith-jr-blisko-dolaczenia-do-realu-madryt</link>
+            <pubDate>Sat, 12 Sep 2026 18:08:00 GMT</pubDate>
+            <description><![CDATA[Kolejne wzmocnienie dla koszykarzy na horyzoncie]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Porażka Castilli, Rachad zmarnował drugi rzut karny [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152359-porazka-castilli-rachad-zmarnowal-drugi-rzut-karny-video</link>
+            <pubDate>Sat, 12 Sep 2026 17:52:00 GMT</pubDate>
+            <description><![CDATA[Rezerwy przegrały z Águilas]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[„Szczęście” też można wytrenować]]></title>
             <link>https://www.realmadryt.pl/news/152356-szczescie-tez-mozna-wytrenowac</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152343-gaz-do-dechy</link>
             <pubDate>Sat, 12 Sep 2026 11:00:00 GMT</pubDate>
             <description><![CDATA[Zapowiedź meczu z Rayo Vallecano]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 12 września]]></title>
-            <link>https://www.realmadryt.pl/news/152344-kartka-z-kalendarza-12-wrzesnia</link>
-            <pubDate>Sat, 12 Sep 2026 09:50:00 GMT</pubDate>
-            <description><![CDATA[Debiuty Casillasa, Lucasa i Camavingi, wielki mecz Cristiano i powrót na Bernabéu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Pedro Martínez: Musimy jeszcze poprawić obronę]]></title>
-            <link>https://www.realmadryt.pl/news/152342-pedro-martinez-musimy-jeszcze-poprawic-obrone</link>
-            <pubDate>Sat, 12 Sep 2026 09:15:00 GMT</pubDate>
-            <description><![CDATA[Wypowiedzi trenera po wygranej z Tenerife]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Huijsen: Myślę, że prezentuję wysoki poziom i duża w tym zasługa również Místera]]></title>
-            <link>https://www.realmadryt.pl/news/152337-huijsen-mysle-ze-prezentuje-wysoki-poziom-i-duza-w-tym-zasluga-rowniez-mistera</link>
-            <pubDate>Sat, 12 Sep 2026 09:00:00 GMT</pubDate>
-            <description><![CDATA[„Koledzy z drużyny również mnie wspierają”]]></description>
         </item>
         
 </channel>
