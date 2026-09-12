@@ -4,13 +4,48 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 12 Sep 2026 20:23:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 22:25:56 GMT</lastBuildDate>
     
         <item>
-            <title><![CDATA[Real Madryt – Rayo Vallecano [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/152364-real-madryt-rayo-vallecano-na-zywo</link>
+            <title><![CDATA[Real Madryt 4:1 Rayo Vallecano [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152366-real-madryt-4-1-rayo-vallecano-video</link>
+            <pubDate>Sat, 12 Sep 2026 23:29:00 GMT</pubDate>
+            <description><![CDATA[Skrót meczu]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mourinho: Całkowicie wybaczam piłkarzom drugą połowę]]></title>
+            <link>https://www.realmadryt.pl/news/152368-mourinho-calkowicie-wybaczam-pilkarzom-druga-polowe</link>
+            <pubDate>Sat, 12 Sep 2026 23:26:00 GMT</pubDate>
+            <description><![CDATA[Pierwsze komentarze trenera po meczu]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Bernardo: Ważne jest, aby atakujący otrzymywali dobre podania, to jest moje zadanie]]></title>
+            <link>https://www.realmadryt.pl/news/152367-bernardo-wazne-jest-aby-atakujacy-otrzymywali-dobre-podania-to-jest-moje-zadanie</link>
+            <pubDate>Sat, 12 Sep 2026 23:25:00 GMT</pubDate>
+            <description><![CDATA[„Dzisiaj kolejny raz tworzyliśmy wiele sytuacji”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Jude Bellingham MVP meczu z Rayo]]></title>
+            <link>https://www.realmadryt.pl/news/152365-jude-bellingham-mvp-meczu-z-rayo</link>
+            <pubDate>Sat, 12 Sep 2026 23:03:00 GMT</pubDate>
+            <description><![CDATA[Wyróżnienie dla Anglika]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oceń piłkarzy po meczu z Rayo]]></title>
+            <link>https://www.realmadryt.pl/news/152363-ocen-pilkarzy-po-meczu-z-rayo</link>
+            <pubDate>Sat, 12 Sep 2026 22:52:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do wspólnego wystawiania not]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Czwórka z minusem]]></title>
+            <link>https://www.realmadryt.pl/news/152364-czworka-z-minusem</link>
             <pubDate>Sat, 12 Sep 2026 20:50:00 GMT</pubDate>
-            <description><![CDATA[Trwa mecz 5. kolejki La Ligi]]></description>
+            <description><![CDATA[Real wygrał z Rayo Vallecano]]></description>
         </item>
         
         <item>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/152358-courtois-o-kolegach-z-druzyny-najwiekszy-zartownis-to-mbappe-video</link>
             <pubDate>Sat, 12 Sep 2026 15:16:00 GMT</pubDate>
             <description><![CDATA[Aktywność przy okazji wizyty na torze F1]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Thiago nie składa broni]]></title>
-            <link>https://www.realmadryt.pl/news/152357-thiago-nie-sklada-broni</link>
-            <pubDate>Sat, 12 Sep 2026 13:36:00 GMT</pubDate>
-            <description><![CDATA[Wychowanek chce przekonać do siebie Mourinho]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[W oczekiwaniu na Bernardo]]></title>
-            <link>https://www.realmadryt.pl/news/152355-w-oczekiwaniu-na-bernardo</link>
-            <pubDate>Sat, 12 Sep 2026 12:51:00 GMT</pubDate>
-            <description><![CDATA[Mourinho wypatruje najlepszej wersji swojego rodaka]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Co obejrzeć w weekend poza meczem Realu Madryt?]]></title>
-            <link>https://www.realmadryt.pl/news/152353-co-obejrzec-w-weekend-poza-meczem-realu-madryt</link>
-            <pubDate>Sat, 12 Sep 2026 12:30:00 GMT</pubDate>
-            <description><![CDATA[Derby Manchesteru i… Grand Prix Hiszpanii]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Vozpópuli zamieściło sprostowanie artykułu ws. syna Florentino Péreza]]></title>
-            <link>https://www.realmadryt.pl/news/152354-vozpopuli-zamiescilo-sprostowanie-artykulu-ws-syna-florentino-pereza</link>
-            <pubDate>Sat, 12 Sep 2026 11:54:00 GMT</pubDate>
-            <description><![CDATA[Zażądała tego agencja Best of You]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Ten sam rywal, inny Fede]]></title>
-            <link>https://www.realmadryt.pl/news/152352-ten-sam-rywal-inny-fede</link>
-            <pubDate>Sat, 12 Sep 2026 11:35:00 GMT</pubDate>
-            <description><![CDATA[Właśnie w meczu z Rayo Urugwajczyk zamknął trudny dla siebie etap]]></description>
         </item>
         
 </channel>
