@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 12 Sep 2026 22:25:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 00:05:59 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152370-dzisiejsze-okladki</link>
+            <pubDate>Sun, 13 Sep 2026 00:26:00 GMT</pubDate>
+            <description><![CDATA[„Pół Realu to dużo”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Real Madryt 4:1 Rayo Vallecano [VIDEO]]]></title>
             <link>https://www.realmadryt.pl/news/152366-real-madryt-4-1-rayo-vallecano-video</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152356-szczescie-tez-mozna-wytrenowac</link>
             <pubDate>Sat, 12 Sep 2026 15:22:00 GMT</pubDate>
             <description><![CDATA[Mourinho podkreśla wagę skutecznego pressingu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Courtois o kolegach z drużyny: „Największy żartowniś to Mbappé” [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/152358-courtois-o-kolegach-z-druzyny-najwiekszy-zartownis-to-mbappe-video</link>
-            <pubDate>Sat, 12 Sep 2026 15:16:00 GMT</pubDate>
-            <description><![CDATA[Aktywność przy okazji wizyty na torze F1]]></description>
         </item>
         
 </channel>
