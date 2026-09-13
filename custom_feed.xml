@@ -4,8 +4,71 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 13 Sep 2026 04:42:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 09:44:55 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Kartka z kalendarza: 13 września]]></title>
+            <link>https://www.realmadryt.pl/news/152379-kartka-z-kalendarza-13-wrzesnia</link>
+            <pubDate>Sun, 13 Sep 2026 11:00:00 GMT</pubDate>
+            <description><![CDATA[Bolesne porażki z Lyonem i Atlético oraz debiut legendy]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pedro Martínez: Jest wiele rzeczy do poprawy, ale jesteśmy na właściwej drodze]]></title>
+            <link>https://www.realmadryt.pl/news/152378-pedro-martinez-jest-wiele-rzeczy-do-poprawy-ale-jestesmy-na-wlasciwej-drodze</link>
+            <pubDate>Sun, 13 Sep 2026 10:29:00 GMT</pubDate>
+            <description><![CDATA[Wypowiedzi trenera po zwycięstwie z Unicają]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madryt zwycięzcą Torneo Costa del Sol]]></title>
+            <link>https://www.realmadryt.pl/news/152377-real-madryt-zwyciezca-torneo-costa-del-sol</link>
+            <pubDate>Sun, 13 Sep 2026 10:17:00 GMT</pubDate>
+            <description><![CDATA[Koszykarze zakończyli przygotowania do sezonu]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Beñat: Na pierwszą połowę postawiłem na zbyt ryzykowny plan]]></title>
+            <link>https://www.realmadryt.pl/news/152375-benat-na-pierwsza-polowe-postawilem-na-zbyt-ryzykowny-plan</link>
+            <pubDate>Sun, 13 Sep 2026 10:10:00 GMT</pubDate>
+            <description><![CDATA[Trener Rayo po porażce z Realem Madryt]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Footy Headlines: Real Madryt dostanie kolekcję na meksykańskie Święto Zmarłych]]></title>
+            <link>https://www.realmadryt.pl/news/152374-footy-headlines-real-madryt-dostanie-kolekcje-na-meksykanskie-swieto-zmarlych</link>
+            <pubDate>Sun, 13 Sep 2026 09:20:00 GMT</pubDate>
+            <description><![CDATA[Można spodziewać się grafik z czaszkami]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[AS: Real ufa Courtois i jest blisko przedłużenia jego umowy]]></title>
+            <link>https://www.realmadryt.pl/news/152376-as-real-ufa-courtois-i-jest-blisko-przedluzenia-jego-umowy</link>
+            <pubDate>Sun, 13 Sep 2026 08:55:00 GMT</pubDate>
+            <description><![CDATA[Latem klubowi oferowano sprowadzenie Kobela]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[POSTMECZ: Czy przyjmujesz tłumaczenia Mourinho w sprawie drugiej połowy?]]></title>
+            <link>https://www.realmadryt.pl/news/152373-postmecz-czy-przyjmujesz-tlumaczenia-mourinho-w-sprawie-drugiej-polowy</link>
+            <pubDate>Sun, 13 Sep 2026 08:30:00 GMT</pubDate>
+            <description><![CDATA[Debata na dzień pomeczowy]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mourinho: Przy moim doświadczeniu spodziewałem się, że ten mecz będzie trochę tak wyglądał]]></title>
+            <link>https://www.realmadryt.pl/news/152371-mourinho-przy-moim-doswiadczeniu-spodziewalem-sie-ze-ten-mecz-bedzie-troche-tak-wygladal</link>
+            <pubDate>Sun, 13 Sep 2026 07:50:00 GMT</pubDate>
+            <description><![CDATA[Zapis pomeczowej konferencji z trenerem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Arda Güler a „nietykalni”]]></title>
+            <link>https://www.realmadryt.pl/news/152372-glos-kibica-arda-guler-a-nietykalni</link>
+            <pubDate>Sun, 13 Sep 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Carreras: Trener wymaga gry z dużą intensywnością]]></title>
             <link>https://www.realmadryt.pl/news/152369-carreras-trener-wymaga-gry-z-duza-intensywnoscia</link>
@@ -25,69 +88,6 @@
             <link>https://www.realmadryt.pl/news/152366-real-madryt-4-1-rayo-vallecano-video</link>
             <pubDate>Sat, 12 Sep 2026 23:29:00 GMT</pubDate>
             <description><![CDATA[Skrót meczu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho: Całkowicie wybaczam piłkarzom drugą połowę]]></title>
-            <link>https://www.realmadryt.pl/news/152368-mourinho-calkowicie-wybaczam-pilkarzom-druga-polowe</link>
-            <pubDate>Sat, 12 Sep 2026 23:26:00 GMT</pubDate>
-            <description><![CDATA[Pierwsze komentarze trenera po meczu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bernardo: Ważne jest, aby atakujący otrzymywali dobre podania, to jest moje zadanie]]></title>
-            <link>https://www.realmadryt.pl/news/152367-bernardo-wazne-jest-aby-atakujacy-otrzymywali-dobre-podania-to-jest-moje-zadanie</link>
-            <pubDate>Sat, 12 Sep 2026 23:25:00 GMT</pubDate>
-            <description><![CDATA[„Dzisiaj kolejny raz tworzyliśmy wiele sytuacji”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Jude Bellingham MVP meczu z Rayo]]></title>
-            <link>https://www.realmadryt.pl/news/152365-jude-bellingham-mvp-meczu-z-rayo</link>
-            <pubDate>Sat, 12 Sep 2026 23:03:00 GMT</pubDate>
-            <description><![CDATA[Wyróżnienie dla Anglika]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oceń piłkarzy po meczu z Rayo]]></title>
-            <link>https://www.realmadryt.pl/news/152363-ocen-pilkarzy-po-meczu-z-rayo</link>
-            <pubDate>Sat, 12 Sep 2026 22:52:00 GMT</pubDate>
-            <description><![CDATA[Zapraszamy do wspólnego wystawiania not]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Czwórka z minusem]]></title>
-            <link>https://www.realmadryt.pl/news/152364-czworka-z-minusem</link>
-            <pubDate>Sat, 12 Sep 2026 20:50:00 GMT</pubDate>
-            <description><![CDATA[Real wygrał z Rayo Vallecano]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Rozgrzewka przed Rayo [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/152362-rozgrzewka-przed-rayo-na-zywo</link>
-            <pubDate>Sat, 12 Sep 2026 20:10:00 GMT</pubDate>
-            <description><![CDATA[Obraz ze stadionu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real Madryt – Rayo Vallecano: Znamy składy!]]></title>
-            <link>https://www.realmadryt.pl/news/152361-real-madryt-rayo-vallecano-znamy-sklady</link>
-            <pubDate>Sat, 12 Sep 2026 19:41:00 GMT</pubDate>
-            <description><![CDATA[Wiemy, kto powalczy o ligowe punkty]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Nick Smith Jr. blisko dołączenia do Realu Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/152360-nick-smith-jr-blisko-dolaczenia-do-realu-madryt</link>
-            <pubDate>Sat, 12 Sep 2026 18:08:00 GMT</pubDate>
-            <description><![CDATA[Kolejne wzmocnienie dla koszykarzy na horyzoncie]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Porażka Castilli, Rachad zmarnował drugi rzut karny [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/152359-porazka-castilli-rachad-zmarnowal-drugi-rzut-karny-video</link>
-            <pubDate>Sat, 12 Sep 2026 17:52:00 GMT</pubDate>
-            <description><![CDATA[Rezerwy przegrały z Águilas]]></description>
         </item>
         
 </channel>
