@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 13 Sep 2026 19:26:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 21:33:13 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Lamine Yamal: Jeśli chodzi o najlepszego na świecie, jest nas dwóch i to ja zasługiwałbym w tym roku na Złotą Piłkę]]></title>
+            <link>https://www.realmadryt.pl/news/152391-lamine-yamal-jesli-chodzi-o-najlepszego-na-swiecie-jest-nas-dwoch-i-to-ja-zaslugiwalbym-w-tym-roku-na-zlota-pilke</link>
+            <pubDate>Sun, 13 Sep 2026 23:25:00 GMT</pubDate>
+            <description><![CDATA[Zapowiedź wywiadu z piłkarzem Barcelony]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Atlético wygrywa z Sociedadem i doskakuje na 2 punkty do Realu]]></title>
+            <link>https://www.realmadryt.pl/news/152389-atletico-wygrywa-z-sociedadem-i-doskakuje-na-2-punkty-do-realu</link>
+            <pubDate>Sun, 13 Sep 2026 22:56:00 GMT</pubDate>
+            <description><![CDATA[Za tydzień derby Madrytu]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Przedstawiciele Królewskich pojawili się na wyścigu F1 w Madrycie [VIDEO]]]></title>
             <link>https://www.realmadryt.pl/news/152386-przedstawiciele-krolewskich-pojawili-sie-na-wyscigu-f1-w-madrycie-video</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152377-real-madryt-zwyciezca-torneo-costa-del-sol</link>
             <pubDate>Sun, 13 Sep 2026 10:17:00 GMT</pubDate>
             <description><![CDATA[Koszykarze zakończyli przygotowania do sezonu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Beñat: Na pierwszą połowę postawiłem na zbyt ryzykowny plan]]></title>
-            <link>https://www.realmadryt.pl/news/152375-benat-na-pierwsza-polowe-postawilem-na-zbyt-ryzykowny-plan</link>
-            <pubDate>Sun, 13 Sep 2026 10:10:00 GMT</pubDate>
-            <description><![CDATA[Trener Rayo po porażce z Realem Madryt]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Footy Headlines: Real Madryt dostanie kolekcję na meksykańskie Święto Zmarłych]]></title>
-            <link>https://www.realmadryt.pl/news/152374-footy-headlines-real-madryt-dostanie-kolekcje-na-meksykanskie-swieto-zmarlych</link>
-            <pubDate>Sun, 13 Sep 2026 09:20:00 GMT</pubDate>
-            <description><![CDATA[Można spodziewać się grafik z czaszkami]]></description>
         </item>
         
 </channel>
