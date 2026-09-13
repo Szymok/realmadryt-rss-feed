@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 13 Sep 2026 21:33:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 23:30:15 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152393-dzisiejsze-okladki</link>
+            <pubDate>Mon, 14 Sep 2026 00:32:00 GMT</pubDate>
+            <description><![CDATA[„Na kołach”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Lamine Yamal: Jeśli chodzi o najlepszego na świecie, jest nas dwóch i to ja zasługiwałbym w tym roku na Złotą Piłkę]]></title>
             <link>https://www.realmadryt.pl/news/152391-lamine-yamal-jesli-chodzi-o-najlepszego-na-swiecie-jest-nas-dwoch-i-to-ja-zaslugiwalbym-w-tym-roku-na-zlota-pilke</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152378-pedro-martinez-jest-wiele-rzeczy-do-poprawy-ale-jestesmy-na-wlasciwej-drodze</link>
             <pubDate>Sun, 13 Sep 2026 10:29:00 GMT</pubDate>
             <description><![CDATA[Wypowiedzi trenera po zwycięstwie z Unicają]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real Madryt zwycięzcą Torneo Costa del Sol]]></title>
-            <link>https://www.realmadryt.pl/news/152377-real-madryt-zwyciezca-torneo-costa-del-sol</link>
-            <pubDate>Sun, 13 Sep 2026 10:17:00 GMT</pubDate>
-            <description><![CDATA[Koszykarze zakończyli przygotowania do sezonu]]></description>
         </item>
         
 </channel>
