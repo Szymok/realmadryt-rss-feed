@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 14 Sep 2026 19:08:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 22:28:27 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152424-dzisiejsze-okladki</link>
+            <pubDate>Tue, 15 Sep 2026 00:19:00 GMT</pubDate>
+            <description><![CDATA[„Gorączka złota”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Rodri: Przyjęcie propozycji Barçy nie było trudną decyzją]]></title>
+            <link>https://www.realmadryt.pl/news/152417-rodri-przyjecie-propozycji-barcy-nie-bylo-trudna-decyzja</link>
+            <pubDate>Mon, 14 Sep 2026 21:55:00 GMT</pubDate>
+            <description><![CDATA[„Klub postawił na Lamine’a w Złotej Piłce i ma do tego pełne prawo”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Alaba bez klubu i bez powołania do kadry]]></title>
             <link>https://www.realmadryt.pl/news/152415-alaba-bez-klubu-i-bez-powolania-do-kadry</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152406-marca-julian-alvarez-chce-wrocic-na-derby</link>
             <pubDate>Mon, 14 Sep 2026 16:31:00 GMT</pubDate>
             <description><![CDATA[W szeregach Los Colchoneros zachowują optymizm]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Jesús Gil Manzano na Elche]]></title>
-            <link>https://www.realmadryt.pl/news/152405-jesus-gil-manzano-na-elche</link>
-            <pubDate>Mon, 14 Sep 2026 13:56:00 GMT</pubDate>
-            <description><![CDATA[Sędzią VAR będzie Raúl Martín González Francés]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kadra na Elche]]></title>
-            <link>https://www.realmadryt.pl/news/152403-kadra-na-elche</link>
-            <pubDate>Mon, 14 Sep 2026 13:50:00 GMT</pubDate>
-            <description><![CDATA[Mourinho nie może liczyć na 3 graczy]]></description>
         </item>
         
 </channel>
