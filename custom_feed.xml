@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 15 Sep 2026 00:48:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 05:37:46 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Rotacje „nietykalnych”]]></title>
+            <link>https://www.realmadryt.pl/news/152425-glos-kibica-rotacje-nietykalnych</link>
+            <pubDate>Tue, 15 Sep 2026 07:30:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Laporta: Lamine przyznaje sobie Złotą Piłkę? Nie widziałem takiej krytyki, gdy kampanię robili inni piłkarze]]></title>
+            <link>https://www.realmadryt.pl/news/152427-laporta-lamine-przyznaje-sobie-zlota-pilke-nie-widzialem-takiej-krytyki-gdy-kampanie-robili-inni-pilkarze</link>
+            <pubDate>Tue, 15 Sep 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[„Yamal nie ma kompleksów, jest wyluzowany”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[O jakie karne z weekendu chodziło Mourinho? [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152421-o-jakie-karne-z-weekendu-chodzilo-mourinho-video</link>
+            <pubDate>Tue, 15 Sep 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Kontrowersje, których nie poruszyli dziennikarze]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Elche – Real Madryt: Przewidywane składy]]></title>
             <link>https://www.realmadryt.pl/news/152426-elche-real-madryt-przewidywane-sklady</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152410-oficjalnie-lonnie-walker-zawodnikiem-denver-nuggets</link>
             <pubDate>Mon, 14 Sep 2026 17:47:00 GMT</pubDate>
             <description><![CDATA[Amerykanin znów nie trafi do Realu Madryt]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Ołeksij Łeń zawodnikiem Baskonii]]></title>
-            <link>https://www.realmadryt.pl/news/152409-oficjalnie-oleksij-len-zawodnikiem-baskonii</link>
-            <pubDate>Mon, 14 Sep 2026 17:36:00 GMT</pubDate>
-            <description><![CDATA[Ukrainiec znalazł nowy klub]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bellingham o kolegach z drużyny: „Najinteligentniejszy? Courtois lub Rüdiger” [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/152408-bellingham-o-kolegach-z-druzyny-najinteligentniejszy-courtois-lub-rudiger-video</link>
-            <pubDate>Mon, 14 Sep 2026 17:04:00 GMT</pubDate>
-            <description><![CDATA[Aktywność przy okazji wyścigu F1]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Fabián: Złota Piłka? Pod względem tytułów nikt nie rozegrał lepszego sezonu ode mnie]]></title>
-            <link>https://www.realmadryt.pl/news/152407-fabian-zlota-pilka-pod-wzgledem-tytulow-nikt-nie-rozegral-lepszego-sezonu-ode-mnie</link>
-            <pubDate>Mon, 14 Sep 2026 16:46:00 GMT</pubDate>
-            <description><![CDATA[Hiszpan o swojej kandydaturze]]></description>
         </item>
         
 </channel>
