@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 15 Sep 2026 21:56:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:55:00 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152459-dzisiejsze-okladki</link>
+            <pubDate>Wed, 16 Sep 2026 00:40:00 GMT</pubDate>
+            <description><![CDATA[„Złoty ratownik”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Vinícius: Bramki wrócą]]></title>
+            <link>https://www.realmadryt.pl/news/152457-vinicius-bramki-wroca</link>
+            <pubDate>Wed, 16 Sep 2026 00:25:00 GMT</pubDate>
+            <description><![CDATA[Przekaz od Brazylijczyka]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Vinícius, Mbappé i Konaté nie okazali wsparcia Ceucie [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152455-vinicius-mbappe-i-konate-nie-okazali-wsparcia-ceucie-video</link>
+            <pubDate>Wed, 16 Sep 2026 00:01:00 GMT</pubDate>
+            <description><![CDATA[Trójka piłkarzy podwinęła specjalne koszulki]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Mourinho: Podjęliśmy maksymalne ryzyko, ale remis nic nam nie dawał]]></title>
             <link>https://www.realmadryt.pl/news/152454-mourinho-podjelismy-maksymalne-ryzyko-ale-remis-nic-nam-nie-dawal</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152445-mosquera-elche-moze-sprawic-realowi-problemy</link>
             <pubDate>Tue, 15 Sep 2026 20:28:00 GMT</pubDate>
             <description><![CDATA[„Mecze wyjazdowe zawsze są trudne”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Elche – Real Madryt: Znamy składy!]]></title>
-            <link>https://www.realmadryt.pl/news/152442-elche-real-madryt-znamy-sklady</link>
-            <pubDate>Tue, 15 Sep 2026 20:11:00 GMT</pubDate>
-            <description><![CDATA[Wiemy, kto powalczy o ligowe punkty]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bernardo: Ciągle się adaptuję i poznaję nowy sposób gry]]></title>
-            <link>https://www.realmadryt.pl/news/152443-bernardo-ciagle-sie-adaptuje-i-poznaje-nowy-sposob-gry</link>
-            <pubDate>Tue, 15 Sep 2026 19:07:00 GMT</pubDate>
-            <description><![CDATA[Przedmeczowe komentarze Portugalczyka]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Telewizyjny terminarz 6. kolejki La Ligi]]></title>
-            <link>https://www.realmadryt.pl/news/152441-telewizyjny-terminarz-6-kolejki-la-ligi</link>
-            <pubDate>Tue, 15 Sep 2026 18:00:00 GMT</pubDate>
-            <description><![CDATA[Mecz Realu skomentują Adam Marchliński i Tomasz Ćwiąkała]]></description>
         </item>
         
 </channel>
