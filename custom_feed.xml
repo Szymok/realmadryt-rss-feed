@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 14 Sep 2026 22:28:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:48:18 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Elche – Real Madryt: Przewidywane składy]]></title>
+            <link>https://www.realmadryt.pl/news/152426-elche-real-madryt-przewidywane-sklady</link>
+            <pubDate>Tue, 15 Sep 2026 01:09:00 GMT</pubDate>
+            <description><![CDATA[Powrót Gülera i brak rotacji „nietykalnych”?]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/152424-dzisiejsze-okladki</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152407-fabian-zlota-pilka-pod-wzgledem-tytulow-nikt-nie-rozegral-lepszego-sezonu-ode-mnie</link>
             <pubDate>Mon, 14 Sep 2026 16:46:00 GMT</pubDate>
             <description><![CDATA[Hiszpan o swojej kandydaturze]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[MARCA: Julián Alvarez chce wrócić na derby]]></title>
-            <link>https://www.realmadryt.pl/news/152406-marca-julian-alvarez-chce-wrocic-na-derby</link>
-            <pubDate>Mon, 14 Sep 2026 16:31:00 GMT</pubDate>
-            <description><![CDATA[W szeregach Los Colchoneros zachowują optymizm]]></description>
         </item>
         
 </channel>
