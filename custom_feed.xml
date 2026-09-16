@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 16 Sep 2026 20:24:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 23:05:25 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152484-dzisiejsze-okladki</link>
+            <pubDate>Thu, 17 Sep 2026 00:31:00 GMT</pubDate>
+            <description><![CDATA[„Pierwsze zwrócenie uwagi przez Mou”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Nick Smith Jr: Dončić zawsze mówił o Realu Madryt i Eurolidze]]></title>
+            <link>https://www.realmadryt.pl/news/152481-nick-smith-jr-doncic-zawsze-mowil-o-realu-madryt-i-eurolidze</link>
+            <pubDate>Wed, 16 Sep 2026 22:57:00 GMT</pubDate>
+            <description><![CDATA[Pierwszy wywiad Amerykanina po transferze]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Mbappé: Chciałem pamiętać o wszystkich cierpiących, nie chcę ustalać hierarchii cierpienia]]></title>
             <link>https://www.realmadryt.pl/news/152480-mbappe-chcialem-pamietac-o-wszystkich-cierpiacych-nie-chce-ustalac-hierarchii-cierpienia</link>
@@ -35,10 +49,10 @@
         </item>
         
         <item>
-            <title><![CDATA[6. kolejka: Atlético gromi przed derbami; Barça szuka ponownego odskoczenia od Realu [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/152476-6-kolejka-atletico-gromi-przed-derbami-barca-szuka-ponownego-odskoczenia-od-realu-na-zywo</link>
+            <title><![CDATA[6. kolejka: Atlético i Barça gromią przed derbami Madrytu [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/152476-6-kolejka-atletico-i-barca-gromia-przed-derbami-madrytu-na-zywo</link>
             <pubDate>Wed, 16 Sep 2026 18:30:00 GMT</pubDate>
-            <description><![CDATA[Grają najbliższy oraz największy rywal Realu Madryt]]></description>
+            <description><![CDATA[Grali najbliższy oraz największy rywal Realu Madryt]]></description>
         </item>
         
         <item>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152468-diomande-robi-postepy</link>
             <pubDate>Wed, 16 Sep 2026 13:00:00 GMT</pubDate>
             <description><![CDATA[Z Elche pokazał się na obu skrzydłach]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Elche podważa fair play Mbappé… po prowokacji i ataku rywala na Francuza [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/152471-elche-podwaza-fair-play-mbappe-po-prowokacji-i-ataku-rywala-na-francuza-video</link>
-            <pubDate>Wed, 16 Sep 2026 12:16:00 GMT</pubDate>
-            <description><![CDATA[Rywale manipulują i mieszają]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[MARCA: Wyłączenie, które mogło kosztować mistrzostwo]]></title>
-            <link>https://www.realmadryt.pl/news/152470-marca-wylaczenie-ktore-moglo-kosztowac-mistrzostwo</link>
-            <pubDate>Wed, 16 Sep 2026 12:04:00 GMT</pubDate>
-            <description><![CDATA[O niezrozumiałej postawie Królewskich w drugiej połowie słów kilka]]></description>
         </item>
         
 </channel>
