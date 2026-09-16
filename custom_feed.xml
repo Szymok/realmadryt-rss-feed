@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 16 Sep 2026 12:58:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:32:02 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[AS: Znamy pulę nagród w Superpucharze Hiszpanii]]></title>
+            <link>https://www.realmadryt.pl/news/152477-as-znamy-pule-nagrod-w-superpucharze-hiszpanii</link>
+            <pubDate>Wed, 16 Sep 2026 18:42:00 GMT</pubDate>
+            <description><![CDATA[O wiele wyższa niż w zeszłej edycji]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[6. kolejka: Atlético i Barcelona chcą wygrać przed derbami Madrytu [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/152476-6-kolejka-atletico-i-barcelona-chca-wygrac-przed-derbami-madrytu-na-zywo</link>
+            <pubDate>Wed, 16 Sep 2026 18:30:00 GMT</pubDate>
+            <description><![CDATA[Grają najbliższy oraz największy rywal Realu Madryt]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madrid TV o sędziach w meczu z Elche: Jeśli nie było żółtych kartek, to jak miały pojawić się czerwone? [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152475-real-madrid-tv-o-sedziach-w-meczu-z-elche-jesli-nie-bylo-zoltych-kartek-to-jak-mialy-pojawic-sie-czerwone-video</link>
+            <pubDate>Wed, 16 Sep 2026 15:39:00 GMT</pubDate>
+            <description><![CDATA[Klub obnaża kryteria arbitrów]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Oficjalnie: Kobiecy Klasyk 4 października na Camp Nou]]></title>
             <link>https://www.realmadryt.pl/news/152474-oficjalnie-kobiecy-klasyk-4-pazdziernika-na-camp-nou</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152467-oceny-zawodnikow-po-meczu-z-elche</link>
             <pubDate>Wed, 16 Sep 2026 10:30:00 GMT</pubDate>
             <description><![CDATA[Jak grali nasi?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 16 września]]></title>
-            <link>https://www.realmadryt.pl/news/152463-kartka-z-kalendarza-16-wrzesnia</link>
-            <pubDate>Wed, 16 Sep 2026 10:10:00 GMT</pubDate>
-            <description><![CDATA[Urodziny Pellgriniego i dwie wysokie wygrane]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Nick Smith Jr. zawodnikiem Realu Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/152418-oficjalnie-nick-smith-jr-zawodnikiem-realu-madryt</link>
-            <pubDate>Wed, 16 Sep 2026 09:51:00 GMT</pubDate>
-            <description><![CDATA[Siódme wzmocnienie drużyny koszykarskiej]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Pedro Martínez: W tym momencie Superpuchar Euroligi to najważniejsze rozgrywki dla nas]]></title>
-            <link>https://www.realmadryt.pl/news/152458-pedro-martinez-w-tym-momencie-superpuchar-euroligi-to-najwazniejsze-rozgrywki-dla-nas</link>
-            <pubDate>Wed, 16 Sep 2026 09:40:00 GMT</pubDate>
-            <description><![CDATA[Konferencja prasowa trenera przed turniejem]]></description>
         </item>
         
 </channel>
