@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 17 Sep 2026 19:37:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 22:25:27 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Mbappé dla Asa cz.2: Rozumiem, że kibice są zmęczeni, ale oni też muszą zrozumieć, że potrzebujemy ich do zdobycia tytułów]]></title>
+            <link>https://www.realmadryt.pl/news/152506-mbappe-dla-asa-cz-2-rozumiem-ze-kibice-sa-zmeczeni-ale-oni-tez-musza-zrozumiec-ze-potrzebujemy-ich-do-zdobycia-tytulow</link>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Druga część rozmowy z Francuzem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pedro Martínez: W takich rozgrywkach na początku idziesz trochę na ślepo]]></title>
+            <link>https://www.realmadryt.pl/news/152505-pedro-martinez-w-takich-rozgrywkach-na-poczatku-idziesz-troche-na-slepo</link>
+            <pubDate>Thu, 17 Sep 2026 23:41:00 GMT</pubDate>
+            <description><![CDATA[Wypowiedzi przed meczem z Dubajem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mbappé dla Asa cz.1: Czy gracze muszą być przyjaciółmi? To kwestia nowego pokolenia kibiców, przez sociale wszystko jest pod lupą]]></title>
+            <link>https://www.realmadryt.pl/news/152504-mbappe-dla-asa-cz-1-czy-gracze-musza-byc-przyjaciolmi-to-kwestia-nowego-pokolenia-kibicow-przez-sociale-wszystko-jest-pod-lupa</link>
+            <pubDate>Thu, 17 Sep 2026 21:39:00 GMT</pubDate>
+            <description><![CDATA[Pierwsza część rozmowy z Francuzem]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[RMC Sport: Zidane może powołać Camavingę na najbliższe mecze reprezentacji]]></title>
             <link>https://www.realmadryt.pl/news/152503-rmc-sport-zidane-moze-powolac-camavinge-na-najblizsze-mecze-reprezentacji</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152494-tchouameni-i-valverde-pogodzili-sie-po-konflikcie</link>
             <pubDate>Thu, 17 Sep 2026 12:24:00 GMT</pubDate>
             <description><![CDATA[Do szatni Realu Madryt wraca spokój]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Vinícius bije się w pierś przed derbami]]></title>
-            <link>https://www.realmadryt.pl/news/152493-vinicius-bije-sie-w-piers-przed-derbami</link>
-            <pubDate>Thu, 17 Sep 2026 11:39:00 GMT</pubDate>
-            <description><![CDATA[Mourinho konsekwentnie go wspiera i docenia jego pracę dla zespołu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[„Tobie wolno wszystko, mnie nic”]]></title>
-            <link>https://www.realmadryt.pl/news/152492-tobie-wolno-wszystko-mnie-nic</link>
-            <pubDate>Thu, 17 Sep 2026 10:48:00 GMT</pubDate>
-            <description><![CDATA[Dziennikarz Marki o aferze koszulkowej i podwójnych standardach]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[ABC: Real gra tylko przez połowę meczu i klub oczekuje reakcji Mourinho]]></title>
-            <link>https://www.realmadryt.pl/news/152490-abc-real-gra-tylko-przez-polowe-meczu-i-klub-oczekuje-reakcji-mourinho</link>
-            <pubDate>Thu, 17 Sep 2026 10:30:00 GMT</pubDate>
-            <description><![CDATA[Portugalczyk powinien skuteczniej reagować na problemy zespołu]]></description>
         </item>
         
 </channel>
