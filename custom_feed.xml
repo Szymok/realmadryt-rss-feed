@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 17 Sep 2026 11:55:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:59:22 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Oficjalnie: Real zagra w półfinale Superpucharu na stadionie Beşiktaşu]]></title>
+            <link>https://www.realmadryt.pl/news/152500-oficjalnie-real-zagra-w-polfinale-superpucharu-na-stadionie-besiktasu</link>
+            <pubDate>Thu, 17 Sep 2026 16:39:00 GMT</pubDate>
+            <description><![CDATA[Trzy różne obiekty w Stambule przyjmą hiszpański turniej]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Podcast 8x04: Czy wystawiamy Viniego w jedenastce na derby?]]></title>
+            <link>https://www.realmadryt.pl/news/152499-podcast-8x04-czy-wystawiamy-viniego-w-jedenastce-na-derby</link>
+            <pubDate>Thu, 17 Sep 2026 15:36:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do wysłuchania naszych opinii]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Mbappé: Najważniejsze jest dla mnie, żeby Złota Piłka wróciła do Realu Madryt]]></title>
             <link>https://www.realmadryt.pl/news/152498-mbappe-najwazniejsze-jest-dla-mnie-zeby-zlota-pilka-wrocila-do-realu-madryt</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152483-laporta-zaproponujemy-camp-nou-na-final-mundialu-w-2030-roku</link>
             <pubDate>Thu, 17 Sep 2026 09:00:00 GMT</pubDate>
             <description><![CDATA[„Wsparcie dla Ceuty? My dajemy naszym piłkarzom swobodę”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Chiringuito: Początkowo piłkarze Realu wyszli z zamiarem niezakładania koszulek dla Ceuty [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/152487-chiringuito-poczatkowo-pilkarze-realu-wyszli-z-zamiarem-niezakladania-koszulek-dla-ceuty-video</link>
-            <pubDate>Thu, 17 Sep 2026 08:20:00 GMT</pubDate>
-            <description><![CDATA[Historia z szatni Królewskich]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[GŁOS KIBICA: Vinícius w jedenastce na derby cz.1]]></title>
-            <link>https://www.realmadryt.pl/news/152486-glos-kibica-vinicius-w-jedenastce-na-derby-cz-1</link>
-            <pubDate>Thu, 17 Sep 2026 07:40:00 GMT</pubDate>
-            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
         </item>
         
 </channel>
