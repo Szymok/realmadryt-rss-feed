@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 17 Sep 2026 01:22:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 06:19:42 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Vinícius w jedenastce na derby cz.1]]></title>
+            <link>https://www.realmadryt.pl/news/152486-glos-kibica-vinicius-w-jedenastce-na-derby-cz-1</link>
+            <pubDate>Thu, 17 Sep 2026 07:40:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madrid TV: Rażące różnice w traktowaniu graczy Realu i Barçy przez sędziów [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152485-real-madrid-tv-razace-roznice-w-traktowaniu-graczy-realu-i-barcy-przez-sedziow-video</link>
+            <pubDate>Thu, 17 Sep 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Najnowszy materiał klubowej telewizji]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Romano: Real i Barcelona mają zupełnie inne projekty i ścieżki rozwoju dla JJ Gabriela]]></title>
+            <link>https://www.realmadryt.pl/news/152488-romano-real-i-barcelona-maja-zupelnie-inne-projekty-i-sciezki-rozwoju-dla-jj-gabriela</link>
+            <pubDate>Thu, 17 Sep 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Królewscy mają walczyć o 15-letniego Anglika]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/152484-dzisiejsze-okladki</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152474-oficjalnie-kobiecy-klasyk-4-pazdziernika-na-camp-nou</link>
             <pubDate>Wed, 16 Sep 2026 14:28:00 GMT</pubDate>
             <description><![CDATA[Znamy datę pierwszego spotkania piłkarek z Barceloną]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Poli Rincón: Chcę, żeby Mourinho odszedł]]></title>
-            <link>https://www.realmadryt.pl/news/152473-poli-rincon-chce-zeby-mourinho-odszedl</link>
-            <pubDate>Wed, 16 Sep 2026 13:40:00 GMT</pubDate>
-            <description><![CDATA[„Mourinho nie ma rozwiązania dla tej drużyny”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Terminarz 9. kolejki La Ligi]]></title>
-            <link>https://www.realmadryt.pl/news/152472-terminarz-9-kolejki-la-ligi</link>
-            <pubDate>Wed, 16 Sep 2026 13:03:00 GMT</pubDate>
-            <description><![CDATA[Królewscy zagrają z Sevillą]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Diomandé robi postępy]]></title>
-            <link>https://www.realmadryt.pl/news/152468-diomande-robi-postepy</link>
-            <pubDate>Wed, 16 Sep 2026 13:00:00 GMT</pubDate>
-            <description><![CDATA[Z Elche pokazał się na obu skrzydłach]]></description>
         </item>
         
 </channel>
