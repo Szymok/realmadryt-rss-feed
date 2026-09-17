@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 17 Sep 2026 15:59:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 19:37:02 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[RMC Sport: Zidane może powołać Camavingę na najbliższe mecze reprezentacji]]></title>
+            <link>https://www.realmadryt.pl/news/152503-rmc-sport-zidane-moze-powolac-camavinge-na-najblizsze-mecze-reprezentacji</link>
+            <pubDate>Thu, 17 Sep 2026 20:02:00 GMT</pubDate>
+            <description><![CDATA[Informacje z Francji]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Brahim powołany do reprezentacji]]></title>
+            <link>https://www.realmadryt.pl/news/152502-brahim-powolany-do-reprezentacji</link>
+            <pubDate>Thu, 17 Sep 2026 19:19:00 GMT</pubDate>
+            <description><![CDATA[Marokańczycy zaczną eliminacje kolejnego Pucharu Narodów Afryki]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Kulisy czwartkowego treningu z ekranem taktycznym [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152501-kulisy-czwartkowego-treningu-z-ekranem-taktycznym-video</link>
+            <pubDate>Thu, 17 Sep 2026 19:05:00 GMT</pubDate>
+            <description><![CDATA[Nowość w Valdebebas]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Oficjalnie: Real zagra w półfinale Superpucharu na stadionie Beşiktaşu]]></title>
             <link>https://www.realmadryt.pl/news/152500-oficjalnie-real-zagra-w-polfinale-superpucharu-na-stadionie-besiktasu</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152490-abc-real-gra-tylko-przez-polowe-meczu-i-klub-oczekuje-reakcji-mourinho</link>
             <pubDate>Thu, 17 Sep 2026 10:30:00 GMT</pubDate>
             <description><![CDATA[Portugalczyk powinien skuteczniej reagować na problemy zespołu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 17 września]]></title>
-            <link>https://www.realmadryt.pl/news/152482-kartka-z-kalendarza-17-wrzesnia</link>
-            <pubDate>Thu, 17 Sep 2026 09:40:00 GMT</pubDate>
-            <description><![CDATA[Początek drogi po La Décimę i popis wychowanków w Rzymie]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[The Athletic: Real od miesięcy pracuje nad sprowadzeniem JJ Gabriela]]></title>
-            <link>https://www.realmadryt.pl/news/152489-the-athletic-real-od-miesiecy-pracuje-nad-sprowadzeniem-jj-gabriela</link>
-            <pubDate>Thu, 17 Sep 2026 09:33:00 GMT</pubDate>
-            <description><![CDATA[Królewscy mają już gotowy plan dla piłkarza]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Laporta: Zaproponujemy Camp Nou na finał mundialu w 2030 roku]]></title>
-            <link>https://www.realmadryt.pl/news/152483-laporta-zaproponujemy-camp-nou-na-final-mundialu-w-2030-roku</link>
-            <pubDate>Thu, 17 Sep 2026 09:00:00 GMT</pubDate>
-            <description><![CDATA[„Wsparcie dla Ceuty? My dajemy naszym piłkarzom swobodę”]]></description>
         </item>
         
 </channel>
