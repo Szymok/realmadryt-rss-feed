@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 17 Sep 2026 22:25:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 00:33:36 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152513-dzisiejsze-okladki</link>
+            <pubDate>Fri, 18 Sep 2026 00:26:00 GMT</pubDate>
+            <description><![CDATA[„Nie lubię mówić o sobie, 73 gole mówią same za siebie”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Mbappé dla Asa cz.2: Rozumiem, że kibice są zmęczeni, ale oni też muszą zrozumieć, że potrzebujemy ich do zdobycia tytułów]]></title>
             <link>https://www.realmadryt.pl/news/152506-mbappe-dla-asa-cz-2-rozumiem-ze-kibice-sa-zmeczeni-ale-oni-tez-musza-zrozumiec-ze-potrzebujemy-ich-do-zdobycia-tytulow</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152495-dzisiejszy-trening</link>
             <pubDate>Thu, 17 Sep 2026 12:54:00 GMT</pubDate>
             <description><![CDATA[Początek przygotowań do derbów Madrytu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Tchouaméni i Valverde pogodzili się po konflikcie]]></title>
-            <link>https://www.realmadryt.pl/news/152494-tchouameni-i-valverde-pogodzili-sie-po-konflikcie</link>
-            <pubDate>Thu, 17 Sep 2026 12:24:00 GMT</pubDate>
-            <description><![CDATA[Do szatni Realu Madryt wraca spokój]]></description>
         </item>
         
 </channel>
