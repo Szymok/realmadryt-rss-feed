@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 18 Sep 2026 19:57:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 22:15:58 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Real Madryt powalczy o Puchar Interkontynentalny U-20]]></title>
+            <link>https://www.realmadryt.pl/news/152538-real-madryt-powalczy-o-puchar-interkontynentalny-u-20</link>
+            <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Młodzi zawodnicy z szansą na trofeum na Santiago Bernabéu]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pedro Martínez: To był bardzo trudny mecz, ale tego się spodziewaliśmy]]></title>
+            <link>https://www.realmadryt.pl/news/152537-pedro-martinez-to-byl-bardzo-trudny-mecz-ale-tego-sie-spodziewalismy</link>
+            <pubDate>Fri, 18 Sep 2026 22:46:00 GMT</pubDate>
+            <description><![CDATA[Konferencja prasowa po zwycięstwie z Dubajem]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Real Madryt w finale Superpucharu Euroligi!]]></title>
             <link>https://www.realmadryt.pl/news/152533-real-madryt-w-finale-superpucharu-euroligi</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152525-oficjalnie-mbappe-zostal-twarza-marki-sportowej-on</link>
             <pubDate>Fri, 18 Sep 2026 15:14:00 GMT</pubDate>
             <description><![CDATA[Zapowiadany koniec współpracy Francuza z Nike]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Florentino, Pirri i Butragueño odwiedzili Ceutę]]></title>
-            <link>https://www.realmadryt.pl/news/152524-florentino-pirri-i-butragueno-odwiedzili-ceute</link>
-            <pubDate>Fri, 18 Sep 2026 14:44:00 GMT</pubDate>
-            <description><![CDATA[Królewscy okazali wsparcie Ceucie i jej mieszkańcom]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Lamine Yamal: Rywalizowałem z Mbappé bezpośrednio i wygrałem z nim we wszystkim]]></title>
-            <link>https://www.realmadryt.pl/news/152523-lamine-yamal-rywalizowalem-z-mbappe-bezposrednio-i-wygralem-z-nim-we-wszystkim</link>
-            <pubDate>Fri, 18 Sep 2026 14:37:00 GMT</pubDate>
-            <description><![CDATA[Hiszpan był gościem Jorge Valdano]]></description>
         </item>
         
 </channel>
