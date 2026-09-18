@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 18 Sep 2026 13:59:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:36:21 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Zidane powołał Konaté, Camavingę i Mbappé]]></title>
+            <link>https://www.realmadryt.pl/news/152530-zidane-powolal-konate-camavinge-i-mbappe</link>
+            <pubDate>Fri, 18 Sep 2026 18:23:00 GMT</pubDate>
+            <description><![CDATA[Pierwsza lista Zizou jako selekcjonera]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[MARCA: Real tworzy duże zagrożenie, ale nie jest skuteczny]]></title>
+            <link>https://www.realmadryt.pl/news/152529-marca-real-tworzy-duze-zagrozenie-ale-nie-jest-skuteczny</link>
+            <pubDate>Fri, 18 Sep 2026 18:02:00 GMT</pubDate>
+            <description><![CDATA[Porównanie z europejską czołówką]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Julián Álvarez częściowo trenował z grupą]]></title>
+            <link>https://www.realmadryt.pl/news/152528-julian-alvarez-czesciowo-trenowal-z-grupa</link>
+            <pubDate>Fri, 18 Sep 2026 17:17:00 GMT</pubDate>
+            <description><![CDATA[Atlético wróciło do pracy po dniu wolnym]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[KONKURS! Wygraj domową koszulkę Realu Madryt!]]></title>
+            <link>https://www.realmadryt.pl/news/152491-konkurs-wygraj-domowa-koszulke-realu-madryt</link>
+            <pubDate>Fri, 18 Sep 2026 16:15:00 GMT</pubDate>
+            <description><![CDATA[Tylko dla Socios RealMadryt.pl]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Bernardo i Cristiano powołani na zgrupowanie Portugalii]]></title>
+            <link>https://www.realmadryt.pl/news/152527-bernardo-i-cristiano-powolani-na-zgrupowanie-portugalii</link>
+            <pubDate>Fri, 18 Sep 2026 16:05:00 GMT</pubDate>
+            <description><![CDATA[Czeka ich między innymi starcie z Norwegią]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Oficjalnie: Mbappé został twarzą marki sportowej On]]></title>
             <link>https://www.realmadryt.pl/news/152525-oficjalnie-mbappe-zostal-twarza-marki-sportowej-on</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/152517-drugie-polowy-bija-na-alarm</link>
             <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Real Madryt nie wygrał żadnej drugiej połowy w czterech ostatnich meczach]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Huijsen i Cucurella powołani na zgrupowanie Hiszpanii]]></title>
-            <link>https://www.realmadryt.pl/news/152519-huijsen-i-cucurella-powolani-na-zgrupowanie-hiszpanii</link>
-            <pubDate>Fri, 18 Sep 2026 11:35:00 GMT</pubDate>
-            <description><![CDATA[Czeka ich między innymi mecz z Anglią]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Tchouaméni o fundamentalnym znaczeniu]]></title>
-            <link>https://www.realmadryt.pl/news/152516-tchouameni-o-fundamentalnym-znaczeniu</link>
-            <pubDate>Fri, 18 Sep 2026 11:10:00 GMT</pubDate>
-            <description><![CDATA[Powrót Francuza kluczowy w oczach Mourinho]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 18 września]]></title>
-            <link>https://www.realmadryt.pl/news/152515-kartka-z-kalendarza-18-wrzesnia</link>
-            <pubDate>Fri, 18 Sep 2026 10:20:00 GMT</pubDate>
-            <description><![CDATA[Ważna wygrana w Lidze Mistrzów i urodziny Aitora Karanki]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Ceballos: Jeśli Złotej Piłki nie wygra Fabián, to niech wygra ją Mbappé]]></title>
-            <link>https://www.realmadryt.pl/news/152518-ceballos-jesli-zlotej-pilki-nie-wygra-fabian-to-niech-wygra-ja-mbappe</link>
-            <pubDate>Fri, 18 Sep 2026 10:07:00 GMT</pubDate>
-            <description><![CDATA[„Rywalizacja z Barceloną i Realem? Musimy zachować pokorę”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Xavi Pascual: Widzę Real w bardzo dobrej formie]]></title>
-            <link>https://www.realmadryt.pl/news/152508-xavi-pascual-widze-real-w-bardzo-dobrej-formie</link>
-            <pubDate>Fri, 18 Sep 2026 09:40:00 GMT</pubDate>
-            <description><![CDATA[Trener Dubaju wypowiedział się przed meczem]]></description>
         </item>
         
 </channel>
