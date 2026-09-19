@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 19 Sep 2026 18:42:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:01:45 GMT</lastBuildDate>
     
         <item>
-            <title><![CDATA[Sevilla – Barcelona: Katalończycy mogą odskoczyć na 6 punktów przed derbami Madrytu [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/152562-sevilla-barcelona-katalonczycy-moga-odskoczyc-na-6-punktow-przed-derbami-madrytu-na-zywo</link>
+            <title><![CDATA[Edy Tavares MVP Superpucharu Euroligi]]></title>
+            <link>https://www.realmadryt.pl/news/152564-edy-tavares-mvp-superpucharu-euroligi</link>
+            <pubDate>Sat, 19 Sep 2026 22:54:00 GMT</pubDate>
+            <description><![CDATA[Kolejne indywidualne wyróżnienie dla środkowego]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madryt zwycięzcą Superpucharu Euroligi!]]></title>
+            <link>https://www.realmadryt.pl/news/152563-real-madryt-zwyciezca-superpucharu-euroligi</link>
+            <pubDate>Sat, 19 Sep 2026 21:25:00 GMT</pubDate>
+            <description><![CDATA[Królewscy wygrali pierwszą edycję turnieju]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[7. kolejka: Barcelona ucieka Realowi na 6 punktów przed derbami Madrytu [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/152562-7-kolejka-barcelona-ucieka-realowi-na-6-punktow-przed-derbami-madrytu-na-zywo</link>
             <pubDate>Sat, 19 Sep 2026 20:00:00 GMT</pubDate>
-            <description><![CDATA[Grają najwięksi rywale Królewskich]]></description>
+            <description><![CDATA[Grali najwięksi rywale Królewskich]]></description>
         </item>
         
         <item>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152554-ostatni-trening-przed-derbami-z-atletico</link>
             <pubDate>Sat, 19 Sep 2026 13:00:00 GMT</pubDate>
             <description><![CDATA[Trzech piłkarzy poza grupą]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Simeone: Od bardzo dawna jestem wielbicielem Mourinho]]></title>
-            <link>https://www.realmadryt.pl/news/152553-simeone-od-bardzo-dawna-jestem-wielbicielem-mourinho</link>
-            <pubDate>Sat, 19 Sep 2026 12:48:00 GMT</pubDate>
-            <description><![CDATA[Konferencja trenera Atlético Madryt]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[„Złota” szansa dla Mbappé]]></title>
-            <link>https://www.realmadryt.pl/news/152551-zlota-szansa-dla-mbappe</link>
-            <pubDate>Sat, 19 Sep 2026 11:46:00 GMT</pubDate>
-            <description><![CDATA[Derby mogą wzmocnić kampanię Francuza]]></description>
         </item>
         
 </channel>
