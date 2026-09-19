@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 18 Sep 2026 22:15:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 00:27:53 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152540-dzisiejsze-okladki</link>
+            <pubDate>Sat, 19 Sep 2026 00:21:00 GMT</pubDate>
+            <description><![CDATA[„Vini chce wypełnić obietnicę”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Real Madryt powalczy o Puchar Interkontynentalny U-20]]></title>
             <link>https://www.realmadryt.pl/news/152538-real-madryt-powalczy-o-puchar-interkontynentalny-u-20</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152527-bernardo-i-cristiano-powolani-na-zgrupowanie-portugalii</link>
             <pubDate>Fri, 18 Sep 2026 16:05:00 GMT</pubDate>
             <description><![CDATA[Czeka ich między innymi starcie z Norwegią]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Mbappé został twarzą marki sportowej On]]></title>
-            <link>https://www.realmadryt.pl/news/152525-oficjalnie-mbappe-zostal-twarza-marki-sportowej-on</link>
-            <pubDate>Fri, 18 Sep 2026 15:14:00 GMT</pubDate>
-            <description><![CDATA[Zapowiadany koniec współpracy Francuza z Nike]]></description>
         </item>
         
 </channel>
