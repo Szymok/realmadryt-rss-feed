@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 19 Sep 2026 21:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 23:00:11 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152566-dzisiejsze-okladki</link>
+            <pubDate>Sun, 20 Sep 2026 00:36:00 GMT</pubDate>
+            <description><![CDATA[„Towarzysze broni”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pedro Martínez: Jestem bardzo szczęśliwy, że wygraliśmy ten tytuł]]></title>
+            <link>https://www.realmadryt.pl/news/152565-pedro-martinez-jestem-bardzo-szczesliwy-ze-wygralismy-ten-tytul</link>
+            <pubDate>Sat, 19 Sep 2026 23:37:00 GMT</pubDate>
+            <description><![CDATA[Konferencja prasowa z udziałem trenera oraz Tavaresa]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Edy Tavares MVP Superpucharu Euroligi]]></title>
             <link>https://www.realmadryt.pl/news/152564-edy-tavares-mvp-superpucharu-euroligi</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152556-tuchel-trent-ma-cos-do-udowodnienia</link>
             <pubDate>Sat, 19 Sep 2026 13:45:00 GMT</pubDate>
             <description><![CDATA[Selekcjoner Anglii o powołaniu obrońcy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Co obejrzeć w weekend poza meczem Realu Madryt?]]></title>
-            <link>https://www.realmadryt.pl/news/152555-co-obejrzec-w-weekend-poza-meczem-realu-madryt</link>
-            <pubDate>Sat, 19 Sep 2026 13:13:00 GMT</pubDate>
-            <description><![CDATA[Hit we Włoszech, Arbeloa kontra United]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Ostatni trening przed derbami z Atlético]]></title>
-            <link>https://www.realmadryt.pl/news/152554-ostatni-trening-przed-derbami-z-atletico</link>
-            <pubDate>Sat, 19 Sep 2026 13:00:00 GMT</pubDate>
-            <description><![CDATA[Trzech piłkarzy poza grupą]]></description>
         </item>
         
 </channel>
