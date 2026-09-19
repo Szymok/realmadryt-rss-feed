@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 19 Sep 2026 13:07:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:27:45 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Kadra Realu Madryt na Atlético]]></title>
+            <link>https://www.realmadryt.pl/news/152559-kadra-realu-madryt-na-atletico</link>
+            <pubDate>Sat, 19 Sep 2026 17:11:00 GMT</pubDate>
+            <description><![CDATA[Trzech piłkarzy poza listą]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mourinho: Bez żadnego problemu przyjmujemy do wiadomości, jakie mamy problemy i co musimy poprawić]]></title>
+            <link>https://www.realmadryt.pl/news/152558-mourinho-bez-zadnego-problemu-przyjmujemy-do-wiadomosci-jakie-mamy-problemy-i-co-musimy-poprawic</link>
+            <pubDate>Sat, 19 Sep 2026 16:43:00 GMT</pubDate>
+            <description><![CDATA[Zapis przedmeczowej konferencji z trenerem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mourinho: Moglibyście zadać oczywiste pytanie, co sądzę o tym, że Elche skończyło mecz w jedenastu?]]></title>
+            <link>https://www.realmadryt.pl/news/152557-mourinho-moglibyscie-zadac-oczywiste-pytanie-co-sadze-o-tym-ze-elche-skonczylo-mecz-w-jedenastu</link>
+            <pubDate>Sat, 19 Sep 2026 15:25:00 GMT</pubDate>
+            <description><![CDATA[Pierwsze komentarze trenera przed derbami]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Laporta zatwierdził sprawozdanie i nowe kredyty, a także zaatakował Real Madryt]]></title>
             <link>https://www.realmadryt.pl/news/152552-laporta-zatwierdzil-sprawozdanie-i-nowe-kredyty-a-takze-zaatakowal-real-madryt</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152548-mbappe-dziekuje-nike-za-zaufanie-i-wspomnienia</link>
             <pubDate>Sat, 19 Sep 2026 11:09:00 GMT</pubDate>
             <description><![CDATA[Francuz pożegnał się z Amerykanami]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Szansa na pierwszy tytuł w sezonie]]></title>
-            <link>https://www.realmadryt.pl/news/152547-szansa-na-pierwszy-tytul-w-sezonie</link>
-            <pubDate>Sat, 19 Sep 2026 11:04:00 GMT</pubDate>
-            <description><![CDATA[Finał z Olympiakosem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Złote 26 minut Espíego]]></title>
-            <link>https://www.realmadryt.pl/news/152546-zlote-26-minut-espiego</link>
-            <pubDate>Sat, 19 Sep 2026 10:49:00 GMT</pubDate>
-            <description><![CDATA[Hiszpan wykorzystuje każdą szansę od José Mourinho]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 19 września]]></title>
-            <link>https://www.realmadryt.pl/news/152545-kartka-z-kalendarza-19-wrzesnia</link>
-            <pubDate>Sat, 19 Sep 2026 10:40:00 GMT</pubDate>
-            <description><![CDATA[Najlepszy mecz Lopeteguiego oraz remontada z Vinim i Benzemą]]></description>
         </item>
         
 </channel>
