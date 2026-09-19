@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 19 Sep 2026 00:27:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 04:52:03 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Zidane: Praca Mbappé w obronie? To sztuczny problem i sztuczna dyskusja]]></title>
+            <link>https://www.realmadryt.pl/news/152534-zidane-praca-mbappe-w-obronie-to-sztuczny-problem-i-sztuczna-dyskusja</link>
+            <pubDate>Sat, 19 Sep 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[„Bardzo lubię Kyliana również po lewej stronie”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/152540-dzisiejsze-okladki</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152491-konkurs-wygraj-domowa-koszulke-realu-madryt</link>
             <pubDate>Fri, 18 Sep 2026 16:15:00 GMT</pubDate>
             <description><![CDATA[Tylko dla Socios RealMadryt.pl]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bernardo i Cristiano powołani na zgrupowanie Portugalii]]></title>
-            <link>https://www.realmadryt.pl/news/152527-bernardo-i-cristiano-powolani-na-zgrupowanie-portugalii</link>
-            <pubDate>Fri, 18 Sep 2026 16:05:00 GMT</pubDate>
-            <description><![CDATA[Czeka ich między innymi starcie z Norwegią]]></description>
         </item>
         
 </channel>
