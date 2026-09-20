@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 20 Sep 2026 10:05:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 14:13:08 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Atlético – Real Madryt [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/152578-atletico-real-madryt-na-zywo</link>
+            <pubDate>Sun, 20 Sep 2026 16:05:00 GMT</pubDate>
+            <description><![CDATA[Trwają derby Madrytu na Metropolitano]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Rozgrzewka przed Atlético [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/152585-rozgrzewka-przed-atletico-na-zywo</link>
+            <pubDate>Sun, 20 Sep 2026 15:15:00 GMT</pubDate>
+            <description><![CDATA[Obraz ze stadionu]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Atlético Madryt – Real Madryt: Znamy składy!]]></title>
+            <link>https://www.realmadryt.pl/news/152584-atletico-madryt-real-madryt-znamy-sklady</link>
+            <pubDate>Sun, 20 Sep 2026 14:55:00 GMT</pubDate>
+            <description><![CDATA[Wiemy, kto powalczy w derbach]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Dyrektor Napoli: Rozmawialiśmy z Realem w sprawie Mastantuono]]></title>
+            <link>https://www.realmadryt.pl/news/152583-dyrektor-napoli-rozmawialismy-z-realem-w-sprawie-mastantuono</link>
+            <pubDate>Sun, 20 Sep 2026 13:51:00 GMT</pubDate>
+            <description><![CDATA[Argentyńczyk mógł trafić do innego włoskiego klubu]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pubill: Wygrana z Realem Madryt byłaby uderzeniem pięścią w stół]]></title>
+            <link>https://www.realmadryt.pl/news/152582-pubill-wygrana-z-realem-madryt-bylaby-uderzeniem-piescia-w-stol</link>
+            <pubDate>Sun, 20 Sep 2026 12:10:00 GMT</pubDate>
+            <description><![CDATA[Wywiad ze stoperem Atlético przed derbami]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[BETFAN daje kurs 10.0 na wygraną Realu w derbach Madrytu!]]></title>
             <link>https://www.realmadryt.pl/news/152581-betfan-daje-kurs-10-0-na-wygrana-realu-w-derbach-madrytu</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/152572-mbappe-pomylil-kraje</link>
             <pubDate>Sun, 20 Sep 2026 09:40:00 GMT</pubDate>
             <description><![CDATA[Francuz komentuje zachowanie napastnika]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Miguel Ángel Ortiz Arias na derby Madrytu]]></title>
-            <link>https://www.realmadryt.pl/news/152576-oficjalnie-miguel-angel-ortiz-arias-na-derby-madrytu</link>
-            <pubDate>Sun, 20 Sep 2026 09:28:00 GMT</pubDate>
-            <description><![CDATA[Potwierdzenie doniesień mediów]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Dwa nowe tytuły w jeden dzień]]></title>
-            <link>https://www.realmadryt.pl/news/152575-dwa-nowe-tytuly-w-jeden-dzien</link>
-            <pubDate>Sun, 20 Sep 2026 09:26:00 GMT</pubDate>
-            <description><![CDATA[Juvenil i koszykarze poszerzyli gablotę Realu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Pierwszy miesiąc Socio RealMadryt.pl za nami]]></title>
-            <link>https://www.realmadryt.pl/news/152496-pierwszy-miesiac-socio-realmadryt-pl-za-nami</link>
-            <pubDate>Sun, 20 Sep 2026 09:00:00 GMT</pubDate>
-            <description><![CDATA[Co udało nam się wdrożyć i nad czym teraz pracujemy?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Koniec dostępu]]></title>
-            <link>https://www.realmadryt.pl/news/152535-koniec-dostepu</link>
-            <pubDate>Sun, 20 Sep 2026 08:15:00 GMT</pubDate>
-            <description><![CDATA[Zapowiedź derbów Madrytu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[GŁOS KIBICA: Gdzie jest trudniej?]]></title>
-            <link>https://www.realmadryt.pl/news/152571-glos-kibica-gdzie-jest-trudniej</link>
-            <pubDate>Sun, 20 Sep 2026 07:30:00 GMT</pubDate>
-            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
         </item>
         
 </channel>
