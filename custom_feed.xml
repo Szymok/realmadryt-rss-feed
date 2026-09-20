@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 20 Sep 2026 19:39:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 21:49:14 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Podcast 8x05: Czy nadal wierzysz w projekt Mourinho?]]></title>
+            <link>https://www.realmadryt.pl/news/152598-podcast-8x05-czy-nadal-wierzysz-w-projekt-mourinho</link>
+            <pubDate>Sun, 20 Sep 2026 22:50:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do wysłuchania naszych opinii]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Joventut zdobywcą Superpucharu Endesa]]></title>
+            <link>https://www.realmadryt.pl/news/152597-joventut-zdobywca-superpucharu-endesa</link>
+            <pubDate>Sun, 20 Sep 2026 22:10:00 GMT</pubDate>
+            <description><![CDATA[Barcelona przedłuża pucharową posuchę]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Simeone: Słowa Mourinho? Musimy uważać na to, co mówimy]]></title>
+            <link>https://www.realmadryt.pl/news/152596-simeone-slowa-mourinho-musimy-uwazac-na-to-co-mowimy</link>
+            <pubDate>Sun, 20 Sep 2026 21:53:00 GMT</pubDate>
+            <description><![CDATA[„Trzeba umieć szanować drugiego, sędziów, kolegów po fachu”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Oficjalnie: Federico Valverde z poważną kontuzją kostki]]></title>
             <link>https://www.realmadryt.pl/news/152594-oficjalnie-federico-valverde-z-powazna-kontuzja-kostki</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152586-ocen-pilkarzy-po-meczu-z-atletico</link>
             <pubDate>Sun, 20 Sep 2026 18:08:00 GMT</pubDate>
             <description><![CDATA[Zapraszamy do wspólnego wystawiania not]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Derby dla Atlético]]></title>
-            <link>https://www.realmadryt.pl/news/152578-derby-dla-atletico</link>
-            <pubDate>Sun, 20 Sep 2026 16:05:00 GMT</pubDate>
-            <description><![CDATA[Real przegrał na Metropolitano 1:2]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Rozgrzewka przed Atlético [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/152585-rozgrzewka-przed-atletico-na-zywo</link>
-            <pubDate>Sun, 20 Sep 2026 15:15:00 GMT</pubDate>
-            <description><![CDATA[Obraz ze stadionu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Atlético Madryt – Real Madryt: Znamy składy!]]></title>
-            <link>https://www.realmadryt.pl/news/152584-atletico-madryt-real-madryt-znamy-sklady</link>
-            <pubDate>Sun, 20 Sep 2026 14:55:00 GMT</pubDate>
-            <description><![CDATA[Wiemy, kto powalczy w derbach]]></description>
         </item>
         
 </channel>
