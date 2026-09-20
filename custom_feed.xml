@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 20 Sep 2026 21:49:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 23:45:07 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152602-dzisiejsze-okladki</link>
+            <pubDate>Mon, 21 Sep 2026 00:02:00 GMT</pubDate>
+            <description><![CDATA[„Sędziowski Pożar”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Podcast 8x05: Czy nadal wierzysz w projekt Mourinho?]]></title>
             <link>https://www.realmadryt.pl/news/152598-podcast-8x05-czy-nadal-wierzysz-w-projekt-mourinho</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152588-oblak-wazne-ze-wygralismy</link>
             <pubDate>Sun, 20 Sep 2026 18:59:00 GMT</pubDate>
             <description><![CDATA[Pierwsze wypowiedzi z murawy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oceń piłkarzy po meczu z Atlético]]></title>
-            <link>https://www.realmadryt.pl/news/152586-ocen-pilkarzy-po-meczu-z-atletico</link>
-            <pubDate>Sun, 20 Sep 2026 18:08:00 GMT</pubDate>
-            <description><![CDATA[Zapraszamy do wspólnego wystawiania not]]></description>
         </item>
         
 </channel>
