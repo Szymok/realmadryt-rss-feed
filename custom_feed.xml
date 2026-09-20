@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 20 Sep 2026 17:28:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 19:39:55 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Oficjalnie: Federico Valverde z poważną kontuzją kostki]]></title>
+            <link>https://www.realmadryt.pl/news/152594-oficjalnie-federico-valverde-z-powazna-kontuzja-kostki</link>
+            <pubDate>Sun, 20 Sep 2026 20:27:00 GMT</pubDate>
+            <description><![CDATA[Doszło do niej w ataku Kang-Ina Lee]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madryt: Fatalne sędziowanie zadecydowało o derbach]]></title>
+            <link>https://www.realmadryt.pl/news/152593-real-madryt-fatalne-sedziowanie-zadecydowalo-o-derbach</link>
+            <pubDate>Sun, 20 Sep 2026 19:29:00 GMT</pubDate>
+            <description><![CDATA[Pomeczowa relacja klubu]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Mourinho: Gratulacje dla komitetu odpowiedzialnego za wyznaczanie sędziów]]></title>
             <link>https://www.realmadryt.pl/news/152592-mourinho-gratulacje-dla-komitetu-odpowiedzialnego-za-wyznaczanie-sedziow</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152584-atletico-madryt-real-madryt-znamy-sklady</link>
             <pubDate>Sun, 20 Sep 2026 14:55:00 GMT</pubDate>
             <description><![CDATA[Wiemy, kto powalczy w derbach]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Dyrektor Napoli: Rozmawialiśmy z Realem w sprawie Mastantuono]]></title>
-            <link>https://www.realmadryt.pl/news/152583-dyrektor-napoli-rozmawialismy-z-realem-w-sprawie-mastantuono</link>
-            <pubDate>Sun, 20 Sep 2026 13:51:00 GMT</pubDate>
-            <description><![CDATA[Argentyńczyk mógł trafić do innego włoskiego klubu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Pubill: Wygrana z Realem Madryt byłaby uderzeniem pięścią w stół]]></title>
-            <link>https://www.realmadryt.pl/news/152582-pubill-wygrana-z-realem-madryt-bylaby-uderzeniem-piescia-w-stol</link>
-            <pubDate>Sun, 20 Sep 2026 12:10:00 GMT</pubDate>
-            <description><![CDATA[Wywiad ze stoperem Atlético przed derbami]]></description>
         </item>
         
 </channel>
