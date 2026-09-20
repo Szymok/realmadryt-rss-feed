@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 19 Sep 2026 23:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 00:53:37 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Atlético Madryt – Real Madryt: Przewidywane składy]]></title>
+            <link>https://www.realmadryt.pl/news/152568-atletico-madryt-real-madryt-przewidywane-sklady</link>
+            <pubDate>Sun, 20 Sep 2026 01:34:00 GMT</pubDate>
+            <description><![CDATA[Kto w ataku Królewskich i Rojiblancos?]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/152566-dzisiejsze-okladki</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152552-laporta-zatwierdzil-sprawozdanie-i-nowe-kredyty-a-takze-zaatakowal-real-madryt</link>
             <pubDate>Sat, 19 Sep 2026 14:45:00 GMT</pubDate>
             <description><![CDATA[Typowe Walne Zgromadzenie Barcelony]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Tuchel: Trent ma coś do udowodnienia]]></title>
-            <link>https://www.realmadryt.pl/news/152556-tuchel-trent-ma-cos-do-udowodnienia</link>
-            <pubDate>Sat, 19 Sep 2026 13:45:00 GMT</pubDate>
-            <description><![CDATA[Selekcjoner Anglii o powołaniu obrońcy]]></description>
         </item>
         
 </channel>
