@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 21 Sep 2026 19:24:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 22:41:21 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152625-dzisiejsze-okladki</link>
+            <pubDate>Tue, 22 Sep 2026 00:15:00 GMT</pubDate>
+            <description><![CDATA[„Teatrzyk”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Sędzia do Ardy o faulu Baeny: „Uspokój się, ok? To zwykły faul, nic więcej!” [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152620-sedzia-do-ardy-o-faulu-baeny-uspokoj-sie-ok-to-zwykly-faul-nic-wiecej-video</link>
+            <pubDate>Mon, 21 Sep 2026 21:41:00 GMT</pubDate>
+            <description><![CDATA[Kulisy pracy sędziego w derbach]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Nowy przeciek w sprawie koszulki na 125-lecie klubu [FOTO]]]></title>
             <link>https://www.realmadryt.pl/news/152619-nowy-przeciek-w-sprawie-koszulki-na-125-lecie-klubu-foto</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152610-giuliano-sedziowie-to-ludzie-czasami-podejmuja-dobre-decyzje-czasami-sie-myla</link>
             <pubDate>Mon, 21 Sep 2026 12:46:00 GMT</pubDate>
             <description><![CDATA[Przemyślenia MVP derbów]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[COPE: Florentino wściekł się na… Enrique Riquelme]]></title>
-            <link>https://www.realmadryt.pl/news/152609-cope-florentino-wsciekl-sie-na-enrique-riquelme</link>
-            <pubDate>Mon, 21 Sep 2026 12:16:00 GMT</pubDate>
-            <description><![CDATA[Kulisy derbów w loży honorowej]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Znamy zwycięzcę koszulki od sklepu R-GOL!]]></title>
-            <link>https://www.realmadryt.pl/news/152605-znamy-zwyciezce-koszulki-od-sklepu-r-gol</link>
-            <pubDate>Mon, 21 Sep 2026 11:25:00 GMT</pubDate>
-            <description><![CDATA[Rozstrzygnięcie konkursu dla socios]]></description>
         </item>
         
 </channel>
