@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 21 Sep 2026 01:43:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 07:12:40 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[RMC: Zidane przekazał Mbappé, że chciałby zobaczyć go na lewej stronie]]></title>
+            <link>https://www.realmadryt.pl/news/152606-rmc-zidane-przekazal-mbappe-ze-chcialby-zobaczyc-go-na-lewej-stronie</link>
+            <pubDate>Mon, 21 Sep 2026 08:40:00 GMT</pubDate>
+            <description><![CDATA[Plan nowego selekcjonera Francji]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pichichi, Zamora, Asistencias]]></title>
+            <link>https://www.realmadryt.pl/news/152601-pichichi-zamora-asistencias</link>
+            <pubDate>Mon, 21 Sep 2026 08:10:00 GMT</pubDate>
+            <description><![CDATA[Podsumowanie statystyk po 7. kolejce]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Czy sędziowie wypaczyli derby?]]></title>
+            <link>https://www.realmadryt.pl/news/152600-glos-kibica-czy-sedziowie-wypaczyli-derby</link>
+            <pubDate>Mon, 21 Sep 2026 07:30:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madrid TV: Obrzydliwe sędziowanie na Metropolitano [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152599-real-madrid-tv-obrzydliwe-sedziowanie-na-metropolitano-video</link>
+            <pubDate>Mon, 21 Sep 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Pierwszy materiał od klubowej telewizji]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Żaden z piłkarzy Realu nie wypowiedział się po porażce z Atlético]]></title>
+            <link>https://www.realmadryt.pl/news/152595-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-po-porazce-z-atletico</link>
+            <pubDate>Mon, 21 Sep 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Niespodzianka]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/152602-dzisiejsze-okladki</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/152592-mourinho-gratulacje-dla-komitetu-odpowiedzialnego-za-wyznaczanie-sedziow</link>
             <pubDate>Sun, 20 Sep 2026 19:07:00 GMT</pubDate>
             <description><![CDATA[Pomeczowa konferencja z trenerem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Atlético 2:1 Real Madryt [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/152591-atletico-2-1-real-madryt-video</link>
-            <pubDate>Sun, 20 Sep 2026 19:07:00 GMT</pubDate>
-            <description><![CDATA[Skrót meczu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Baena: To sędzia, który pozwala grać i to sprzyja widowisku]]></title>
-            <link>https://www.realmadryt.pl/news/152590-baena-to-sedzia-ktory-pozwala-grac-i-to-sprzyja-widowisku</link>
-            <pubDate>Sun, 20 Sep 2026 19:04:00 GMT</pubDate>
-            <description><![CDATA[„Dziś drużyna pokazała charakter”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Giuliano Simeone MVP derbów Madrytu]]></title>
-            <link>https://www.realmadryt.pl/news/152587-giuliano-simeone-mvp-derbow-madrytu</link>
-            <pubDate>Sun, 20 Sep 2026 19:04:00 GMT</pubDate>
-            <description><![CDATA[Wyróżnienie dla Argentyńczyka]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Koke: Możemy rywalizować z każdym]]></title>
-            <link>https://www.realmadryt.pl/news/152589-koke-mozemy-rywalizowac-z-kazdym</link>
-            <pubDate>Sun, 20 Sep 2026 19:02:00 GMT</pubDate>
-            <description><![CDATA[„Jestem bardzo szczęśliwy”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oblak: Ważne, że wygraliśmy]]></title>
-            <link>https://www.realmadryt.pl/news/152588-oblak-wazne-ze-wygralismy</link>
-            <pubDate>Sun, 20 Sep 2026 18:59:00 GMT</pubDate>
-            <description><![CDATA[Pierwsze wypowiedzi z murawy]]></description>
         </item>
         
 </channel>
