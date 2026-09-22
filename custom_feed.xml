@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 22 Sep 2026 15:41:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 19:11:14 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[AS: Real ma plan na Thiago Pitarcha]]></title>
+            <link>https://www.realmadryt.pl/news/152641-as-real-ma-plan-na-thiago-pitarcha</link>
+            <pubDate>Tue, 22 Sep 2026 19:21:00 GMT</pubDate>
+            <description><![CDATA[Pomocnik zagra… w Castilli]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oficjalny komunikat Realu Madryt ws. tekstu dziennikarza COPE]]></title>
+            <link>https://www.realmadryt.pl/news/152640-oficjalny-komunikat-realu-madryt-ws-tekstu-dziennikarza-cope</link>
+            <pubDate>Tue, 22 Sep 2026 18:43:00 GMT</pubDate>
+            <description><![CDATA[„Real Madrid TV korzysta z prawa do informowania i obrony interesów klubu”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Oficjalny komunikat Realu Madryt ws. prezesa La Ligi]]></title>
             <link>https://www.realmadryt.pl/news/152639-oficjalny-komunikat-realu-madryt-ws-prezesa-la-ligi</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152630-media-niepowolani-pilkarze-otrzymali-tydzien-wolnego</link>
             <pubDate>Tue, 22 Sep 2026 11:48:00 GMT</pubDate>
             <description><![CDATA[Królewscy zarządzają 3-tygodniową przerwą]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mbappé: Byłbym rozczarowany, gdybym nie wygrał Złotej Piłki]]></title>
-            <link>https://www.realmadryt.pl/news/152629-mbappe-bylbym-rozczarowany-gdybym-nie-wygral-zlotej-pilki</link>
-            <pubDate>Tue, 22 Sep 2026 11:24:00 GMT</pubDate>
-            <description><![CDATA[„Uważam, że aspekt indywidualny powinien być najważniejszy”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Szesnastu madridistas powołanych do reprezentacji]]></title>
-            <link>https://www.realmadryt.pl/news/152603-szesnastu-madridistas-powolanych-do-reprezentacji</link>
-            <pubDate>Tue, 22 Sep 2026 10:20:00 GMT</pubDate>
-            <description><![CDATA[Rozpiska meczów reprezentacji]]></description>
         </item>
         
 </channel>
