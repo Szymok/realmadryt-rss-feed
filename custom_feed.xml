@@ -4,8 +4,50 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 22 Sep 2026 11:36:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 15:41:47 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Oficjalny komunikat Realu Madryt ws. prezesa La Ligi]]></title>
+            <link>https://www.realmadryt.pl/news/152639-oficjalny-komunikat-realu-madryt-ws-prezesa-la-ligi</link>
+            <pubDate>Tue, 22 Sep 2026 17:08:00 GMT</pubDate>
+            <description><![CDATA[„Potrzebujemy kogoś, kto będzie uczciwie wypełniał tę misję”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Tebas: Narracja Realu służy, by tuszować braki, które widać na pierwszy rzut oka]]></title>
+            <link>https://www.realmadryt.pl/news/152635-tebas-narracja-realu-sluzy-by-tuszowac-braki-ktore-widac-na-pierwszy-rzut-oka</link>
+            <pubDate>Tue, 22 Sep 2026 17:05:00 GMT</pubDate>
+            <description><![CDATA[Prezes La Ligi atakuje klub i dziennikarza]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mourinho nie wziął udziału w spotkaniu trenerów w Federacji]]></title>
+            <link>https://www.realmadryt.pl/news/152638-mourinho-nie-wzial-udzialu-w-spotkaniu-trenerow-w-federacji</link>
+            <pubDate>Tue, 22 Sep 2026 16:32:00 GMT</pubDate>
+            <description><![CDATA[Portugalczyk przegapił rozmowę m.in. z szefem sędziów]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Alkad Madrytu: Finał w Madrycie? Nie jestem optymistą, rząd nie jest w stanie obronić granicy Ceuty]]></title>
+            <link>https://www.realmadryt.pl/news/152637-alkad-madrytu-final-w-madrycie-nie-jestem-optymista-rzad-nie-jest-w-stanie-obronic-granicy-ceuty</link>
+            <pubDate>Tue, 22 Sep 2026 16:04:00 GMT</pubDate>
+            <description><![CDATA[„Jako Hiszpanie mamy coraz więcej wątpliwości w sprawie mundialu”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Espí: Trener mówi, żebym dawał z siebie wszystko i pomagał Kylianowi]]></title>
+            <link>https://www.realmadryt.pl/news/152636-espi-trener-mowi-zebym-dawal-z-siebie-wszystko-i-pomagal-kylianowi</link>
+            <pubDate>Tue, 22 Sep 2026 15:24:00 GMT</pubDate>
+            <description><![CDATA[Wywiad na zgrupowaniu kadry]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Media: Komitet Rozgrywek nie ukarze Florentino za majowy atak na sędziów]]></title>
+            <link>https://www.realmadryt.pl/news/152634-media-komitet-rozgrywek-nie-ukarze-florentino-za-majowy-atak-na-sedziow</link>
+            <pubDate>Tue, 22 Sep 2026 13:53:00 GMT</pubDate>
+            <description><![CDATA[A prezes wystosował mnóstwo oskarżeń]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Fundacja Realu Madryt rozpoczyna współpracę ze Wspólnotą Madrytu ws. chorób rzadkich]]></title>
             <link>https://www.realmadryt.pl/news/152633-fundacja-realu-madryt-rozpoczyna-wspolprace-ze-wspolnota-madrytu-ws-chorob-rzadkich</link>
@@ -24,7 +66,7 @@
             <title><![CDATA[Oficjalnie: Federico Valverde ze skręceniem kostki III stopnia]]></title>
             <link>https://www.realmadryt.pl/news/152631-oficjalnie-federico-valverde-ze-skreceniem-kostki-iii-stopnia</link>
             <pubDate>Tue, 22 Sep 2026 12:20:00 GMT</pubDate>
-            <description><![CDATA[Nowy komunikat medyczny ws. kapitana [AKTUALIZACJA #2]]]></description>
+            <description><![CDATA[Nowy komunikat medyczny ws. kapitana [AKTUALIZACJA #3]]]></description>
         </item>
         
         <item>
@@ -46,48 +88,6 @@
             <link>https://www.realmadryt.pl/news/152603-szesnastu-madridistas-powolanych-do-reprezentacji</link>
             <pubDate>Tue, 22 Sep 2026 10:20:00 GMT</pubDate>
             <description><![CDATA[Rozpiska meczów reprezentacji]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 22 września]]></title>
-            <link>https://www.realmadryt.pl/news/152623-kartka-z-kalendarza-22-wrzesnia</link>
-            <pubDate>Tue, 22 Sep 2026 09:40:00 GMT</pubDate>
-            <description><![CDATA[Urodziny legendy i wiele ważnych spotkań]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Tebas o skargach Realu: To niesprawiedliwy i okrutny sposób wywierania presji na sędziego]]></title>
-            <link>https://www.realmadryt.pl/news/152624-tebas-o-skargach-realu-to-niesprawiedliwy-i-okrutny-sposob-wywierania-presji-na-sedziego</link>
-            <pubDate>Tue, 22 Sep 2026 09:00:00 GMT</pubDate>
-            <description><![CDATA[Prezes La Ligi wyraził swoje zdanie]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bellingham do Romero: „Przy Messim gadasz bardzo dużo, tutaj nic” [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/152622-bellingham-do-romero-przy-messim-gadasz-bardzo-duzo-tutaj-nic-video</link>
-            <pubDate>Tue, 22 Sep 2026 08:20:00 GMT</pubDate>
-            <description><![CDATA[Kulisy starć słownych Anglika z rywalami]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[GŁOS KIBICA: Czy czas skończyć ataki na hiszpańskich sędziów?]]></title>
-            <link>https://www.realmadryt.pl/news/152627-glos-kibica-czy-czas-skonczyc-ataki-na-hiszpanskich-sedziow</link>
-            <pubDate>Tue, 22 Sep 2026 07:40:00 GMT</pubDate>
-            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Atlético dla Marki: „Real już rozgrywa rewanżowe derby, z zastraszonymi sędziami i błędami na swoją korzyść”]]></title>
-            <link>https://www.realmadryt.pl/news/152621-atletico-dla-marki-real-juz-rozgrywa-rewanzowe-derby-z-zastraszonymi-sedziami-i-bledami-na-swoja-korzysc</link>
-            <pubDate>Tue, 22 Sep 2026 07:00:00 GMT</pubDate>
-            <description><![CDATA[„Myśleliśmy o wydrukowaniu wszystkich błędów na korzyść Realu, ale zabrakłoby lasów”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[COPE: Komitet Arbitrów uważa, że Real stosuje wymówki, by odwrócić uwagę od swojej gry]]></title>
-            <link>https://www.realmadryt.pl/news/152628-cope-komitet-arbitrow-uwaza-ze-real-stosuje-wymowki-by-odwrocic-uwage-od-swojej-gry</link>
-            <pubDate>Tue, 22 Sep 2026 05:30:00 GMT</pubDate>
-            <description><![CDATA[„Sędzia nie czuł się najlepiej ze względów rodzinnych”]]></description>
         </item>
         
 </channel>
