@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 21 Sep 2026 22:41:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 01:10:31 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Chiringuito: Valverde przyznał, że powinien był zostać na ziemi]]></title>
+            <link>https://www.realmadryt.pl/news/152626-chiringuito-valverde-przyznal-ze-powinien-byl-zostac-na-ziemi</link>
+            <pubDate>Tue, 22 Sep 2026 01:10:00 GMT</pubDate>
+            <description><![CDATA[Dzisiaj poznamy wymiar kontuzji Urugwajczyka]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/152625-dzisiejsze-okladki</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152611-wyjazdowe-derby-w-koszulce-realu-jak-nie-chcecie-dostac-wp-dol-to-idzcie-stad-video</link>
             <pubDate>Mon, 21 Sep 2026 13:10:00 GMT</pubDate>
             <description><![CDATA[Sceny nietolerancji pod Metropolitano]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Giuliano: Sędziowie to ludzie, czasami podejmują dobre decyzje, czasami się mylą]]></title>
-            <link>https://www.realmadryt.pl/news/152610-giuliano-sedziowie-to-ludzie-czasami-podejmuja-dobre-decyzje-czasami-sie-myla</link>
-            <pubDate>Mon, 21 Sep 2026 12:46:00 GMT</pubDate>
-            <description><![CDATA[Przemyślenia MVP derbów]]></description>
         </item>
         
 </channel>
