@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 22 Sep 2026 19:11:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 22:06:57 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Tylko remis z PSG]]></title>
+            <link>https://www.realmadryt.pl/news/152646-tylko-remis-z-psg</link>
+            <pubDate>Tue, 22 Sep 2026 23:17:00 GMT</pubDate>
+            <description><![CDATA[Królewskie podziliły się punktami na Di Stéfano]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Tebas: Szacunek dla wszystkich, podporządkowanie nikomu]]></title>
+            <link>https://www.realmadryt.pl/news/152643-tebas-szacunek-dla-wszystkich-podporzadkowanie-nikomu</link>
+            <pubDate>Tue, 22 Sep 2026 22:01:00 GMT</pubDate>
+            <description><![CDATA[Prezes La Ligi ekspresowo odpowiada na komunikat Królewskich]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Komitet Arbitrów: Kang-In Lee powinien dostać czerwoną kartkę za wejście w Valverde]]></title>
+            <link>https://www.realmadryt.pl/news/152642-komitet-arbitrow-kang-in-lee-powinien-dostac-czerwona-kartke-za-wejscie-w-valverde</link>
+            <pubDate>Tue, 22 Sep 2026 21:30:00 GMT</pubDate>
+            <description><![CDATA[Oczywisty i klarowny błąd Ortiza Ariasa i VAR-u]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[AS: Real ma plan na Thiago Pitarcha]]></title>
             <link>https://www.realmadryt.pl/news/152641-as-real-ma-plan-na-thiago-pitarcha</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152633-fundacja-realu-madryt-rozpoczyna-wspolprace-ze-wspolnota-madrytu-ws-chorob-rzadkich</link>
             <pubDate>Tue, 22 Sep 2026 13:28:00 GMT</pubDate>
             <description><![CDATA[Porozumienie o współpracy podpisał prezes]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Courtois: Zawsze Hala Madrid 🤍]]></title>
-            <link>https://www.realmadryt.pl/news/152632-courtois-zawsze-hala-madrid</link>
-            <pubDate>Tue, 22 Sep 2026 13:11:00 GMT</pubDate>
-            <description><![CDATA[Gest i pomeczowy przekaz Belga]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Federico Valverde ze skręceniem kostki III stopnia]]></title>
-            <link>https://www.realmadryt.pl/news/152631-oficjalnie-federico-valverde-ze-skreceniem-kostki-iii-stopnia</link>
-            <pubDate>Tue, 22 Sep 2026 12:20:00 GMT</pubDate>
-            <description><![CDATA[Nowy komunikat medyczny ws. kapitana [AKTUALIZACJA #3]]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Media: Niepowołani piłkarze otrzymali tydzień wolnego]]></title>
-            <link>https://www.realmadryt.pl/news/152630-media-niepowolani-pilkarze-otrzymali-tydzien-wolnego</link>
-            <pubDate>Tue, 22 Sep 2026 11:48:00 GMT</pubDate>
-            <description><![CDATA[Królewscy zarządzają 3-tygodniową przerwą]]></description>
         </item>
         
 </channel>
