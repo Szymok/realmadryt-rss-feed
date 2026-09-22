@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 22 Sep 2026 01:10:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:11:41 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Czy czas skończyć ataki na hiszpańskich sędziów?]]></title>
+            <link>https://www.realmadryt.pl/news/152627-glos-kibica-czy-czas-skonczyc-ataki-na-hiszpanskich-sedziow</link>
+            <pubDate>Tue, 22 Sep 2026 07:40:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Atlético dla Marki: „Real już rozgrywa rewanżowe derby, z zastraszonymi sędziami i błędami na swoją korzyść”]]></title>
+            <link>https://www.realmadryt.pl/news/152621-atletico-dla-marki-real-juz-rozgrywa-rewanzowe-derby-z-zastraszonymi-sedziami-i-bledami-na-swoja-korzysc</link>
+            <pubDate>Tue, 22 Sep 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[„Myśleliśmy o wydrukowaniu wszystkich błędów na korzyść Realu, ale zabrakłoby lasów”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[COPE: Komitet Arbitrów uważa, że Real stosuje wymówki, by odwrócić uwagę od swojej gry]]></title>
+            <link>https://www.realmadryt.pl/news/152628-cope-komitet-arbitrow-uwaza-ze-real-stosuje-wymowki-by-odwrocic-uwage-od-swojej-gry</link>
+            <pubDate>Tue, 22 Sep 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[„Sędzia nie czuł się najlepiej ze względów rodzinnych”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Chiringuito: Valverde przyznał, że powinien był zostać na ziemi]]></title>
             <link>https://www.realmadryt.pl/news/152626-chiringuito-valverde-przyznal-ze-powinien-byl-zostac-na-ziemi</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152614-real-madrid-tv-do-dwoch-niepokazanych-czerwonych-kartek-doszedl-w-ogole-niepokazany-rzut-karny-video</link>
             <pubDate>Mon, 21 Sep 2026 15:25:00 GMT</pubDate>
             <description><![CDATA[Jak zwykle, dzień po dostajemy nowe ujęcia]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Hiszpania przedłużyła kontrakt selekcjonera]]></title>
-            <link>https://www.realmadryt.pl/news/152613-oficjalnie-hiszpania-przedluzyla-kontrakt-selekcjonera</link>
-            <pubDate>Mon, 21 Sep 2026 14:00:00 GMT</pubDate>
-            <description><![CDATA[De la Fuente zostaje na dużo dłużej]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mbappé: To krok wstecz, przemyślenia o sędziowaniu zachowam dla siebie]]></title>
-            <link>https://www.realmadryt.pl/news/152612-mbappe-to-krok-wstecz-przemyslenia-o-sedziowaniu-zachowam-dla-siebie</link>
-            <pubDate>Mon, 21 Sep 2026 13:48:00 GMT</pubDate>
-            <description><![CDATA[„Złota Piłka? Ludzie nie byli zadowoleni, kiedy mówiłem o tym zbyt dużo”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Wyjazdowe derby w koszulce Realu? „Jak nie chcecie dostać wp***dol, to idźcie stąd!” [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/152611-wyjazdowe-derby-w-koszulce-realu-jak-nie-chcecie-dostac-wp-dol-to-idzcie-stad-video</link>
-            <pubDate>Mon, 21 Sep 2026 13:10:00 GMT</pubDate>
-            <description><![CDATA[Sceny nietolerancji pod Metropolitano]]></description>
         </item>
         
 </channel>
