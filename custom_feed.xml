@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 23 Sep 2026 18:37:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:46:57 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Castilla zremisowała z Sant Andreu [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152674-castilla-zremisowala-z-sant-andreu-video</link>
+            <pubDate>Wed, 23 Sep 2026 23:11:00 GMT</pubDate>
+            <description><![CDATA[Trzeci wyjazd bez wygranej]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Tebas: Bylibyśmy idiotami, gdybyśmy nie reagowali na oskarżenia Real Madrid TV]]></title>
+            <link>https://www.realmadryt.pl/news/152670-tebas-bylibysmy-idiotami-gdybysmy-nie-reagowali-na-oskarzenia-real-madrid-tv</link>
+            <pubDate>Wed, 23 Sep 2026 21:33:00 GMT</pubDate>
+            <description><![CDATA[„Ja w tej kategorii idiotyzmu jeszcze nie jestem”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Rodri: Real dał z siebie wszystko, aby mnie pozyskać]]></title>
             <link>https://www.realmadryt.pl/news/152668-rodri-real-dal-z-siebie-wszystko-aby-mnie-pozyskac</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152658-marca-real-biega-najmniej-ale-realny-problem-to-bieganie-o-wysokiej-intensywnosci</link>
             <pubDate>Wed, 23 Sep 2026 12:17:00 GMT</pubDate>
             <description><![CDATA[Dziennik pokazuje prawidłowe zestawienia i liczby]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mbappé: Złota Piłka to nie jest obsesja, ale chcę ją wygrać]]></title>
-            <link>https://www.realmadryt.pl/news/152657-mbappe-zlota-pilka-to-nie-jest-obsesja-ale-chce-ja-wygrac</link>
-            <pubDate>Wed, 23 Sep 2026 11:46:00 GMT</pubDate>
-            <description><![CDATA[Francuz udzielił wywiadu The Athletic]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[AS: Mourinho nadal wierzy w Viníciusa]]></title>
-            <link>https://www.realmadryt.pl/news/152656-as-mourinho-nadal-wierzy-w-viniciusa</link>
-            <pubDate>Wed, 23 Sep 2026 10:41:00 GMT</pubDate>
-            <description><![CDATA[Trener ma uwielbiać Brazylijczyka]]></description>
         </item>
         
 </channel>
