@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 23 Sep 2026 09:57:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 14:39:48 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Cucurella: Statystyki biegowe? Myślę, że biegamy dużo]]></title>
+            <link>https://www.realmadryt.pl/news/152662-cucurella-statystyki-biegowe-mysle-ze-biegamy-duzo</link>
+            <pubDate>Wed, 23 Sep 2026 15:14:00 GMT</pubDate>
+            <description><![CDATA[Zapowiedź wywiadu na zgrupowaniu kadry]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Derby okiem sędziego: „Trenerze, co to jest? Faul i wyskakujemy w 25 z ławki?” [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152661-derby-okiem-sedziego-trenerze-co-to-jest-faul-i-wyskakujemy-w-25-z-lawki-video</link>
+            <pubDate>Wed, 23 Sep 2026 15:06:00 GMT</pubDate>
+            <description><![CDATA[Kulisy z kamery arbitra]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Moretto: Real pracuje nad przedłużeniem kontraktu Bellinghama]]></title>
+            <link>https://www.realmadryt.pl/news/152660-moretto-real-pracuje-nad-przedluzeniem-kontraktu-bellinghama</link>
+            <pubDate>Wed, 23 Sep 2026 13:34:00 GMT</pubDate>
+            <description><![CDATA[Do kiedy może obowiązywać nowa umowa?]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mbappé: Plotki o Olise do Realu? Doradzanie piłkarzowi transferu byłoby brakiem szacunku]]></title>
+            <link>https://www.realmadryt.pl/news/152659-mbappe-plotki-o-olise-do-realu-doradzanie-pilkarzowi-transferu-byloby-brakiem-szacunku</link>
+            <pubDate>Wed, 23 Sep 2026 12:35:00 GMT</pubDate>
+            <description><![CDATA[Francuz udzielił kolejnego wywiadu]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[MARCA: Real biega najmniej, ale realny problem to bieganie o wysokiej intensywności]]></title>
+            <link>https://www.realmadryt.pl/news/152658-marca-real-biega-najmniej-ale-realny-problem-to-bieganie-o-wysokiej-intensywnosci</link>
+            <pubDate>Wed, 23 Sep 2026 12:17:00 GMT</pubDate>
+            <description><![CDATA[Dziennik pokazuje prawidłowe zestawienia i liczby]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Mbappé: Złota Piłka to nie jest obsesja, ale chcę ją wygrać]]></title>
             <link>https://www.realmadryt.pl/news/152657-mbappe-zlota-pilka-to-nie-jest-obsesja-ale-chce-ja-wygrac</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/152645-czerwony-huijsen</link>
             <pubDate>Wed, 23 Sep 2026 08:50:00 GMT</pubDate>
             <description><![CDATA[Hiszpan coraz częściej wyrzucany z boiska]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Castaño: Przepraszam za porównanie, ale utrzymuję, że RMTV kłamie, manipuluje i nęka]]></title>
-            <link>https://www.realmadryt.pl/news/152649-castano-przepraszam-za-porownanie-ale-utrzymuje-ze-rmtv-klamie-manipuluje-i-neka</link>
-            <pubDate>Wed, 23 Sep 2026 08:20:00 GMT</pubDate>
-            <description><![CDATA[Dziennikarz odpowiada na komunikat Realu Madryt]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Czy Real Madryt celowo podkręcił diagnozę Valverde?]]></title>
-            <link>https://www.realmadryt.pl/news/152651-czy-real-madryt-celowo-podkrecil-diagnoze-valverde</link>
-            <pubDate>Wed, 23 Sep 2026 08:00:00 GMT</pubDate>
-            <description><![CDATA[Kontuzja kostki III stopnia to pauza przez 3 miesiące, a nie 3 tygodnie]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[GŁOS KIBICA: Real Madryt vs prezes La Ligi]]></title>
-            <link>https://www.realmadryt.pl/news/152653-glos-kibica-real-madryt-vs-prezes-la-ligi</link>
-            <pubDate>Wed, 23 Sep 2026 07:40:00 GMT</pubDate>
-            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mundo Deportivo: Rodri piecze Real Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/152652-mundo-deportivo-rodri-piecze-real-madryt</link>
-            <pubDate>Wed, 23 Sep 2026 07:00:00 GMT</pubDate>
-            <description><![CDATA[Kataloński głos w twoim domu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[ABC: Trenerzy Realu wierzą w odwrócenie sytuacji, a działacze obawiają się Klasyku]]></title>
-            <link>https://www.realmadryt.pl/news/152647-abc-trenerzy-realu-wierza-w-odwrocenie-sytuacji-a-dzialacze-obawiaja-sie-klasyku</link>
-            <pubDate>Wed, 23 Sep 2026 05:30:00 GMT</pubDate>
-            <description><![CDATA[Odczucia po derbach Madrytu]]></description>
         </item>
         
 </channel>
