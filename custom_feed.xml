@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 22 Sep 2026 22:06:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 00:29:20 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152648-dzisiejsze-okladki</link>
+            <pubDate>Wed, 23 Sep 2026 00:25:00 GMT</pubDate>
+            <description><![CDATA[„Żąda głowy Tebasa”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Tylko remis z PSG]]></title>
             <link>https://www.realmadryt.pl/news/152646-tylko-remis-z-psg</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152634-media-komitet-rozgrywek-nie-ukarze-florentino-za-majowy-atak-na-sedziow</link>
             <pubDate>Tue, 22 Sep 2026 13:53:00 GMT</pubDate>
             <description><![CDATA[A prezes wystosował mnóstwo oskarżeń]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Fundacja Realu Madryt rozpoczyna współpracę ze Wspólnotą Madrytu ws. chorób rzadkich]]></title>
-            <link>https://www.realmadryt.pl/news/152633-fundacja-realu-madryt-rozpoczyna-wspolprace-ze-wspolnota-madrytu-ws-chorob-rzadkich</link>
-            <pubDate>Tue, 22 Sep 2026 13:28:00 GMT</pubDate>
-            <description><![CDATA[Porozumienie o współpracy podpisał prezes]]></description>
         </item>
         
 </channel>
