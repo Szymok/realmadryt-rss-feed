@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 24 Sep 2026 09:34:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 14:26:37 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Oficjalnie: Militão dołączyl do agencji Viníciusa i Diomandé]]></title>
+            <link>https://www.realmadryt.pl/news/152686-oficjalnie-militao-dolaczyl-do-agencji-viniciusa-i-diomande</link>
+            <pubDate>Thu, 24 Sep 2026 15:44:00 GMT</pubDate>
+            <description><![CDATA[Brazylijczyk pozostawał bez reprezentanta od prawie 2 lat]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oficjalnie: David Alaba piłkarzem Udinese]]></title>
+            <link>https://www.realmadryt.pl/news/152685-oficjalnie-david-alaba-pilkarzem-udinese</link>
+            <pubDate>Thu, 24 Sep 2026 14:03:00 GMT</pubDate>
+            <description><![CDATA[Austriak znalazł sobie klub]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Carreras widzi, że nie jest na straconej pozycji]]></title>
+            <link>https://www.realmadryt.pl/news/152684-carreras-widzi-ze-nie-jest-na-straconej-pozycji</link>
+            <pubDate>Thu, 24 Sep 2026 14:00:00 GMT</pubDate>
+            <description><![CDATA[Może wygrać rywalizację z Cucurellą?]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Ancelotti: Endrick i Vinícius zagrają jutro od początku]]></title>
+            <link>https://www.realmadryt.pl/news/152683-ancelotti-endrick-i-vinicius-zagraja-jutro-od-poczatku</link>
+            <pubDate>Thu, 24 Sep 2026 12:55:00 GMT</pubDate>
+            <description><![CDATA[Wypowiedzi Carletto z Australii]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Były szef France Football: Wywiady Mbappé? Próba wywierania wpływu jest aż nazbyt oczywista]]></title>
+            <link>https://www.realmadryt.pl/news/152682-byly-szef-france-football-wywiady-mbappe-proba-wywierania-wplywu-jest-az-nazbyt-oczywista</link>
+            <pubDate>Thu, 24 Sep 2026 12:19:00 GMT</pubDate>
+            <description><![CDATA[Kolejna francuska reakcja na kampanię pomocnika]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Pedro Martínez: Zaczynamy od zera, nie myśląc zbyt wiele o przeszłości]]></title>
             <link>https://www.realmadryt.pl/news/152675-pedro-martinez-zaczynamy-od-zera-nie-myslac-zbyt-wiele-o-przeszlosci</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/152671-rodri-bledy-sedziowskie-w-derbach-nie-sadze-aby-mialy-wplyw-na-przebieg-ligi</link>
             <pubDate>Thu, 24 Sep 2026 08:10:00 GMT</pubDate>
             <description><![CDATA[„Sędziowie czasem mogą się pomylić”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Rothen: Mbappé próbuje kupić sobie tę pie***oną Złotą Piłkę]]></title>
-            <link>https://www.realmadryt.pl/news/152672-rothen-mbappe-probuje-kupic-sobie-te-pie-ona-zlota-pilke</link>
-            <pubDate>Thu, 24 Sep 2026 07:40:00 GMT</pubDate>
-            <description><![CDATA[„On już nie żyje na tej samej planecie co my”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[GŁOS KIBICA: Za kogo Diomandé do jedenastki?]]></title>
-            <link>https://www.realmadryt.pl/news/152679-glos-kibica-za-kogo-diomande-do-jedenastki</link>
-            <pubDate>Thu, 24 Sep 2026 07:00:00 GMT</pubDate>
-            <description><![CDATA[Pożyczamy ankietę z okładki]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Cucurella: Wszyscy widzimy, że łamiemy się na dwie części, atakujemy zbyt szybko i nie uspokajamy gry]]></title>
-            <link>https://www.realmadryt.pl/news/152678-cucurella-wszyscy-widzimy-ze-lamiemy-sie-na-dwie-czesci-atakujemy-zbyt-szybko-i-nie-uspokajamy-gry</link>
-            <pubDate>Thu, 24 Sep 2026 06:00:00 GMT</pubDate>
-            <description><![CDATA[„Złota Piłka? Też prowadziłbym kampanię, głosujcie na mnie!”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[MARCA: Diomandé i Bernardo pierwszymi kandydatami do usprawnienia gry drużyny]]></title>
-            <link>https://www.realmadryt.pl/news/152673-marca-diomande-i-bernardo-pierwszymi-kandydatami-do-usprawnienia-gry-druzyny</link>
-            <pubDate>Thu, 24 Sep 2026 05:30:00 GMT</pubDate>
-            <description><![CDATA[Trzeba byłoby poświęcić jednak kogoś z grupy nietykalnych]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Dzisiejsze okładki]]></title>
-            <link>https://www.realmadryt.pl/news/152677-dzisiejsze-okladki</link>
-            <pubDate>Thu, 24 Sep 2026 00:22:00 GMT</pubDate>
-            <description><![CDATA[„Kibice chcą Diomandé”]]></description>
         </item>
         
 </channel>
