@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 23 Sep 2026 21:46:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 00:09:14 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152677-dzisiejsze-okladki</link>
+            <pubDate>Thu, 24 Sep 2026 00:22:00 GMT</pubDate>
+            <description><![CDATA[„Kibice chcą Diomandé”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Castilla zremisowała z Sant Andreu [VIDEO]]]></title>
             <link>https://www.realmadryt.pl/news/152674-castilla-zremisowala-z-sant-andreu-video</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152659-mbappe-plotki-o-olise-do-realu-doradzanie-pilkarzowi-transferu-byloby-brakiem-szacunku</link>
             <pubDate>Wed, 23 Sep 2026 12:35:00 GMT</pubDate>
             <description><![CDATA[Francuz udzielił kolejnego wywiadu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[MARCA: Real biega najmniej, ale realny problem to bieganie o wysokiej intensywności]]></title>
-            <link>https://www.realmadryt.pl/news/152658-marca-real-biega-najmniej-ale-realny-problem-to-bieganie-o-wysokiej-intensywnosci</link>
-            <pubDate>Wed, 23 Sep 2026 12:17:00 GMT</pubDate>
-            <description><![CDATA[Dziennik pokazuje prawidłowe zestawienia i liczby]]></description>
         </item>
         
 </channel>
