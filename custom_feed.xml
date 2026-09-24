@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 24 Sep 2026 00:09:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:44:44 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Cucurella: Wszyscy widzimy, że łamiemy się na dwie części, atakujemy zbyt szybko i nie uspokajamy gry]]></title>
+            <link>https://www.realmadryt.pl/news/152678-cucurella-wszyscy-widzimy-ze-lamiemy-sie-na-dwie-czesci-atakujemy-zbyt-szybko-i-nie-uspokajamy-gry</link>
+            <pubDate>Thu, 24 Sep 2026 06:00:00 GMT</pubDate>
+            <description><![CDATA[„Złota Piłka? Też prowadziłbym kampanię, głosujcie na mnie!”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[MARCA: Diomandé i Bernardo pierwszymi kandydatami do usprawnienia gry drużyny]]></title>
+            <link>https://www.realmadryt.pl/news/152673-marca-diomande-i-bernardo-pierwszymi-kandydatami-do-usprawnienia-gry-druzyny</link>
+            <pubDate>Thu, 24 Sep 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Trzeba byłoby poświęcić jednak kogoś z grupy nietykalnych]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/152677-dzisiejsze-okladki</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152661-derby-okiem-sedziego-trenerze-co-to-jest-faul-i-wyskakujemy-w-25-z-lawki-video</link>
             <pubDate>Wed, 23 Sep 2026 15:06:00 GMT</pubDate>
             <description><![CDATA[Kulisy z kamery arbitra]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Moretto: Real pracuje nad przedłużeniem kontraktu Bellinghama]]></title>
-            <link>https://www.realmadryt.pl/news/152660-moretto-real-pracuje-nad-przedluzeniem-kontraktu-bellinghama</link>
-            <pubDate>Wed, 23 Sep 2026 13:34:00 GMT</pubDate>
-            <description><![CDATA[Do kiedy może obowiązywać nowa umowa?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mbappé: Plotki o Olise do Realu? Doradzanie piłkarzowi transferu byłoby brakiem szacunku]]></title>
-            <link>https://www.realmadryt.pl/news/152659-mbappe-plotki-o-olise-do-realu-doradzanie-pilkarzowi-transferu-byloby-brakiem-szacunku</link>
-            <pubDate>Wed, 23 Sep 2026 12:35:00 GMT</pubDate>
-            <description><![CDATA[Francuz udzielił kolejnego wywiadu]]></description>
         </item>
         
 </channel>
