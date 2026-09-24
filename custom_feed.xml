@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 24 Sep 2026 18:31:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 21:48:14 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Wybrzeże Kości Słoniowej wygrało z Ghaną [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152697-wybrzeze-kosci-sloniowej-wygralo-z-ghana-video</link>
+            <pubDate>Thu, 24 Sep 2026 23:02:00 GMT</pubDate>
+            <description><![CDATA[Diomandé rozpoczął eliminacje PNA od dobrego meczu]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pedro Martínez: Obie drużyny miały dobre i złe momenty]]></title>
+            <link>https://www.realmadryt.pl/news/152696-pedro-martinez-obie-druzyny-mialy-dobre-i-zle-momenty</link>
+            <pubDate>Thu, 24 Sep 2026 22:50:00 GMT</pubDate>
+            <description><![CDATA[Wypowiedzi po przegranym meczu z Dubajem]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Lamine Yamal: Niewielu zawodników bawi tak, jak ja]]></title>
             <link>https://www.realmadryt.pl/news/152693-lamine-yamal-niewielu-zawodnikow-bawi-tak-jak-ja</link>
@@ -21,10 +35,10 @@
         </item>
         
         <item>
-            <title><![CDATA[Liga Narodów: Holandia gra z Niemcami, Portugalia podejmuje Walię [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/152691-liga-narodow-holandia-gra-z-niemcami-portugalia-podejmuje-walie-na-zywo</link>
+            <title><![CDATA[Holandia rzutem na taśmę remisuje z Niemcami, Portugalia wygrywa z Walią [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152691-holandia-rzutem-na-tasme-remisuje-z-niemcami-portugalia-wygrywa-z-walia-video</link>
             <pubDate>Thu, 24 Sep 2026 20:15:00 GMT</pubDate>
-            <description><![CDATA[Dumfries od początku, Bernardo na ławce!]]></description>
+            <description><![CDATA[Cały mecz Dumfriesa, Bernardo bez minut]]></description>
         </item>
         
         <item>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152684-carreras-widzi-ze-nie-jest-na-straconej-pozycji</link>
             <pubDate>Thu, 24 Sep 2026 14:00:00 GMT</pubDate>
             <description><![CDATA[Może wygrać rywalizację z Cucurellą?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Ancelotti: Endrick i Vinícius zagrają jutro od początku]]></title>
-            <link>https://www.realmadryt.pl/news/152683-ancelotti-endrick-i-vinicius-zagraja-jutro-od-poczatku</link>
-            <pubDate>Thu, 24 Sep 2026 12:55:00 GMT</pubDate>
-            <description><![CDATA[Wypowiedzi Carletto z Australii]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Były szef France Football: Wywiady Mbappé? Próba wywierania wpływu jest aż nazbyt oczywista]]></title>
-            <link>https://www.realmadryt.pl/news/152682-byly-szef-france-football-wywiady-mbappe-proba-wywierania-wplywu-jest-az-nazbyt-oczywista</link>
-            <pubDate>Thu, 24 Sep 2026 12:19:00 GMT</pubDate>
-            <description><![CDATA[Kolejna francuska reakcja na kampanię pomocnika]]></description>
         </item>
         
 </channel>
