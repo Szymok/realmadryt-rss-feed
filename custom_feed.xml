@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 25 Sep 2026 19:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 22:17:42 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Zidane: Z Mbappé nie jest dobrze [AKTUALIZACJA #1]]]></title>
+            <link>https://www.realmadryt.pl/news/152724-zidane-z-mbappe-nie-jest-dobrze-aktualizacja-1</link>
+            <pubDate>Fri, 25 Sep 2026 23:30:00 GMT</pubDate>
+            <description><![CDATA[Selekcjoner nie ma dobrych wiadomości]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Zwycięstwo Maroka z Gabonem]]></title>
+            <link>https://www.realmadryt.pl/news/152714-zwyciestwo-maroka-z-gabonem</link>
+            <pubDate>Fri, 25 Sep 2026 23:11:00 GMT</pubDate>
+            <description><![CDATA[Brahim Díaz bez minut]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Pitarch powołany do reprezentacji U-20]]></title>
             <link>https://www.realmadryt.pl/news/152720-pitarch-powolany-do-reprezentacji-u-20</link>
@@ -21,10 +35,10 @@
         </item>
         
         <item>
-            <title><![CDATA[Mbappé i Zizou kontra Arda Güler, Polska podejmuje Bośnię [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/152716-mbappe-i-zizou-kontra-arda-guler-polska-podejmuje-bosnie-na-zywo</link>
+            <title><![CDATA[Gol i kontuzja Mbappé, bezbarwna Polska remisuje z Bośnią]]></title>
+            <link>https://www.realmadryt.pl/news/152716-gol-i-kontuzja-mbappe-bezbarwna-polska-remisuje-z-bosnia</link>
             <pubDate>Fri, 25 Sep 2026 20:00:00 GMT</pubDate>
-            <description><![CDATA[Piątek z meczami Ligi Narodów]]></description>
+            <description><![CDATA[Grali także Arda Güler i Camavinga]]></description>
         </item>
         
         <item>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152708-chema-real-ma-wystarczajaca-jakosc-na-pozycji-srodkowego-pomocnika</link>
             <pubDate>Fri, 25 Sep 2026 14:51:00 GMT</pubDate>
             <description><![CDATA[Wywiad z Hiszpanem, do którego Królewscy stracili prawa]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bellingham wybrany najlepszym piłkarzem reprezentacji Anglii w poprzednim sezonie]]></title>
-            <link>https://www.realmadryt.pl/news/152707-bellingham-wybrany-najlepszym-pilkarzem-reprezentacji-anglii-w-poprzednim-sezonie</link>
-            <pubDate>Fri, 25 Sep 2026 13:21:00 GMT</pubDate>
-            <description><![CDATA[Drugie takie wyróżnienie z rzędu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bundesliga, La Liga, Serie A i Premier League wspólnie żądają reform FIFA]]></title>
-            <link>https://www.realmadryt.pl/news/152706-bundesliga-la-liga-serie-a-i-premier-league-wspolnie-zadaja-reform-fifa</link>
-            <pubDate>Fri, 25 Sep 2026 11:44:00 GMT</pubDate>
-            <description><![CDATA[Oświadczenie czterech topowych lig]]></description>
         </item>
         
 </channel>
