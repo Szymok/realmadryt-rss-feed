@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 24 Sep 2026 21:48:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 00:11:22 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152700-dzisiejsze-okladki</link>
+            <pubDate>Fri, 25 Sep 2026 00:17:00 GMT</pubDate>
+            <description><![CDATA[„Głos zaufania dla Viniego”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Wybrzeże Kości Słoniowej wygrało z Ghaną [VIDEO]]]></title>
             <link>https://www.realmadryt.pl/news/152697-wybrzeze-kosci-sloniowej-wygralo-z-ghana-video</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152685-oficjalnie-david-alaba-pilkarzem-udinese</link>
             <pubDate>Thu, 24 Sep 2026 14:03:00 GMT</pubDate>
             <description><![CDATA[Austriak znalazł sobie klub]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Carreras widzi, że nie jest na straconej pozycji]]></title>
-            <link>https://www.realmadryt.pl/news/152684-carreras-widzi-ze-nie-jest-na-straconej-pozycji</link>
-            <pubDate>Thu, 24 Sep 2026 14:00:00 GMT</pubDate>
-            <description><![CDATA[Może wygrać rywalizację z Cucurellą?]]></description>
         </item>
         
 </channel>
