@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 25 Sep 2026 22:17:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 00:43:56 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152725-dzisiejsze-okladki</link>
+            <pubDate>Sat, 26 Sep 2026 00:18:00 GMT</pubDate>
+            <description><![CDATA[„Mbappé z golem i kontuzją kolana”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Zidane: Z Mbappé nie jest dobrze [AKTUALIZACJA #1]]]></title>
             <link>https://www.realmadryt.pl/news/152724-zidane-z-mbappe-nie-jest-dobrze-aktualizacja-1</link>
             <pubDate>Fri, 25 Sep 2026 23:30:00 GMT</pubDate>
-            <description><![CDATA[Selekcjoner nie ma dobrych wiadomości]]></description>
+            <description><![CDATA[Kylian wraca do Madrytu z powodu kontuzji!]]></description>
         </item>
         
         <item>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152709-oficjalnie-corka-modricia-w-kobiecej-szkolce-realu-madryt</link>
             <pubDate>Fri, 25 Sep 2026 14:55:00 GMT</pubDate>
             <description><![CDATA[Ema przypisana do kadry Cadete]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Chema: Real ma wystarczającą jakość na pozycji środkowego pomocnika]]></title>
-            <link>https://www.realmadryt.pl/news/152708-chema-real-ma-wystarczajaca-jakosc-na-pozycji-srodkowego-pomocnika</link>
-            <pubDate>Fri, 25 Sep 2026 14:51:00 GMT</pubDate>
-            <description><![CDATA[Wywiad z Hiszpanem, do którego Królewscy stracili prawa]]></description>
         </item>
         
 </channel>
