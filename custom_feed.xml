@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 26 Sep 2026 21:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 23:35:48 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152750-dzisiejsze-okladki</link>
+            <pubDate>Sun, 27 Sep 2026 00:49:00 GMT</pubDate>
+            <description><![CDATA[„Skończyło się na strachu”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Hiszpanie pokonali Anglików na Wembley]]></title>
             <link>https://www.realmadryt.pl/news/152743-hiszpanie-pokonali-anglikow-na-wembley</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152734-grad-bramek-i-zwyciestwo-pilkarek-w-kraju-baskow</link>
             <pubDate>Sat, 26 Sep 2026 14:01:00 GMT</pubDate>
             <description><![CDATA[Królewskie z manitą i zwycięstwem z Realem Sociedad]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[MARCA: Militão z zielonym światłem na treningi z drużyną]]></title>
-            <link>https://www.realmadryt.pl/news/152733-marca-militao-z-zielonym-swiatlem-na-treningi-z-druzyna</link>
-            <pubDate>Sat, 26 Sep 2026 13:32:00 GMT</pubDate>
-            <description><![CDATA[Po wizycie lekarza, który go operował]]></description>
         </item>
         
 </channel>
