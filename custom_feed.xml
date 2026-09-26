@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 26 Sep 2026 00:43:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 05:32:22 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Mourinho: Kto przez swoje ego stwarza problemy, ten dla mnie nie jest supergwiazdą]]></title>
+            <link>https://www.realmadryt.pl/news/152718-mourinho-kto-przez-swoje-ego-stwarza-problemy-ten-dla-mnie-nie-jest-supergwiazda</link>
+            <pubDate>Sat, 26 Sep 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[„Rada na całe życie? Kochaj to, co robisz”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Cortegana: Do Klasyku nie widzę tego, by Mourinho posadził Viníciusa]]></title>
+            <link>https://www.realmadryt.pl/news/152717-cortegana-do-klasyku-nie-widze-tego-by-mourinho-posadzil-viniciusa</link>
+            <pubDate>Sat, 26 Sep 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[„Mbappé od dawna nie chce grać po lewej stronie”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/152725-dzisiejsze-okladki</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152711-as-real-madryt-obserwuje-stopera-stuttgartu</link>
             <pubDate>Fri, 25 Sep 2026 15:49:00 GMT</pubDate>
             <description><![CDATA[Zadebiutował w Lidze Mistrzów i dostał powołanie do kadry Niemiec]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bisseck: W meczu z Realem po prostu zaczepiłem korkami o murawę]]></title>
-            <link>https://www.realmadryt.pl/news/152710-bisseck-w-meczu-z-realem-po-prostu-zaczepilem-korkami-o-murawe</link>
-            <pubDate>Fri, 25 Sep 2026 15:16:00 GMT</pubDate>
-            <description><![CDATA[„Musisz grać dalej”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Córka Modricia w kobiecej szkółce Realu Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/152709-oficjalnie-corka-modricia-w-kobiecej-szkolce-realu-madryt</link>
-            <pubDate>Fri, 25 Sep 2026 14:55:00 GMT</pubDate>
-            <description><![CDATA[Ema przypisana do kadry Cadete]]></description>
         </item>
         
 </channel>
