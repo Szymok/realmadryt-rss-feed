@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 27 Sep 2026 17:44:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 20:25:40 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Koszykarze wygrywają na starcie ligi]]></title>
+            <link>https://www.realmadryt.pl/news/152764-koszykarze-wygrywaja-na-starcie-ligi</link>
+            <pubDate>Sun, 27 Sep 2026 21:11:00 GMT</pubDate>
+            <description><![CDATA[Remontada w 4. kwarcie]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Norwegia gra z Portugalią, Bernardo zaczyna na ławce [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/152765-norwegia-gra-z-portugalia-bernardo-zaczyna-na-lawce-na-zywo</link>
+            <pubDate>Sun, 27 Sep 2026 20:15:00 GMT</pubDate>
+            <description><![CDATA[Na ławce także Cristiano, Haaland od początku]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Nietypowa przerwa na „nawodnienie” podczas meczu legend Królewskich]]></title>
+            <link>https://www.realmadryt.pl/news/152766-nietypowa-przerwa-na-nawodnienie-podczas-meczu-legend-krolewskich</link>
+            <pubDate>Sun, 27 Sep 2026 19:55:00 GMT</pubDate>
+            <description><![CDATA[Ciekawe obrazki z Bremy]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Camavinga: Nie od razu Rzym zbudowano, nadal mam czas]]></title>
             <link>https://www.realmadryt.pl/news/152763-camavinga-nie-od-razu-rzym-zbudowano-nadal-mam-czas</link>
@@ -14,10 +35,10 @@
         </item>
         
         <item>
-            <title><![CDATA[Holandia gra z Serbią, Dumfries od początku [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/152761-holandia-gra-z-serbia-dumfries-od-poczatku-na-zywo</link>
+            <title><![CDATA[Holandia wygrywa z Serbią, 80 minut Dumfriesa]]></title>
+            <link>https://www.realmadryt.pl/news/152761-holandia-wygrywa-z-serbia-80-minut-dumfriesa</link>
             <pubDate>Sun, 27 Sep 2026 17:30:00 GMT</pubDate>
-            <description><![CDATA[Oranje szukają pierwszego zwycięstwa w Lidze Narodów]]></description>
+            <description><![CDATA[Oranje z pierwszym zwycięstwem w Lidze Narodów]]></description>
         </item>
         
         <item>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152755-footy-headlines-pierwsze-projekty-koszulek-realu-madryt-na-kolejny-sezon</link>
             <pubDate>Sun, 27 Sep 2026 11:56:00 GMT</pubDate>
             <description><![CDATA[Akcenty z fioletem i czernią]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[AS: Jacobo Ramón nie myśli już o powrocie do Realu]]></title>
-            <link>https://www.realmadryt.pl/news/152754-as-jacobo-ramon-nie-mysli-juz-o-powrocie-do-realu</link>
-            <pubDate>Sun, 27 Sep 2026 11:20:00 GMT</pubDate>
-            <description><![CDATA[Latem Królewscy złożyli mu pewną propozycję, ale ją odrzucił]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Niepowołani piłkarze w poniedziałek wrócą do treningów grupowych]]></title>
-            <link>https://www.realmadryt.pl/news/152748-niepowolani-pilkarze-w-poniedzialek-wroca-do-treningow-grupowych</link>
-            <pubDate>Sun, 27 Sep 2026 10:40:00 GMT</pubDate>
-            <description><![CDATA[Ten tydzień był wolny]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Benito: Realowi przy jego graczach świetnie pasowałoby to, na co historycznie stawiał Mourinho]]></title>
-            <link>https://www.realmadryt.pl/news/152745-benito-realowi-przy-jego-graczach-swietnie-pasowaloby-to-na-co-historycznie-stawial-mourinho</link>
-            <pubDate>Sun, 27 Sep 2026 10:01:00 GMT</pubDate>
-            <description><![CDATA[„Potrzeba moim zdaniem głębszej refleksji”]]></description>
         </item>
         
 </channel>
