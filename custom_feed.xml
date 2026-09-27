@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 27 Sep 2026 20:25:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 23:12:27 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152773-dzisiejsze-okladki</link>
+            <pubDate>Mon, 28 Sep 2026 00:32:00 GMT</pubDate>
+            <description><![CDATA[„Kolejna gwiazdka!”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Castilla przegrywa i traci dystans do czołówki [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152767-castilla-przegrywa-i-traci-dystans-do-czolowki-video</link>
+            <pubDate>Sun, 27 Sep 2026 22:28:00 GMT</pubDate>
+            <description><![CDATA[Dobry początek i niewiele więcej]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Koszykarze wygrywają na starcie ligi]]></title>
             <link>https://www.realmadryt.pl/news/152764-koszykarze-wygrywaja-na-starcie-ligi</link>
@@ -14,10 +28,10 @@
         </item>
         
         <item>
-            <title><![CDATA[Norwegia gra z Portugalią, Bernardo zaczyna na ławce [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/152765-norwegia-gra-z-portugalia-bernardo-zaczyna-na-lawce-na-zywo</link>
+            <title><![CDATA[Portugalia lepsza od Norwegii, Bernardo wszedł w końcówce]]></title>
+            <link>https://www.realmadryt.pl/news/152765-portugalia-lepsza-od-norwegii-bernardo-wszedl-w-koncowce</link>
             <pubDate>Sun, 27 Sep 2026 20:15:00 GMT</pubDate>
-            <description><![CDATA[Na ławce także Cristiano, Haaland od początku]]></description>
+            <description><![CDATA[Dobre widowisko w Oslo]]></description>
         </item>
         
         <item>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152756-savio-vinicius-wyjdzie-z-tego-poniewaz-ma-talent-i-mozliwosci</link>
             <pubDate>Sun, 27 Sep 2026 13:29:00 GMT</pubDate>
             <description><![CDATA[Wywiad z byłym zawodnikiem Realu Madryt]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Dziennikarz zarobił przynajmniej 4 miliony za sprzedaż udziałów w firmie produkującej treści dla RMTV]]></title>
-            <link>https://www.realmadryt.pl/news/152757-dziennikarz-zarobil-przynajmniej-4-miliony-za-sprzedaz-udzialow-w-firmie-produkujacej-tresci-dla-rmtv</link>
-            <pubDate>Sun, 27 Sep 2026 12:47:00 GMT</pubDate>
-            <description><![CDATA[Kulisy działalności klubowej telewizji]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Footy Headlines: Pierwsze projekty koszulek Realu Madryt na kolejny sezon]]></title>
-            <link>https://www.realmadryt.pl/news/152755-footy-headlines-pierwsze-projekty-koszulek-realu-madryt-na-kolejny-sezon</link>
-            <pubDate>Sun, 27 Sep 2026 11:56:00 GMT</pubDate>
-            <description><![CDATA[Akcenty z fioletem i czernią]]></description>
         </item>
         
 </channel>
