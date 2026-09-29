@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 28 Sep 2026 21:35:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 01:15:56 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Zakończono głosowanie w plebiscycie Złotej Piłki]]></title>
+            <link>https://www.realmadryt.pl/news/152790-zakonczono-glosowanie-w-plebiscycie-zlotej-pilki</link>
+            <pubDate>Tue, 29 Sep 2026 00:14:00 GMT</pubDate>
+            <description><![CDATA[Nareszcie]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152793-dzisiejsze-okladki</link>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[„Militão widzi już światełko w tunelu”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Włosi gromią Turków w Bursie]]></title>
             <link>https://www.realmadryt.pl/news/152786-wlosi-gromia-turkow-w-bursie</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152777-eder-militao-trenowal-z-grupa</link>
             <pubDate>Mon, 28 Sep 2026 12:24:00 GMT</pubDate>
             <description><![CDATA[Pierwsze zajęcia w trakcie przerwy na reprezentacje]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[AS: Mourinho wybrał Real Madryt, chociaż miał ofertę z reprezentacji Portugalii]]></title>
-            <link>https://www.realmadryt.pl/news/152778-as-mourinho-wybral-real-madryt-chociaz-mial-oferte-z-reprezentacji-portugalii</link>
-            <pubDate>Mon, 28 Sep 2026 12:21:00 GMT</pubDate>
-            <description><![CDATA[Trener zdecydował się pomóc przyjacielowi]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Vozpópuli: Real Madryt wart nawet 9,5 miliarda dolarów według raportu JPMorgan]]></title>
-            <link>https://www.realmadryt.pl/news/152769-vozpopuli-real-madryt-wart-nawet-9-5-miliarda-dolarow-wedlug-raportu-jpmorgan</link>
-            <pubDate>Mon, 28 Sep 2026 10:20:00 GMT</pubDate>
-            <description><![CDATA[Amerykanie przeanalizowali temat inwestycji w futbol]]></description>
         </item>
         
 </channel>
