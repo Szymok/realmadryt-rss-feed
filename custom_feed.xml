@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 29 Sep 2026 19:24:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 23:04:21 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152820-dzisiejsze-okladki</link>
+            <pubDate>Wed, 30 Sep 2026 00:45:00 GMT</pubDate>
+            <description><![CDATA[„Raúl Asencio bliżej przejścia operacji”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Wybrzeże Kości Słoniowej pokonało Somalię dopiero po golach w końcówce [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152815-wybrzeze-kosci-sloniowej-pokonalo-somalie-dopiero-po-golach-w-koncowce-video</link>
+            <pubDate>Tue, 29 Sep 2026 23:06:00 GMT</pubDate>
+            <description><![CDATA[Diomandé zaliczył pełne spotkanie i był blisko gola]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[MARCA: Asencio coraz bliżej operacji]]></title>
+            <link>https://www.realmadryt.pl/news/152813-marca-asencio-coraz-blizej-operacji</link>
+            <pubDate>Tue, 29 Sep 2026 22:03:00 GMT</pubDate>
+            <description><![CDATA[Defensor może wypaść nawet na 3 miesiące]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Koszykarze przegrywają drugi mecz z rzędu w Eurolidze]]></title>
             <link>https://www.realmadryt.pl/news/152812-koszykarze-przegrywaja-drugi-mecz-z-rzedu-w-eurolidze</link>
@@ -14,10 +35,10 @@
         </item>
         
         <item>
-            <title><![CDATA[Liga Narodów: Trent, Huijsen i Cucurella od pierwszej minuty, Bellingham zaczyna na ławce [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/152811-liga-narodow-trent-huijsen-i-cucurella-od-pierwszej-minuty-bellingham-zaczyna-na-lawce-na-zywo</link>
+            <title><![CDATA[Liga Narodów: Asysta Trenta i dobry mecz Cucurelli, wygrane Hiszpanii i Anglii]]></title>
+            <link>https://www.realmadryt.pl/news/152811-liga-narodow-asysta-trenta-i-dobry-mecz-cucurelli-wygrane-hiszpanii-i-anglii</link>
             <pubDate>Tue, 29 Sep 2026 19:45:00 GMT</pubDate>
-            <description><![CDATA[Zmagania w grupie 3]]></description>
+            <description><![CDATA[Grali również Huijsen i Bellingham]]></description>
         </item>
         
         <item>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152805-najtanszy-bilet-na-klasyk-na-camp-nou-drozszy-niz-najdrozszy-bilet-na-ostatni-klasyk-na-bernabeu</link>
             <pubDate>Tue, 29 Sep 2026 16:54:00 GMT</pubDate>
             <description><![CDATA[Katalończycy zaszaleli z cenami]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Jacobo: Powrót do Realu? Myślę tylko o Como]]></title>
-            <link>https://www.realmadryt.pl/news/152803-jacobo-powrot-do-realu-mysle-tylko-o-como</link>
-            <pubDate>Tue, 29 Sep 2026 15:09:00 GMT</pubDate>
-            <description><![CDATA[Wychowanek stawia sprawę jasno]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Ancelotti: Będę wobec Viníciusa bardzo cierpliwy, bo zasługuje na tę cierpliwość]]></title>
-            <link>https://www.realmadryt.pl/news/152802-ancelotti-bede-wobec-viniciusa-bardzo-cierpliwy-bo-zasluguje-na-te-cierpliwosc</link>
-            <pubDate>Tue, 29 Sep 2026 15:08:00 GMT</pubDate>
-            <description><![CDATA[„Nie jest to jego najlepszy moment”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Raphinha kontuzjowany?]]></title>
-            <link>https://www.realmadryt.pl/news/152801-raphinha-kontuzjowany</link>
-            <pubDate>Tue, 29 Sep 2026 14:34:00 GMT</pubDate>
-            <description><![CDATA[Napastnik Barcelony zmieniony w przerwie sparingu z Australią]]></description>
         </item>
         
 </channel>
