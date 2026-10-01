@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:26:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:11:03 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Piłkarki remisują na wyjeździe z Manchesterem City [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152873-pilkarki-remisuja-na-wyjezdzie-z-manchesterem-city-video</link>
+            <pubDate>Thu, 01 Oct 2026 22:55:00 GMT</pubDate>
+            <description><![CDATA[Punkt na terenie mistrzyń Anglii]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pięć goli Espíego, Hiszpania U-21 rozbija San Marino [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152867-piec-goli-espiego-hiszpania-u-21-rozbija-san-marino-video</link>
+            <pubDate>Thu, 01 Oct 2026 22:07:00 GMT</pubDate>
+            <description><![CDATA[Młodzi Hiszpanie nie pozostawili rywalowi żadnych złudzeń]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Koszykarze przegrywają trzeci mecz z rzędu w Eurolidze]]></title>
+            <link>https://www.realmadryt.pl/news/152870-koszykarze-przegrywaja-trzeci-mecz-z-rzedu-w-eurolidze</link>
+            <pubDate>Thu, 01 Oct 2026 20:18:00 GMT</pubDate>
+            <description><![CDATA[Chociaż w 3. kwarcie odrobili 22 punkty straty]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Portugalia wygrywa bez Bernardo i Cristiano, Holandia ratuje remis z Grecją]]></title>
+            <link>https://www.realmadryt.pl/news/152869-portugalia-wygrywa-bez-bernardo-i-cristiano-holandia-ratuje-remis-z-grecja</link>
+            <pubDate>Thu, 01 Oct 2026 20:00:00 GMT</pubDate>
+            <description><![CDATA[Cały mecz Dumriesa, który nie błyszczał]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Asencio: Dziękuję sztabowi medycznemu i trenerowi]]></title>
             <link>https://www.realmadryt.pl/news/152866-asencio-dziekuje-sztabowi-medycznemu-i-trenerowi</link>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/152859-mourinho-odwiedzil-asencio-po-operacji</link>
             <pubDate>Thu, 01 Oct 2026 14:41:00 GMT</pubDate>
             <description><![CDATA[Trener okazał wsparcie defensorowi]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[AS: Mbappé jest w Paryżu za zgodą Mourinho, z ostrożności może opuścić Villarreal]]></title>
-            <link>https://www.realmadryt.pl/news/152857-as-mbappe-jest-w-paryzu-za-zgoda-mourinho-z-ostroznosci-moze-opuscic-villarreal</link>
-            <pubDate>Thu, 01 Oct 2026 14:28:00 GMT</pubDate>
-            <description><![CDATA[Wyjaśnienia w sprawie kontuzji Francuza]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Czwartkowy trening]]></title>
-            <link>https://www.realmadryt.pl/news/152856-czwartkowy-trening</link>
-            <pubDate>Thu, 01 Oct 2026 13:13:00 GMT</pubDate>
-            <description><![CDATA[Niepowołani i kontuzjowani pracują w Valdebebas]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[ABC: Prezes Atlético przeprosił Florentino za zaproszenie Riquelme na derby]]></title>
-            <link>https://www.realmadryt.pl/news/152855-abc-prezes-atletico-przeprosil-florentino-za-zaproszenie-riquelme-na-derby</link>
-            <pubDate>Thu, 01 Oct 2026 12:42:00 GMT</pubDate>
-            <description><![CDATA[W tle wątek… Erlinga Haalanda]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Asencio przeszedł operację]]></title>
-            <link>https://www.realmadryt.pl/news/152854-oficjalnie-asencio-przeszedl-operacje</link>
-            <pubDate>Thu, 01 Oct 2026 12:21:00 GMT</pubDate>
-            <description><![CDATA[Teraz czeka go długa przerwa]]></description>
         </item>
         
 </channel>
