@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 30 Sep 2026 23:36:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 02:25:06 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Courtois cz.1: Mourinho świętował interwencje Čecha, żeby mnie podrażnić]]></title>
+            <link>https://www.realmadryt.pl/news/152850-courtois-cz-1-mourinho-swietowal-interwencje-cecha-zeby-mnie-podraznic</link>
+            <pubDate>Thu, 01 Oct 2026 03:55:00 GMT</pubDate>
+            <description><![CDATA[Pierwsza część wywiadu z bramkarzem Realu Madryt]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Przyjaciel Cristiano: Jesus miał przeprosić go publicznie i gdy tego nie zrobił, Cris poczuł się zdradzony i wyjechał]]></title>
             <link>https://www.realmadryt.pl/news/152847-przyjaciel-cristiano-jesus-mial-przeprosic-go-publicznie-i-gdy-tego-nie-zrobil-cris-poczul-sie-zdradzony-i-wyjechal</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152833-tebas-z-nowym-wpisem-w-sprawie-pozyczki-barcy</link>
             <pubDate>Wed, 30 Sep 2026 17:32:00 GMT</pubDate>
             <description><![CDATA[Najnowsza twórczość miłościwie panującego]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Guardiola o oskarżeniu City o oszustwa: „Zawsze będę wspierał mój klub”]]></title>
-            <link>https://www.realmadryt.pl/news/152832-guardiola-o-oskarzeniu-city-o-oszustwa-zawsze-bede-wspieral-moj-klub</link>
-            <pubDate>Wed, 30 Sep 2026 15:06:00 GMT</pubDate>
-            <description><![CDATA[Katalończyk pracował w Manchesterze także w tamtych latach]]></description>
         </item>
         
 </channel>
