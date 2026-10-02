@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 02 Oct 2026 18:23:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 22:24:36 GMT</lastBuildDate>
     
         <item>
-            <title><![CDATA[Liga Narodów: Camavinga na ławce, Güler od początku, kluczowy mecz Polski [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/152894-liga-narodow-camavinga-na-lawce-guler-od-poczatku-kluczowy-mecz-polski-na-zywo</link>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152900-dzisiejsze-okladki</link>
+            <pubDate>Sat, 03 Oct 2026 00:18:00 GMT</pubDate>
+            <description><![CDATA[„Rośnie napięcie na 22 dni przed Klayskiem”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pięć goli, dwa rzuty karne, Castilla górą w derbach Madrytu [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152897-piec-goli-dwa-rzuty-karne-castilla-gora-w-derbach-madrytu-video</link>
+            <pubDate>Fri, 02 Oct 2026 23:22:00 GMT</pubDate>
+            <description><![CDATA[Królewscy pokonali rezerwy Atlético]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Liga Narodów: Dobry Güler to za mało, tylko remis Francji przy wejściu z ławki Camavingi]]></title>
+            <link>https://www.realmadryt.pl/news/152894-liga-narodow-dobry-guler-to-za-malo-tylko-remis-francji-przy-wejsciu-z-lawki-camavingi</link>
             <pubDate>Fri, 02 Oct 2026 19:45:00 GMT</pubDate>
-            <description><![CDATA[Grają nasi]]></description>
+            <description><![CDATA[Polacy rozgromili rywala]]></description>
         </item>
         
         <item>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152885-oficjalnie-city-zlozylo-odwolanie-od-opinii-komisji-premier-league</link>
             <pubDate>Fri, 02 Oct 2026 13:37:00 GMT</pubDate>
             <description><![CDATA[Obywatele utrzymują, że są niewinni]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Badania Raphinhi nie wykazały kontuzji mięśniowej]]></title>
-            <link>https://www.realmadryt.pl/news/152884-badania-raphinhi-nie-wykazaly-kontuzji-miesniowej</link>
-            <pubDate>Fri, 02 Oct 2026 13:13:00 GMT</pubDate>
-            <description><![CDATA[Skończyło się na obrzęku]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Ostatni trening w tym tygodniu]]></title>
-            <link>https://www.realmadryt.pl/news/152883-ostatni-trening-w-tym-tygodniu</link>
-            <pubDate>Fri, 02 Oct 2026 13:04:00 GMT</pubDate>
-            <description><![CDATA[Królewscy pracowali w Valdebebas]]></description>
         </item>
         
 </channel>
