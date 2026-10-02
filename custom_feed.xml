@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 01 Oct 2026 21:11:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 00:45:53 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[L'Équipe: Mbappé i jego matka w centrum sprawy skorumpowanego „policjanta reprezentacji”]]></title>
+            <link>https://www.realmadryt.pl/news/152872-l-equipe-mbappe-i-jego-matka-w-centrum-sprawy-skorumpowanego-policjanta-reprezentacji</link>
+            <pubDate>Fri, 02 Oct 2026 00:33:00 GMT</pubDate>
+            <description><![CDATA[Pożyczki, prezenty, przysługi, oszustwa w środku kadry]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152876-dzisiejsze-okladki</link>
+            <pubDate>Fri, 02 Oct 2026 00:06:00 GMT</pubDate>
+            <description><![CDATA[„Real wzywa UEFA, by ukarała Barçę”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Piłkarki remisują na wyjeździe z Manchesterem City [VIDEO]]]></title>
             <link>https://www.realmadryt.pl/news/152873-pilkarki-remisuja-na-wyjezdzie-z-manchesterem-city-video</link>
@@ -28,8 +42,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Portugalia wygrywa bez Bernardo i Cristiano, Holandia ratuje remis z Grecją]]></title>
-            <link>https://www.realmadryt.pl/news/152869-portugalia-wygrywa-bez-bernardo-i-cristiano-holandia-ratuje-remis-z-grecja</link>
+            <title><![CDATA[Portugalia wygrywa bez Bernardo i Cristiano, Holandia ratuje remis z Grecją [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152869-portugalia-wygrywa-bez-bernardo-i-cristiano-holandia-ratuje-remis-z-grecja-video</link>
             <pubDate>Thu, 01 Oct 2026 20:00:00 GMT</pubDate>
             <description><![CDATA[Cały mecz Dumriesa, który nie błyszczał]]></description>
         </item>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152861-media-cestero-dostanie-powolanie-na-najblizszy-mecz-castilli</link>
             <pubDate>Thu, 01 Oct 2026 15:31:00 GMT</pubDate>
             <description><![CDATA[Koniec kary dla wychowanka]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[MARCA: Otoczenie Asencio narzeka na decyzje sztabu medycznego Realu Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/152860-marca-otoczenie-asencio-narzeka-na-decyzje-sztabu-medycznego-realu-madryt</link>
-            <pubDate>Thu, 01 Oct 2026 15:18:00 GMT</pubDate>
-            <description><![CDATA[Klub wybrał operację po serii złych decyzji]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho odwiedził Asencio po operacji]]></title>
-            <link>https://www.realmadryt.pl/news/152859-mourinho-odwiedzil-asencio-po-operacji</link>
-            <pubDate>Thu, 01 Oct 2026 14:41:00 GMT</pubDate>
-            <description><![CDATA[Trener okazał wsparcie defensorowi]]></description>
         </item>
         
 </channel>
