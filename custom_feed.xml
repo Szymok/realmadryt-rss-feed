@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 03 Oct 2026 16:14:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 19:14:33 GMT</lastBuildDate>
     
         <item>
-            <title><![CDATA[Chorwaci podejmują Anglików z Bellinghamem w pierwszym składzie [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/152914-chorwaci-podejmuja-anglikow-z-bellinghamem-w-pierwszym-skladzie-na-zywo</link>
+            <title><![CDATA[Yamal daje Hiszpanii prowadzenie [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/152915-yamal-daje-hiszpanii-prowadzenie-na-zywo</link>
+            <pubDate>Sat, 03 Oct 2026 19:51:00 GMT</pubDate>
+            <description><![CDATA[Hiszpania – Czechy 1:0]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Anglia demoluje Chorwację, Bellingham z golem i trzema asystami]]></title>
+            <link>https://www.realmadryt.pl/news/152914-anglia-demoluje-chorwacje-bellingham-z-golem-i-trzema-asystami</link>
             <pubDate>Sat, 03 Oct 2026 17:21:00 GMT</pubDate>
-            <description><![CDATA[Na boisku również Luka Modrić]]></description>
+            <description><![CDATA[Koncert Synów Albionu w Rijece]]></description>
         </item>
         
         <item>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152904-oficjalnie-carlos-espi-nie-zagra-z-czechami</link>
             <pubDate>Sat, 03 Oct 2026 10:00:00 GMT</pubDate>
             <description><![CDATA[Napastnik nie znalazł się w kadrze na mecz]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 3 października]]></title>
-            <link>https://www.realmadryt.pl/news/152895-kartka-z-kalendarza-3-pazdziernika</link>
-            <pubDate>Sat, 03 Oct 2026 09:40:00 GMT</pubDate>
-            <description><![CDATA[Goleady za Mourinho i porażka Ancelottiego]]></description>
         </item>
         
 </channel>
