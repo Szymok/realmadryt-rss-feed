@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 03 Oct 2026 19:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 22:08:33 GMT</lastBuildDate>
     
         <item>
-            <title><![CDATA[Yamal daje Hiszpanii prowadzenie [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/152915-yamal-daje-hiszpanii-prowadzenie-na-zywo</link>
+            <title><![CDATA[Wybrzeże Kości Słoniowej przegrało z Kamerunem]]></title>
+            <link>https://www.realmadryt.pl/news/152918-wybrzeze-kosci-sloniowej-przegralo-z-kamerunem</link>
+            <pubDate>Sat, 03 Oct 2026 22:58:00 GMT</pubDate>
+            <description><![CDATA[Słabe wejście z ławki Diomandé]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Kobiecy Klasyk przesunięty o dwie godziny]]></title>
+            <link>https://www.realmadryt.pl/news/152917-kobiecy-klasyk-przesuniety-o-dwie-godziny</link>
+            <pubDate>Sat, 03 Oct 2026 22:37:00 GMT</pubDate>
+            <description><![CDATA[Spotkanie rozpocznie się o 19:00]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Hiszpania z kompletem punktów [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152915-hiszpania-z-kompletem-punktow-video</link>
             <pubDate>Sat, 03 Oct 2026 19:51:00 GMT</pubDate>
-            <description><![CDATA[Hiszpania – Czechy 1:0]]></description>
+            <description><![CDATA[Cucurella i Huijsen zostali na ławce rezerwowych]]></description>
         </item>
         
         <item>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/152903-davide-ancelotti-mourinho-jest-teraz-idealnym-trenerem-dla-realu-madryt</link>
             <pubDate>Sat, 03 Oct 2026 11:40:00 GMT</pubDate>
             <description><![CDATA[„Z odejściem Kroosa zespół stracił coś, czego nigdy już nie odzyska”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Enzo Alves wraca do gry po kontuzji]]></title>
-            <link>https://www.realmadryt.pl/news/152905-enzo-alves-wraca-do-gry-po-kontuzji</link>
-            <pubDate>Sat, 03 Oct 2026 10:50:00 GMT</pubDate>
-            <description><![CDATA[Co słychać u syna Marcelo?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Carlos Espí nie zagra z Czechami]]></title>
-            <link>https://www.realmadryt.pl/news/152904-oficjalnie-carlos-espi-nie-zagra-z-czechami</link>
-            <pubDate>Sat, 03 Oct 2026 10:00:00 GMT</pubDate>
-            <description><![CDATA[Napastnik nie znalazł się w kadrze na mecz]]></description>
         </item>
         
 </channel>
