@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 03 Oct 2026 22:08:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 00:35:37 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152922-dzisiejsze-okladki</link>
+            <pubDate>Sun, 04 Oct 2026 00:35:00 GMT</pubDate>
+            <description><![CDATA[„¡Olé!”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Wybrzeże Kości Słoniowej przegrało z Kamerunem]]></title>
             <link>https://www.realmadryt.pl/news/152918-wybrzeze-kosci-sloniowej-przegralo-z-kamerunem</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/152907-mundo-deportivo-gospodarza-finalu-kolejnego-mundialu-poznamy-dopiero-w-2028-roku</link>
             <pubDate>Sat, 03 Oct 2026 11:46:00 GMT</pubDate>
             <description><![CDATA[Trochę jeszcze poczekamy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Davide Ancelotti: Mourinho jest teraz idealnym trenerem dla Realu Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/152903-davide-ancelotti-mourinho-jest-teraz-idealnym-trenerem-dla-realu-madryt</link>
-            <pubDate>Sat, 03 Oct 2026 11:40:00 GMT</pubDate>
-            <description><![CDATA[„Z odejściem Kroosa zespół stracił coś, czego nigdy już nie odzyska”]]></description>
         </item>
         
 </channel>
