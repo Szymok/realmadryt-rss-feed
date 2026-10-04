@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 Oct 2026 20:09:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 23:06:20 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152945-dzisiejsze-okladki</link>
+            <pubDate>Mon, 05 Oct 2026 00:17:00 GMT</pubDate>
+            <description><![CDATA[„Na ratunek Viníciusowi”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Jorge Jesus: Cristiano wróci do reprezentacji, jeśli tylko będzie chciał]]></title>
+            <link>https://www.realmadryt.pl/news/152944-jorge-jesus-cristiano-wroci-do-reprezentacji-jesli-tylko-bedzie-chcial</link>
+            <pubDate>Mon, 05 Oct 2026 00:11:00 GMT</pubDate>
+            <description><![CDATA[„Doszło do nieporozumienia, które moim zdaniem łatwo wyjaśnić”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oficjalnie: Arda zwolniony ze zgrupowania reprezentacji Turcji]]></title>
+            <link>https://www.realmadryt.pl/news/152939-oficjalnie-arda-zwolniony-ze-zgrupowania-reprezentacji-turcji</link>
+            <pubDate>Sun, 04 Oct 2026 22:35:00 GMT</pubDate>
+            <description><![CDATA[Pomocnik wraca wcześniej do Madrytu]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Maroko remisuje z Mali, 25 minut Brahima]]></title>
             <link>https://www.realmadryt.pl/news/152929-maroko-remisuje-z-mali-25-minut-brahima</link>
@@ -14,10 +35,10 @@
         </item>
         
         <item>
-            <title><![CDATA[Portugalia gra z Norwegią, Holandia z Serbią [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/152930-portugalia-gra-z-norwegia-holandia-z-serbia-na-zywo</link>
+            <title><![CDATA[Pełny mecz Dumfriesa, Bernardo Silva tylko na końcówkę]]></title>
+            <link>https://www.realmadryt.pl/news/152930-pelny-mecz-dumfriesa-bernardo-silva-tylko-na-koncowke</link>
             <pubDate>Sun, 04 Oct 2026 20:00:00 GMT</pubDate>
-            <description><![CDATA[Dumfries w pierwszym składzie, Bernardo Silva na ławce]]></description>
+            <description><![CDATA[Zwycięstwa Holandii i Portugalii]]></description>
         </item>
         
         <item>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152933-moretto-milan-mial-latem-porozumienie-z-endrickiem</link>
             <pubDate>Sun, 04 Oct 2026 17:33:00 GMT</pubDate>
             <description><![CDATA[„Nadal jest nim zainteresowany, podobnie jak Roma”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Koszykarze wygrywają po dogrywce]]></title>
-            <link>https://www.realmadryt.pl/news/152932-koszykarze-wygrywaja-po-dogrywce</link>
-            <pubDate>Sun, 04 Oct 2026 15:05:00 GMT</pubDate>
-            <description><![CDATA[Trudne spotkanie z Obradoiro]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Zidane: Czapki z głów, Cristiano]]></title>
-            <link>https://www.realmadryt.pl/news/152931-zidane-czapki-z-glow-cristiano</link>
-            <pubDate>Sun, 04 Oct 2026 14:51:00 GMT</pubDate>
-            <description><![CDATA[„Dzięki niemu wygrywałem niesamowite rzeczy”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Wychowankowie Realu błyszczą w Europie po rekordowym lecie transferowym]]></title>
-            <link>https://www.realmadryt.pl/news/152927-wychowankowie-realu-blyszcza-w-europie-po-rekordowym-lecie-transferowym</link>
-            <pubDate>Sun, 04 Oct 2026 14:15:00 GMT</pubDate>
-            <description><![CDATA[Niektórzy pracują na szansę powrotu do stolicy Hiszpanii]]></description>
         </item>
         
 </channel>
