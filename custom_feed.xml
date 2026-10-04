@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 Oct 2026 00:35:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 06:20:44 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Podnieść się po Eurolidze]]></title>
+            <link>https://www.realmadryt.pl/news/152908-podniesc-sie-po-eurolidze</link>
+            <pubDate>Sun, 04 Oct 2026 08:18:00 GMT</pubDate>
+            <description><![CDATA[Koszykarze zagrają z Obradoiro]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Co Real Madryt powinien poprawić w pierwszej kolejności?]]></title>
+            <link>https://www.realmadryt.pl/news/152920-glos-kibica-co-real-madryt-powinien-poprawic-w-pierwszej-kolejnosci</link>
+            <pubDate>Sun, 04 Oct 2026 07:25:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do dzisiejszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Statystyki obnażają problemy Realu Madryt]]></title>
+            <link>https://www.realmadryt.pl/news/152921-statystyki-obnazaja-problemy-realu-madryt</link>
+            <pubDate>Sun, 04 Oct 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Liczby nie kłamią]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/152922-dzisiejsze-okladki</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/152910-terminarz-11-kolejki-la-ligi</link>
             <pubDate>Sat, 03 Oct 2026 13:24:00 GMT</pubDate>
             <description><![CDATA[Królewscy zagrają 1 listopada]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Endrick traci czas, Roma nie traci zainteresowania]]></title>
-            <link>https://www.realmadryt.pl/news/152909-endrick-traci-czas-roma-nie-traci-zainteresowania</link>
-            <pubDate>Sat, 03 Oct 2026 13:20:00 GMT</pubDate>
-            <description><![CDATA[Brazylijczyk znów uda się zimą na wypożyczenie?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[AS: Mendy coraz bliżej powrotu]]></title>
-            <link>https://www.realmadryt.pl/news/152906-as-mendy-coraz-blizej-powrotu</link>
-            <pubDate>Sat, 03 Oct 2026 12:30:00 GMT</pubDate>
-            <description><![CDATA[Francuz może niedługo trenować z zespołem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mundo Deportivo: Gospodarza finału kolejnego mundialu poznamy dopiero w 2028 roku]]></title>
-            <link>https://www.realmadryt.pl/news/152907-mundo-deportivo-gospodarza-finalu-kolejnego-mundialu-poznamy-dopiero-w-2028-roku</link>
-            <pubDate>Sat, 03 Oct 2026 11:46:00 GMT</pubDate>
-            <description><![CDATA[Trochę jeszcze poczekamy]]></description>
         </item>
         
 </channel>
