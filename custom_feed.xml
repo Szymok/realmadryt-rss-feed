@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 05 Oct 2026 17:16:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:14:42 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/152960-dzisiejsze-okladki</link>
+            <pubDate>Tue, 06 Oct 2026 00:21:00 GMT</pubDate>
+            <description><![CDATA[„Mbappé wraca po swojej specjalnej rehabilitacji”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Niemieckie Sky: Real obserwuje Jarella Quansaha]]></title>
+            <link>https://www.realmadryt.pl/news/152957-niemieckie-sky-real-obserwuje-jarella-quansaha</link>
+            <pubDate>Mon, 05 Oct 2026 20:34:00 GMT</pubDate>
+            <description><![CDATA[Kolejny reprezentant Anglii na celowniku Królewskich]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Liga Narodów: Remontada Francji z Camavingą, porażka Polaków [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/152955-liga-narodow-remontada-francji-z-camavinga-porazka-polakow-video</link>
+            <pubDate>Mon, 05 Oct 2026 19:45:00 GMT</pubDate>
+            <description><![CDATA[Wejścia Olise, Cherkiego i Doué odmieniły Trójkolorowych]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oficjalnie: Mbappé po południu trenował indywidualnie w Valdebebas]]></title>
+            <link>https://www.realmadryt.pl/news/152956-oficjalnie-mbappe-po-poludniu-trenowal-indywidualnie-w-valdebebas</link>
+            <pubDate>Mon, 05 Oct 2026 19:18:00 GMT</pubDate>
+            <description><![CDATA[Francuz wrócił do pracy na murawie]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Mbappé o rzekomym konflikcie z Realem i Zidane'em: „No tak, jasne, pokłóciłem się jeszcze ze swoją praciotką”]]></title>
             <link>https://www.realmadryt.pl/news/152954-mbappe-o-rzekomym-konflikcie-z-realem-i-zidane-em-no-tak-jasne-poklocilem-sie-jeszcze-ze-swoja-praciotka</link>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/152947-tchouameni-nadrabia-stracone-lato</link>
             <pubDate>Mon, 05 Oct 2026 11:11:00 GMT</pubDate>
             <description><![CDATA[Francuz spędza wiele czasu na pracy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[„Jeśli Mbappé nie zagra dobrze z Villarrealem, Bernabéu znów go wygwiżdże”]]></title>
-            <link>https://www.realmadryt.pl/news/152946-jesli-mbappe-nie-zagra-dobrze-z-villarrealem-bernabeu-znow-go-wygwizdze</link>
-            <pubDate>Mon, 05 Oct 2026 10:07:00 GMT</pubDate>
-            <description><![CDATA[Francuz w ogniu krytyki]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 5 października]]></title>
-            <link>https://www.realmadryt.pl/news/152941-kartka-z-kalendarza-5-pazdziernika</link>
-            <pubDate>Mon, 05 Oct 2026 09:09:00 GMT</pubDate>
-            <description><![CDATA[Spektakularna remontada i kontuzja Carvajala]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Thiago wraca z argumentami]]></title>
-            <link>https://www.realmadryt.pl/news/152940-thiago-wraca-z-argumentami</link>
-            <pubDate>Mon, 05 Oct 2026 08:18:00 GMT</pubDate>
-            <description><![CDATA[Hiszpan ma zadomowić się w pierwszym zespole]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[GŁOS KIBICA: Jak powinno reagować Bernabéu, gdy Real gra słabo?]]></title>
-            <link>https://www.realmadryt.pl/news/152943-glos-kibica-jak-powinno-reagowac-bernabeu-gdy-real-gra-slabo</link>
-            <pubDate>Mon, 05 Oct 2026 07:25:00 GMT</pubDate>
-            <description><![CDATA[Zapraszamy do dzisiejszej ankiety]]></description>
         </item>
         
 </channel>
