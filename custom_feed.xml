@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 07 Oct 2026 19:47:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:57:03 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153018-dzisiejsze-okladki</link>
+            <pubDate>Thu, 08 Oct 2026 00:50:00 GMT</pubDate>
+            <description><![CDATA[„Gotowy na Bernabéu”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Chiringuito: Modrić odwiedził dziś Valdebebas [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153014-chiringuito-modric-odwiedzil-dzis-valdebebas-video</link>
+            <pubDate>Wed, 07 Oct 2026 23:09:00 GMT</pubDate>
+            <description><![CDATA[Były kapitan wpadł na stare śmieci]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oficjalnie: AS Monaco ogłosiło bankructwo]]></title>
+            <link>https://www.realmadryt.pl/news/153013-oficjalnie-as-monaco-oglosilo-bankructwo</link>
+            <pubDate>Wed, 07 Oct 2026 22:34:00 GMT</pubDate>
+            <description><![CDATA[Chodzi o koszykarską drużynę z Księstwa]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[AS: Dołączenie Carvajala do Getafe nie jest wykluczone]]></title>
             <link>https://www.realmadryt.pl/news/153010-as-dolaczenie-carvajala-do-getafe-nie-jest-wykluczone</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/153002-w-sprawie-negreiry-uefa-stanowi-realne-zagrozenie-ktorego-ludzie-nie-doceniaja</link>
             <pubDate>Wed, 07 Oct 2026 14:00:00 GMT</pubDate>
             <description><![CDATA[Wywiad z adwokatem specjalizującym się w prawie karnym]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[JJ Gabriel chce milionowej pensji]]></title>
-            <link>https://www.realmadryt.pl/news/153001-jj-gabriel-chce-milionowej-pensji</link>
-            <pubDate>Wed, 07 Oct 2026 12:20:00 GMT</pubDate>
-            <description><![CDATA[Kolejna przeszkoda w transferze]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[W przypadku Mbappé fakty przegrywają z narracją]]></title>
-            <link>https://www.realmadryt.pl/news/153000-w-przypadku-mbappe-fakty-przegrywaja-z-narracja</link>
-            <pubDate>Wed, 07 Oct 2026 11:40:00 GMT</pubDate>
-            <description><![CDATA[Juanma Castaño staje w obronie Francuza]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Były szef France Football: „Uważam, że kampania Mbappé niewiele dała”]]></title>
-            <link>https://www.realmadryt.pl/news/152997-byly-szef-france-football-uwazam-ze-kampania-mbappe-niewiele-dala</link>
-            <pubDate>Wed, 07 Oct 2026 11:00:00 GMT</pubDate>
-            <description><![CDATA[„W tym roku nie zagłosowałbym na Kyliana”]]></description>
         </item>
         
 </channel>
