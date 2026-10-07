@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 07 Oct 2026 00:52:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:44:58 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Mbappé opublikował… kolejne zdjęcie na rowerze [FOTO]]]></title>
+            <link>https://www.realmadryt.pl/news/152989-mbappe-opublikowal-kolejne-zdjecie-na-rowerze-foto</link>
+            <pubDate>Wed, 07 Oct 2026 08:20:00 GMT</pubDate>
+            <description><![CDATA[Francuz nie ma problemu z aferą rowerową]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Cristiano Ronaldo vs Jorge Jesus]]></title>
+            <link>https://www.realmadryt.pl/news/152994-glos-kibica-cristiano-ronaldo-vs-jorge-jesus</link>
+            <pubDate>Wed, 07 Oct 2026 07:40:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[CIES: Real Madryt jedną z najgorszych ekip w Lidze Mistrzów pod względem pressingu]]></title>
+            <link>https://www.realmadryt.pl/news/152990-cies-real-madryt-jedna-z-najgorszych-ekip-w-lidze-mistrzow-pod-wzgledem-pressingu</link>
+            <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Wskaźnik dyktowania warunków gry obnaża Królewskich]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[„Rzecznicy” Florentino do Tebasa: „Bardziej przeszkadza panu to, że Real nagłaśnia sprawę Negreiry niż sama sprawa Negreiry”]]></title>
+            <link>https://www.realmadryt.pl/news/152991-rzecznicy-florentino-do-tebasa-bardziej-przeszkadza-panu-to-ze-real-naglasnia-sprawe-negreiry-niz-sama-sprawa-negreiry</link>
+            <pubDate>Wed, 07 Oct 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Prezes La Ligi wymienił ich z nazwiska, więc wszyscy odpowiedzieli]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Chiringuito: Mbappé opuścił wczoraj Valdebebas przed treningiem i… poleciał do Paryża]]></title>
             <link>https://www.realmadryt.pl/news/152995-chiringuito-mbappe-opuscil-wczoraj-valdebebas-przed-treningiem-i-polecial-do-paryza</link>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/152981-chorwacja-nie-zaskoczyla-hiszpanii-anglia-ograla-czechy</link>
             <pubDate>Tue, 06 Oct 2026 20:00:00 GMT</pubDate>
             <description><![CDATA[Gracze Realu tym razem bez błysku]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Norwegowie wnoszą do FIFA o zbadanie trzech inicjatyw Infantino]]></title>
-            <link>https://www.realmadryt.pl/news/152980-oficjalnie-norwegowie-wnosza-do-fifa-o-zbadanie-trzech-inicjatyw-infantino</link>
-            <pubDate>Tue, 06 Oct 2026 19:14:00 GMT</pubDate>
-            <description><![CDATA[Wnioski w sprawie Pokojowej Nagrody, sprawy Baloguna oraz udziałów w mundialu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Vinícius chwali się swoimi akcjami z treningu [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/152979-vinicius-chwali-sie-swoimi-akcjami-z-treningu-video</link>
-            <pubDate>Tue, 06 Oct 2026 18:24:00 GMT</pubDate>
-            <description><![CDATA[Odpowiedź Brazylijczyka na krytykę?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Romano: Dani Carvajal dołączy do Getafe]]></title>
-            <link>https://www.realmadryt.pl/news/152978-romano-dani-carvajal-dolaczy-do-getafe</link>
-            <pubDate>Tue, 06 Oct 2026 17:50:00 GMT</pubDate>
-            <description><![CDATA[Oficjalny komunikat o krok]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[SER: Aston Villa zimową opcją dla Endricka]]></title>
-            <link>https://www.realmadryt.pl/news/152977-ser-aston-villa-zimowa-opcja-dla-endricka</link>
-            <pubDate>Tue, 06 Oct 2026 16:30:00 GMT</pubDate>
-            <description><![CDATA[Brazylijczyk już rozgląda się za odejściem]]></description>
         </item>
         
 </channel>
