@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 08 Oct 2026 17:59:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 23:08:12 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153044-dzisiejsze-okladki</link>
+            <pubDate>Fri, 09 Oct 2026 00:17:00 GMT</pubDate>
+            <description><![CDATA[„Maraton do Klasyku”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pedro Martínez: Rozegraliśmy świetną pierwszą połowę]]></title>
+            <link>https://www.realmadryt.pl/news/153043-pedro-martinez-rozegralismy-swietna-pierwsza-polowe</link>
+            <pubDate>Fri, 09 Oct 2026 00:08:00 GMT</pubDate>
+            <description><![CDATA[Konferencja prasowa po wygranym meczu z Partizanem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Przełamanie w Eurolidze [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153039-przelamanie-w-eurolidze-video</link>
+            <pubDate>Thu, 08 Oct 2026 23:24:00 GMT</pubDate>
+            <description><![CDATA[Koszykarze wygrali z Partizanem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Cardona: Jeśli chcesz pokonać Real, musisz zagrać odważnie]]></title>
+            <link>https://www.realmadryt.pl/news/153038-cardona-jesli-chcesz-pokonac-real-musisz-zagrac-odwaznie</link>
+            <pubDate>Thu, 08 Oct 2026 20:12:00 GMT</pubDate>
+            <description><![CDATA[„To dla nich to ważny mecz w kontekście układu tabeli”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Transfer Carvajala do Getafe może upaść przez przepisy La Ligi]]></title>
             <link>https://www.realmadryt.pl/news/153037-transfer-carvajala-do-getafe-moze-upasc-przez-przepisy-la-ligi</link>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/153032-mourinho-bedziemy-potrzebowali-szczescia-zeby-dozyc-ostatecznego-wyroku-w-sprawie-city</link>
             <pubDate>Thu, 08 Oct 2026 16:33:00 GMT</pubDate>
             <description><![CDATA[Trener udzielił wywiadu  Corriere dello Sport]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Media: Valverde może znaleźć się w kadrze na Villarreal]]></title>
-            <link>https://www.realmadryt.pl/news/153031-media-valverde-moze-znalezc-sie-w-kadrze-na-villarreal</link>
-            <pubDate>Thu, 08 Oct 2026 15:28:00 GMT</pubDate>
-            <description><![CDATA[Kapitan pod obserwacją]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Herb Realu Madryt pojawi się na fasadzie Bernabéu]]></title>
-            <link>https://www.realmadryt.pl/news/153029-herb-realu-madryt-pojawi-sie-na-fasadzie-bernabeu</link>
-            <pubDate>Thu, 08 Oct 2026 14:34:00 GMT</pubDate>
-            <description><![CDATA[W końcu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho uwalnia Bellinghama, Tuchel próbuje go nawet w ataku]]></title>
-            <link>https://www.realmadryt.pl/news/153025-mourinho-uwalnia-bellinghama-tuchel-probuje-go-nawet-w-ataku</link>
-            <pubDate>Thu, 08 Oct 2026 14:11:00 GMT</pubDate>
-            <description><![CDATA[Czy gra Realu powinna opierać się na Angliku?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bellingham i Trent wrócili do treningów]]></title>
-            <link>https://www.realmadryt.pl/news/153028-bellingham-i-trent-wrocili-do-treningow</link>
-            <pubDate>Thu, 08 Oct 2026 12:46:00 GMT</pubDate>
-            <description><![CDATA[Królewscy pracowali w Valdebebas]]></description>
         </item>
         
 </channel>
