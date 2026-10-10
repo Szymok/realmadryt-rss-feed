@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 10 Oct 2026 13:37:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 18:00:24 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Real Madryt – Villarreal: Znamy składy!]]></title>
+            <link>https://www.realmadryt.pl/news/153089-real-madryt-villarreal-znamy-sklady</link>
+            <pubDate>Sat, 10 Oct 2026 19:42:00 GMT</pubDate>
+            <description><![CDATA[Wiemy, kto powalczy o ligowe punkty]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Barcelona gra z Getafe [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/153088-barcelona-gra-z-getafe-na-zywo</link>
+            <pubDate>Sat, 10 Oct 2026 18:00:00 GMT</pubDate>
+            <description><![CDATA[Katalończycy mogą umocnić się na prowadzeniu]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Zawieszono mecz Rayo z Athletikiem]]></title>
             <link>https://www.realmadryt.pl/news/153087-zawieszono-mecz-rayo-z-athletikiem</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153079-wszyscy-licza-na-rudigera</link>
             <pubDate>Sat, 10 Oct 2026 10:12:00 GMT</pubDate>
             <description><![CDATA[Niemiec jedynym stoperem Realu bez problemów]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Prezes Villarrealu: Będzie trudno, ale to nie niemożliwe]]></title>
-            <link>https://www.realmadryt.pl/news/153077-prezes-villarrealu-bedzie-trudno-ale-to-nie-niemozliwe</link>
-            <pubDate>Sat, 10 Oct 2026 10:01:00 GMT</pubDate>
-            <description><![CDATA[Fernando Roig w wywiadzie dla dziennika AS]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[„Mbappé i Vinícius porównują się ze sobą we wszystkim i jeśli jeden nie broni, drugi też tego nie robi”]]></title>
-            <link>https://www.realmadryt.pl/news/153078-mbappe-i-vinicius-porownuja-sie-ze-soba-we-wszystkim-i-jesli-jeden-nie-broni-drugi-tez-tego-nie-robi</link>
-            <pubDate>Sat, 10 Oct 2026 09:39:00 GMT</pubDate>
-            <description><![CDATA[The Athletic o wspólnej grze Francuza i Brazylijczyka]]></description>
         </item>
         
 </channel>
