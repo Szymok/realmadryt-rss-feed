@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 09 Oct 2026 21:19:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 01:03:33 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Real Madryt – Villarreal: Przewidywane składy]]></title>
+            <link>https://www.realmadryt.pl/news/153076-real-madryt-villarreal-przewidywane-sklady</link>
+            <pubDate>Sat, 10 Oct 2026 00:53:00 GMT</pubDate>
+            <description><![CDATA[Bez pięciu piłkarzy, w tym trzech stoperów]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153075-dzisiejsze-okladki</link>
+            <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[„Występ pojednawczy”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Podział punktów z Ibizą]]></title>
             <link>https://www.realmadryt.pl/news/153071-podzial-punktow-z-ibiza</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153056-kadra-realu-madryt-na-villarreal</link>
             <pubDate>Fri, 09 Oct 2026 15:02:00 GMT</pubDate>
             <description><![CDATA[Bez pięciu piłkarzy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[MARCA: Riquelme szykuje obok Bernabéu miejsce dla socios]]></title>
-            <link>https://www.realmadryt.pl/news/153058-marca-riquelme-szykuje-obok-bernabeu-miejsce-dla-socios</link>
-            <pubDate>Fri, 09 Oct 2026 14:36:00 GMT</pubDate>
-            <description><![CDATA[Do rozmów i wysłuchiwania obaw właścicieli Królewskich]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Isidro Díaz de Mera Escuderos na Villarreal]]></title>
-            <link>https://www.realmadryt.pl/news/153054-isidro-diaz-de-mera-escuderos-na-villarreal</link>
-            <pubDate>Fri, 09 Oct 2026 13:13:00 GMT</pubDate>
-            <description><![CDATA[Sędzią VAR będzie Alejandro Muñiz Ruiz]]></description>
         </item>
         
 </channel>
