@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 Oct 2026 00:28:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:12:38 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Otoczenie Viniego:  „Czerwona kartka jest sprawiedliwa, ale w meczu z Valencią zapomnieli o tym przepisie”]]></title>
+            <link>https://www.realmadryt.pl/news/153101-otoczenie-viniego-czerwona-kartka-jest-sprawiedliwa-ale-w-meczu-z-valencia-zapomnieli-o-tym-przepisie</link>
+            <pubDate>Sun, 11 Oct 2026 08:05:00 GMT</pubDate>
+            <description><![CDATA[Reakcja z obozu Brazylijczyka]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Po trzecie ligowe zwycięstwo]]></title>
+            <link>https://www.realmadryt.pl/news/153092-po-trzecie-ligowe-zwyciestwo</link>
+            <pubDate>Sun, 11 Oct 2026 07:30:00 GMT</pubDate>
+            <description><![CDATA[Koszykarze zagrają z Manresą]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Brak komentarzy Mourinho]]></title>
+            <link>https://www.realmadryt.pl/news/153105-glos-kibica-brak-komentarzy-mourinho</link>
+            <pubDate>Sun, 11 Oct 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Vinícius pokazał agresje na nim, które nie skończyły się czerwoną kartką [FOTO]]]></title>
+            <link>https://www.realmadryt.pl/news/153103-vinicius-pokazal-agresje-na-nim-ktore-nie-skonczyly-sie-czerwona-kartka-foto</link>
+            <pubDate>Sun, 11 Oct 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Brazylijczyk z mocnym przekazem]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/153104-dzisiejsze-okladki</link>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/153095-yan-diomande-mvp-meczu-z-villarrealem</link>
             <pubDate>Sat, 10 Oct 2026 23:04:00 GMT</pubDate>
             <description><![CDATA[Wyróżnienie dla Iworyjczyka]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oceń piłkarzy po meczu z Villarrealem]]></title>
-            <link>https://www.realmadryt.pl/news/153093-ocen-pilkarzy-po-meczu-z-villarrealem</link>
-            <pubDate>Sat, 10 Oct 2026 22:54:00 GMT</pubDate>
-            <description><![CDATA[Zapraszamy do wspólnego wystawienia not]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Złoty gol Diomandé]]></title>
-            <link>https://www.realmadryt.pl/news/153094-zloty-gol-diomande</link>
-            <pubDate>Sat, 10 Oct 2026 20:50:00 GMT</pubDate>
-            <description><![CDATA[Real wygrał z Villarrealem 1:0]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Rozgrzewka przed Villarrealem [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/153090-rozgrzewka-przed-villarrealem-na-zywo</link>
-            <pubDate>Sat, 10 Oct 2026 20:10:00 GMT</pubDate>
-            <description><![CDATA[Obraz ze stadionu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real Madryt – Villarreal: Znamy składy!]]></title>
-            <link>https://www.realmadryt.pl/news/153089-real-madryt-villarreal-znamy-sklady</link>
-            <pubDate>Sat, 10 Oct 2026 19:42:00 GMT</pubDate>
-            <description><![CDATA[Wiemy, kto powalczy o ligowe punkty]]></description>
         </item>
         
 </channel>
