@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 Oct 2026 12:49:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 17:51:43 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[MARCA: Sky Bar na Bernabéu w końcu przyjął pierwszych kibiców]]></title>
+            <link>https://www.realmadryt.pl/news/153121-marca-sky-bar-na-bernabeu-w-koncu-przyjal-pierwszych-kibicow</link>
+            <pubDate>Sun, 11 Oct 2026 17:27:00 GMT</pubDate>
+            <description><![CDATA[Po kilku latach problemów i batalii sądowych]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Wielka szansa dla Diomandé]]></title>
+            <link>https://www.realmadryt.pl/news/153120-wielka-szansa-dla-diomande</link>
+            <pubDate>Sun, 11 Oct 2026 16:29:00 GMT</pubDate>
+            <description><![CDATA[Sytuacja Viníciusa może otworzyć mu drzwi na Klasyk]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Arbeloa: Presja? Grałem i prowadziłem najlepszy zespół na świecie, presja to część mojego życia]]></title>
+            <link>https://www.realmadryt.pl/news/153119-arbeloa-presja-gralem-i-prowadzilem-najlepszy-zespol-na-swiecie-presja-to-czesc-mojego-zycia</link>
+            <pubDate>Sun, 11 Oct 2026 16:22:00 GMT</pubDate>
+            <description><![CDATA[Hiszpan ciągle bez wygranej w Premier League]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pedro Martínez: To bardzo dobrze, że kiedy ktoś dostaje szansę, to pokazuje swój poziom i potencjał]]></title>
+            <link>https://www.realmadryt.pl/news/153118-pedro-martinez-to-bardzo-dobrze-ze-kiedy-ktos-dostaje-szanse-to-pokazuje-swoj-poziom-i-potencjal</link>
+            <pubDate>Sun, 11 Oct 2026 15:59:00 GMT</pubDate>
+            <description><![CDATA[Wypowiedzi po zwycięstwie z Manresą]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Roma zremisowała na boisku Como pomimo długiej gry w dziesiątkę]]></title>
             <link>https://www.realmadryt.pl/news/153117-roma-zremisowala-na-boisku-como-pomimo-dlugiej-gry-w-dziesiatke</link>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/153108-kartka-z-kalendarza-11-pazdziernika</link>
             <pubDate>Sun, 11 Oct 2026 10:00:00 GMT</pubDate>
             <description><![CDATA[Wygrana Polski z Niemcami i… remis w Warszawie]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Przełamanie Diomandé]]></title>
-            <link>https://www.realmadryt.pl/news/153110-przelamanie-diomande</link>
-            <pubDate>Sun, 11 Oct 2026 09:50:00 GMT</pubDate>
-            <description><![CDATA[Trafił do siatki po bardzo długiej przerwie]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[„Pierwszy gol w La Lidze jest dla ciebie, siostrzyczko”]]></title>
-            <link>https://www.realmadryt.pl/news/153109-pierwszy-gol-w-la-lidze-jest-dla-ciebie-siostrzyczko</link>
-            <pubDate>Sun, 11 Oct 2026 09:25:00 GMT</pubDate>
-            <description><![CDATA[Wzruszająca dedykacja Diomandé]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Íñigo Pérez: To frustrujące, kiedy nie osiągasz czegoś, na co zasłużyłeś]]></title>
-            <link>https://www.realmadryt.pl/news/153106-inigo-perez-to-frustrujace-kiedy-nie-osiagasz-czegos-na-co-zasluzyles</link>
-            <pubDate>Sun, 11 Oct 2026 09:10:00 GMT</pubDate>
-            <description><![CDATA[Zapis konferencji prasowej z trenerem Villarrealu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Sarr: Manresa jest drużyną, która gra bardzo agresywnie i szybko]]></title>
-            <link>https://www.realmadryt.pl/news/153091-sarr-manresa-jest-druzyna-ktora-gra-bardzo-agresywnie-i-szybko</link>
-            <pubDate>Sun, 11 Oct 2026 08:55:00 GMT</pubDate>
-            <description><![CDATA[Wypowiedzi przed ligowym spotkaniem]]></description>
         </item>
         
 </channel>
