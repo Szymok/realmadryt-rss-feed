@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 Oct 2026 17:51:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 21:18:46 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Globo: Vinícius rozstał się ze swoją partnerką]]></title>
+            <link>https://www.realmadryt.pl/news/153125-globo-vinicius-rozstal-sie-ze-swoja-partnerka</link>
+            <pubDate>Sun, 11 Oct 2026 21:25:00 GMT</pubDate>
+            <description><![CDATA[To ich drugie rozejście]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[MARCA: Sky Bar na Bernabéu w końcu przyjął pierwszych kibiców]]></title>
             <link>https://www.realmadryt.pl/news/153121-marca-sky-bar-na-bernabeu-w-koncu-przyjal-pierwszych-kibicow</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/153112-200-wystepow-tchouameniego-w-realu-i-250-viniciusa-w-la-lidze</link>
             <pubDate>Sun, 11 Oct 2026 10:19:00 GMT</pubDate>
             <description><![CDATA[Jubileuszowy mecz z Villarrealem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 11 października]]></title>
-            <link>https://www.realmadryt.pl/news/153108-kartka-z-kalendarza-11-pazdziernika</link>
-            <pubDate>Sun, 11 Oct 2026 10:00:00 GMT</pubDate>
-            <description><![CDATA[Wygrana Polski z Niemcami i… remis w Warszawie]]></description>
         </item>
         
 </channel>
