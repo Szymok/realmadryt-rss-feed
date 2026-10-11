@@ -4,11 +4,32 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 10 Oct 2026 21:39:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 00:28:47 GMT</lastBuildDate>
     
         <item>
-            <title><![CDATA[COPE: José Mourinho nie wychodzi na konferencję prasową, bo nie chce być zawieszony]]></title>
-            <link>https://www.realmadryt.pl/news/153098-cope-jose-mourinho-nie-wychodzi-na-konferencje-prasowa-bo-nie-chce-byc-zawieszony</link>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153104-dzisiejsze-okladki</link>
+            <pubDate>Sun, 11 Oct 2026 00:52:00 GMT</pubDate>
+            <description><![CDATA[„O włosy”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Protokół sędziego praktycznie zapewnia, że Vinícius nie zagra w Klasyku]]></title>
+            <link>https://www.realmadryt.pl/news/153102-protokol-sedziego-praktycznie-zapewnia-ze-vinicius-nie-zagra-w-klasyku</link>
+            <pubDate>Sun, 11 Oct 2026 00:11:00 GMT</pubDate>
+            <description><![CDATA[Arbiter zapisał agresję poza grą i agresywną postawę wobec niego]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Vinícius: Przepraszam moją drużynę i kibiców]]></title>
+            <link>https://www.realmadryt.pl/news/153100-vinicius-przepraszam-moja-druzyne-i-kibicow</link>
+            <pubDate>Sat, 10 Oct 2026 23:52:00 GMT</pubDate>
+            <description><![CDATA[Reakcja Brazylijczyka na socialach]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Media: José Mourinho nie wychodzi na konferencję prasową, bo nie chce być zawieszony]]></title>
+            <link>https://www.realmadryt.pl/news/153098-media-jose-mourinho-nie-wychodzi-na-konferencje-prasowa-bo-nie-chce-byc-zawieszony</link>
             <pubDate>Sat, 10 Oct 2026 23:36:00 GMT</pubDate>
             <description><![CDATA[A w lidze czekają Sevilla i Barcelona]]></description>
         </item>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/153089-real-madryt-villarreal-znamy-sklady</link>
             <pubDate>Sat, 10 Oct 2026 19:42:00 GMT</pubDate>
             <description><![CDATA[Wiemy, kto powalczy o ligowe punkty]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Barça ograła Getafe, Atlético uratowało wygraną w końcówce]]></title>
-            <link>https://www.realmadryt.pl/news/153088-barca-ograla-getafe-atletico-uratowalo-wygrana-w-koncowce</link>
-            <pubDate>Sat, 10 Oct 2026 18:00:00 GMT</pubDate>
-            <description><![CDATA[Faworyci (niestety) nie zawiedli]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Zawieszono mecz Rayo z Athletikiem]]></title>
-            <link>https://www.realmadryt.pl/news/153087-zawieszono-mecz-rayo-z-athletikiem</link>
-            <pubDate>Sat, 10 Oct 2026 15:08:00 GMT</pubDate>
-            <description><![CDATA[Przez protesty kibiców gospodarzy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[„Nie jest tajemnicą, że jego ulubioną pozycją jest lewe skrzydło”]]></title>
-            <link>https://www.realmadryt.pl/news/153086-nie-jest-tajemnica-ze-jego-ulubiona-pozycja-jest-lewe-skrzydlo</link>
-            <pubDate>Sat, 10 Oct 2026 14:49:00 GMT</pubDate>
-            <description><![CDATA[Selekcjoner Wybrzeża Kości Słoniowej o Diomandé]]></description>
         </item>
         
 </channel>
