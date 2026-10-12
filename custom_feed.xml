@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 Oct 2026 21:18:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:39:55 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Chiringuito: Vinícius przeprosił w szatni drużynę, wcześniej w tunelu popchnął pracownika La Ligi]]></title>
+            <link>https://www.realmadryt.pl/news/153130-chiringuito-vinicius-przeprosil-w-szatni-druzyne-wczesniej-w-tunelu-popchnal-pracownika-la-ligi</link>
+            <pubDate>Mon, 12 Oct 2026 01:51:00 GMT</pubDate>
+            <description><![CDATA[Zachowanie Brazylijczyka po kartce]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153128-dzisiejsze-okladki</link>
+            <pubDate>Mon, 12 Oct 2026 00:11:00 GMT</pubDate>
+            <description><![CDATA[„Real kipi ze złości”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Globo: Vinícius rozstał się ze swoją partnerką]]></title>
             <link>https://www.realmadryt.pl/news/153125-globo-vinicius-rozstal-sie-ze-swoja-partnerka</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153113-ciagniecie-za-wlosy-nie-oznacza-automatycznej-czerwonej-kartki</link>
             <pubDate>Sun, 11 Oct 2026 11:22:00 GMT</pubDate>
             <description><![CDATA[Zgłębienie przepisów i wytycznych po zdarzeniu z Vinim]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oceny zawodników po meczu z Villarrealem]]></title>
-            <link>https://www.realmadryt.pl/news/153111-oceny-zawodnikow-po-meczu-z-villarrealem</link>
-            <pubDate>Sun, 11 Oct 2026 10:20:00 GMT</pubDate>
-            <description><![CDATA[Jak wspólnie oceniliśmy wczorajsze występy?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[200 występów Tchouaméniego w Realu i 250 Viníciusa w La Lidze]]></title>
-            <link>https://www.realmadryt.pl/news/153112-200-wystepow-tchouameniego-w-realu-i-250-viniciusa-w-la-lidze</link>
-            <pubDate>Sun, 11 Oct 2026 10:19:00 GMT</pubDate>
-            <description><![CDATA[Jubileuszowy mecz z Villarrealem]]></description>
         </item>
         
 </channel>
