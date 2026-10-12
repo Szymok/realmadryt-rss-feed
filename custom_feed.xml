@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 12 Oct 2026 00:39:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:31:09 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Footy Headlines: Adidas wypuści w przyszłym sezonie trzy wersje koszulek klubowych]]></title>
+            <link>https://www.realmadryt.pl/news/153124-footy-headlines-adidas-wypusci-w-przyszlym-sezonie-trzy-wersje-koszulek-klubowych</link>
+            <pubDate>Mon, 12 Oct 2026 08:20:00 GMT</pubDate>
+            <description><![CDATA[W sprzedaży będzie „budżetowy” model]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Dodatkowy głos z klubu]]></title>
+            <link>https://www.realmadryt.pl/news/153129-glos-kibica-dodatkowy-glos-z-klubu</link>
+            <pubDate>Mon, 12 Oct 2026 07:40:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Foyth: Nie rozumiem oburzenia Realu, ale nie chcę wdawać się w polemiki]]></title>
+            <link>https://www.realmadryt.pl/news/153126-foyth-nie-rozumiem-oburzenia-realu-ale-nie-chce-wdawac-sie-w-polemiki</link>
+            <pubDate>Mon, 12 Oct 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Piłkarz Villarrealu wyszedł do mediów]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[„Nie może być tak, że pociągnięcie za włosy to czerwona kartka, a faul na Fede to nic”]]></title>
+            <link>https://www.realmadryt.pl/news/153123-nie-moze-byc-tak-ze-pociagniecie-za-wlosy-to-czerwona-kartka-a-faul-na-fede-to-nic</link>
+            <pubDate>Mon, 12 Oct 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Piłkarze Królewskich nie kryli niedowierzania]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Chiringuito: Vinícius przeprosił w szatni drużynę, wcześniej w tunelu popchnął pracownika La Ligi]]></title>
             <link>https://www.realmadryt.pl/news/153130-chiringuito-vinicius-przeprosil-w-szatni-druzyne-wczesniej-w-tunelu-popchnal-pracownika-la-ligi</link>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/153117-roma-zremisowala-na-boisku-como-pomimo-dlugiej-gry-w-dziesiatke</link>
             <pubDate>Sun, 11 Oct 2026 14:31:00 GMT</pubDate>
             <description><![CDATA[Europejscy rywale grali dopiero dzisiaj]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Spacerek z Manresą]]></title>
-            <link>https://www.realmadryt.pl/news/153116-spacerek-z-manresa</link>
-            <pubDate>Sun, 11 Oct 2026 13:59:00 GMT</pubDate>
-            <description><![CDATA[Pewne i wysokie zwycięstwo koszykarzy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Królewscy otrzymali wolną niedzielę]]></title>
-            <link>https://www.realmadryt.pl/news/153115-krolewscy-otrzymali-wolna-niedziele</link>
-            <pubDate>Sun, 11 Oct 2026 12:21:00 GMT</pubDate>
-            <description><![CDATA[Przerwa w przygotowaniach]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Znamy zwycięzcę koszulki od sklepu R-GOL!]]></title>
-            <link>https://www.realmadryt.pl/news/153114-znamy-zwyciezce-koszulki-od-sklepu-r-gol</link>
-            <pubDate>Sun, 11 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Wyniki naszego konkursu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Ciągnięcie za włosy nie oznacza automatycznej czerwonej kartki]]></title>
-            <link>https://www.realmadryt.pl/news/153113-ciagniecie-za-wlosy-nie-oznacza-automatycznej-czerwonej-kartki</link>
-            <pubDate>Sun, 11 Oct 2026 11:22:00 GMT</pubDate>
-            <description><![CDATA[Zgłębienie przepisów i wytycznych po zdarzeniu z Vinim]]></description>
         </item>
         
 </channel>
