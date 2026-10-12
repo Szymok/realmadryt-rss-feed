@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 12 Oct 2026 16:06:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 22:56:09 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153154-dzisiejsze-okladki</link>
+            <pubDate>Tue, 13 Oct 2026 00:42:00 GMT</pubDate>
+            <description><![CDATA[„Jeszcze jeden rok dla Courtois”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[„Negreira miał ogromne wpływy. Oczywiście, że miał władzę”]]></title>
+            <link>https://www.realmadryt.pl/news/153150-negreira-mial-ogromne-wplywy-oczywiscie-ze-mial-wladze</link>
+            <pubDate>Mon, 12 Oct 2026 22:33:00 GMT</pubDate>
+            <description><![CDATA[Spowiedź byłego hiszpańskiego sędziego]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oficjalnie: Gabriel Deck przejdzie operację barku]]></title>
+            <link>https://www.realmadryt.pl/news/153148-oficjalnie-gabriel-deck-przejdzie-operacje-barku</link>
+            <pubDate>Mon, 12 Oct 2026 21:40:00 GMT</pubDate>
+            <description><![CDATA[Argentyńczyk wypada na 4-5 miesięcy]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Rafa Marín: La Fábrica to najlepsza szkółka na świecie]]></title>
+            <link>https://www.realmadryt.pl/news/153137-rafa-marin-la-fabrica-to-najlepsza-szkolka-na-swiecie</link>
+            <pubDate>Mon, 12 Oct 2026 20:05:00 GMT</pubDate>
+            <description><![CDATA[Wywiad z grającym obecnie w Napoli canterano Królewskich]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[AS: Real niezadowolony z terminu meczu z Valencią]]></title>
+            <link>https://www.realmadryt.pl/news/153147-as-real-niezadowolony-z-terminu-meczu-z-valencia</link>
+            <pubDate>Mon, 12 Oct 2026 19:38:00 GMT</pubDate>
+            <description><![CDATA[La Liga nie oszczędza Królewskich]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Wróciła solidność w defensywie]]></title>
             <link>https://www.realmadryt.pl/news/153145-wrocila-solidnosc-w-defensywie</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/153138-sedziowska-krucjata-przeciwko-realowi</link>
             <pubDate>Mon, 12 Oct 2026 12:05:00 GMT</pubDate>
             <description><![CDATA[Spojrzenie Tomása Roncero]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho nie chce, by zawodnicy wpadli w pułapkę własnych emocji]]></title>
-            <link>https://www.realmadryt.pl/news/153133-mourinho-nie-chce-by-zawodnicy-wpadli-w-pulapke-wlasnych-emocji</link>
-            <pubDate>Mon, 12 Oct 2026 11:30:00 GMT</pubDate>
-            <description><![CDATA[Uważa, że to droga donikąd]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Courtois kupił markę rękawic REAL]]></title>
-            <link>https://www.realmadryt.pl/news/153132-courtois-kupil-marke-rekawic-real</link>
-            <pubDate>Mon, 12 Oct 2026 10:50:00 GMT</pubDate>
-            <description><![CDATA[Belg broni w rękawicach własnej i zarazem szczególnej dla siebie firmy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[François Letexier na Romę]]></title>
-            <link>https://www.realmadryt.pl/news/153136-francois-letexier-na-rome</link>
-            <pubDate>Mon, 12 Oct 2026 10:25:00 GMT</pubDate>
-            <description><![CDATA[W ostatnim meczu Realu… wyrzucił Mourinho na trybuny]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[ABC: Real Madryt wskazuje na Tebasa jako nowego Negreirę]]></title>
-            <link>https://www.realmadryt.pl/news/153135-abc-real-madryt-wskazuje-na-tebasa-jako-nowego-negreire</link>
-            <pubDate>Mon, 12 Oct 2026 10:23:00 GMT</pubDate>
-            <description><![CDATA[Zakulisowe przecieki]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Meana: Mourinho wysyła na zmianę członków sztabu, by protestowali od 1. minuty]]></title>
-            <link>https://www.realmadryt.pl/news/153134-meana-mourinho-wysyla-na-zmiane-czlonkow-sztabu-by-protestowali-od-1-minuty</link>
-            <pubDate>Mon, 12 Oct 2026 10:10:00 GMT</pubDate>
-            <description><![CDATA[„W Federacji nie rozumieją krytyki sędziowania ze strony Realu po meczu z Villarrealem”]]></description>
         </item>
         
 </channel>
