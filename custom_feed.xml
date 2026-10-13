@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 12 Oct 2026 22:56:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 03:19:20 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Vinícius do dyrektora La Ligi: „G**niana liga” [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153155-vinicius-do-dyrektora-la-ligi-g-niana-liga-video</link>
+            <pubDate>Tue, 13 Oct 2026 00:56:00 GMT</pubDate>
+            <description><![CDATA[Kulisy zdarzenia w tunelu do szatni]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/153154-dzisiejsze-okladki</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/153139-krolewscy-rozpoczeli-przygotowania-do-meczu-z-roma</link>
             <pubDate>Mon, 12 Oct 2026 12:38:00 GMT</pubDate>
             <description><![CDATA[Pierwsze zajęcia w tym tygodniu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[„Sędziowska krucjata przeciwko Realowi”]]></title>
-            <link>https://www.realmadryt.pl/news/153138-sedziowska-krucjata-przeciwko-realowi</link>
-            <pubDate>Mon, 12 Oct 2026 12:05:00 GMT</pubDate>
-            <description><![CDATA[Spojrzenie Tomása Roncero]]></description>
         </item>
         
 </channel>
