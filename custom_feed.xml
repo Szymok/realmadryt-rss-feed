@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 13 Oct 2026 22:07:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:11:53 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[AS Roma – Real Madryt: Przewidywane składy]]></title>
+            <link>https://www.realmadryt.pl/news/153188-as-roma-real-madryt-przewidywane-sklady</link>
+            <pubDate>Wed, 14 Oct 2026 01:26:00 GMT</pubDate>
+            <description><![CDATA[Powrót Huijsena]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153186-dzisiejsze-okladki</link>
+            <pubDate>Wed, 14 Oct 2026 00:36:00 GMT</pubDate>
+            <description><![CDATA[„Liga Mistrzów jako środek uspokajający”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Pedro Martínez: Transfer po kontuzji Decka? Nie mamy tego w planach]]></title>
             <link>https://www.realmadryt.pl/news/153185-pedro-martinez-transfer-po-kontuzji-decka-nie-mamy-tego-w-planach</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153170-krolewscy-dotarli-do-rzymu</link>
             <pubDate>Tue, 13 Oct 2026 17:28:00 GMT</pubDate>
             <description><![CDATA[Drużyna już na miejscu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real Madrid TV: Fatalna postawa sędziów wpłynęła na przebieg meczu z Villarrealem [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/153171-real-madrid-tv-fatalna-postawa-sedziow-wplynela-na-przebieg-meczu-z-villarrealem-video</link>
-            <pubDate>Tue, 13 Oct 2026 15:50:00 GMT</pubDate>
-            <description><![CDATA[„Żenująca różnica w kryteriach”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Królewscy wylecieli do Rzymu]]></title>
-            <link>https://www.realmadryt.pl/news/153166-krolewscy-wylecieli-do-rzymu</link>
-            <pubDate>Tue, 13 Oct 2026 15:31:00 GMT</pubDate>
-            <description><![CDATA[Ekipa w drodze]]></description>
         </item>
         
 </channel>
