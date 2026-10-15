@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Oct 2026 19:52:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 22:48:35 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153246-dzisiejsze-okladki</link>
+            <pubDate>Fri, 16 Oct 2026 00:04:00 GMT</pubDate>
+            <description><![CDATA[„151,83 km/h!!!”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Ofensywny popis koszykarzy [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153242-ofensywny-popis-koszykarzy-video</link>
+            <pubDate>Thu, 15 Oct 2026 23:09:00 GMT</pubDate>
+            <description><![CDATA[Piąte zwycięstwo z rzędu]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Pablo Ramón: Zawieszenie Viníciusa? Pozwólmy najlepszym grać]]></title>
             <link>https://www.realmadryt.pl/news/153240-pablo-ramon-zawieszenie-viniciusa-pozwolmy-najlepszym-grac</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153232-as-w-realu-mowia-o-prowokacji-i-planie-wymierzonym-w-klub</link>
             <pubDate>Thu, 15 Oct 2026 12:08:00 GMT</pubDate>
             <description><![CDATA[Królewscy uważają, że nie jest to przypadek]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real Madrid TV: Rażące różnice w traktowaniu graczy Realu i Barçy przez sędziów [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/153201-real-madrid-tv-razace-roznice-w-traktowaniu-graczy-realu-i-barcy-przez-sedziow-video</link>
-            <pubDate>Thu, 15 Oct 2026 12:04:00 GMT</pubDate>
-            <description><![CDATA[Zaktualizowane wideo klubowej telewizji]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Królewscy mają dziś wolne]]></title>
-            <link>https://www.realmadryt.pl/news/153231-krolewscy-maja-dzis-wolne</link>
-            <pubDate>Thu, 15 Oct 2026 11:36:00 GMT</pubDate>
-            <description><![CDATA[Krótki odpoczynek przed kolejnym meczem]]></description>
         </item>
         
 </channel>
