@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Oct 2026 11:52:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 16:03:14 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[AS: Real zatrudnił Bernda Reicharta]]></title>
+            <link>https://www.realmadryt.pl/news/153238-as-real-zatrudnil-bernda-reicharta</link>
+            <pubDate>Thu, 15 Oct 2026 17:49:00 GMT</pubDate>
+            <description><![CDATA[Wcześniej współpracował z nim w sprawie Superligi]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[El Mundo: Rzym dał Mourinho kilka odpowiedzi na przyszłość]]></title>
+            <link>https://www.realmadryt.pl/news/153237-el-mundo-rzym-dal-mourinho-kilka-odpowiedzi-na-przyszlosc</link>
+            <pubDate>Thu, 15 Oct 2026 17:10:00 GMT</pubDate>
+            <description><![CDATA[Güler, Endrick, Valverde i Espí wysłali jasne sygnały]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[ABC: Mourinho pójdzie z Viníciusem na dno, jeśli będzie trzeba]]></title>
+            <link>https://www.realmadryt.pl/news/153236-abc-mourinho-pojdzie-z-viniciusem-na-dno-jesli-bedzie-trzeba</link>
+            <pubDate>Thu, 15 Oct 2026 16:20:00 GMT</pubDate>
+            <description><![CDATA[Brazylijczyk rozegrał w Rzymie jeden z najgorszych meczów]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pedro Martínez: Fizycznie nie będziemy w najlepszym momencie]]></title>
+            <link>https://www.realmadryt.pl/news/153208-pedro-martinez-fizycznie-nie-bedziemy-w-najlepszym-momencie</link>
+            <pubDate>Thu, 15 Oct 2026 15:30:00 GMT</pubDate>
+            <description><![CDATA[Wypowiedzi przed spotkaniem z ASVEL-em]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Roma nie zapomniała o Mourinho: „Ave Mou, witaj w domu”]]></title>
+            <link>https://www.realmadryt.pl/news/153235-roma-nie-zapomniala-o-mourinho-ave-mou-witaj-w-domu</link>
+            <pubDate>Thu, 15 Oct 2026 14:40:00 GMT</pubDate>
+            <description><![CDATA[Rzymianie oddali hołd Portugalczykowi]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Valdano: Jedna zmiana w ubiegłym roku zaszkodziła sytuacji Viníciusa w Realu Madryt]]></title>
             <link>https://www.realmadryt.pl/news/153233-valdano-jedna-zmiana-w-ubieglym-roku-zaszkodzila-sytuacji-viniciusa-w-realu-madryt</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/153228-100-zwyciestw-bellinghama-w-realu-madryt</link>
             <pubDate>Thu, 15 Oct 2026 11:10:00 GMT</pubDate>
             <description><![CDATA[Jubileusz Anglika w meczu z Romą]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oceny zawodników po meczu z Romą]]></title>
-            <link>https://www.realmadryt.pl/news/153229-oceny-zawodnikow-po-meczu-z-roma</link>
-            <pubDate>Thu, 15 Oct 2026 10:30:00 GMT</pubDate>
-            <description><![CDATA[Jak grali nasi?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Gasperini: Byliśmy lepsi od Realu Madryt pod każdym względem]]></title>
-            <link>https://www.realmadryt.pl/news/153226-gasperini-bylismy-lepsi-od-realu-madryt-pod-kazdym-wzgledem</link>
-            <pubDate>Thu, 15 Oct 2026 10:10:00 GMT</pubDate>
-            <description><![CDATA[Trener Romy po porażce z Królewskimi]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 15 października]]></title>
-            <link>https://www.realmadryt.pl/news/153223-kartka-z-kalendarza-15-pazdziernika</link>
-            <pubDate>Thu, 15 Oct 2026 09:50:00 GMT</pubDate>
-            <description><![CDATA[Urodziny pomocników i popis Ronaldo]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho: Zawsze myślę o merytokracji, ale piłka nożna to gra, która trwa 90 minut]]></title>
-            <link>https://www.realmadryt.pl/news/153222-mourinho-zawsze-mysle-o-merytokracji-ale-pilka-nozna-to-gra-ktora-trwa-90-minut</link>
-            <pubDate>Thu, 15 Oct 2026 09:20:00 GMT</pubDate>
-            <description><![CDATA[Zapis pomeczowej konferencji z trenerem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Courtois: Komplet punktów z tak silnymi włoskimi rywalami to dobry początek]]></title>
-            <link>https://www.realmadryt.pl/news/153227-courtois-komplet-punktow-z-tak-silnymi-wloskimi-rywalami-to-dobry-poczatek</link>
-            <pubDate>Thu, 15 Oct 2026 09:15:00 GMT</pubDate>
-            <description><![CDATA[„Wiedzieliśmy, że musimy wygrać”]]></description>
         </item>
         
 </channel>
