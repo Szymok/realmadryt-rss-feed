@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Oct 2026 01:37:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:26:34 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Tabela Ligi Mistrzów: Real Madryt jedną z 9 ekip z kompletem punktów]]></title>
+            <link>https://www.realmadryt.pl/news/153219-tabela-ligi-mistrzow-real-madryt-jedna-z-9-ekip-z-kompletem-punktow</link>
+            <pubDate>Thu, 15 Oct 2026 08:00:00 GMT</pubDate>
+            <description><![CDATA[I jedyną, która grała z dwoma pierwszymi koszykami]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Hierarchia wśród atakujących Realu Madryt]]></title>
+            <link>https://www.realmadryt.pl/news/153224-glos-kibica-hierarchia-wsrod-atakujacych-realu-madryt</link>
+            <pubDate>Thu, 15 Oct 2026 07:30:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Carlos Espí: Przyszedłem tutaj, by jak najlepiej wykorzystywać każdą szansę]]></title>
+            <link>https://www.realmadryt.pl/news/153216-carlos-espi-przyszedlem-tutaj-by-jak-najlepiej-wykorzystywac-kazda-szanse</link>
+            <pubDate>Thu, 15 Oct 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[„To było szaleństwo”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Endrick: Trenerzy robią to, co najlepsze dla drużyny, a nie to, co najlepsze dla jednego gracza]]></title>
+            <link>https://www.realmadryt.pl/news/153218-endrick-trenerzy-robia-to-co-najlepsze-dla-druzyny-a-nie-to-co-najlepsze-dla-jednego-gracza</link>
+            <pubDate>Thu, 15 Oct 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[„Czy ten występ będzie dla mnie punktem zwrotnym? Nie wiem”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/153221-dzisiejsze-okladki</link>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/153210-ocen-pilkarzy-po-meczu-z-roma</link>
             <pubDate>Wed, 14 Oct 2026 22:57:00 GMT</pubDate>
             <description><![CDATA[Zapraszamy do wspólnego wystawiania not]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Remontada w Wiecznym Mieście]]></title>
-            <link>https://www.realmadryt.pl/news/153207-remontada-w-wiecznym-miescie</link>
-            <pubDate>Wed, 14 Oct 2026 20:45:00 GMT</pubDate>
-            <description><![CDATA[Królewscy wygrywają z Romą po szalonym meczu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho: Zobaczymy, czy zdołamy wykorzystać ich wysoki pressing z kryciem indywidualnym]]></title>
-            <link>https://www.realmadryt.pl/news/153209-mourinho-zobaczymy-czy-zdolamy-wykorzystac-ich-wysoki-pressing-z-kryciem-indywidualnym</link>
-            <pubDate>Wed, 14 Oct 2026 20:24:00 GMT</pubDate>
-            <description><![CDATA[Ostatnie komentarze przed meczem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[AS Roma – Real Madryt: Znamy składy!]]></title>
-            <link>https://www.realmadryt.pl/news/153205-as-roma-real-madryt-znamy-sklady</link>
-            <pubDate>Wed, 14 Oct 2026 19:41:00 GMT</pubDate>
-            <description><![CDATA[Wiemy, kto powalczy o europejskie punkty]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Vinícius zawieszony na cztery mecze!]]></title>
-            <link>https://www.realmadryt.pl/news/153197-oficjalnie-vinicius-zawieszony-na-cztery-mecze</link>
-            <pubDate>Wed, 14 Oct 2026 19:27:00 GMT</pubDate>
-            <description><![CDATA[Brazylijczyk nie zagra w Klasyku]]></description>
         </item>
         
 </channel>
