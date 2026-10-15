@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Oct 2026 16:03:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 19:52:05 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Pablo Ramón: Zawieszenie Viníciusa? Pozwólmy najlepszym grać]]></title>
+            <link>https://www.realmadryt.pl/news/153240-pablo-ramon-zawieszenie-viniciusa-pozwolmy-najlepszym-grac</link>
+            <pubDate>Thu, 15 Oct 2026 19:30:00 GMT</pubDate>
+            <description><![CDATA[Obrońca Racingu przed zbliżającym się meczem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Kolejna wygrana na włoskiej ziemi]]></title>
+            <link>https://www.realmadryt.pl/news/153239-kolejna-wygrana-na-wloskiej-ziemi</link>
+            <pubDate>Thu, 15 Oct 2026 18:40:00 GMT</pubDate>
+            <description><![CDATA[Real pobił wczoraj rekord europejskich pucharów]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[AS: Real zatrudnił Bernda Reicharta]]></title>
             <link>https://www.realmadryt.pl/news/153238-as-real-zatrudnil-bernda-reicharta</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153231-krolewscy-maja-dzis-wolne</link>
             <pubDate>Thu, 15 Oct 2026 11:36:00 GMT</pubDate>
             <description><![CDATA[Krótki odpoczynek przed kolejnym meczem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Tyler, The Creator na koszulce Barcelony w październikowym Klasyku]]></title>
-            <link>https://www.realmadryt.pl/news/153230-tyler-the-creator-na-koszulce-barcelony-w-pazdziernikowym-klasyku</link>
-            <pubDate>Thu, 15 Oct 2026 11:22:00 GMT</pubDate>
-            <description><![CDATA[Katalończycy zaprezentowali specjalną koszulkę]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[100 zwycięstw Bellinghama w Realu Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/153228-100-zwyciestw-bellinghama-w-realu-madryt</link>
-            <pubDate>Thu, 15 Oct 2026 11:10:00 GMT</pubDate>
-            <description><![CDATA[Jubileusz Anglika w meczu z Romą]]></description>
         </item>
         
 </channel>
