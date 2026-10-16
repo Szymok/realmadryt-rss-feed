@@ -4,8 +4,57 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 16 Oct 2026 14:41:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 18:21:43 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Telewizyjny terminarz 9. kolejki La Ligi]]></title>
+            <link>https://www.realmadryt.pl/news/153261-telewizyjny-terminarz-9-kolejki-la-ligi</link>
+            <pubDate>Fri, 16 Oct 2026 20:00:00 GMT</pubDate>
+            <description><![CDATA[Mecz Realu skomentują Piotr Laboga i Leszek Orłowski]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[MARCA: Arbeloa na wylocie z Fulham]]></title>
+            <link>https://www.realmadryt.pl/news/153268-marca-arbeloa-na-wylocie-z-fulham</link>
+            <pubDate>Fri, 16 Oct 2026 18:49:00 GMT</pubDate>
+            <description><![CDATA[Dwa najbliższe mecze mogą zdecydować o jego przyszłości]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Carvajal: Mój umysł potrzebował zmiany otoczenia, chciałem znowu odnaleźć siebie]]></title>
+            <link>https://www.realmadryt.pl/news/153266-carvajal-moj-umysl-potrzebowal-zmiany-otoczenia-chcialem-znowu-odnalezc-siebie</link>
+            <pubDate>Fri, 16 Oct 2026 18:36:00 GMT</pubDate>
+            <description><![CDATA[Dani został zaprezentowany w Getafe]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[ESPN: Real Madryt obserwuje 15-letni talent Sportingu]]></title>
+            <link>https://www.realmadryt.pl/news/153265-espn-real-madryt-obserwuje-15-letni-talent-sportingu</link>
+            <pubDate>Fri, 16 Oct 2026 18:21:00 GMT</pubDate>
+            <description><![CDATA[Jacobo Afonso na radarze Królewskich]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Tebas odpowiada Realowi: „To wszystko ma nazwę: zastraszanie”]]></title>
+            <link>https://www.realmadryt.pl/news/153264-tebas-odpowiada-realowi-to-wszystko-ma-nazwe-zastraszanie</link>
+            <pubDate>Fri, 16 Oct 2026 17:38:00 GMT</pubDate>
+            <description><![CDATA[Pan Javier znowu w akcji]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[DAZN: Mourinho zastanawia się nad powołaniem Militão na Sevillę]]></title>
+            <link>https://www.realmadryt.pl/news/153263-dazn-mourinho-zastanawia-sie-nad-powolaniem-militao-na-seville</link>
+            <pubDate>Fri, 16 Oct 2026 17:15:00 GMT</pubDate>
+            <description><![CDATA[Brazylijczyk wróci po długiej przerwie?]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real nie przegrał z Sevillą od 2018 roku]]></title>
+            <link>https://www.realmadryt.pl/news/153262-real-nie-przegral-z-sevilla-od-2018-roku</link>
+            <pubDate>Fri, 16 Oct 2026 16:55:00 GMT</pubDate>
+            <description><![CDATA[Ta jeszcze dłużej czeka na triumf w Madrycie]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Bellingham: Gra w tym klubie to ogromna duma]]></title>
             <link>https://www.realmadryt.pl/news/153260-bellingham-gra-w-tym-klubie-to-ogromna-duma</link>
@@ -39,55 +88,6 @@
             <link>https://www.realmadryt.pl/news/153255-dzisiejszy-trening</link>
             <pubDate>Fri, 16 Oct 2026 13:23:00 GMT</pubDate>
             <description><![CDATA[Królewscy rozpoczęli przygotowania do meczu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[AS: Bellingham przedłuży kontrakt z Realem Madryt do 2031 roku!]]></title>
-            <link>https://www.realmadryt.pl/news/153256-as-bellingham-przedluzy-kontrakt-z-realem-madryt-do-2031-roku</link>
-            <pubDate>Fri, 16 Oct 2026 13:09:00 GMT</pubDate>
-            <description><![CDATA[Anglik zostanie w klubie na dłużej]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[El Periódico: Pracownicy Barcelony zapowiadają strajk na Klasyk]]></title>
-            <link>https://www.realmadryt.pl/news/153254-el-periodico-pracownicy-barcelony-zapowiadaja-strajk-na-klasyk</link>
-            <pubDate>Fri, 16 Oct 2026 12:09:00 GMT</pubDate>
-            <description><![CDATA[Katalończycy mają problemy organizacyjne przed meczem z Realem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Brahim zniknął]]></title>
-            <link>https://www.realmadryt.pl/news/153252-brahim-zniknal</link>
-            <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Atakujący nie gra od ponad miesiąca]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Onda Cero: Mourinho idzie drogą Xabiego Alonso]]></title>
-            <link>https://www.realmadryt.pl/news/153253-onda-cero-mourinho-idzie-droga-xabiego-alonso</link>
-            <pubDate>Fri, 16 Oct 2026 11:11:00 GMT</pubDate>
-            <description><![CDATA[Portugalczyk podejmuje podobne decyzje]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Morientes: Jestem oburzony karą dla Viníciusa]]></title>
-            <link>https://www.realmadryt.pl/news/153249-morientes-jestem-oburzony-kara-dla-viniciusa</link>
-            <pubDate>Fri, 16 Oct 2026 10:40:00 GMT</pubDate>
-            <description><![CDATA[„To nie jest agresja”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho potrzebuje odważniejszych decyzji]]></title>
-            <link>https://www.realmadryt.pl/news/153245-mourinho-potrzebuje-odwazniejszych-decyzji</link>
-            <pubDate>Fri, 16 Oct 2026 10:00:00 GMT</pubDate>
-            <description><![CDATA[Środowy mecz może dać mu do tego siłę]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Pedro Martínez: Bardzo cenię tych koszykarzy, którzy nie pojawiają się w statystykach]]></title>
-            <link>https://www.realmadryt.pl/news/153247-pedro-martinez-bardzo-cenie-tych-koszykarzy-ktorzy-nie-pojawiaja-sie-w-statystykach</link>
-            <pubDate>Fri, 16 Oct 2026 09:56:00 GMT</pubDate>
-            <description><![CDATA[Konferencja prasowa po wygranym meczu z ASVEL-em]]></description>
         </item>
         
 </channel>
