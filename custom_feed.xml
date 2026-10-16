@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 16 Oct 2026 18:21:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 21:27:36 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[CSD rozważa działania z urzędu po słowach Tebasa o Realu Madryt]]></title>
+            <link>https://www.realmadryt.pl/news/153270-csd-rozwaza-dzialania-z-urzedu-po-slowach-tebasa-o-realu-madryt</link>
+            <pubDate>Fri, 16 Oct 2026 22:08:00 GMT</pubDate>
+            <description><![CDATA[Prezesa La Ligi może jednak mieć kłopoty]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Telewizyjny terminarz 9. kolejki La Ligi]]></title>
             <link>https://www.realmadryt.pl/news/153261-telewizyjny-terminarz-9-kolejki-la-ligi</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/153251-slaba-forma-viniciusa-stawia-mourinho-przed-trudna-decyzja</link>
             <pubDate>Fri, 16 Oct 2026 14:15:00 GMT</pubDate>
             <description><![CDATA[Trwa kryzys Brazylijczyka]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Dzisiejszy trening]]></title>
-            <link>https://www.realmadryt.pl/news/153255-dzisiejszy-trening</link>
-            <pubDate>Fri, 16 Oct 2026 13:23:00 GMT</pubDate>
-            <description><![CDATA[Królewscy rozpoczęli przygotowania do meczu]]></description>
         </item>
         
 </channel>
