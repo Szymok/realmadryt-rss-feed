@@ -4,8 +4,71 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 16 Oct 2026 05:18:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 10:00:03 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Brahim zniknął]]></title>
+            <link>https://www.realmadryt.pl/news/153252-brahim-zniknal</link>
+            <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Atakujący nie gra od ponad miesiąca]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Onda Cero: Mourinho idzie drogą Xabiego Alonso]]></title>
+            <link>https://www.realmadryt.pl/news/153253-onda-cero-mourinho-idzie-droga-xabiego-alonso</link>
+            <pubDate>Fri, 16 Oct 2026 11:11:00 GMT</pubDate>
+            <description><![CDATA[Portugalczyk podejmuje podobne decyzje]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Morientes: Jestem oburzony karą dla Viníciusa]]></title>
+            <link>https://www.realmadryt.pl/news/153249-morientes-jestem-oburzony-kara-dla-viniciusa</link>
+            <pubDate>Fri, 16 Oct 2026 10:40:00 GMT</pubDate>
+            <description><![CDATA[„To nie jest agresja”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mourinho potrzebuje odważniejszych decyzji]]></title>
+            <link>https://www.realmadryt.pl/news/153245-mourinho-potrzebuje-odwazniejszych-decyzji</link>
+            <pubDate>Fri, 16 Oct 2026 10:00:00 GMT</pubDate>
+            <description><![CDATA[Środowy mecz może dać mu do tego siłę]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pedro Martínez: Bardzo cenię tych koszykarzy, którzy nie pojawiają się w statystykach]]></title>
+            <link>https://www.realmadryt.pl/news/153247-pedro-martinez-bardzo-cenie-tych-koszykarzy-ktorzy-nie-pojawiaja-sie-w-statystykach</link>
+            <pubDate>Fri, 16 Oct 2026 09:56:00 GMT</pubDate>
+            <description><![CDATA[Konferencja prasowa po wygranym meczu z ASVEL-em]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Tebas atakuje Real Madryt i Real Madrid TV: „Przypomina to mechanizmy propagandy wykorzystywane przez Goebbelsa”]]></title>
+            <link>https://www.realmadryt.pl/news/153250-tebas-atakuje-real-madryt-i-real-madrid-tv-przypomina-to-mechanizmy-propagandy-wykorzystywane-przez-goebbelsa</link>
+            <pubDate>Fri, 16 Oct 2026 09:45:00 GMT</pubDate>
+            <description><![CDATA[Prezes La Ligi wbucha]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Kartka z kalendarza: 16 października]]></title>
+            <link>https://www.realmadryt.pl/news/153248-kartka-z-kalendarza-16-pazdziernika</link>
+            <pubDate>Fri, 16 Oct 2026 09:09:00 GMT</pubDate>
+            <description><![CDATA[Urodziny byłych zawodników i wygrany Klasyk]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Roncero: Środek pola z Tchouaménim i Fede to przestarzałe rozwiązanie, które nie służy drużynie]]></title>
+            <link>https://www.realmadryt.pl/news/153241-roncero-srodek-pola-z-tchouamenim-i-fede-to-przestarzale-rozwiazanie-ktore-nie-sluzy-druzynie</link>
+            <pubDate>Fri, 16 Oct 2026 08:18:00 GMT</pubDate>
+            <description><![CDATA[„Ten mecz pokazał, że Güler nie może siedzieć na ławce”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[GŁOS KIBICIA: Fede Valverde]]></title>
+            <link>https://www.realmadryt.pl/news/153243-glos-kibicia-fede-valverde</link>
+            <pubDate>Fri, 16 Oct 2026 07:25:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do dzisiejszej ankiety]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Endrick wraca do gry]]></title>
             <link>https://www.realmadryt.pl/news/153244-endrick-wraca-do-gry</link>
@@ -25,69 +88,6 @@
             <link>https://www.realmadryt.pl/news/153242-ofensywny-popis-koszykarzy-video</link>
             <pubDate>Thu, 15 Oct 2026 23:09:00 GMT</pubDate>
             <description><![CDATA[Piąte zwycięstwo z rzędu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Pablo Ramón: Zawieszenie Viníciusa? Pozwólmy najlepszym grać]]></title>
-            <link>https://www.realmadryt.pl/news/153240-pablo-ramon-zawieszenie-viniciusa-pozwolmy-najlepszym-grac</link>
-            <pubDate>Thu, 15 Oct 2026 19:30:00 GMT</pubDate>
-            <description><![CDATA[Obrońca Racingu przed zbliżającym się meczem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kolejna wygrana na włoskiej ziemi]]></title>
-            <link>https://www.realmadryt.pl/news/153239-kolejna-wygrana-na-wloskiej-ziemi</link>
-            <pubDate>Thu, 15 Oct 2026 18:40:00 GMT</pubDate>
-            <description><![CDATA[Real pobił wczoraj rekord europejskich pucharów]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[AS: Real zatrudnił Bernda Reicharta]]></title>
-            <link>https://www.realmadryt.pl/news/153238-as-real-zatrudnil-bernda-reicharta</link>
-            <pubDate>Thu, 15 Oct 2026 17:49:00 GMT</pubDate>
-            <description><![CDATA[Wcześniej współpracował z nim w sprawie Superligi]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[El Mundo: Rzym dał Mourinho kilka odpowiedzi na przyszłość]]></title>
-            <link>https://www.realmadryt.pl/news/153237-el-mundo-rzym-dal-mourinho-kilka-odpowiedzi-na-przyszlosc</link>
-            <pubDate>Thu, 15 Oct 2026 17:10:00 GMT</pubDate>
-            <description><![CDATA[Güler, Endrick, Valverde i Espí wysłali jasne sygnały]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[ABC: Mourinho pójdzie z Viníciusem na dno, jeśli będzie trzeba]]></title>
-            <link>https://www.realmadryt.pl/news/153236-abc-mourinho-pojdzie-z-viniciusem-na-dno-jesli-bedzie-trzeba</link>
-            <pubDate>Thu, 15 Oct 2026 16:20:00 GMT</pubDate>
-            <description><![CDATA[Brazylijczyk rozegrał w Rzymie jeden z najgorszych meczów]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Pedro Martínez: Fizycznie nie będziemy w najlepszym momencie]]></title>
-            <link>https://www.realmadryt.pl/news/153208-pedro-martinez-fizycznie-nie-bedziemy-w-najlepszym-momencie</link>
-            <pubDate>Thu, 15 Oct 2026 15:30:00 GMT</pubDate>
-            <description><![CDATA[Wypowiedzi przed spotkaniem z ASVEL-em]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Roma nie zapomniała o Mourinho: „Ave Mou, witaj w domu”]]></title>
-            <link>https://www.realmadryt.pl/news/153235-roma-nie-zapomniala-o-mourinho-ave-mou-witaj-w-domu</link>
-            <pubDate>Thu, 15 Oct 2026 14:40:00 GMT</pubDate>
-            <description><![CDATA[Rzymianie oddali hołd Portugalczykowi]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Valdano: Jedna zmiana w ubiegłym roku zaszkodziła sytuacji Viníciusa w Realu Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/153233-valdano-jedna-zmiana-w-ubieglym-roku-zaszkodzila-sytuacji-viniciusa-w-realu-madryt</link>
-            <pubDate>Thu, 15 Oct 2026 13:51:00 GMT</pubDate>
-            <description><![CDATA[„Nie oglądamy już tego Viníciusa, który robił różnicę”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Roma obnażyła problem Realu w środku pola]]></title>
-            <link>https://www.realmadryt.pl/news/153234-roma-obnazyla-problem-realu-w-srodku-pola</link>
-            <pubDate>Thu, 15 Oct 2026 13:00:00 GMT</pubDate>
-            <description><![CDATA[Piłkę rozgrywać musiał Courtois]]></description>
         </item>
         
 </channel>
