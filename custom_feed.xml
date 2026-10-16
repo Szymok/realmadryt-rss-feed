@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 16 Oct 2026 00:54:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 05:18:46 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Endrick wraca do gry]]></title>
+            <link>https://www.realmadryt.pl/news/153244-endrick-wraca-do-gry</link>
+            <pubDate>Fri, 16 Oct 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Z kandydata do wypożyczenia w ważną broń Mourinho?]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/153246-dzisiejsze-okladki</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/153234-roma-obnazyla-problem-realu-w-srodku-pola</link>
             <pubDate>Thu, 15 Oct 2026 13:00:00 GMT</pubDate>
             <description><![CDATA[Piłkę rozgrywać musiał Courtois]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[AS: W Realu mówią o „prowokacji” i planie wymierzonym w klub]]></title>
-            <link>https://www.realmadryt.pl/news/153232-as-w-realu-mowia-o-prowokacji-i-planie-wymierzonym-w-klub</link>
-            <pubDate>Thu, 15 Oct 2026 12:08:00 GMT</pubDate>
-            <description><![CDATA[Królewscy uważają, że nie jest to przypadek]]></description>
         </item>
         
 </channel>
