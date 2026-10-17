@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 Oct 2026 21:44:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 23:27:22 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153302-dzisiejsze-okladki</link>
+            <pubDate>Sun, 18 Oct 2026 00:22:00 GMT</pubDate>
+            <description><![CDATA[„Nowy tercet wchodzi do gry”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Piłkarki pewnie pokonują Espanyol [VIDEO]]]></title>
             <link>https://www.realmadryt.pl/news/153296-pilkarki-pewnie-pokonuja-espanyol-video</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/153284-tebas-broni-swoich-slow-o-propagandzie-goebbelsa-oburzenie-nie-obala-faktow</link>
             <pubDate>Sat, 17 Oct 2026 12:41:00 GMT</pubDate>
             <description><![CDATA[Pan Javier nie odpuszcza]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Ostatni trening przed Sevillą]]></title>
-            <link>https://www.realmadryt.pl/news/153281-ostatni-trening-przed-sevilla</link>
-            <pubDate>Sat, 17 Oct 2026 12:34:00 GMT</pubDate>
-            <description><![CDATA[Królewscy zakończyli przygotowania do meczu]]></description>
         </item>
         
 </channel>
