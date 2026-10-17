@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 Oct 2026 02:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 07:05:13 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Luis García: Nawet najlepsi sevillistas w historii nie byli w stanie zapunktować na Bernabéu]]></title>
+            <link>https://www.realmadryt.pl/news/153258-luis-garcia-nawet-najlepsi-sevillistas-w-historii-nie-byli-w-stanie-zapunktowac-na-bernabeu</link>
+            <pubDate>Sat, 17 Oct 2026 08:18:00 GMT</pubDate>
+            <description><![CDATA[Konferencja prasowa z trenerem Sevilli]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Javier Tebas vs Real Madryt]]></title>
+            <link>https://www.realmadryt.pl/news/153267-glos-kibica-javier-tebas-vs-real-madryt</link>
+            <pubDate>Sat, 17 Oct 2026 07:30:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do dzisiejszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[AS: Kolejne próby ukarania Real Madrid TV kończą się niepowodzeniem]]></title>
+            <link>https://www.realmadryt.pl/news/153269-as-kolejne-proby-ukarania-real-madrid-tv-koncza-sie-niepowodzeniem</link>
+            <pubDate>Sat, 17 Oct 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Obecne przepisy utrudniają ukaranie klubu]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/153273-dzisiejsze-okladki</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/153263-dazn-mourinho-zastanawia-sie-nad-powolaniem-militao-na-seville</link>
             <pubDate>Fri, 16 Oct 2026 17:15:00 GMT</pubDate>
             <description><![CDATA[Brazylijczyk wróci po długiej przerwie?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real nie przegrał z Sevillą od 2018 roku]]></title>
-            <link>https://www.realmadryt.pl/news/153262-real-nie-przegral-z-sevilla-od-2018-roku</link>
-            <pubDate>Fri, 16 Oct 2026 16:55:00 GMT</pubDate>
-            <description><![CDATA[Ta jeszcze dłużej czeka na triumf w Madrycie]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bellingham: Gra w tym klubie to ogromna duma]]></title>
-            <link>https://www.realmadryt.pl/news/153260-bellingham-gra-w-tym-klubie-to-ogromna-duma</link>
-            <pubDate>Fri, 16 Oct 2026 15:59:00 GMT</pubDate>
-            <description><![CDATA[„Cieszę się swoją rolą w zespole”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Real Madryt żąda natychmiastowej dymisji Javiera Tebasa]]></title>
-            <link>https://www.realmadryt.pl/news/153259-oficjalnie-real-madryt-zada-natychmiastowej-dymisji-javiera-tebasa</link>
-            <pubDate>Fri, 16 Oct 2026 15:12:00 GMT</pubDate>
-            <description><![CDATA[Klub wydał komunikat]]></description>
         </item>
         
 </channel>
