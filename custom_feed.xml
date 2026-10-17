@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 Oct 2026 19:34:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 21:44:09 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Piłkarki pewnie pokonują Espanyol [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153296-pilkarki-pewnie-pokonuja-espanyol-video</link>
+            <pubDate>Sat, 17 Oct 2026 23:09:00 GMT</pubDate>
+            <description><![CDATA[Królewskie wygrywają na Di Stefano]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Bayern zdemolował Lipsk [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153295-bayern-zdemolowal-lipsk-video</link>
+            <pubDate>Sat, 17 Oct 2026 21:57:00 GMT</pubDate>
+            <description><![CDATA[Czerwone Byki zawitają w środę do Madrytu]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Mateo Busquets Ferrer na Sevillę]]></title>
             <link>https://www.realmadryt.pl/news/153292-mateo-busquets-ferrer-na-seville</link>
@@ -21,8 +35,8 @@
         </item>
         
         <item>
-            <title><![CDATA[9. kolejka: Barça nadal bezbłędna]]></title>
-            <link>https://www.realmadryt.pl/news/153287-9-kolejka-barca-nadal-bezbledna</link>
+            <title><![CDATA[9. kolejka: Barça nadal bezbłędna [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153287-9-kolejka-barca-nadal-bezbledna-video</link>
             <pubDate>Sat, 17 Oct 2026 18:00:00 GMT</pubDate>
             <description><![CDATA[Kolejna wysoka wygrana Katalończyków]]></description>
         </item>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153281-ostatni-trening-przed-sevilla</link>
             <pubDate>Sat, 17 Oct 2026 12:34:00 GMT</pubDate>
             <description><![CDATA[Królewscy zakończyli przygotowania do meczu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Co obejrzeć w weekend poza meczem Realu Madryt?]]></title>
-            <link>https://www.realmadryt.pl/news/153279-co-obejrzec-w-weekend-poza-meczem-realu-madryt</link>
-            <pubDate>Sat, 17 Oct 2026 12:10:00 GMT</pubDate>
-            <description><![CDATA[Bayern kontra Lipsk, Betis z Barceloną, Arbeloa o posadę]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bernardo i Güler pracują na miejsce w jedenastce]]></title>
-            <link>https://www.realmadryt.pl/news/153280-bernardo-i-guler-pracuja-na-miejsce-w-jedenastce</link>
-            <pubDate>Sat, 17 Oct 2026 11:25:00 GMT</pubDate>
-            <description><![CDATA[Będą zmiany w środku pola?]]></description>
         </item>
         
 </channel>
