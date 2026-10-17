@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 Oct 2026 17:23:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 19:34:56 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Mateo Busquets Ferrer na Sevillę]]></title>
+            <link>https://www.realmadryt.pl/news/153292-mateo-busquets-ferrer-na-seville</link>
+            <pubDate>Sat, 17 Oct 2026 20:11:00 GMT</pubDate>
+            <description><![CDATA[To najlepszy sędzia w naszym rankingu]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Prezes CSD: Pan Tebas powinien przeprosić]]></title>
             <link>https://www.realmadryt.pl/news/153291-prezes-csd-pan-tebas-powinien-przeprosic</link>
@@ -14,10 +21,10 @@
         </item>
         
         <item>
-            <title><![CDATA[Barça gra na wyjeździe z Betisem [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/153287-barca-gra-na-wyjezdzie-z-betisem-na-zywo</link>
+            <title><![CDATA[9. kolejka: Barça nadal bezbłędna]]></title>
+            <link>https://www.realmadryt.pl/news/153287-9-kolejka-barca-nadal-bezbledna</link>
             <pubDate>Sat, 17 Oct 2026 18:00:00 GMT</pubDate>
-            <description><![CDATA[Ostatni ligowy mecz Katalończyków przed Klasykiem]]></description>
+            <description><![CDATA[Kolejna wysoka wygrana Katalończyków]]></description>
         </item>
         
         <item>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/153280-bernardo-i-guler-pracuja-na-miejsce-w-jedenastce</link>
             <pubDate>Sat, 17 Oct 2026 11:25:00 GMT</pubDate>
             <description><![CDATA[Będą zmiany w środku pola?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho: Na miejscu Viníciusa już by mnie tu nie było i wymusiłbym odejście tam, gdzie byłbym szanowany]]></title>
-            <link>https://www.realmadryt.pl/news/153278-mourinho-na-miejscu-viniciusa-juz-by-mnie-tu-nie-bylo-i-wymusilbym-odejscie-tam-gdzie-bylbym-szanowany</link>
-            <pubDate>Sat, 17 Oct 2026 11:01:00 GMT</pubDate>
-            <description><![CDATA[Zapis przedmeczowej konferencji z trenerem]]></description>
         </item>
         
 </channel>
