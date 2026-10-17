@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 Oct 2026 11:34:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:24:51 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Real Madryt pokazuje reakcje zagranicznych mediów na słowa Tebasa]]></title>
+            <link>https://www.realmadryt.pl/news/153288-real-madryt-pokazuje-reakcje-zagranicznych-mediow-na-slowa-tebasa</link>
+            <pubDate>Sat, 17 Oct 2026 15:39:00 GMT</pubDate>
+            <description><![CDATA[Nietypowy artykuł na oficjalnej stronie klubu]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Laporta: Wygląda na to, że Real Madryt chce wszystko rozwalić, na szczęście Tebas jest prezesem]]></title>
+            <link>https://www.realmadryt.pl/news/153286-laporta-wyglada-na-to-ze-real-madryt-chce-wszystko-rozwalic-na-szczescie-tebas-jest-prezesem</link>
+            <pubDate>Sat, 17 Oct 2026 14:31:00 GMT</pubDate>
+            <description><![CDATA[„Nie są zadowoleni z niczego”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Kadra na Sevillę]]></title>
+            <link>https://www.realmadryt.pl/news/153285-kadra-na-seville</link>
+            <pubDate>Sat, 17 Oct 2026 14:20:00 GMT</pubDate>
+            <description><![CDATA[Bez czterech piłkarzy]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Bernabéu czeka na Espíego]]></title>
             <link>https://www.realmadryt.pl/news/153283-bernabeu-czeka-na-espiego</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/153276-reinier-moj-etap-w-madrycie-nie-byl-tym-czego-sie-spodziewalem</link>
             <pubDate>Sat, 17 Oct 2026 09:53:00 GMT</pubDate>
             <description><![CDATA[„Powrót do La Ligi? Dlaczego nie?”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[MARCA: Mourinho mierzy się z problemami, które pogrążyły Xabiego Alonso]]></title>
-            <link>https://www.realmadryt.pl/news/153274-marca-mourinho-mierzy-sie-z-problemami-ktore-pograzyly-xabiego-alonso</link>
-            <pubDate>Sat, 17 Oct 2026 09:35:00 GMT</pubDate>
-            <description><![CDATA[Historia się powtarza]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 17 października]]></title>
-            <link>https://www.realmadryt.pl/news/153272-kartka-z-kalendarza-17-pazdziernika</link>
-            <pubDate>Sat, 17 Oct 2026 09:09:00 GMT</pubDate>
-            <description><![CDATA[Złota Piłka Benzemy i porażka z Cádizem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Luis García: Nawet najlepsi sevillistas w historii nie byli w stanie zapunktować na Bernabéu]]></title>
-            <link>https://www.realmadryt.pl/news/153258-luis-garcia-nawet-najlepsi-sevillistas-w-historii-nie-byli-w-stanie-zapunktowac-na-bernabeu</link>
-            <pubDate>Sat, 17 Oct 2026 08:18:00 GMT</pubDate>
-            <description><![CDATA[Konferencja prasowa z trenerem Sevilli]]></description>
         </item>
         
 </channel>
