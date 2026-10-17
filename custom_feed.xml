@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 Oct 2026 14:24:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 17:23:39 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Prezes CSD: Pan Tebas powinien przeprosić]]></title>
+            <link>https://www.realmadryt.pl/news/153291-prezes-csd-pan-tebas-powinien-przeprosic</link>
+            <pubDate>Sat, 17 Oct 2026 19:17:00 GMT</pubDate>
+            <description><![CDATA[Uribas doczekał się już odpowiedzi]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Barça gra na wyjeździe z Betisem [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/153287-barca-gra-na-wyjezdzie-z-betisem-na-zywo</link>
+            <pubDate>Sat, 17 Oct 2026 18:00:00 GMT</pubDate>
+            <description><![CDATA[Ostatni ligowy mecz Katalończyków przed Klasykiem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Tebas: Real Madryt manipuluje informacją]]></title>
+            <link>https://www.realmadryt.pl/news/153289-tebas-real-madryt-manipuluje-informacja</link>
+            <pubDate>Sat, 17 Oct 2026 16:46:00 GMT</pubDate>
+            <description><![CDATA[Kolejny wpis prezesa La Ligi]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Real Madryt pokazuje reakcje zagranicznych mediów na słowa Tebasa]]></title>
             <link>https://www.realmadryt.pl/news/153288-real-madryt-pokazuje-reakcje-zagranicznych-mediow-na-slowa-tebasa</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/153278-mourinho-na-miejscu-viniciusa-juz-by-mnie-tu-nie-bylo-i-wymusilbym-odejscie-tam-gdzie-bylbym-szanowany</link>
             <pubDate>Sat, 17 Oct 2026 11:01:00 GMT</pubDate>
             <description><![CDATA[Zapis przedmeczowej konferencji z trenerem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kwadrans ostatniego treningu przed Sevillą [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/153277-kwadrans-ostatniego-treningu-przed-sevilla-video</link>
-            <pubDate>Sat, 17 Oct 2026 10:41:00 GMT</pubDate>
-            <description><![CDATA[Kto jest gotowy do gry?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho: Tebas? Można to usprawiedliwić tylko wtedy, jeśli mamy do czynienia z przypadkiem klinicznym]]></title>
-            <link>https://www.realmadryt.pl/news/153275-mourinho-tebas-mozna-to-usprawiedliwic-tylko-wtedy-jesli-mamy-do-czynienia-z-przypadkiem-klinicznym</link>
-            <pubDate>Sat, 17 Oct 2026 09:59:00 GMT</pubDate>
-            <description><![CDATA[Trener zabrał głos przed meczem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Reinier: Mój etap w Madrycie nie był tym, czego się spodziewałem]]></title>
-            <link>https://www.realmadryt.pl/news/153276-reinier-moj-etap-w-madrycie-nie-byl-tym-czego-sie-spodziewalem</link>
-            <pubDate>Sat, 17 Oct 2026 09:53:00 GMT</pubDate>
-            <description><![CDATA[„Powrót do La Ligi? Dlaczego nie?”]]></description>
         </item>
         
 </channel>
