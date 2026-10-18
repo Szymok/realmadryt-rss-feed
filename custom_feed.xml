@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 Oct 2026 23:27:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 01:22:18 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Pellegrini: Brak czerwonej dla Yamala z powodu Klasyku? Gdybym tak uważał, oznaczałoby to, że funkcjonujemy w całkowicie wypaczonym środowisku]]></title>
+            <link>https://www.realmadryt.pl/news/153303-pellegrini-brak-czerwonej-dla-yamala-z-powodu-klasyku-gdybym-tak-uwazal-oznaczaloby-to-ze-funkcjonujemy-w-calkowicie-wypaczonym-srodowisku</link>
+            <pubDate>Sun, 18 Oct 2026 02:06:00 GMT</pubDate>
+            <description><![CDATA[Wypowiedzi trenera Betisu]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/153302-dzisiejsze-okladki</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/153283-bernabeu-czeka-na-espiego</link>
             <pubDate>Sat, 17 Oct 2026 13:30:00 GMT</pubDate>
             <description><![CDATA[Napastnik gra praktycznie tylko na wyjazdach]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Tebas broni swoich słów o propagandzie Goebbelsa: „Oburzenie nie obala faktów”]]></title>
-            <link>https://www.realmadryt.pl/news/153284-tebas-broni-swoich-slow-o-propagandzie-goebbelsa-oburzenie-nie-obala-faktow</link>
-            <pubDate>Sat, 17 Oct 2026 12:41:00 GMT</pubDate>
-            <description><![CDATA[Pan Javier nie odpuszcza]]></description>
         </item>
         
 </channel>
