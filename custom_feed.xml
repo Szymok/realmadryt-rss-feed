@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 Oct 2026 14:33:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 17:32:44 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Real Madrid TV: Tebas powinien podać się do dymisji, inni za podobne słowa stracili stanowiska [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153319-real-madrid-tv-tebas-powinien-podac-sie-do-dymisji-inni-za-podobne-slowa-stracili-stanowiska-video</link>
+            <pubDate>Sun, 18 Oct 2026 18:59:00 GMT</pubDate>
+            <description><![CDATA[Klubowa telewizja nie odpuszcza prezesowi La Ligi]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Gaspierni: Genoa pod względem taktycznym sprawiła nam więcej problemów niż Real Madryt]]></title>
+            <link>https://www.realmadryt.pl/news/153318-gaspierni-genoa-pod-wzgledem-taktycznym-sprawila-nam-wiecej-problemow-niz-real-madryt</link>
+            <pubDate>Sun, 18 Oct 2026 18:45:00 GMT</pubDate>
+            <description><![CDATA[„Zasłużyliśmy na zwycięstwo, a przegraliśmy przez trzy rzuty rożne”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Prezes Getafe potwierdza rozmowy w sprawie Sergio Ramosa]]></title>
+            <link>https://www.realmadryt.pl/news/153317-prezes-getafe-potwierdza-rozmowy-w-sprawie-sergio-ramosa</link>
+            <pubDate>Sun, 18 Oct 2026 18:38:00 GMT</pubDate>
+            <description><![CDATA[Kolejny były kapitan Realu trafi na przedmieścia Madrytu?]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oficjalnie: Eric García nie zagra z Realem, występ Koundé pod znakiem zapytania]]></title>
+            <link>https://www.realmadryt.pl/news/153315-oficjalnie-eric-garcia-nie-zagra-z-realem-wystep-kounde-pod-znakiem-zapytania</link>
+            <pubDate>Sun, 18 Oct 2026 18:13:00 GMT</pubDate>
+            <description><![CDATA[Problemy kadrowe Katalończyków przed Klasykiem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madrid TV: Sędziowie stosują inne kryteria wobec Barcelony i Realu Madryt [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153314-real-madrid-tv-sedziowie-stosuja-inne-kryteria-wobec-barcelony-i-realu-madryt-video</link>
+            <pubDate>Sun, 18 Oct 2026 18:06:00 GMT</pubDate>
+            <description><![CDATA[Materiał od klubowej telewizji]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Pedro Martínez: Graliśmy znakomicie zespołowo]]></title>
             <link>https://www.realmadryt.pl/news/153313-pedro-martinez-gralismy-znakomicie-zespolowo</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/153308-real-madryt-sevilla-w-la-lidze-kurs-3-90-na-remis-do-przerwy-i-wygrana-krolewskich-w-betclic</link>
             <pubDate>Sun, 18 Oct 2026 12:15:00 GMT</pubDate>
             <description><![CDATA[Artykuł sponsorowany]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Fofana: Jeśli pojedziemy na Bernabéu tylko po to, żeby nie przegrać, lepiej w ogóle tam nie jechać]]></title>
-            <link>https://www.realmadryt.pl/news/153305-fofana-jesli-pojedziemy-na-bernabeu-tylko-po-to-zeby-nie-przegrac-lepiej-w-ogole-tam-nie-jechac</link>
-            <pubDate>Sun, 18 Oct 2026 11:45:00 GMT</pubDate>
-            <description><![CDATA[„Dopóki obywatele mają głos, mogą zapobiegać dojściu skrajnej prawicy do władzy”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real Madryt ponownie wymieni murawę na Bernabéu po meczu NFL]]></title>
-            <link>https://www.realmadryt.pl/news/153307-real-madryt-ponownie-wymieni-murawe-na-bernabeu-po-meczu-nfl</link>
-            <pubDate>Sun, 18 Oct 2026 11:15:00 GMT</pubDate>
-            <description><![CDATA[O dziwo powodem nie są problemy z jej stanem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Procida: Chcemy kontynuować ten dobry moment]]></title>
-            <link>https://www.realmadryt.pl/news/153293-procida-chcemy-kontynuowac-ten-dobry-moment</link>
-            <pubDate>Sun, 18 Oct 2026 10:45:00 GMT</pubDate>
-            <description><![CDATA[Wypowiedzi przed meczem z Bilbao]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Cena szaleństwa]]></title>
-            <link>https://www.realmadryt.pl/news/153290-cena-szalenstwa</link>
-            <pubDate>Sun, 18 Oct 2026 10:15:00 GMT</pubDate>
-            <description><![CDATA[Zapowiedź meczu z Sevillą]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Utrzymać dobrą passę]]></title>
-            <link>https://www.realmadryt.pl/news/153294-utrzymac-dobra-passe</link>
-            <pubDate>Sun, 18 Oct 2026 10:00:00 GMT</pubDate>
-            <description><![CDATA[Koszykarze zagrają z Bilbao]]></description>
         </item>
         
 </channel>
