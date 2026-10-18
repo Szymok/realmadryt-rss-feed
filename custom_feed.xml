@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 Oct 2026 17:32:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 19:40:05 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Real Madryt – Sevilla [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/153320-real-madryt-sevilla-na-zywo</link>
+            <pubDate>Sun, 18 Oct 2026 20:50:00 GMT</pubDate>
+            <description><![CDATA[Trwa mecz 9. kolejki La Ligi]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madryt – Sevilla: Znamy składy!]]></title>
+            <link>https://www.realmadryt.pl/news/153316-real-madryt-sevilla-znamy-sklady</link>
+            <pubDate>Sun, 18 Oct 2026 19:42:00 GMT</pubDate>
+            <description><![CDATA[Wiemy, na kogo postawił Mourinho]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Real Madrid TV: Tebas powinien podać się do dymisji, inni za podobne słowa stracili stanowiska [VIDEO]]]></title>
             <link>https://www.realmadryt.pl/news/153319-real-madrid-tv-tebas-powinien-podac-sie-do-dymisji-inni-za-podobne-slowa-stracili-stanowiska-video</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153306-ure-real-madryt-moze-cie-pokonac-na-tysiac-roznych-sposobow</link>
             <pubDate>Sun, 18 Oct 2026 13:15:00 GMT</pubDate>
             <description><![CDATA[„Występ na stadionie takim jak Bernabéu to marzenie każdego dzieciaka”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[MARCA: Endrick może wyjść w pierwszym składzie]]></title>
-            <link>https://www.realmadryt.pl/news/153309-marca-endrick-moze-wyjsc-w-pierwszym-skladzie</link>
-            <pubDate>Sun, 18 Oct 2026 12:28:00 GMT</pubDate>
-            <description><![CDATA[Mourinho rozważa nowe trio w ataku]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real Madryt – Sevilla w La Lidze! Kurs 3,90 na remis do przerwy i wygraną Królewskich w Betclic]]></title>
-            <link>https://www.realmadryt.pl/news/153308-real-madryt-sevilla-w-la-lidze-kurs-3-90-na-remis-do-przerwy-i-wygrana-krolewskich-w-betclic</link>
-            <pubDate>Sun, 18 Oct 2026 12:15:00 GMT</pubDate>
-            <description><![CDATA[Artykuł sponsorowany]]></description>
         </item>
         
 </channel>
