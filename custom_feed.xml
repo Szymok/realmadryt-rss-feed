@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 Oct 2026 01:22:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:13:04 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[GŁOS KIBICA: W czym tkwi problem?]]></title>
+            <link>https://www.realmadryt.pl/news/153299-glos-kibica-w-czym-tkwi-problem</link>
+            <pubDate>Sun, 18 Oct 2026 07:25:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do dzisiejszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Kurs 10.0 na wygraną Realu z Sevillą - łącznie 576 zł do zgarnięcia!]]></title>
+            <link>https://www.realmadryt.pl/news/153300-kurs-10-0-na-wygrana-realu-z-sevilla-lacznie-576-zl-do-zgarniecia</link>
+            <pubDate>Sun, 18 Oct 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Artykuł sponsorowany]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Endrick nie traci wiary]]></title>
+            <link>https://www.realmadryt.pl/news/153298-endrick-nie-traci-wiary</link>
+            <pubDate>Sun, 18 Oct 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Mourinho zyskuje nową broń]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Pellegrini: Brak czerwonej dla Yamala z powodu Klasyku? Gdybym tak uważał, oznaczałoby to, że funkcjonujemy w całkowicie wypaczonym środowisku]]></title>
             <link>https://www.realmadryt.pl/news/153303-pellegrini-brak-czerwonej-dla-yamala-z-powodu-klasyku-gdybym-tak-uwazal-oznaczaloby-to-ze-funkcjonujemy-w-calkowicie-wypaczonym-srodowisku</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/153288-real-madryt-pokazuje-reakcje-zagranicznych-mediow-na-slowa-tebasa</link>
             <pubDate>Sat, 17 Oct 2026 15:39:00 GMT</pubDate>
             <description><![CDATA[Nietypowy artykuł na oficjalnej stronie klubu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Laporta: Wygląda na to, że Real Madryt chce wszystko rozwalić, na szczęście Tebas jest prezesem]]></title>
-            <link>https://www.realmadryt.pl/news/153286-laporta-wyglada-na-to-ze-real-madryt-chce-wszystko-rozwalic-na-szczescie-tebas-jest-prezesem</link>
-            <pubDate>Sat, 17 Oct 2026 14:31:00 GMT</pubDate>
-            <description><![CDATA[„Nie są zadowoleni z niczego”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kadra na Sevillę]]></title>
-            <link>https://www.realmadryt.pl/news/153285-kadra-na-seville</link>
-            <pubDate>Sat, 17 Oct 2026 14:20:00 GMT</pubDate>
-            <description><![CDATA[Bez czterech piłkarzy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bernabéu czeka na Espíego]]></title>
-            <link>https://www.realmadryt.pl/news/153283-bernabeu-czeka-na-espiego</link>
-            <pubDate>Sat, 17 Oct 2026 13:30:00 GMT</pubDate>
-            <description><![CDATA[Napastnik gra praktycznie tylko na wyjazdach]]></description>
         </item>
         
 </channel>
