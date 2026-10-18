@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 Oct 2026 21:52:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 23:49:41 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Cucurella: To jest droga, którą trzeba podążać]]></title>
+            <link>https://www.realmadryt.pl/news/153337-cucurella-to-jest-droga-ktora-trzeba-podazac</link>
+            <pubDate>Mon, 19 Oct 2026 00:26:00 GMT</pubDate>
+            <description><![CDATA[„W każdym spotkaniu musimy wychodzić na 100%”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153336-dzisiejsze-okladki</link>
+            <pubDate>Mon, 19 Oct 2026 00:24:00 GMT</pubDate>
+            <description><![CDATA[„Güler odmienia Real Madryt”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mourinho: W środę Vinícius zagra od początku]]></title>
+            <link>https://www.realmadryt.pl/news/153333-mourinho-w-srode-vinicius-zagra-od-poczatku</link>
+            <pubDate>Mon, 19 Oct 2026 00:16:00 GMT</pubDate>
+            <description><![CDATA[Zapis pomeczowej konferencji z trenerem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Luis García: Może VAR nie interweniował dlatego, żeby Real nie tracił dziewięciu punktów?]]></title>
+            <link>https://www.realmadryt.pl/news/153335-luis-garcia-moze-var-nie-interweniowal-dlatego-zeby-real-nie-tracil-dziewieciu-punktow</link>
+            <pubDate>Mon, 19 Oct 2026 00:06:00 GMT</pubDate>
+            <description><![CDATA[„To była ewidentna czerwona kartka”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madryt 4:1 Sevilla [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153331-real-madryt-4-1-sevilla-video</link>
+            <pubDate>Sun, 18 Oct 2026 23:54:00 GMT</pubDate>
+            <description><![CDATA[Skrót meczu]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Huijsen: Dziś graliśmy razem i dobrze jako zespół]]></title>
             <link>https://www.realmadryt.pl/news/153329-huijsen-dzis-gralismy-razem-i-dobrze-jako-zespol</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/153323-protest-kibicow-na-bernabeu-podczas-meczu-z-sevilla-to-nie-futbol-to-tebas-i-negreira</link>
             <pubDate>Sun, 18 Oct 2026 22:09:00 GMT</pubDate>
             <description><![CDATA[Transparent i okrzyki na stadionie Realu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Królewscy robią swoje]]></title>
-            <link>https://www.realmadryt.pl/news/153320-krolewscy-robia-swoje</link>
-            <pubDate>Sun, 18 Oct 2026 20:50:00 GMT</pubDate>
-            <description><![CDATA[Kolejna wygrana na Bernabéu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real Madryt – Sevilla: Znamy składy!]]></title>
-            <link>https://www.realmadryt.pl/news/153316-real-madryt-sevilla-znamy-sklady</link>
-            <pubDate>Sun, 18 Oct 2026 19:42:00 GMT</pubDate>
-            <description><![CDATA[Wiemy, na kogo postawił Mourinho]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real Madrid TV: Tebas powinien podać się do dymisji, inni za podobne słowa stracili stanowiska [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/153319-real-madrid-tv-tebas-powinien-podac-sie-do-dymisji-inni-za-podobne-slowa-stracili-stanowiska-video</link>
-            <pubDate>Sun, 18 Oct 2026 18:59:00 GMT</pubDate>
-            <description><![CDATA[Klubowa telewizja nie odpuszcza prezesowi La Ligi]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Gaspierni: Genoa pod względem taktycznym sprawiła nam więcej problemów niż Real Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/153318-gaspierni-genoa-pod-wzgledem-taktycznym-sprawila-nam-wiecej-problemow-niz-real-madryt</link>
-            <pubDate>Sun, 18 Oct 2026 18:45:00 GMT</pubDate>
-            <description><![CDATA[„Zasłużyliśmy na zwycięstwo, a przegraliśmy przez trzy rzuty rożne”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Prezes Getafe potwierdza rozmowy w sprawie Sergio Ramosa]]></title>
-            <link>https://www.realmadryt.pl/news/153317-prezes-getafe-potwierdza-rozmowy-w-sprawie-sergio-ramosa</link>
-            <pubDate>Sun, 18 Oct 2026 18:38:00 GMT</pubDate>
-            <description><![CDATA[Kolejny były kapitan Realu trafi na przedmieścia Madrytu?]]></description>
         </item>
         
 </channel>
