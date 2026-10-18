@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 Oct 2026 11:05:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 14:33:01 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Pedro Martínez: Graliśmy znakomicie zespołowo]]></title>
+            <link>https://www.realmadryt.pl/news/153313-pedro-martinez-gralismy-znakomicie-zespolowo</link>
+            <pubDate>Sun, 18 Oct 2026 16:16:00 GMT</pubDate>
+            <description><![CDATA[Konferencja prasowa po wygranej z Bilbao]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Kolejny ofensywny koncert koszykarzy]]></title>
+            <link>https://www.realmadryt.pl/news/153312-kolejny-ofensywny-koncert-koszykarzy</link>
+            <pubDate>Sun, 18 Oct 2026 14:23:00 GMT</pubDate>
+            <description><![CDATA[Bilbao rozbite w Madrycie]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Bellingham: Z Romą pokazaliśmy, że potrafimy znaleźć sposób na wygraną, nawet jeśli nie gramy najlepiej]]></title>
+            <link>https://www.realmadryt.pl/news/153311-bellingham-z-roma-pokazalismy-ze-potrafimy-znalezc-sposob-na-wygrana-nawet-jesli-nie-gramy-najlepiej</link>
+            <pubDate>Sun, 18 Oct 2026 14:07:00 GMT</pubDate>
+            <description><![CDATA[Przedmeczowe komentarze Anglika]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Castilla lepsza od Antequery [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153310-castilla-lepsza-od-antequery-video</link>
+            <pubDate>Sun, 18 Oct 2026 13:56:00 GMT</pubDate>
+            <description><![CDATA[Rezerwy wygrały 3:2]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Ure: Real Madryt może cię pokonać na tysiąc różnych sposobów]]></title>
+            <link>https://www.realmadryt.pl/news/153306-ure-real-madryt-moze-cie-pokonac-na-tysiac-roznych-sposobow</link>
+            <pubDate>Sun, 18 Oct 2026 13:15:00 GMT</pubDate>
+            <description><![CDATA[„Występ na stadionie takim jak Bernabéu to marzenie każdego dzieciaka”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[MARCA: Endrick może wyjść w pierwszym składzie]]></title>
             <link>https://www.realmadryt.pl/news/153309-marca-endrick-moze-wyjsc-w-pierwszym-skladzie</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/153294-utrzymac-dobra-passe</link>
             <pubDate>Sun, 18 Oct 2026 10:00:00 GMT</pubDate>
             <description><![CDATA[Koszykarze zagrają z Bilbao]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Czy Lamine Yamal powinien dostać czerwoną kartkę i przegapić Klasyk? [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/153304-czy-lamine-yamal-powinien-dostac-czerwona-kartke-i-przegapic-klasyk-video</link>
-            <pubDate>Sun, 18 Oct 2026 09:53:00 GMT</pubDate>
-            <description><![CDATA[Kontrowersyjna sytuacja z udziałem 19-latka]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Castilla zagra z Antequerą]]></title>
-            <link>https://www.realmadryt.pl/news/153282-castilla-zagra-z-antequera</link>
-            <pubDate>Sun, 18 Oct 2026 09:30:00 GMT</pubDate>
-            <description><![CDATA[8. kolejka Primera Federación]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 18 października]]></title>
-            <link>https://www.realmadryt.pl/news/153301-kartka-z-kalendarza-18-pazdziernika</link>
-            <pubDate>Sun, 18 Oct 2026 09:00:00 GMT</pubDate>
-            <description><![CDATA[Mecz z Legią i pierwszy hat-trick legendy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real Madryt – Sevilla: Przewidywane składy]]></title>
-            <link>https://www.realmadryt.pl/news/153297-real-madryt-sevilla-przewidywane-sklady</link>
-            <pubDate>Sun, 18 Oct 2026 08:18:00 GMT</pubDate>
-            <description><![CDATA[Na kogo postawi Mourinho?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[GŁOS KIBICA: W czym tkwi problem?]]></title>
-            <link>https://www.realmadryt.pl/news/153299-glos-kibica-w-czym-tkwi-problem</link>
-            <pubDate>Sun, 18 Oct 2026 07:25:00 GMT</pubDate>
-            <description><![CDATA[Zapraszamy do dzisiejszej ankiety]]></description>
         </item>
         
 </channel>
