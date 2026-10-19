@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 19 Oct 2026 20:42:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 23:56:01 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153366-dzisiejsze-okladki</link>
+            <pubDate>Tue, 20 Oct 2026 00:44:00 GMT</pubDate>
+            <description><![CDATA[„Mourinho stawia na Gülera”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Carvajal zadebiutował w Getafe]]></title>
+            <link>https://www.realmadryt.pl/news/153363-carvajal-zadebiutowal-w-getafe</link>
+            <pubDate>Mon, 19 Oct 2026 23:23:00 GMT</pubDate>
+            <description><![CDATA[Nierówne spotkanie byłego kapitana Realu Madryt]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Kontrowersyjne nagranie z meczu Betisu z Barceloną: „Sprawdź mi rękę, bo o to mnie proszą” [VIDEO]]]></title>
             <link>https://www.realmadryt.pl/news/153361-kontrowersyjne-nagranie-z-meczu-betisu-z-barcelona-sprawdz-mi-reke-bo-o-to-mnie-prosza-video</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153352-tebas-moze-zostac-zdyskwalifikowany-za-porownanie-realu-madryt-do-nazistowskiej-propagandy</link>
             <pubDate>Mon, 19 Oct 2026 16:10:00 GMT</pubDate>
             <description><![CDATA[Prezesowi La Ligi może grozić zakaz pełnienia funkcji w hiszpańskim sporcie]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real Madryt będzie miał tylko dwa dni odpoczynku po meczu w Atenach]]></title>
-            <link>https://www.realmadryt.pl/news/153350-real-madryt-bedzie-mial-tylko-dwa-dni-odpoczynku-po-meczu-w-atenach</link>
-            <pubDate>Mon, 19 Oct 2026 15:38:00 GMT</pubDate>
-            <description><![CDATA[Dziękujemy, La Ligo]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mbappé: Kiedy mówię, że jestem najlepszy, robię to dlatego, że naprawdę tak uważam, ale też dlatego, że mnie to motywuje]]></title>
-            <link>https://www.realmadryt.pl/news/153349-mbappe-kiedy-mowie-ze-jestem-najlepszy-robie-to-dlatego-ze-naprawde-tak-uwazam-ale-tez-dlatego-ze-mnie-to-motywuje</link>
-            <pubDate>Mon, 19 Oct 2026 13:50:00 GMT</pubDate>
-            <description><![CDATA[„Ci, którzy uważają mnie za idealnego, chyba nie mają telewizora”]]></description>
         </item>
         
 </channel>
