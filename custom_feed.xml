@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 20 Oct 2026 13:45:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 18:07:27 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Komitet Arbitrów pominął sytuację z Gülerem, ale potwierdził, że gol dla Betisu powinien zostać anulowany]]></title>
+            <link>https://www.realmadryt.pl/news/153387-komitet-arbitrow-pominal-sytuacje-z-gulerem-ale-potwierdzil-ze-gol-dla-betisu-powinien-zostac-anulowany</link>
+            <pubDate>Tue, 20 Oct 2026 19:50:00 GMT</pubDate>
+            <description><![CDATA[Odpowiedzi otrzymał też prezes Sevilli]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Występy w reprezentacji nie pomogły Camavindze]]></title>
+            <link>https://www.realmadryt.pl/news/153385-wystepy-w-reprezentacji-nie-pomogly-camavindze</link>
+            <pubDate>Tue, 20 Oct 2026 18:13:00 GMT</pubDate>
+            <description><![CDATA[Francuz nadal nie ma zaufania Mourinho]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[TEAMtalk: Coraz trudniejsza sytuacja Trenta przyciąga uwagę angielskich klubów]]></title>
             <link>https://www.realmadryt.pl/news/153384-teamtalk-coraz-trudniejsza-sytuacja-trenta-przyciaga-uwage-angielskich-klubow</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153375-ostatni-trening-przed-lipskiem</link>
             <pubDate>Tue, 20 Oct 2026 12:27:00 GMT</pubDate>
             <description><![CDATA[Królewscy zakończyli przygotowania do meczu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[„Tebasowi należałoby zakazać mikrofonów i mediów społecznościowych”]]></title>
-            <link>https://www.realmadryt.pl/news/153376-tebasowi-nalezaloby-zakazac-mikrofonow-i-mediow-spolecznosciowych</link>
-            <pubDate>Tue, 20 Oct 2026 11:47:00 GMT</pubDate>
-            <description><![CDATA[Opinia Manu Carreño]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[COPE: Prezes Sevilli udał się do Madrytu na spotkanie z Komitetem Technicznym Arbitrów]]></title>
-            <link>https://www.realmadryt.pl/news/153374-cope-prezes-sevilli-udal-sie-do-madrytu-na-spotkanie-z-komitetem-technicznym-arbitrow</link>
-            <pubDate>Tue, 20 Oct 2026 11:30:00 GMT</pubDate>
-            <description><![CDATA[Del Nido chce sam posłuchać rozmów arbitrów]]></description>
         </item>
         
 </channel>
