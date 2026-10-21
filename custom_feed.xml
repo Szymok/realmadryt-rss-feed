@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 20 Oct 2026 21:34:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:07:45 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153397-dzisiejsze-okladki</link>
+            <pubDate>Wed, 21 Oct 2026 00:29:00 GMT</pubDate>
+            <description><![CDATA[„Bernabéu sprawdzi Viníciusa”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[AS: Dani Olmo najprawdopodobniej nie zagra w Klasyku]]></title>
             <link>https://www.realmadryt.pl/news/153394-as-dani-olmo-najprawdopodobniej-nie-zagra-w-klasyku</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/153381-laporta-o-realu-madryt-bedzie-czas-porozmawiac-od-jutra-bo-jest-o-czym-rozmawiac</link>
             <pubDate>Tue, 20 Oct 2026 14:16:00 GMT</pubDate>
             <description><![CDATA[Kolejne przemyślenia Joana]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Cerezo: Wszyscy na wszystko narzekamy, jedni bardziej, inni mniej]]></title>
-            <link>https://www.realmadryt.pl/news/153379-cerezo-wszyscy-na-wszystko-narzekamy-jedni-bardziej-inni-mniej</link>
-            <pubDate>Tue, 20 Oct 2026 14:04:00 GMT</pubDate>
-            <description><![CDATA[„Według mnie należałoby zlikwidować VAR”]]></description>
         </item>
         
 </channel>
