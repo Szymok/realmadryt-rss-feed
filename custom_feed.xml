@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 21 Oct 2026 00:07:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 04:40:49 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[The Athletic: Real Madryt domaga się pieniędzy od sześciu angielskich klubów za Superligę]]></title>
+            <link>https://www.realmadryt.pl/news/153398-the-athletic-real-madryt-domaga-sie-pieniedzy-od-szesciu-angielskich-klubow-za-superlige</link>
+            <pubDate>Wed, 21 Oct 2026 06:30:00 GMT</pubDate>
+            <description><![CDATA[Przed nami kolejny prawny spór]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madrid TV: Jeśli jesteś piłkarzem Barcelony, masz VAR na życzenie [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153395-real-madrid-tv-jesli-jestes-pilkarzem-barcelony-masz-var-na-zyczenie-video</link>
+            <pubDate>Wed, 21 Oct 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Klubow telewizja znowu w natarciu]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/153397-dzisiejsze-okladki</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153380-kadra-na-lipsk</link>
             <pubDate>Tue, 20 Oct 2026 15:03:00 GMT</pubDate>
             <description><![CDATA[Bez trzech graczy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[„Barça vs Real” – nowy program Sport.pl o rywalizacji hiszpańskich gigantów]]></title>
-            <link>https://www.realmadryt.pl/news/153382-barca-vs-real-nowy-program-sport-pl-o-rywalizacji-hiszpanskich-gigantow</link>
-            <pubDate>Tue, 20 Oct 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[Jutro premiera]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Laporta: O Realu Madryt będzie czas porozmawiać od jutra, bo jest o czym rozmawiać]]></title>
-            <link>https://www.realmadryt.pl/news/153381-laporta-o-realu-madryt-bedzie-czas-porozmawiac-od-jutra-bo-jest-o-czym-rozmawiac</link>
-            <pubDate>Tue, 20 Oct 2026 14:16:00 GMT</pubDate>
-            <description><![CDATA[Kolejne przemyślenia Joana]]></description>
         </item>
         
 </channel>
