@@ -4,8 +4,78 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 22 Oct 2026 05:21:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:22:14 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Wyjazd do Belgradu na mecz z Maccabi Tel Awiw]]></title>
+            <link>https://www.realmadryt.pl/news/153420-wyjazd-do-belgradu-na-mecz-z-maccabi-tel-awiw</link>
+            <pubDate>Thu, 22 Oct 2026 12:15:00 GMT</pubDate>
+            <description><![CDATA[7. kolejka Euroligi]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[„Nie jest z nami tak źle!”]]></title>
+            <link>https://www.realmadryt.pl/news/153433-nie-jest-z-nami-tak-zle</link>
+            <pubDate>Thu, 22 Oct 2026 11:20:00 GMT</pubDate>
+            <description><![CDATA[Real Madryt ma tylko jedno zwycięstwo mniej niż Barcelona]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[„Jesteśmy gotowi i zrobimy wszystko, żeby wygrać z Barceloną”]]></title>
+            <link>https://www.realmadryt.pl/news/153436-jestesmy-gotowi-i-zrobimy-wszystko-zeby-wygrac-z-barcelona</link>
+            <pubDate>Thu, 22 Oct 2026 10:59:00 GMT</pubDate>
+            <description><![CDATA[Pomeczowe deklaracje Gülera i Diomandé]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mbappé chciał oddać statuetkę MVP Diomandé [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153432-mbappe-chcial-oddac-statuetke-mvp-diomande-video</link>
+            <pubDate>Thu, 22 Oct 2026 10:51:00 GMT</pubDate>
+            <description><![CDATA[Miły gest Francuza]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Huijsen: Czasami mecz staje się bardziej otwarty i musimy umieć sobie z tym radzić]]></title>
+            <link>https://www.realmadryt.pl/news/153435-huijsen-czasami-mecz-staje-sie-bardziej-otwarty-i-musimy-umiec-sobie-z-tym-radzic</link>
+            <pubDate>Thu, 22 Oct 2026 10:42:00 GMT</pubDate>
+            <description><![CDATA[„W pierwszej połowie byliśmy ospali”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oceny zawodników po meczu z Lipskiem]]></title>
+            <link>https://www.realmadryt.pl/news/153434-oceny-zawodnikow-po-meczu-z-lipskiem</link>
+            <pubDate>Thu, 22 Oct 2026 10:30:00 GMT</pubDate>
+            <description><![CDATA[Jak grali nasi?]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Demichelis: Nie zasłużyliśmy na to, by schodzić na przerwę ze straconym golem]]></title>
+            <link>https://www.realmadryt.pl/news/153429-demichelis-nie-zasluzylismy-na-to-by-schodzic-na-przerwe-ze-straconym-golem</link>
+            <pubDate>Thu, 22 Oct 2026 10:00:00 GMT</pubDate>
+            <description><![CDATA[„Diomandé? Real postawił na zawodnika, który potrafi robić ogromną różnicę”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Kartka z kalendarza: 22 października]]></title>
+            <link>https://www.realmadryt.pl/news/153426-kartka-z-kalendarza-22-pazdziernika</link>
+            <pubDate>Thu, 22 Oct 2026 09:09:00 GMT</pubDate>
+            <description><![CDATA[Urodziny legendy, świetne mecze Cristiano i Viniego oraz ubiegłoroczny mecz z Juventusem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mourinho: Naprawdę potrzebuję jakiegoś urządzenia, które można kupić na Amazonie i które będzie w stanie zmierzyć merytokrację]]></title>
+            <link>https://www.realmadryt.pl/news/153422-mourinho-naprawde-potrzebuje-jakiegos-urzadzenia-ktore-mozna-kupic-na-amazonie-i-ktore-bedzie-w-stanie-zmierzyc-merytokracje</link>
+            <pubDate>Thu, 22 Oct 2026 08:18:00 GMT</pubDate>
+            <description><![CDATA[Zapis pomeczowej konferencji z trenerem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Czy wierzysz w zwycięstwo w Klasyku?]]></title>
+            <link>https://www.realmadryt.pl/news/153430-glos-kibica-czy-wierzysz-w-zwyciestwo-w-klasyku</link>
+            <pubDate>Thu, 22 Oct 2026 07:25:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do dzisiejszej ankiety]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Chiringuito: Martínez Munuera poprowadzi Klasyk]]></title>
             <link>https://www.realmadryt.pl/news/153425-chiringuito-martinez-munuera-poprowadzi-klasyk</link>
@@ -18,76 +88,6 @@
             <link>https://www.realmadryt.pl/news/153431-dzisiejsze-okladki</link>
             <pubDate>Thu, 22 Oct 2026 00:30:00 GMT</pubDate>
             <description><![CDATA[„Diomandé wystrzeliwuje Real w stronę Klasyku”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho: Dla mnie Vinícius rozegrał dobry mecz, jego trener jest zadowolony]]></title>
-            <link>https://www.realmadryt.pl/news/153428-mourinho-dla-mnie-vinicius-rozegral-dobry-mecz-jego-trener-jest-zadowolony</link>
-            <pubDate>Wed, 21 Oct 2026 23:57:00 GMT</pubDate>
-            <description><![CDATA[„Wszyscy mamy o 24 godziny mniej na odpoczynek, ale cóż, tak już jest”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Courtois: W przerwie trener powiedział nam, że trzeba poprawić grę w defensywie]]></title>
-            <link>https://www.realmadryt.pl/news/153427-courtois-w-przerwie-trener-powiedzial-nam-ze-trzeba-poprawic-gre-w-defensywie</link>
-            <pubDate>Wed, 21 Oct 2026 23:54:00 GMT</pubDate>
-            <description><![CDATA[„Jesteśmy w momencie, w którym w końcu możemy liczyć na prawie wszystkich piłkarzy”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bernardo: Będziemy gotowi na Klasyk]]></title>
-            <link>https://www.realmadryt.pl/news/153424-bernardo-bedziemy-gotowi-na-klasyk</link>
-            <pubDate>Wed, 21 Oct 2026 23:32:00 GMT</pubDate>
-            <description><![CDATA[„Jesteśmy na dobrej drodze”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real Madryt 4:1 Lipsk [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/153423-real-madryt-4-1-lipsk-video</link>
-            <pubDate>Wed, 21 Oct 2026 23:30:00 GMT</pubDate>
-            <description><![CDATA[Skrót meczu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[3. kolejka Ligi Mistrzów: Real, PSG i trzy inne drużyny bez potknięcia]]></title>
-            <link>https://www.realmadryt.pl/news/153421-3-kolejka-ligi-mistrzow-real-psg-i-trzy-inne-druzyny-bez-potkniecia</link>
-            <pubDate>Wed, 21 Oct 2026 23:25:00 GMT</pubDate>
-            <description><![CDATA[Jak wygląda tablea?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mbappé MVP meczu z Lipskiem]]></title>
-            <link>https://www.realmadryt.pl/news/153419-mbappe-mvp-meczu-z-lipskiem</link>
-            <pubDate>Wed, 21 Oct 2026 23:17:00 GMT</pubDate>
-            <description><![CDATA[Francuz wybrany najlepszym graczem spotkania]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kibice Realu Madryt wywiesili transparent: „Żadnej bezkarności dla Negreiry”]]></title>
-            <link>https://www.realmadryt.pl/news/153418-kibice-realu-madryt-wywiesili-transparent-zadnej-bezkarnosci-dla-negreiry</link>
-            <pubDate>Wed, 21 Oct 2026 23:16:00 GMT</pubDate>
-            <description><![CDATA[Fani znów przypomnieli o aferze]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mbappé: Jestem w tej grupie piłkarzy, od których zawsze trzeba wymagać więcej]]></title>
-            <link>https://www.realmadryt.pl/news/153416-mbappe-jestem-w-tej-grupie-pilkarzy-od-ktorych-zawsze-trzeba-wymagac-wiecej</link>
-            <pubDate>Wed, 21 Oct 2026 23:14:00 GMT</pubDate>
-            <description><![CDATA[Pierwsze wypowiedzi z murawy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oceń piłkarzy po meczu z Lipskiem]]></title>
-            <link>https://www.realmadryt.pl/news/153415-ocen-pilkarzy-po-meczu-z-lipskiem</link>
-            <pubDate>Wed, 21 Oct 2026 22:55:00 GMT</pubDate>
-            <description><![CDATA[Zapraszamy do wspólnego wystawiania not]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Dobre momenty]]></title>
-            <link>https://www.realmadryt.pl/news/153412-dobre-momenty</link>
-            <pubDate>Wed, 21 Oct 2026 20:50:00 GMT</pubDate>
-            <description><![CDATA[Real wygrał z LIpskiem 4:1]]></description>
         </item>
         
 </channel>
