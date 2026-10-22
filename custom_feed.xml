@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 22 Oct 2026 00:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 05:21:25 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Chiringuito: Martínez Munuera poprowadzi Klasyk]]></title>
+            <link>https://www.realmadryt.pl/news/153425-chiringuito-martinez-munuera-poprowadzi-klasyk</link>
+            <pubDate>Thu, 22 Oct 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Iglesias Villanueva na VAR-ze]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/153431-dzisiejsze-okladki</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/153412-dobre-momenty</link>
             <pubDate>Wed, 21 Oct 2026 20:50:00 GMT</pubDate>
             <description><![CDATA[Real wygrał z LIpskiem 4:1]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho: Nie mogę wystawić dwudziestu zawodników naraz, tylko jedenastu]]></title>
-            <link>https://www.realmadryt.pl/news/153414-mourinho-nie-moge-wystawic-dwudziestu-zawodnikow-naraz-tylko-jedenastu</link>
-            <pubDate>Wed, 21 Oct 2026 20:27:00 GMT</pubDate>
-            <description><![CDATA[Ostatnie komentarze przed meczem]]></description>
         </item>
         
 </channel>
