@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 21 Oct 2026 22:02:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:40:00 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153431-dzisiejsze-okladki</link>
+            <pubDate>Thu, 22 Oct 2026 00:30:00 GMT</pubDate>
+            <description><![CDATA[„Diomandé wystrzeliwuje Real w stronę Klasyku”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Mourinho: Dla mnie Vinícius rozegrał dobry mecz, jego trener jest zadowolony]]></title>
             <link>https://www.realmadryt.pl/news/153428-mourinho-dla-mnie-vinicius-rozegral-dobry-mecz-jego-trener-jest-zadowolony</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/153414-mourinho-nie-moge-wystawic-dwudziestu-zawodnikow-naraz-tylko-jedenastu</link>
             <pubDate>Wed, 21 Oct 2026 20:27:00 GMT</pubDate>
             <description><![CDATA[Ostatnie komentarze przed meczem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Huijsen: Najpierw dzisiejszy mecz, potem pomyślimy o Klasyku]]></title>
-            <link>https://www.realmadryt.pl/news/153413-huijsen-najpierw-dzisiejszy-mecz-potem-pomyslimy-o-klasyku</link>
-            <pubDate>Wed, 21 Oct 2026 20:14:00 GMT</pubDate>
-            <description><![CDATA[Ostatnie słowa stopera przed spotkaniem]]></description>
         </item>
         
 </channel>
