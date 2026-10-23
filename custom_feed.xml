@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 23 Oct 2026 00:56:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 05:40:49 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Kto powinien zagrać na prawym skrzydle w Klasyku?]]></title>
+            <link>https://www.realmadryt.pl/news/153454-glos-kibica-kto-powinien-zagrac-na-prawym-skrzydle-w-klasyku</link>
+            <pubDate>Fri, 23 Oct 2026 07:25:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do dzisiejszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mourinho wyciągnął wnioski z derbów i odmienił Real przed Klasykiem]]></title>
+            <link>https://www.realmadryt.pl/news/153453-mourinho-wyciagnal-wnioski-z-derbow-i-odmienil-real-przed-klasykiem</link>
+            <pubDate>Fri, 23 Oct 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[W Madrycie zapanował optymizm]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/153457-dzisiejsze-okladki</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153443-mijatovic-trzeba-dac-viniemu-troche-czasu-i-nie-wywierac-na-nim-zbyt-duzej-presji</link>
             <pubDate>Thu, 22 Oct 2026 17:36:00 GMT</pubDate>
             <description><![CDATA[„Jestem przekonany, że wróci do optymalnej formy”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Tebas: Nie usłyszeliśmy ani jednego słowa krytyki wobec oskarżeń ze strony Realu Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/153442-tebas-nie-uslyszelismy-ani-jednego-slowa-krytyki-wobec-oskarzen-ze-strony-realu-madryt</link>
-            <pubDate>Thu, 22 Oct 2026 16:32:00 GMT</pubDate>
-            <description><![CDATA[Pan Javier już odpowiedział]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Wszedł z ławki i zapisał się w historii]]></title>
-            <link>https://www.realmadryt.pl/news/153441-wszedl-z-lawki-i-zapisal-sie-w-historii</link>
-            <pubDate>Thu, 22 Oct 2026 16:00:00 GMT</pubDate>
-            <description><![CDATA[Yan Diomandé z kolejnymi osiągnięciami statystycznymi]]></description>
         </item>
         
 </channel>
