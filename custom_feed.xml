@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 23 Oct 2026 19:26:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 22:28:59 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153482-dzisiejsze-okladki</link>
+            <pubDate>Sat, 24 Oct 2026 00:25:00 GMT</pubDate>
+            <description><![CDATA[„Mourinho ciągle myśli nad jedenastką”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Xabi Alonso: Mam trochę takie poczucie, że w Realu skończyło się to nieco za wcześnie]]></title>
+            <link>https://www.realmadryt.pl/news/153481-xabi-alonso-mam-troche-takie-poczucie-ze-w-realu-skonczylo-sie-to-nieco-za-wczesnie</link>
+            <pubDate>Sat, 24 Oct 2026 00:03:00 GMT</pubDate>
+            <description><![CDATA[„Nie patrzę wstecz z gniewem”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Rodri: Real będzie chciał się zrewanżować]]></title>
             <link>https://www.realmadryt.pl/news/153474-rodri-real-bedzie-chcial-sie-zrewanzowac</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153464-pieciu-kontuzjowanych-w-barcelonie-przed-klasykiem</link>
             <pubDate>Fri, 23 Oct 2026 14:58:00 GMT</pubDate>
             <description><![CDATA[Koundé nie wrócił dzisiaj do grupy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Dzisiejszy trening]]></title>
-            <link>https://www.realmadryt.pl/news/153463-dzisiejszy-trening</link>
-            <pubDate>Fri, 23 Oct 2026 12:28:00 GMT</pubDate>
-            <description><![CDATA[Kontynuacja przygotowań do Klasyku]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[„Bardziej boję się piesków Lamine'a niż tego Realu Madryt”]]></title>
-            <link>https://www.realmadryt.pl/news/153462-bardziej-boje-sie-pieskow-lamine-a-niz-tego-realu-madryt</link>
-            <pubDate>Fri, 23 Oct 2026 12:12:00 GMT</pubDate>
-            <description><![CDATA[Głos z samego serca Katalonii]]></description>
         </item>
         
 </channel>
