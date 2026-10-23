@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 23 Oct 2026 10:30:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:27:46 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Moretto: Odejście Endricka zimą nadal jest możliwe]]></title>
+            <link>https://www.realmadryt.pl/news/153470-moretto-odejscie-endricka-zima-nadal-jest-mozliwe</link>
+            <pubDate>Fri, 23 Oct 2026 17:00:00 GMT</pubDate>
+            <description><![CDATA[Chociaż Brazylijczyk gra ostatnio częściej]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mbappé wraca do swojego ogródka]]></title>
+            <link>https://www.realmadryt.pl/news/153466-mbappe-wraca-do-swojego-ogrodka</link>
+            <pubDate>Fri, 23 Oct 2026 16:11:00 GMT</pubDate>
+            <description><![CDATA[Francuz uwielbia strzelać Barcelonie]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madrid TV: Anomalie statystyczne między Realem Madryt a Barceloną [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153465-real-madrid-tv-anomalie-statystyczne-miedzy-realem-madryt-a-barcelona-video</link>
+            <pubDate>Fri, 23 Oct 2026 15:27:00 GMT</pubDate>
+            <description><![CDATA[Klubowa telewizja rozpoczyna Klasyk]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pięciu kontuzjowanych w Barcelonie przed Klasykiem]]></title>
+            <link>https://www.realmadryt.pl/news/153464-pieciu-kontuzjowanych-w-barcelonie-przed-klasykiem</link>
+            <pubDate>Fri, 23 Oct 2026 14:58:00 GMT</pubDate>
+            <description><![CDATA[Koundé nie wrócił dzisiaj do grupy]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejszy trening]]></title>
             <link>https://www.realmadryt.pl/news/153463-dzisiejszy-trening</link>
@@ -14,8 +42,8 @@
         </item>
         
         <item>
-            <title><![CDATA[„Real nie dorasta Barcelonie do pięt, muszą się po nim przejechać”]]></title>
-            <link>https://www.realmadryt.pl/news/153462-real-nie-dorasta-barcelonie-do-piet-musza-sie-po-nim-przejechac</link>
+            <title><![CDATA[„Bardziej boję się piesków Lamine'a niż tego Realu Madryt”]]></title>
+            <link>https://www.realmadryt.pl/news/153462-bardziej-boje-sie-pieskow-lamine-a-niz-tego-realu-madryt</link>
             <pubDate>Fri, 23 Oct 2026 12:12:00 GMT</pubDate>
             <description><![CDATA[Głos z samego serca Katalonii]]></description>
         </item>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/153456-kartka-z-kalendarza-23-pazdziernika</link>
             <pubDate>Fri, 23 Oct 2026 09:09:00 GMT</pubDate>
             <description><![CDATA[Mnóstwo goli CR7, pierwsze trafienie galáctico i debiut Fede]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Trent Alexander-Arnold dopiero trzecim wyborem Mourinho na prawej obronie]]></title>
-            <link>https://www.realmadryt.pl/news/153449-trent-alexander-arnold-dopiero-trzecim-wyborem-mourinho-na-prawej-obronie</link>
-            <pubDate>Fri, 23 Oct 2026 08:18:00 GMT</pubDate>
-            <description><![CDATA[Anglik przegrywa rywalizację już z dwoma piłkarzami]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[GŁOS KIBICA: Kto powinien zagrać na prawym skrzydle w Klasyku?]]></title>
-            <link>https://www.realmadryt.pl/news/153454-glos-kibica-kto-powinien-zagrac-na-prawym-skrzydle-w-klasyku</link>
-            <pubDate>Fri, 23 Oct 2026 07:25:00 GMT</pubDate>
-            <description><![CDATA[Zapraszamy do dzisiejszej ankiety]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho wyciągnął wnioski z derbów i odmienił Real przed Klasykiem]]></title>
-            <link>https://www.realmadryt.pl/news/153453-mourinho-wyciagnal-wnioski-z-derbow-i-odmienil-real-przed-klasykiem</link>
-            <pubDate>Fri, 23 Oct 2026 05:30:00 GMT</pubDate>
-            <description><![CDATA[W Madrycie zapanował optymizm]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Dzisiejsze okładki]]></title>
-            <link>https://www.realmadryt.pl/news/153457-dzisiejsze-okladki</link>
-            <pubDate>Fri, 23 Oct 2026 00:18:00 GMT</pubDate>
-            <description><![CDATA[„Superman Valverde”]]></description>
         </item>
         
 </channel>
