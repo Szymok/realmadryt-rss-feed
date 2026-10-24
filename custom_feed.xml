@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 Oct 2026 21:37:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 23:42:49 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[FC Barcelona – Real Madryt: Przewidywane składy]]></title>
+            <link>https://www.realmadryt.pl/news/153512-fc-barcelona-real-madryt-przewidywane-sklady</link>
+            <pubDate>Sun, 25 Oct 2026 01:19:00 GMT</pubDate>
+            <description><![CDATA[Gdzie Fede Valverde i kto za niego na drugiej pozycji?]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153511-dzisiejsze-okladki</link>
+            <pubDate>Sun, 25 Oct 2026 00:24:00 GMT</pubDate>
+            <description><![CDATA[„Mourinho wraca na Camp Nou gotowy tanio skóry nie sprzedać”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Romano: Latem Barcelona interesowała się Diomandé, a Realowi proponowano Adeyemiego]]></title>
             <link>https://www.realmadryt.pl/news/153506-romano-latem-barcelona-interesowala-sie-diomande-a-realowi-proponowano-adeyemiego</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153496-fede-klasyk-najlepsze-co-mozemy-zrobic-to-skupic-sie-na-sobie</link>
             <pubDate>Sat, 24 Oct 2026 13:05:00 GMT</pubDate>
             <description><![CDATA[„Bycie kapitanem w grupie tak znakomitych piłkarzy to coś, z czego czuję ogromną dumę”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Ostatni trening Realu Madryt przed Klasykiem]]></title>
-            <link>https://www.realmadryt.pl/news/153492-ostatni-trening-realu-madryt-przed-klasykiem</link>
-            <pubDate>Sat, 24 Oct 2026 12:42:00 GMT</pubDate>
-            <description><![CDATA[Dwóch piłkarzy poza grupą]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Juan Martínez Munuera na Klasyk]]></title>
-            <link>https://www.realmadryt.pl/news/153494-oficjalnie-juan-martinez-munuera-na-klasyk</link>
-            <pubDate>Sat, 24 Oct 2026 12:34:00 GMT</pubDate>
-            <description><![CDATA[Sędzią VAR będzie Javier Iglesias Villanueva]]></description>
         </item>
         
 </channel>
