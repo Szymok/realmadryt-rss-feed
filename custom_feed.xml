@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 Oct 2026 19:14:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 21:37:29 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Romano: Latem Barcelona interesowała się Diomandé, a Realowi proponowano Adeyemiego]]></title>
+            <link>https://www.realmadryt.pl/news/153506-romano-latem-barcelona-interesowala-sie-diomande-a-realowi-proponowano-adeyemiego</link>
+            <pubDate>Sat, 24 Oct 2026 21:15:00 GMT</pubDate>
+            <description><![CDATA[Włoch podgrzewa Klasyk]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Adebayor: Złotą Piłkę wręczyłbym Mbappé]]></title>
             <link>https://www.realmadryt.pl/news/153503-adebayor-zlota-pilke-wreczylbym-mbappe</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/153494-oficjalnie-juan-martinez-munuera-na-klasyk</link>
             <pubDate>Sat, 24 Oct 2026 12:34:00 GMT</pubDate>
             <description><![CDATA[Sędzią VAR będzie Javier Iglesias Villanueva]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Z zatankowanym bakiem po zwycięstwo w El Clásico! Odbierz rabat od AVIA na paliwo ze dedykowanym kodem dla kibiców Królewskich]]></title>
-            <link>https://www.realmadryt.pl/news/153491-z-zatankowanym-bakiem-po-zwyciestwo-w-el-clasico-odbierz-rabat-od-avia-na-paliwo-ze-dedykowanym-kodem-dla-kibicow-krolewskich</link>
-            <pubDate>Sat, 24 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Artykuł sponsorowany]]></description>
         </item>
         
 </channel>
