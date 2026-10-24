@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 Oct 2026 16:57:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 19:14:09 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Adebayor: Złotą Piłkę wręczyłbym Mbappé]]></title>
+            <link>https://www.realmadryt.pl/news/153503-adebayor-zlota-pilke-wreczylbym-mbappe</link>
+            <pubDate>Sat, 24 Oct 2026 19:52:00 GMT</pubDate>
+            <description><![CDATA[„To przede wszystkim nagroda indywidualna”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Kulisy ostatniego treningu Realu Madryt przed Klasykiem [VIDEO]]]></title>
             <link>https://www.realmadryt.pl/news/153501-kulisy-ostatniego-treningu-realu-madryt-przed-klasykiem-video</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/153491-z-zatankowanym-bakiem-po-zwyciestwo-w-el-clasico-odbierz-rabat-od-avia-na-paliwo-ze-dedykowanym-kodem-dla-kibicow-krolewskich</link>
             <pubDate>Sat, 24 Oct 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Artykuł sponsorowany]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho: Patrzy się na nas jak na gotowy produkt, a daleko nam do tego]]></title>
-            <link>https://www.realmadryt.pl/news/153490-mourinho-patrzy-sie-na-nas-jak-na-gotowy-produkt-a-daleko-nam-do-tego</link>
-            <pubDate>Sat, 24 Oct 2026 10:50:00 GMT</pubDate>
-            <description><![CDATA[Zapis przedmeczowej konferencji prasowej]]></description>
         </item>
         
 </channel>
