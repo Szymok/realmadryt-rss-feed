@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 Oct 2026 00:57:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 05:23:08 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Fermín: U nas nikt w drużynie ani w klubie nie lubi wchodzić w kontrowersje sędziowskie]]></title>
+            <link>https://www.realmadryt.pl/news/153478-fermin-u-nas-nikt-w-druzynie-ani-w-klubie-nie-lubi-wchodzic-w-kontrowersje-sedziowskie</link>
+            <pubDate>Sat, 24 Oct 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[„Nie jest sprawiedliwe zajmowanie się tym, gdy idzie nam dobrze”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[MARCA: Wszyscy ważni zawodnicy Realu Madryt są zadowoleni z Mourinho]]></title>
+            <link>https://www.realmadryt.pl/news/153476-marca-wszyscy-wazni-zawodnicy-realu-madryt-sa-zadowoleni-z-mourinho</link>
+            <pubDate>Sat, 24 Oct 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Portugalczyk miał uzyskać zaufanie liderów szatni]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/153482-dzisiejsze-okladki</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153466-mbappe-wraca-do-swojego-ogrodka</link>
             <pubDate>Fri, 23 Oct 2026 16:11:00 GMT</pubDate>
             <description><![CDATA[Francuz uwielbia strzelać Barcelonie]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real Madrid TV: Anomalie statystyczne między Realem Madryt a Barceloną [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/153465-real-madrid-tv-anomalie-statystyczne-miedzy-realem-madryt-a-barcelona-video</link>
-            <pubDate>Fri, 23 Oct 2026 15:27:00 GMT</pubDate>
-            <description><![CDATA[Klubowa telewizja rozpoczyna Klasyk]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Pięciu kontuzjowanych w Barcelonie przed Klasykiem]]></title>
-            <link>https://www.realmadryt.pl/news/153464-pieciu-kontuzjowanych-w-barcelonie-przed-klasykiem</link>
-            <pubDate>Fri, 23 Oct 2026 14:58:00 GMT</pubDate>
-            <description><![CDATA[Koundé nie wrócił dzisiaj do grupy]]></description>
         </item>
         
 </channel>
