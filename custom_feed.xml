@@ -4,13 +4,48 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 Oct 2026 13:35:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 16:57:08 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Kulisy ostatniego treningu Realu Madryt przed Klasykiem [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153501-kulisy-ostatniego-treningu-realu-madryt-przed-klasykiem-video</link>
+            <pubDate>Sat, 24 Oct 2026 18:53:00 GMT</pubDate>
+            <description><![CDATA[Materiał wideo z Valdebebas]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Zwycięstwo piłkarek po remontadzie na Di Stéfano]]></title>
+            <link>https://www.realmadryt.pl/news/153499-zwyciestwo-pilkarek-po-remontadzie-na-di-stefano</link>
+            <pubDate>Sat, 24 Oct 2026 18:51:00 GMT</pubDate>
+            <description><![CDATA[Królewskie pokonały Tenerife]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Flick: Real Madryt to wielki klub, mam do Mourinho najwyższy szacunek]]></title>
+            <link>https://www.realmadryt.pl/news/153500-flick-real-madryt-to-wielki-klub-mam-do-mourinho-najwyzszy-szacunek</link>
+            <pubDate>Sat, 24 Oct 2026 18:48:00 GMT</pubDate>
+            <description><![CDATA[Zapis przedmeczowej konferencji z Niemcem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Racing wygrywa przed meczem z Realem [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153498-racing-wygrywa-przed-meczem-z-realem-video</link>
+            <pubDate>Sat, 24 Oct 2026 18:44:00 GMT</pubDate>
+            <description><![CDATA[Verdiblancos przerwali złą serię]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Valdano: Normalność z naciskaniem na postać sędziego to aberracja, wstyd i głupota]]></title>
+            <link>https://www.realmadryt.pl/news/153497-valdano-normalnosc-z-naciskaniem-na-postac-sedziego-to-aberracja-wstyd-i-glupota</link>
+            <pubDate>Sat, 24 Oct 2026 15:59:00 GMT</pubDate>
+            <description><![CDATA[Przemyślenia legendy Królewskich]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Kadra Realu Madryt na Klasyk z Barceloną]]></title>
             <link>https://www.realmadryt.pl/news/153495-kadra-realu-madryt-na-klasyk-z-barcelona</link>
             <pubDate>Sat, 24 Oct 2026 15:22:00 GMT</pubDate>
-            <description><![CDATA[Bez x piłkarzy]]></description>
+            <description><![CDATA[Bez 4 piłkarzy]]></description>
         </item>
         
         <item>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/153490-mourinho-patrzy-sie-na-nas-jak-na-gotowy-produkt-a-daleko-nam-do-tego</link>
             <pubDate>Sat, 24 Oct 2026 10:50:00 GMT</pubDate>
             <description><![CDATA[Zapis przedmeczowej konferencji prasowej]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Jaki jest bilans Mourinho w Klasykach?]]></title>
-            <link>https://www.realmadryt.pl/news/153489-jaki-jest-bilans-mourinho-w-klasykach</link>
-            <pubDate>Sat, 24 Oct 2026 10:41:00 GMT</pubDate>
-            <description><![CDATA[Niestety, ale negatywny]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 24 października]]></title>
-            <link>https://www.realmadryt.pl/news/153488-kartka-z-kalendarza-24-pazdziernika</link>
-            <pubDate>Sat, 24 Oct 2026 10:30:00 GMT</pubDate>
-            <description><![CDATA[Wygrane Klasyki i porażka z Polakami]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Ilu piłkarzy nie pracuje z grupą przed Klasykiem? [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/153485-ilu-pilkarzy-nie-pracuje-z-grupa-przed-klasykiem-na-zywo</link>
-            <pubDate>Sat, 24 Oct 2026 10:25:00 GMT</pubDate>
-            <description><![CDATA[Kwadrans ostatnich zajęć]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho: Fermína męczy nasza narracja, a nas męczą inne rzeczy, które ciągle się dzieją]]></title>
-            <link>https://www.realmadryt.pl/news/153484-mourinho-fermina-meczy-nasza-narracja-a-nas-mecza-inne-rzeczy-ktore-ciagle-sie-dzieja</link>
-            <pubDate>Sat, 24 Oct 2026 09:50:00 GMT</pubDate>
-            <description><![CDATA[Pierwsze wypowiedzi trenera przed Klasykiem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Plan Mourinho i Diomandé przynosi efekty]]></title>
-            <link>https://www.realmadryt.pl/news/153487-plan-mourinho-i-diomande-przynosi-efekty</link>
-            <pubDate>Sat, 24 Oct 2026 09:46:00 GMT</pubDate>
-            <description><![CDATA[Portugalczyk stosował wobec gracza indywidualne podejście]]></description>
         </item>
         
 </channel>
