@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Oct 2026 16:25:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 19:09:30 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Castilla przegrała z Algeciras [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153528-castilla-przegrala-z-algeciras-video</link>
+            <pubDate>Sun, 25 Oct 2026 20:04:00 GMT</pubDate>
+            <description><![CDATA[Trwa wyjazdowa niemoc drużyny rezerw]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Rozgrzewka przed Barceloną [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/153529-rozgrzewka-przed-barcelona-na-zywo</link>
+            <pubDate>Sun, 25 Oct 2026 19:45:00 GMT</pubDate>
+            <description><![CDATA[Obraz ze stadionu]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[FC Barcelona – Real Madryt: Znamy składy!]]></title>
+            <link>https://www.realmadryt.pl/news/153527-fc-barcelona-real-madryt-znamy-sklady</link>
+            <pubDate>Sun, 25 Oct 2026 19:40:00 GMT</pubDate>
+            <description><![CDATA[Wiemy, kto powalczy w Klasyku]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Statystyki nie kłamią: zamiana Courtois na Łunina to ogromne obniżenie jakości]]></title>
             <link>https://www.realmadryt.pl/news/153525-statystyki-nie-klamia-zamiana-courtois-na-lunina-to-ogromne-obnizenie-jakosci</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/153519-oficjalnie-courtois-nie-zagra-z-barcelona-aktualizacja-2</link>
             <pubDate>Sun, 25 Oct 2026 10:57:00 GMT</pubDate>
             <description><![CDATA[Belg definitywnie wypadł z kadry meczowej]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Riquelme pojawi się na Camp Nou, a wczoraj spotkał się z Laportą]]></title>
-            <link>https://www.realmadryt.pl/news/153518-riquelme-pojawi-sie-na-camp-nou-a-wczoraj-spotkal-sie-z-laporta</link>
-            <pubDate>Sun, 25 Oct 2026 10:41:00 GMT</pubDate>
-            <description><![CDATA[Na stadionie zabraknie za to Florentino]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[JEDEN gol w El Clásico i nawet 700 PLN! Po 5:2 Barçy i 4:1 Realu poprzeczka jest wyjątkowo nisko]]></title>
-            <link>https://www.realmadryt.pl/news/153517-jeden-gol-w-el-clasico-i-nawet-700-pln-po-5-2-barcy-i-4-1-realu-poprzeczka-jest-wyjatkowo-nisko</link>
-            <pubDate>Sun, 25 Oct 2026 10:35:00 GMT</pubDate>
-            <description><![CDATA[Artykuł sponsorowany]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Przystawka przed Klasykiem]]></title>
-            <link>https://www.realmadryt.pl/news/153480-przystawka-przed-klasykiem</link>
-            <pubDate>Sun, 25 Oct 2026 10:20:00 GMT</pubDate>
-            <description><![CDATA[Koszykarze zmierzą się z Lleidą]]></description>
         </item>
         
 </channel>
