@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Oct 2026 01:40:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 06:51:17 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Wyjazd do Andaluzji]]></title>
+            <link>https://www.realmadryt.pl/news/153479-wyjazd-do-andaluzji</link>
+            <pubDate>Sun, 25 Oct 2026 07:45:00 GMT</pubDate>
+            <description><![CDATA[Castilla zmierzy się z Algeciras]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[106:106 w historii Klasyków]]></title>
+            <link>https://www.realmadryt.pl/news/153504-106-106-w-historii-klasykow</link>
+            <pubDate>Sun, 25 Oct 2026 07:25:00 GMT</pubDate>
+            <description><![CDATA[Bilans starć z Barceloną]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Remis w ciemno?]]></title>
+            <link>https://www.realmadryt.pl/news/153510-glos-kibica-remis-w-ciemno</link>
+            <pubDate>Sun, 25 Oct 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Czas na Klasyk! Użyj kodu RMPL, bo w Betclic kurs na wygraną Realu i gola Mbappé to 4,90!]]></title>
+            <link>https://www.realmadryt.pl/news/153509-czas-na-klasyk-uzyj-kodu-rmpl-bo-w-betclic-kurs-na-wygrana-realu-i-gola-mbappe-to-4-90</link>
+            <pubDate>Sun, 25 Oct 2026 06:30:00 GMT</pubDate>
+            <description><![CDATA[Artykuł sponsorowany]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[The Athletic: Otwartość Mourinho kontrastuje z atmosferą między drużyną a sztabem Xabiego Alonso]]></title>
+            <link>https://www.realmadryt.pl/news/153508-the-athletic-otwartosc-mourinho-kontrastuje-z-atmosfera-miedzy-druzyna-a-sztabem-xabiego-alonso</link>
+            <pubDate>Sun, 25 Oct 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[„Główna różnica polega na tym, że Mourinho ma autorytet, ponieważ to Mourinho”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[FC Barcelona – Real Madryt: Przewidywane składy]]></title>
             <link>https://www.realmadryt.pl/news/153512-fc-barcelona-real-madryt-przewidywane-sklady</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/153500-flick-real-madryt-to-wielki-klub-mam-do-mourinho-najwyzszy-szacunek</link>
             <pubDate>Sat, 24 Oct 2026 18:48:00 GMT</pubDate>
             <description><![CDATA[Zapis przedmeczowej konferencji z Niemcem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Racing wygrywa przed meczem z Realem [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/153498-racing-wygrywa-przed-meczem-z-realem-video</link>
-            <pubDate>Sat, 24 Oct 2026 18:44:00 GMT</pubDate>
-            <description><![CDATA[Verdiblancos przerwali złą serię]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Valdano: Normalność z naciskaniem na postać sędziego to aberracja, wstyd i głupota]]></title>
-            <link>https://www.realmadryt.pl/news/153497-valdano-normalnosc-z-naciskaniem-na-postac-sedziego-to-aberracja-wstyd-i-glupota</link>
-            <pubDate>Sat, 24 Oct 2026 15:59:00 GMT</pubDate>
-            <description><![CDATA[Przemyślenia legendy Królewskich]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kadra Realu Madryt na Klasyk z Barceloną]]></title>
-            <link>https://www.realmadryt.pl/news/153495-kadra-realu-madryt-na-klasyk-z-barcelona</link>
-            <pubDate>Sat, 24 Oct 2026 15:22:00 GMT</pubDate>
-            <description><![CDATA[Bez 4 piłkarzy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kurs 15.0 na wygraną Realu w BETFAN! Sprawdź ofertę na El Clasico]]></title>
-            <link>https://www.realmadryt.pl/news/153493-kurs-15-0-na-wygrana-realu-w-betfan-sprawdz-oferte-na-el-clasico</link>
-            <pubDate>Sat, 24 Oct 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[Artykuł sponsorowany]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Fede: Klasyk? Najlepsze, co możemy zrobić, to skupić się na sobie]]></title>
-            <link>https://www.realmadryt.pl/news/153496-fede-klasyk-najlepsze-co-mozemy-zrobic-to-skupic-sie-na-sobie</link>
-            <pubDate>Sat, 24 Oct 2026 13:05:00 GMT</pubDate>
-            <description><![CDATA[„Bycie kapitanem w grupie tak znakomitych piłkarzy to coś, z czego czuję ogromną dumę”]]></description>
         </item>
         
 </channel>
