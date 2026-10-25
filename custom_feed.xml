@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Oct 2026 12:14:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 16:25:18 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Statystyki nie kłamią: zamiana Courtois na Łunina to ogromne obniżenie jakości]]></title>
+            <link>https://www.realmadryt.pl/news/153525-statystyki-nie-klamia-zamiana-courtois-na-lunina-to-ogromne-obnizenie-jakosci</link>
+            <pubDate>Sun, 25 Oct 2026 14:37:00 GMT</pubDate>
+            <description><![CDATA[Garść liczb i danych]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Militão i Diomandé spotkali się z kibicami]]></title>
+            <link>https://www.realmadryt.pl/news/153526-militao-i-diomande-spotkali-sie-z-kibicami</link>
+            <pubDate>Sun, 25 Oct 2026 14:37:00 GMT</pubDate>
+            <description><![CDATA[Wydarzenie w hotelu Intercontinental Barcelona]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Kadra Barcelony na Klasyk z Realem Madryt]]></title>
+            <link>https://www.realmadryt.pl/news/153524-kadra-barcelony-na-klasyk-z-realem-madryt</link>
+            <pubDate>Sun, 25 Oct 2026 13:45:00 GMT</pubDate>
+            <description><![CDATA[Bez sześciu zawodników]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Jak Łunin do tej pory radził sobie w Klasykach?]]></title>
+            <link>https://www.realmadryt.pl/news/153523-jak-lunin-do-tej-pory-radzil-sobie-w-klasykach</link>
+            <pubDate>Sun, 25 Oct 2026 13:23:00 GMT</pubDate>
+            <description><![CDATA[Ukrainiec prawdopodobnie znów musi zastąpić Courtois z Barceloną]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Angielski pojedynek w Klasyku]]></title>
             <link>https://www.realmadryt.pl/news/153522-angielski-pojedynek-w-klasyku</link>
@@ -35,10 +63,10 @@
         </item>
         
         <item>
-            <title><![CDATA[Oficjalnie: Courtois nie zagra z Barceloną]]></title>
-            <link>https://www.realmadryt.pl/news/153519-oficjalnie-courtois-nie-zagra-z-barcelona</link>
+            <title><![CDATA[Oficjalnie: Courtois nie zagra z Barceloną [AKTUALIZACJA #2]]]></title>
+            <link>https://www.realmadryt.pl/news/153519-oficjalnie-courtois-nie-zagra-z-barcelona-aktualizacja-2</link>
             <pubDate>Sun, 25 Oct 2026 10:57:00 GMT</pubDate>
-            <description><![CDATA[Belg wypadł z kadry meczowej]]></description>
+            <description><![CDATA[Belg definitywnie wypadł z kadry meczowej]]></description>
         </item>
         
         <item>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/153480-przystawka-przed-klasykiem</link>
             <pubDate>Sun, 25 Oct 2026 10:20:00 GMT</pubDate>
             <description><![CDATA[Koszykarze zmierzą się z Lleidą]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Wbrew wszystkiemu]]></title>
-            <link>https://www.realmadryt.pl/news/153507-wbrew-wszystkiemu</link>
-            <pubDate>Sun, 25 Oct 2026 10:00:00 GMT</pubDate>
-            <description><![CDATA[Zapowiedź Klasyku]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 25 października]]></title>
-            <link>https://www.realmadryt.pl/news/153515-kartka-z-kalendarza-25-pazdziernika</link>
-            <pubDate>Sun, 25 Oct 2026 09:50:00 GMT</pubDate>
-            <description><![CDATA[Wygrana zespołu Carletto w Klasyku]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Iñaki Peña: Byłoby dobrze, gdyby Klasyk prowadzili zagraniczni sędziowie]]></title>
-            <link>https://www.realmadryt.pl/news/153514-inaki-pena-byloby-dobrze-gdyby-klasyk-prowadzili-zagraniczni-sedziowie</link>
-            <pubDate>Sun, 25 Oct 2026 09:05:00 GMT</pubDate>
-            <description><![CDATA[Przemyślenia byłego bramkarza Barcelony]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Jak wygląda wyścig Real Madryt z Barceloną na trofea?]]></title>
-            <link>https://www.realmadryt.pl/news/153502-jak-wyglada-wyscig-real-madryt-z-barcelona-na-trofea</link>
-            <pubDate>Sun, 25 Oct 2026 08:20:00 GMT</pubDate>
-            <description><![CDATA[Królewscy pozostają bez pucharu od 2 lat]]></description>
         </item>
         
 </channel>
