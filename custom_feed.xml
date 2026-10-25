@@ -4,8 +4,57 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Oct 2026 21:44:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 23:34:53 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153541-dzisiejsze-okladki</link>
+            <pubDate>Mon, 26 Oct 2026 00:31:00 GMT</pubDate>
+            <description><![CDATA[„Mou i Mbappé zjedli Barçę”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mbappé: To było zwycięstwo drużyny]]></title>
+            <link>https://www.realmadryt.pl/news/153538-mbappe-to-bylo-zwyciestwo-druzyny</link>
+            <pubDate>Mon, 26 Oct 2026 00:10:00 GMT</pubDate>
+            <description><![CDATA[„Grając jako zespół możemy osiągnąć to, co chcemy”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mourinho: Połączenie różnych talentów w środku pola daje nam więcej niż wystawienie dwóch podobnych graczy]]></title>
+            <link>https://www.realmadryt.pl/news/153535-mourinho-polaczenie-roznych-talentow-w-srodku-pola-daje-nam-wiecej-niz-wystawienie-dwoch-podobnych-graczy</link>
+            <pubDate>Sun, 25 Oct 2026 23:59:00 GMT</pubDate>
+            <description><![CDATA[Zapis pomeczowej konferencji prasowej]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[FC Barcelona 1:2 Real Madryt [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153536-fc-barcelona-1-2-real-madryt-video</link>
+            <pubDate>Sun, 25 Oct 2026 23:24:00 GMT</pubDate>
+            <description><![CDATA[Skrót meczu]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pedri: To tylko trzy punkty, ligi nie wygrywa się tutaj]]></title>
+            <link>https://www.realmadryt.pl/news/153534-pedri-to-tylko-trzy-punkty-ligi-nie-wygrywa-sie-tutaj</link>
+            <pubDate>Sun, 25 Oct 2026 23:13:00 GMT</pubDate>
+            <description><![CDATA[Pierwsze komentarze z murawy]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mbappé MVP Klasyku]]></title>
+            <link>https://www.realmadryt.pl/news/153533-mbappe-mvp-klasyku</link>
+            <pubDate>Sun, 25 Oct 2026 23:04:00 GMT</pubDate>
+            <description><![CDATA[Wyróżnienie dla Franczua]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oceń piłkarzy po meczu z Barceloną]]></title>
+            <link>https://www.realmadryt.pl/news/153530-ocen-pilkarzy-po-meczu-z-barcelona</link>
+            <pubDate>Sun, 25 Oct 2026 22:57:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do wspólnego wystawiania not]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Koszykarze rozbili Lleidę]]></title>
             <link>https://www.realmadryt.pl/news/153532-koszykarze-rozbili-lleide</link>
@@ -14,10 +63,10 @@
         </item>
         
         <item>
-            <title><![CDATA[FC Barcelona – Real Madryt [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/153531-fc-barcelona-real-madryt-na-zywo</link>
+            <title><![CDATA[Klasyk dla Realu!]]></title>
+            <link>https://www.realmadryt.pl/news/153531-klasyk-dla-realu</link>
             <pubDate>Sun, 25 Oct 2026 20:50:00 GMT</pubDate>
-            <description><![CDATA[Trwa Klasyk na Spotify Camp Nou]]></description>
+            <description><![CDATA[Królewscy odrabiają straty]]></description>
         </item>
         
         <item>
@@ -39,55 +88,6 @@
             <link>https://www.realmadryt.pl/news/153527-fc-barcelona-real-madryt-znamy-sklady</link>
             <pubDate>Sun, 25 Oct 2026 19:40:00 GMT</pubDate>
             <description><![CDATA[Wiemy, kto powalczy w Klasyku]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Statystyki nie kłamią: zamiana Courtois na Łunina to ogromne obniżenie jakości]]></title>
-            <link>https://www.realmadryt.pl/news/153525-statystyki-nie-klamia-zamiana-courtois-na-lunina-to-ogromne-obnizenie-jakosci</link>
-            <pubDate>Sun, 25 Oct 2026 14:37:00 GMT</pubDate>
-            <description><![CDATA[Garść liczb i danych]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Militão i Diomandé spotkali się z kibicami]]></title>
-            <link>https://www.realmadryt.pl/news/153526-militao-i-diomande-spotkali-sie-z-kibicami</link>
-            <pubDate>Sun, 25 Oct 2026 14:37:00 GMT</pubDate>
-            <description><![CDATA[Wydarzenie w hotelu Intercontinental Barcelona]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kadra Barcelony na Klasyk z Realem Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/153524-kadra-barcelony-na-klasyk-z-realem-madryt</link>
-            <pubDate>Sun, 25 Oct 2026 13:45:00 GMT</pubDate>
-            <description><![CDATA[Bez sześciu zawodników]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Jak Łunin do tej pory radził sobie w Klasykach?]]></title>
-            <link>https://www.realmadryt.pl/news/153523-jak-lunin-do-tej-pory-radzil-sobie-w-klasykach</link>
-            <pubDate>Sun, 25 Oct 2026 13:23:00 GMT</pubDate>
-            <description><![CDATA[Ukrainiec prawdopodobnie znów musi zastąpić Courtois z Barceloną]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Angielski pojedynek w Klasyku]]></title>
-            <link>https://www.realmadryt.pl/news/153522-angielski-pojedynek-w-klasyku</link>
-            <pubDate>Sun, 25 Oct 2026 13:11:00 GMT</pubDate>
-            <description><![CDATA[Bellingham pierwszy raz zmierzy się z Gordonem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Cucurella wraca na Camp Nou i musi liczyć się z wrogim przyjęciem]]></title>
-            <link>https://www.realmadryt.pl/news/153521-cucurella-wraca-na-camp-nou-i-musi-liczyc-sie-z-wrogim-przyjeciem</link>
-            <pubDate>Sun, 25 Oct 2026 12:51:00 GMT</pubDate>
-            <description><![CDATA[Katalończycy o powrocie wychowanka Barcelony]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Królewscy dotarli do Barcelony]]></title>
-            <link>https://www.realmadryt.pl/news/153520-krolewscy-dotarli-do-barcelony</link>
-            <pubDate>Sun, 25 Oct 2026 12:22:00 GMT</pubDate>
-            <description><![CDATA[W oczekiwaniu na mecz]]></description>
         </item>
         
 </channel>
