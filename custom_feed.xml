@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 Oct 2026 19:54:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 23:29:40 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Harry Kane zdobywcą Złotej Piłki 2026!]]></title>
+            <link>https://www.realmadryt.pl/news/153559-harry-kane-zdobywca-zlotej-pilki-2026</link>
+            <pubDate>Mon, 26 Oct 2026 23:57:00 GMT</pubDate>
+            <description><![CDATA[Gratulujemy]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Mou do Łunina: Jeśli nie byłbyś wśród najlepszych, to nie byłoby cię tutaj]]></title>
             <link>https://www.realmadryt.pl/news/153558-mou-do-lunina-jesli-nie-bylbys-wsrod-najlepszych-to-nie-byloby-cie-tutaj</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/153548-zlota-pilka-2026-wedlug-spolecznosci-realmadryt-pl-wyniki</link>
             <pubDate>Mon, 26 Oct 2026 10:47:00 GMT</pubDate>
             <description><![CDATA[Przystawka przed wieczorem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oceny zawodników po meczu z Barceloną]]></title>
-            <link>https://www.realmadryt.pl/news/153547-oceny-zawodnikow-po-meczu-z-barcelona</link>
-            <pubDate>Mon, 26 Oct 2026 10:13:00 GMT</pubDate>
-            <description><![CDATA[Jak wspólnie oceniliśmy wczorajsze występy?]]></description>
         </item>
         
 </channel>
