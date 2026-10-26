@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 Oct 2026 01:42:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:59:27 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[3 z 4 ekspertów Chiringuito: Atak Cancelo na Diomandé nie był czerwoną kartką [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153545-3-z-4-ekspertow-chiringuito-atak-cancelo-na-diomande-nie-byl-czerwona-kartka-video</link>
+            <pubDate>Mon, 26 Oct 2026 07:50:00 GMT</pubDate>
+            <description><![CDATA[Real Madryt oczywiście jest oburzony]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Projekt Realu Madryt]]></title>
+            <link>https://www.realmadryt.pl/news/153544-glos-kibica-projekt-realu-madryt</link>
+            <pubDate>Mon, 26 Oct 2026 07:25:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Fede: Kluczowe było stworzenie prawdziwej drużyny]]></title>
+            <link>https://www.realmadryt.pl/news/153542-fede-kluczowe-bylo-stworzenie-prawdziwej-druzyny</link>
+            <pubDate>Mon, 26 Oct 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[„Kiedy byłem poza grą, miałem ciarki, patrząc, jak wszyscy biegają“]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Łunin: Dyscyplina i nastawienie były kluczowe]]></title>
+            <link>https://www.realmadryt.pl/news/153540-lunin-dyscyplina-i-nastawienie-byly-kluczowe</link>
+            <pubDate>Mon, 26 Oct 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[„Z takimi rywalami musisz wiedzieć, jak zarządzać grą”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/153541-dzisiejsze-okladki</link>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/153532-koszykarze-rozbili-lleide</link>
             <pubDate>Sun, 25 Oct 2026 20:54:00 GMT</pubDate>
             <description><![CDATA[Kolejne zwycięstwo i znów znacznie ponad 100 punktów]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Klasyk dla Realu!]]></title>
-            <link>https://www.realmadryt.pl/news/153531-klasyk-dla-realu</link>
-            <pubDate>Sun, 25 Oct 2026 20:50:00 GMT</pubDate>
-            <description><![CDATA[Królewscy odrabiają straty]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Castilla przegrała z Algeciras [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/153528-castilla-przegrala-z-algeciras-video</link>
-            <pubDate>Sun, 25 Oct 2026 20:04:00 GMT</pubDate>
-            <description><![CDATA[Trwa wyjazdowa niemoc drużyny rezerw]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Rozgrzewka przed Barceloną [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/153529-rozgrzewka-przed-barcelona-na-zywo</link>
-            <pubDate>Sun, 25 Oct 2026 19:45:00 GMT</pubDate>
-            <description><![CDATA[Obraz ze stadionu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[FC Barcelona – Real Madryt: Znamy składy!]]></title>
-            <link>https://www.realmadryt.pl/news/153527-fc-barcelona-real-madryt-znamy-sklady</link>
-            <pubDate>Sun, 25 Oct 2026 19:40:00 GMT</pubDate>
-            <description><![CDATA[Wiemy, kto powalczy w Klasyku]]></description>
         </item>
         
 </channel>
