@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 Oct 2026 23:29:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 02:20:35 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153564-dzisiejsze-okladki</link>
+            <pubDate>Tue, 27 Oct 2026 01:09:00 GMT</pubDate>
+            <description><![CDATA[„Mbappé koszmarem culés”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Harry Kane zdobywcą Złotej Piłki 2026!]]></title>
             <link>https://www.realmadryt.pl/news/153559-harry-kane-zdobywca-zlotej-pilki-2026</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/153549-flick-przez-podroze-nie-mielismy-swiezosci-ale-to-nie-jest-wymowka</link>
             <pubDate>Mon, 26 Oct 2026 10:59:00 GMT</pubDate>
             <description><![CDATA[Pomeczowe przemyślenia trenera Barcelony]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Złota Piłka 2026 według społeczności RealMadryt.pl [WYNIKI]]]></title>
-            <link>https://www.realmadryt.pl/news/153548-zlota-pilka-2026-wedlug-spolecznosci-realmadryt-pl-wyniki</link>
-            <pubDate>Mon, 26 Oct 2026 10:47:00 GMT</pubDate>
-            <description><![CDATA[Przystawka przed wieczorem]]></description>
         </item>
         
 </channel>
