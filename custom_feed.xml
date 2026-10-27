@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 27 Oct 2026 19:31:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:10:34 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153596-dzisiejsze-okladki</link>
+            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[„Zmiana Mou”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pedro Martínez: Nie możemy zakładać, że wygramy wszystkie mecze, bo teraz mamy serię zwycięstw]]></title>
+            <link>https://www.realmadryt.pl/news/153597-pedro-martinez-nie-mozemy-zakladac-ze-wygramy-wszystkie-mecze-bo-teraz-mamy-serie-zwyciestw</link>
+            <pubDate>Tue, 27 Oct 2026 23:57:00 GMT</pubDate>
+            <description><![CDATA[Wypowiedzi po wygranej z Baskonią]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Dziewiąte zwycięstwo z rzędu koszykarzy]]></title>
+            <link>https://www.realmadryt.pl/news/153595-dziewiate-zwyciestwo-z-rzedu-koszykarzy</link>
+            <pubDate>Tue, 27 Oct 2026 23:23:00 GMT</pubDate>
+            <description><![CDATA[Baskonia pokonana na własnym parkiecie]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Nowi pomogli w Klasyku]]></title>
             <link>https://www.realmadryt.pl/news/153590-nowi-pomogli-w-klasyku</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/153581-encestando-real-madryt-chce-wypozyczyc-maksyma-szulge</link>
             <pubDate>Tue, 27 Oct 2026 16:34:00 GMT</pubDate>
             <description><![CDATA[Ukrainiec nie spełnia oczekiwań]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Wieczór, w którym Cucurella schował Lamine'a Yamala do kieszeni [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/153583-wieczor-w-ktorym-cucurella-schowal-lamine-a-yamala-do-kieszeni-video</link>
-            <pubDate>Tue, 27 Oct 2026 14:45:00 GMT</pubDate>
-            <description><![CDATA[Kulisy pojedynku w Klasyku]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[The Athletic: Wstępne badania Valverde nie wykazały poważnego urazu]]></title>
-            <link>https://www.realmadryt.pl/news/153582-the-athletic-wstepne-badania-valverde-nie-wykazaly-powaznego-urazu</link>
-            <pubDate>Tue, 27 Oct 2026 13:56:00 GMT</pubDate>
-            <description><![CDATA[Dobre wieści w sprawie Urugwajczyka]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Po piąte zwycięstwo z rzędu w Eurolidze]]></title>
-            <link>https://www.realmadryt.pl/news/153579-po-piate-zwyciestwo-z-rzedu-w-eurolidze</link>
-            <pubDate>Tue, 27 Oct 2026 13:16:00 GMT</pubDate>
-            <description><![CDATA[Koszykarze zagrają na wyjeździe z Baskonią]]></description>
         </item>
         
 </channel>
