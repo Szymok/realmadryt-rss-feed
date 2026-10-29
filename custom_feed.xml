@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 29 Oct 2026 00:07:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:42:00 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[L'Équipe: Mbappé wrócił ze Złotej Piłki zmotywowany, ale szybko musiał zająć się aferą z Chinami]]></title>
+            <link>https://www.realmadryt.pl/news/153630-l-equipe-mbappe-wrocil-ze-zlotej-pilki-zmotywowany-ale-szybko-musial-zajac-sie-afera-z-chinami</link>
+            <pubDate>Thu, 29 Oct 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Francuzi o kulisach ostatnich dni]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/153631-dzisiejsze-okladki</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/153617-dzis-pilkarki-graja-w-lidze-mistrzyn-z-bayernem</link>
             <pubDate>Wed, 28 Oct 2026 14:27:00 GMT</pubDate>
             <description><![CDATA[Początek meczu o 18:45]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Pau Quesada: Mecz z Bayernem będzie wymagał od nas gry na bardzo wysokim poziomie]]></title>
-            <link>https://www.realmadryt.pl/news/153616-pau-quesada-mecz-z-bayernem-bedzie-wymagal-od-nas-gry-na-bardzo-wysokim-poziomie</link>
-            <pubDate>Wed, 28 Oct 2026 14:15:00 GMT</pubDate>
-            <description><![CDATA[Konferencja przed meczem z Bayernem]]></description>
         </item>
         
 </channel>
