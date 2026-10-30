@@ -4,11 +4,25 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 29 Oct 2026 22:14:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 01:58:05 GMT</lastBuildDate>
     
         <item>
-            <title><![CDATA[Dziesiąta wygrana z rzędu koszykarzy]]></title>
-            <link>https://www.realmadryt.pl/news/153658-dziesiata-wygrana-z-rzedu-koszykarzy</link>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153660-dzisiejsze-okladki</link>
+            <pubDate>Fri, 30 Oct 2026 00:33:00 GMT</pubDate>
+            <description><![CDATA[„Trent traci na znaczeniu”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pedro Martínez: Wiele nas kosztowało wejście w to spotkanie]]></title>
+            <link>https://www.realmadryt.pl/news/153659-pedro-martinez-wiele-nas-kosztowalo-wejscie-w-to-spotkanie</link>
+            <pubDate>Thu, 29 Oct 2026 23:55:00 GMT</pubDate>
+            <description><![CDATA[Konferencja prasowa po wygranej z Fenerbahçe]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Dziesiąta wygrana z rzędu koszykarzy [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153658-dziesiata-wygrana-z-rzedu-koszykarzy-video</link>
             <pubDate>Thu, 29 Oct 2026 23:12:00 GMT</pubDate>
             <description><![CDATA[Fenerbahçe pokonane]]></description>
         </item>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153646-wielki-sprawdzian-dla-madryckiej-ofensywy</link>
             <pubDate>Thu, 29 Oct 2026 16:43:00 GMT</pubDate>
             <description><![CDATA[Koszykarze zagrają z Fenerbahçe]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Jacobo Ramón puka do drzwi reprezentacji]]></title>
-            <link>https://www.realmadryt.pl/news/153645-jacobo-ramon-puka-do-drzwi-reprezentacji</link>
-            <pubDate>Thu, 29 Oct 2026 16:29:00 GMT</pubDate>
-            <description><![CDATA[Wychowanek Realu szybko rozwija się w Como]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Twórca mema z Mbappé: „Aż zasięgnąłem informacji, czy jego otoczenie mnie pozwie”]]></title>
-            <link>https://www.realmadryt.pl/news/153642-tworca-mema-z-mbappe-az-zasiegnalem-informacji-czy-jego-otoczenie-mnie-pozwie</link>
-            <pubDate>Thu, 29 Oct 2026 14:18:00 GMT</pubDate>
-            <description><![CDATA[Historia i spojrzenie współautora zamieszania]]></description>
         </item>
         
 </channel>
