@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 31 Oct 2026 14:55:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 18:58:43 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Kadra Realu Madryt na Racing Santander]]></title>
+            <link>https://www.realmadryt.pl/news/153710-kadra-realu-madryt-na-racing-santander</link>
+            <pubDate>Sat, 31 Oct 2026 18:42:00 GMT</pubDate>
+            <description><![CDATA[Bez pięciu piłkarzy]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Grecki ekspert dla RealMadryt.pl: AEK od zawsze miał swoją filozofię]]></title>
+            <link>https://www.realmadryt.pl/news/153669-grecki-ekspert-dla-realmadryt-pl-aek-od-zawsze-mial-swoja-filozofie</link>
+            <pubDate>Sat, 31 Oct 2026 18:23:00 GMT</pubDate>
+            <description><![CDATA[Wywiad przed meczem z AEK-iem w Lidze Mistrzów]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Kadra Racingu na mecz z Realem Madryt]]></title>
+            <link>https://www.realmadryt.pl/news/153711-kadra-racingu-na-mecz-z-realem-madryt</link>
+            <pubDate>Sat, 31 Oct 2026 18:09:00 GMT</pubDate>
+            <description><![CDATA[Dwie ważne nieobecności]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Fede Valverde nie trenował z grupą]]></title>
+            <link>https://www.realmadryt.pl/news/153708-fede-valverde-nie-trenowal-z-grupa</link>
+            <pubDate>Sat, 31 Oct 2026 17:38:00 GMT</pubDate>
+            <description><![CDATA[Ostatnie zajęcia przed meczem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Drużyna łapie rytm bliski słynnej Ligi Rekordów]]></title>
+            <link>https://www.realmadryt.pl/news/153709-druzyna-lapie-rytm-bliski-slynnej-ligi-rekordow</link>
+            <pubDate>Sat, 31 Oct 2026 17:28:00 GMT</pubDate>
+            <description><![CDATA[Podobne liczby na tym samym etapie sezonu]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[11. kolejka: Atlético wirtualnym liderem La Ligi]]></title>
             <link>https://www.realmadryt.pl/news/153707-11-kolejka-atletico-wirtualnym-liderem-la-ligi</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/153700-w-poszukiwaniu-24-ofiary</link>
             <pubDate>Sat, 31 Oct 2026 13:08:00 GMT</pubDate>
             <description><![CDATA[Kolejny indywidualny cel Kyliana]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Racing zablokował ponad 40 karnetów i biletów kibiców odsprzedających je na mecz z Realem]]></title>
-            <link>https://www.realmadryt.pl/news/153699-oficjalnie-racing-zablokowal-ponad-40-karnetow-i-biletow-kibicow-odsprzedajacych-je-na-mecz-z-realem</link>
-            <pubDate>Sat, 31 Oct 2026 12:14:00 GMT</pubDate>
-            <description><![CDATA[Ciąg dalszy afery biletowej]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Hiszpański juror Złotej Piłki: Mbappé prezentował najwyższy i najrówniejszy poziom]]></title>
-            <link>https://www.realmadryt.pl/news/153698-hiszpanski-juror-zlotej-pilki-mbappe-prezentowal-najwyzszy-i-najrowniejszy-poziom</link>
-            <pubDate>Sat, 31 Oct 2026 11:13:00 GMT</pubDate>
-            <description><![CDATA[Redaktor naczelny Asa tłumaczy swoje wybory]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Popis Munitisa i początek „klauzuli strachu"]]></title>
-            <link>https://www.realmadryt.pl/news/153695-popis-munitisa-i-poczatek-klauzuli-strachu</link>
-            <pubDate>Sat, 31 Oct 2026 11:02:00 GMT</pubDate>
-            <description><![CDATA[Czyli ciekawe konsekwencje starcia z Racingiem sprzed lat]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Diomandé na 5. miejscu w Młodym Talencie w Złotej Piłce]]></title>
-            <link>https://www.realmadryt.pl/news/153697-diomande-na-5-miejscu-w-mlodym-talencie-w-zlotej-pilce</link>
-            <pubDate>Sat, 31 Oct 2026 10:51:00 GMT</pubDate>
-            <description><![CDATA[Jak głosowały legendy Królewskich?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mbappé chce grać wszystko]]></title>
-            <link>https://www.realmadryt.pl/news/153694-mbappe-chce-grac-wszystko</link>
-            <pubDate>Sat, 31 Oct 2026 10:38:00 GMT</pubDate>
-            <description><![CDATA[Francuz jest zawodnikiem z pola z największą liczbą minut w Europie]]></description>
         </item>
         
 </channel>
