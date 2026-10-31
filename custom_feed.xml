@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 31 Oct 2026 18:58:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 22:16:27 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[El Mundo: Złodzieje okradli dom Militão, gdy ten siedział na ławce w Klasyku w Barcelonie]]></title>
+            <link>https://www.realmadryt.pl/news/153715-el-mundo-zlodzieje-okradli-dom-militao-gdy-ten-siedzial-na-lawce-w-klasyku-w-barcelonie</link>
+            <pubDate>Sat, 31 Oct 2026 21:18:00 GMT</pubDate>
+            <description><![CDATA[Wartość strat przekroczy 350 tysięcy euro]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Castilla wygrywa po dwóch szybkich ciosach [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153714-castilla-wygrywa-po-dwoch-szybkich-ciosach-video</link>
+            <pubDate>Sat, 31 Oct 2026 21:10:00 GMT</pubDate>
+            <description><![CDATA[Zwycięstwo 2:0 z Cartageną]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Królewscy dotarli do Santander]]></title>
+            <link>https://www.realmadryt.pl/news/153713-krolewscy-dotarli-do-santander</link>
+            <pubDate>Sat, 31 Oct 2026 20:59:00 GMT</pubDate>
+            <description><![CDATA[W oczekiwaniu na niedzielny mecz]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[11. kolejka: Barcelona rozbiła Alavés, gol Mariano na Camp Nou]]></title>
+            <link>https://www.realmadryt.pl/news/153712-11-kolejka-barcelona-rozbila-alaves-gol-mariano-na-camp-nou</link>
+            <pubDate>Sat, 31 Oct 2026 20:20:00 GMT</pubDate>
+            <description><![CDATA[Mocna odpowiedź Katalończyków]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Kadra Realu Madryt na Racing Santander]]></title>
             <link>https://www.realmadryt.pl/news/153710-kadra-realu-madryt-na-racing-santander</link>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/153704-czy-fede-valverde-pracuje-z-grupa-przed-racingiem-na-zywo</link>
             <pubDate>Sat, 31 Oct 2026 15:20:00 GMT</pubDate>
             <description><![CDATA[Relacja z Valdebebas]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho: Naszym celem nie jest wygranie jednego meczu z Barceloną, a wygranie mistrzostwa]]></title>
-            <link>https://www.realmadryt.pl/news/153703-mourinho-naszym-celem-nie-jest-wygranie-jednego-meczu-z-barcelona-a-wygranie-mistrzostwa</link>
-            <pubDate>Sat, 31 Oct 2026 14:20:00 GMT</pubDate>
-            <description><![CDATA[Pierwsze wypowiedzi trenera przed meczem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Szczegółowe zdjęcia remake'u koszulki Realu Madryt ze smokami [FOTO]]]></title>
-            <link>https://www.realmadryt.pl/news/153702-szczegolowe-zdjecia-remake-u-koszulki-realu-madryt-ze-smokami-foto</link>
-            <pubDate>Sat, 31 Oct 2026 13:36:00 GMT</pubDate>
-            <description><![CDATA[Odnowienie trykotu z sezonu 2014/15]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Sport: Real Madryt wygrał walkę o JJ Gabriela]]></title>
-            <link>https://www.realmadryt.pl/news/153701-sport-real-madryt-wygral-walke-o-jj-gabriela</link>
-            <pubDate>Sat, 31 Oct 2026 13:25:00 GMT</pubDate>
-            <description><![CDATA[W oczekiwaniu na zakończenie telenoweli z Anglikiem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[W poszukiwaniu 24. ofiary]]></title>
-            <link>https://www.realmadryt.pl/news/153700-w-poszukiwaniu-24-ofiary</link>
-            <pubDate>Sat, 31 Oct 2026 13:08:00 GMT</pubDate>
-            <description><![CDATA[Kolejny indywidualny cel Kyliana]]></description>
         </item>
         
 </channel>
