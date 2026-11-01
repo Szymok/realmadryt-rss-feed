@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Nov 2026 19:11:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 22:47:32 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Królewskie wygrywają w Sewilli [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153748-krolewskie-wygrywaja-w-sewilli-video</link>
+            <pubDate>Sun, 01 Nov 2026 21:40:00 GMT</pubDate>
+            <description><![CDATA[Zwycięstwo wyszarpane w końcówce]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[José Alberto: Karny po ręce Tchouaméniego został prawidłowo anulowany]]></title>
+            <link>https://www.realmadryt.pl/news/153747-jose-alberto-karny-po-rece-tchouameniego-zostal-prawidlowo-anulowany</link>
+            <pubDate>Sun, 01 Nov 2026 21:04:00 GMT</pubDate>
+            <description><![CDATA[„98 na 100 osób nie podyktowałoby karnego na Mbappé”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Tchouaméni podarował koszulkę 4-latkowi, którego trafił piłką [VIDEO]]]></title>
             <link>https://www.realmadryt.pl/news/153742-tchouameni-podarowal-koszulke-4-latkowi-ktorego-trafil-pilka-video</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153732-szybkie-rozstrzygniecie-i-tryb-ekonomiczny</link>
             <pubDate>Sun, 01 Nov 2026 16:05:00 GMT</pubDate>
             <description><![CDATA[Real wygrał z Racingiem 3:0]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Rozgrzewka przed Racingiem [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/153729-rozgrzewka-przed-racingiem-na-zywo</link>
-            <pubDate>Sun, 01 Nov 2026 15:15:00 GMT</pubDate>
-            <description><![CDATA[Obraz ze stadionu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Nie do przejścia]]></title>
-            <link>https://www.realmadryt.pl/news/153730-nie-do-przejscia</link>
-            <pubDate>Sun, 01 Nov 2026 14:58:00 GMT</pubDate>
-            <description><![CDATA[Konaté wzmocnił defensywę Królewskich]]></description>
         </item>
         
 </channel>
