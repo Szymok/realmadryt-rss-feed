@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 31 Oct 2026 22:16:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 01:19:05 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Racing Santander – Real Madryt: Przewidywane składy]]></title>
+            <link>https://www.realmadryt.pl/news/153724-racing-santander-real-madryt-przewidywane-sklady</link>
+            <pubDate>Sun, 01 Nov 2026 01:52:00 GMT</pubDate>
+            <description><![CDATA[Kto na prawej obronie bez Valverde?]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153722-dzisiejsze-okladki</link>
+            <pubDate>Sun, 01 Nov 2026 00:11:00 GMT</pubDate>
+            <description><![CDATA[„Egzamin z zastąpienia Valverde”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[El Mundo: Złodzieje okradli dom Militão, gdy ten siedział na ławce w Klasyku w Barcelonie]]></title>
             <link>https://www.realmadryt.pl/news/153715-el-mundo-zlodzieje-okradli-dom-militao-gdy-ten-siedzial-na-lawce-w-klasyku-w-barcelonie</link>
@@ -28,8 +42,8 @@
         </item>
         
         <item>
-            <title><![CDATA[11. kolejka: Barcelona rozbiła Alavés, gol Mariano na Camp Nou]]></title>
-            <link>https://www.realmadryt.pl/news/153712-11-kolejka-barcelona-rozbila-alaves-gol-mariano-na-camp-nou</link>
+            <title><![CDATA[11. kolejka: Barcelona rozbiła Alavés, gol Mariano na Camp Nou [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153712-11-kolejka-barcelona-rozbila-alaves-gol-mariano-na-camp-nou-video</link>
             <pubDate>Sat, 31 Oct 2026 20:20:00 GMT</pubDate>
             <description><![CDATA[Mocna odpowiedź Katalończyków]]></description>
         </item>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153707-11-kolejka-atletico-wirtualnym-liderem-la-ligi</link>
             <pubDate>Sat, 31 Oct 2026 15:52:00 GMT</pubDate>
             <description><![CDATA[A za tydzień gra z Barceloną]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho: Chcę i potrzebuję Viníciusa, ale nie mówię ci, że będzie grać w pierwszym składzie]]></title>
-            <link>https://www.realmadryt.pl/news/153706-mourinho-chce-i-potrzebuje-viniciusa-ale-nie-mowie-ci-ze-bedzie-grac-w-pierwszym-skladzie</link>
-            <pubDate>Sat, 31 Oct 2026 15:32:00 GMT</pubDate>
-            <description><![CDATA[Zapis przedmeczowej konferencji z trenerem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Czy Fede Valverde pracuje z grupą przed Racingiem? [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/153704-czy-fede-valverde-pracuje-z-grupa-przed-racingiem-na-zywo</link>
-            <pubDate>Sat, 31 Oct 2026 15:20:00 GMT</pubDate>
-            <description><![CDATA[Relacja z Valdebebas]]></description>
         </item>
         
 </channel>
