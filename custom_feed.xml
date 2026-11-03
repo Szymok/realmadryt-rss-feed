@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Nov 2026 19:27:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 01:43:12 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153781-dzisiejsze-okladki</link>
+            <pubDate>Tue, 03 Nov 2026 00:13:00 GMT</pubDate>
+            <description><![CDATA[„Nie było karnego na Mbappé”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madryt odzyska Eliego Ndiaye i zatrzyma Maksyma Szulgę]]></title>
+            <link>https://www.realmadryt.pl/news/153775-real-madryt-odzyska-eliego-ndiaye-i-zatrzyma-maksyma-szulge</link>
+            <pubDate>Mon, 02 Nov 2026 22:37:00 GMT</pubDate>
+            <description><![CDATA[Zwrot w obliczu kontuzji]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mastantuono z golem, który dał drugie zwycięstwo Fiorentinie [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153773-mastantuono-z-golem-ktory-dal-drugie-zwyciestwo-fiorentinie-video</link>
+            <pubDate>Mon, 02 Nov 2026 20:48:00 GMT</pubDate>
+            <description><![CDATA[Argentyńczyk wygrzebuje swoją ekipę ze strefy spadkowej]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Jude Bellingham nową twarzą Calvina Kleina [VIDEO]]]></title>
             <link>https://www.realmadryt.pl/news/153772-jude-bellingham-nowa-twarza-calvina-kleina-video</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/153762-mourinho-chce-odpowiedziec-na-prezent-od-la-ligi-trzema-zwyciestwami</link>
             <pubDate>Mon, 02 Nov 2026 14:00:00 GMT</pubDate>
             <description><![CDATA[„Zobaczymy, czy uda nam się ich zasmucić”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Pedro Martínez: Trudno jest rozgrywać tyle meczów w tak krótkim czasie]]></title>
-            <link>https://www.realmadryt.pl/news/153743-pedro-martinez-trudno-jest-rozgrywac-tyle-meczow-w-tak-krotkim-czasie</link>
-            <pubDate>Mon, 02 Nov 2026 13:05:00 GMT</pubDate>
-            <description><![CDATA[Konferencja prasowa po wygranej z San Pablo Burgos]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Fede Valverde trenował z drużyną]]></title>
-            <link>https://www.realmadryt.pl/news/153763-fede-valverde-trenowal-z-druzyna</link>
-            <pubDate>Mon, 02 Nov 2026 13:05:00 GMT</pubDate>
-            <description><![CDATA[Królewscy rozpoczęli przygotowania do meczu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Diomandé otrzymał burzę oklasków od kibiców Racingu [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/153761-diomande-otrzymal-burze-oklaskow-od-kibicow-racingu-video</link>
-            <pubDate>Mon, 02 Nov 2026 12:50:00 GMT</pubDate>
-            <description><![CDATA[Czym sobie zasłużył?]]></description>
         </item>
         
 </channel>
