@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 03 Nov 2026 21:59:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 02:01:44 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[AEK Ateny – Real Madryt: Przewidywane składy]]></title>
+            <link>https://www.realmadryt.pl/news/153813-aek-ateny-real-madryt-przewidywane-sklady</link>
+            <pubDate>Wed, 04 Nov 2026 01:46:00 GMT</pubDate>
+            <description><![CDATA[Szerokie rotacje i starcie z Luką Joviciem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153809-dzisiejsze-okladki</link>
+            <pubDate>Wed, 04 Nov 2026 00:09:00 GMT</pubDate>
+            <description><![CDATA[„Spoczywaj w pokoju”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Oficjalnie: Facundo Campazzo z urazem mięśnia dwugłowego uda]]></title>
             <link>https://www.realmadryt.pl/news/153805-oficjalnie-facundo-campazzo-z-urazem-miesnia-dwuglowego-uda</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153793-krolewscy-wylecieli-do-aten</link>
             <pubDate>Tue, 03 Nov 2026 13:56:00 GMT</pubDate>
             <description><![CDATA[Ekipa w drodze]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bayern Monachium z poranną aktywacją w Valdebebas]]></title>
-            <link>https://www.realmadryt.pl/news/153792-bayern-monachium-z-poranna-aktywacja-w-valdebebas</link>
-            <pubDate>Tue, 03 Nov 2026 13:31:00 GMT</pubDate>
-            <description><![CDATA[Bawarczycy grają dzisiaj w Madrycie]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bellingham o golu Diomandé: „What the f**k is that?” [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/153791-bellingham-o-golu-diomande-what-the-f-k-is-that-video</link>
-            <pubDate>Tue, 03 Nov 2026 13:18:00 GMT</pubDate>
-            <description><![CDATA[Kulisy meczu z Racingiem]]></description>
         </item>
         
 </channel>
