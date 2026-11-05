@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 04 Nov 2026 22:36:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 02:46:31 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153848-dzisiejsze-okladki</link>
+            <pubDate>Thu, 05 Nov 2026 00:34:00 GMT</pubDate>
+            <description><![CDATA[„Remontada po rzymsku”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pedro Martínez: Zawodnicy grali w wielkim wysiłkiem i dobrą mentalnością]]></title>
+            <link>https://www.realmadryt.pl/news/153846-pedro-martinez-zawodnicy-grali-w-wielkim-wysilkiem-i-dobra-mentalnoscia</link>
+            <pubDate>Wed, 04 Nov 2026 23:44:00 GMT</pubDate>
+            <description><![CDATA[Wypowiedzi po porażce z Panathinaikosem]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Minimalna porażka po niesamowitym meczu]]></title>
             <link>https://www.realmadryt.pl/news/153843-minimalna-porazka-po-niesamowitym-meczu</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153830-fede-mamma-mia</link>
             <pubDate>Wed, 04 Nov 2026 18:35:00 GMT</pubDate>
             <description><![CDATA[Real wygrał z AEK-iem 3:2]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[AEK Ateny – Real Madryt: Znamy składy!]]></title>
-            <link>https://www.realmadryt.pl/news/153829-aek-ateny-real-madryt-znamy-sklady</link>
-            <pubDate>Wed, 04 Nov 2026 17:26:00 GMT</pubDate>
-            <description><![CDATA[Wiemy, kto powalczy o punkty w Lidze Mistrzów]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[The Athletic i Romano: JJ Gabriel wybrał Real Madryt i jest blisko podpisania umowy]]></title>
-            <link>https://www.realmadryt.pl/news/153828-the-athletic-i-romano-jj-gabriel-wybral-real-madryt-i-jest-blisko-podpisania-umowy</link>
-            <pubDate>Wed, 04 Nov 2026 15:40:00 GMT</pubDate>
-            <description><![CDATA[Anglik trafiłby do klubu w styczniu]]></description>
         </item>
         
 </channel>
