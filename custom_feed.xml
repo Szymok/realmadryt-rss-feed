@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Nov 2026 17:59:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 23:25:52 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153873-dzisiejsze-okladki</link>
+            <pubDate>Fri, 06 Nov 2026 00:18:00 GMT</pubDate>
+            <description><![CDATA[„Efekt Nadala”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madryt ugościł w Valdebebas trening Atlanta Falcons]]></title>
+            <link>https://www.realmadryt.pl/news/153869-real-madryt-ugoscil-w-valdebebas-trening-atlanta-falcons</link>
+            <pubDate>Thu, 05 Nov 2026 19:55:00 GMT</pubDate>
+            <description><![CDATA[Przygotowania do niedzielnego meczu NFL na Bernabéu]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Benzema wspiera Viníciusa]]></title>
             <link>https://www.realmadryt.pl/news/153868-benzema-wspiera-viniciusa</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153859-odmieniony-valverde-i-vinicius-ktory-wciaz-nie-potrafi-sie-przelamac</link>
             <pubDate>Thu, 05 Nov 2026 13:45:00 GMT</pubDate>
             <description><![CDATA[Fede oczarowuje, a Vini rozczarowuje]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mijatović: Mniej remontad, a więcej spokoju, błagam]]></title>
-            <link>https://www.realmadryt.pl/news/153854-mijatovic-mniej-remontad-a-wiecej-spokoju-blagam</link>
-            <pubDate>Thu, 05 Nov 2026 12:55:00 GMT</pubDate>
-            <description><![CDATA[„Patrzę na Viníciusa i widzę zawodnika, który się męczy“]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[COPE: La Liga nie zawiesi kolejki po śmierci Jesúsa de Miguela]]></title>
-            <link>https://www.realmadryt.pl/news/153858-cope-la-liga-nie-zawiesi-kolejki-po-smierci-jesusa-de-miguela</link>
-            <pubDate>Thu, 05 Nov 2026 12:05:00 GMT</pubDate>
-            <description><![CDATA[Real Madryt zagra w sobotę z Valencią]]></description>
         </item>
         
 </channel>
