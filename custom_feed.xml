@@ -4,11 +4,39 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Nov 2026 15:54:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 19:45:44 GMT</lastBuildDate>
     
         <item>
-            <title><![CDATA[Florentino Pérez spotkał się z prezesem wykonawczym NFL]]></title>
-            <link>https://www.realmadryt.pl/news/153927-florentino-perez-spotkal-sie-z-prezesem-wykonawczym-nfl</link>
+            <title><![CDATA[Rozgrzewka przed Valencią [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/153933-rozgrzewka-przed-valencia-na-zywo</link>
+            <pubDate>Sat, 07 Nov 2026 20:10:00 GMT</pubDate>
+            <description><![CDATA[Obraz ze stadionu]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Valencia – Real Madryt: Znamy składy!]]></title>
+            <link>https://www.realmadryt.pl/news/153931-valencia-real-madryt-znamy-sklady</link>
+            <pubDate>Sat, 07 Nov 2026 19:41:00 GMT</pubDate>
+            <description><![CDATA[Wiemy, kto powalczy o ligowe punkty]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Królewskie tylko remisują z Athletikiem [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153932-krolewskie-tylko-remisuja-z-athletikiem-video</link>
+            <pubDate>Sat, 07 Nov 2026 18:40:00 GMT</pubDate>
+            <description><![CDATA[Komplet punktów uciekł w doliczonym czasie gry]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mijatović, transfer, który na zawsze zmienił relacje Realu Madryt z Valencią]]></title>
+            <link>https://www.realmadryt.pl/news/153930-mijatovic-transfer-ktory-na-zawsze-zmienil-relacje-realu-madryt-z-valencia</link>
+            <pubDate>Sat, 07 Nov 2026 18:22:00 GMT</pubDate>
+            <description><![CDATA[Przyjazne stosunki skończyły się w 1996 roku]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Florentino Pérez spotkał się z wiceprezesem wykonawczym NFL]]></title>
+            <link>https://www.realmadryt.pl/news/153927-florentino-perez-spotkal-sie-z-wiceprezesem-wykonawczym-nfl</link>
             <pubDate>Sat, 07 Nov 2026 16:07:00 GMT</pubDate>
             <description><![CDATA[Przygotowania do niedzielnego meczu na Bernabéu]]></description>
         </item>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/153923-l-equipe-wenger-za-kilka-dni-podejmie-decyzje-ws-startu-w-wyborach-na-prezesa-fifa</link>
             <pubDate>Sat, 07 Nov 2026 14:13:00 GMT</pubDate>
             <description><![CDATA[Oczekiwanie na rywala dla Gianniego Infantino]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[MARCA: Mourinho chce skopiować plan PSG]]></title>
-            <link>https://www.realmadryt.pl/news/153920-marca-mourinho-chce-skopiowac-plan-psg</link>
-            <pubDate>Sat, 07 Nov 2026 13:44:00 GMT</pubDate>
-            <description><![CDATA[Trener zamierza oszczędzać piłkarzy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Królewscy są już w Walencji]]></title>
-            <link>https://www.realmadryt.pl/news/153921-krolewscy-sa-juz-w-walencji</link>
-            <pubDate>Sat, 07 Nov 2026 13:28:00 GMT</pubDate>
-            <description><![CDATA[Ekipa jest na miejscu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[MARCA złapała JJ Gabriela w Madrycie: „Real i Barcelona? Oczywiście Real”]]></title>
-            <link>https://www.realmadryt.pl/news/153919-marca-zlapala-jj-gabriela-w-madrycie-real-i-barcelona-oczywiscie-real</link>
-            <pubDate>Sat, 07 Nov 2026 12:59:00 GMT</pubDate>
-            <description><![CDATA[Anglik trenuje w Madrycie w oczekiwaniu na transfer]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Cucurella: Konieczność wygrywania każdego meczu jest czymś bardzo pięknym]]></title>
-            <link>https://www.realmadryt.pl/news/153918-cucurella-koniecznosc-wygrywania-kazdego-meczu-jest-czyms-bardzo-pieknym</link>
-            <pubDate>Sat, 07 Nov 2026 12:37:00 GMT</pubDate>
-            <description><![CDATA[Przedmeczowe wypowiedzi dla klubowej telewizji]]></description>
         </item>
         
 </channel>
