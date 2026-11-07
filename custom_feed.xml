@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 06 Nov 2026 23:20:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 02:57:53 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Valencia – Real Madryt: Przewidywane składy]]></title>
+            <link>https://www.realmadryt.pl/news/153909-valencia-real-madryt-przewidywane-sklady</link>
+            <pubDate>Sat, 07 Nov 2026 01:25:00 GMT</pubDate>
+            <description><![CDATA[Teoretyczny podstawowy skład bez niespodzianek?]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153907-dzisiejsze-okladki</link>
+            <pubDate>Sat, 07 Nov 2026 00:21:00 GMT</pubDate>
+            <description><![CDATA[„Mogę ją zatrzymać?”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Thiago Pitarch i Carlos Espí powołani do reprezentacji Hiszpanii U-21]]></title>
             <link>https://www.realmadryt.pl/news/153902-thiago-pitarch-i-carlos-espi-powolani-do-reprezentacji-hiszpanii-u-21</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153890-aguirre-w-pojedynkach-jeden-na-jeden-mbappe-jest-nie-do-zatrzymania</link>
             <pubDate>Fri, 06 Nov 2026 14:51:00 GMT</pubDate>
             <description><![CDATA[Konferencja prasowa z trenerem Valencii]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kadra na Valencię]]></title>
-            <link>https://www.realmadryt.pl/news/153887-kadra-na-valencie</link>
-            <pubDate>Fri, 06 Nov 2026 14:40:00 GMT</pubDate>
-            <description><![CDATA[Brakuje 4 piłkarzy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bernardo Silva powołany do reprezentacji]]></title>
-            <link>https://www.realmadryt.pl/news/153889-bernardo-silva-powolany-do-reprezentacji</link>
-            <pubDate>Fri, 06 Nov 2026 14:17:00 GMT</pubDate>
-            <description><![CDATA[Pomocnik Królewskich będzie nowym kapitanem Portugalczyków]]></description>
         </item>
         
 </channel>
