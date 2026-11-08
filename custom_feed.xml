@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Nov 2026 20:26:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 23:52:33 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[MARCA: Oviedo rozważa zatrudnienie Raúla]]></title>
+            <link>https://www.realmadryt.pl/news/153969-marca-oviedo-rozwaza-zatrudnienie-raula</link>
+            <pubDate>Sun, 08 Nov 2026 22:37:00 GMT</pubDate>
+            <description><![CDATA[El Siete w końcu znajdzie pracodawcę?]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pedro Martínez: Okeke również jest kontuzjowany, ale staram się nie narzekać]]></title>
+            <link>https://www.realmadryt.pl/news/153968-pedro-martinez-okeke-rowniez-jest-kontuzjowany-ale-staram-sie-nie-narzekac</link>
+            <pubDate>Sun, 08 Nov 2026 22:27:00 GMT</pubDate>
+            <description><![CDATA[Konferencja prasowa po zwycięstwie z Murcią]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Maffeo przeprasza za wywiad w przerwie: „Od początku nie chciałem go udzielać”]]></title>
             <link>https://www.realmadryt.pl/news/153966-maffeo-przeprasza-za-wywiad-w-przerwie-od-poczatku-nie-chcialem-go-udzielac</link>
@@ -21,10 +35,10 @@
         </item>
         
         <item>
-            <title><![CDATA[Atlético kontra Barça [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/153964-atletico-kontra-barca-na-zywo</link>
+            <title><![CDATA[12. kolejka: Barcelona wygrywa z Atlético po dublecie Fermína [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/153964-12-kolejka-barcelona-wygrywa-z-atletico-po-dublecie-fermina-video</link>
             <pubDate>Sun, 08 Nov 2026 20:00:00 GMT</pubDate>
-            <description><![CDATA[Trwa hit 12. kolejki La Ligi]]></description>
+            <description><![CDATA[Real jest wiceliderem]]></description>
         </item>
         
         <item>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/153955-espi-po-meczu-z-valencia-spotkal-sie-ze-swoimi-babciami-video</link>
             <pubDate>Sun, 08 Nov 2026 14:00:00 GMT</pubDate>
             <description><![CDATA[Ładne obrazki z Estadio Mestalla]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Procida: Musimy utrzymać jedność w obliczu kontuzji]]></title>
-            <link>https://www.realmadryt.pl/news/153934-procida-musimy-utrzymac-jednosc-w-obliczu-kontuzji</link>
-            <pubDate>Sun, 08 Nov 2026 13:15:00 GMT</pubDate>
-            <description><![CDATA[Wypowiedzi przed meczem z Murcią]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Diomandé znów podarował koszulkę młodemu kibicowi [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/153954-diomande-znow-podarowal-koszulke-mlodemu-kibicowi-video</link>
-            <pubDate>Sun, 08 Nov 2026 12:30:00 GMT</pubDate>
-            <description><![CDATA[Kolejny miły gest Iworyjczyka]]></description>
         </item>
         
 </channel>
