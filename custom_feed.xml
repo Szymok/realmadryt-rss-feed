@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Nov 2026 23:17:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 02:36:44 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153948-dzisiejsze-okladki</link>
+            <pubDate>Sun, 08 Nov 2026 00:47:00 GMT</pubDate>
+            <description><![CDATA[„Walec”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Bernardo Silva: Drużyny, które lepiej bronią, zawsze są gotowe na wygrywanie meczów i tytułów]]></title>
             <link>https://www.realmadryt.pl/news/153945-bernardo-silva-druzyny-ktore-lepiej-bronia-zawsze-sa-gotowe-na-wygrywanie-meczow-i-tytulow</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/153931-valencia-real-madryt-znamy-sklady</link>
             <pubDate>Sat, 07 Nov 2026 19:41:00 GMT</pubDate>
             <description><![CDATA[Wiemy, kto powalczy o ligowe punkty]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Królewskie tylko remisują z Athletikiem [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/153932-krolewskie-tylko-remisuja-z-athletikiem-video</link>
-            <pubDate>Sat, 07 Nov 2026 18:40:00 GMT</pubDate>
-            <description><![CDATA[Komplet punktów uciekł w doliczonym czasie gry]]></description>
         </item>
         
 </channel>
