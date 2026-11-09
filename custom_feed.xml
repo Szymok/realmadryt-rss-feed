@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Nov 2026 23:52:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 03:54:19 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153974-dzisiejsze-okladki</link>
+            <pubDate>Mon, 09 Nov 2026 00:57:00 GMT</pubDate>
+            <description><![CDATA[„Cios lidera”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[MARCA: Oviedo rozważa zatrudnienie Raúla]]></title>
             <link>https://www.realmadryt.pl/news/153969-marca-oviedo-rozwaza-zatrudnienie-raula</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/153960-as-vinicius-nie-jest-juz-nietykalny-ale-mourinho-nie-stracil-do-niego-zaufania</link>
             <pubDate>Sun, 08 Nov 2026 14:30:00 GMT</pubDate>
             <description><![CDATA[Portugalczyk chce przede wszystkim odzyskać zawodnika]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Espí po meczu z Valencią spotkał się ze swoimi babciami [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/153955-espi-po-meczu-z-valencia-spotkal-sie-ze-swoimi-babciami-video</link>
-            <pubDate>Sun, 08 Nov 2026 14:00:00 GMT</pubDate>
-            <description><![CDATA[Ładne obrazki z Estadio Mestalla]]></description>
         </item>
         
 </channel>
