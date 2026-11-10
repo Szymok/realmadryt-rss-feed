@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 09 Nov 2026 22:35:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:19:08 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/153996-dzisiejsze-okladki</link>
+            <pubDate>Tue, 10 Nov 2026 00:44:00 GMT</pubDate>
+            <description><![CDATA[„Raúl wraca do La Ligi”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Mourinho wcielił w życie słynne motto Di Stéfano]]></title>
             <link>https://www.realmadryt.pl/news/153990-mourinho-wcielil-w-zycie-slynne-motto-di-stefano</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/153977-skrzydlowy-o-dwoch-twarzach</link>
             <pubDate>Mon, 09 Nov 2026 11:30:00 GMT</pubDate>
             <description><![CDATA[Diomandé to artysta, który nie boi się brudnej roboty]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[„Może nadszedł czas, by okazać dumę i opuścić ten klub”]]></title>
-            <link>https://www.realmadryt.pl/news/153975-moze-nadszedl-czas-by-okazac-dume-i-opuscic-ten-klub</link>
-            <pubDate>Mon, 09 Nov 2026 10:51:00 GMT</pubDate>
-            <description><![CDATA[Maroko komentuje sytuację Brahima w Realu]]></description>
         </item>
         
 </channel>
