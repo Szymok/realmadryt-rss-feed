@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Nov 2026 00:38:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 07:07:23 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Zmiana terminarza i przerw dla reprezentacji]]></title>
+            <link>https://www.realmadryt.pl/news/154021-glos-kibica-zmiana-terminarza-i-przerw-dla-reprezentacji</link>
+            <pubDate>Wed, 11 Nov 2026 07:25:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Jacobo Ramón: Nie myślę o powrocie do Realu, wciąż mam wiele do poprawy]]></title>
+            <link>https://www.realmadryt.pl/news/154019-jacobo-ramon-nie-mysle-o-powrocie-do-realu-wciaz-mam-wiele-do-poprawy</link>
+            <pubDate>Wed, 11 Nov 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Stoper otrzymał pierwsze powołanie do seniorskiej kadry]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Romano: Nico Paz na 100% dokończy sezon w Como, potem opcję odkupu ma Real Madryt]]></title>
+            <link>https://www.realmadryt.pl/news/154015-romano-nico-paz-na-100-dokonczy-sezon-w-como-potem-opcje-odkupu-ma-real-madryt</link>
+            <pubDate>Wed, 11 Nov 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Włoch precyzuje informacje w sprawie Argentyńczyka]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/154022-dzisiejsze-okladki</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/154010-oficjalnie-gala-afrykanskiej-zlotej-pilki-przelozona-na-wczesniejszy-termin</link>
             <pubDate>Tue, 10 Nov 2026 18:01:00 GMT</pubDate>
             <description><![CDATA[Real i tak nie puści na nią swoich zawodników?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[AS: Enzo Alves nie jedzie na mundial U-17]]></title>
-            <link>https://www.realmadryt.pl/news/154009-as-enzo-alves-nie-jedzie-na-mundial-u-17</link>
-            <pubDate>Tue, 10 Nov 2026 17:20:00 GMT</pubDate>
-            <description><![CDATA[Kontuzja pokrzyżowała plany napastnika]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Moretto: Endrick na 70% odejdzie na wypożyczenie]]></title>
-            <link>https://www.realmadryt.pl/news/154007-moretto-endrick-na-70-odejdzie-na-wypozyczenie</link>
-            <pubDate>Tue, 10 Nov 2026 17:01:00 GMT</pubDate>
-            <description><![CDATA[Z kolei Anglicy łączą go z Arsenalem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[The Sun: Real Madryt zaskoczony ostatnią wypowiedzią JJ Gabriela o Złotej Piłce]]></title>
-            <link>https://www.realmadryt.pl/news/154006-the-sun-real-madryt-zaskoczony-ostatnia-wypowiedzia-jj-gabriela-o-zlotej-pilce</link>
-            <pubDate>Tue, 10 Nov 2026 15:52:00 GMT</pubDate>
-            <description><![CDATA[Królewscy podchodzą przy tym z rezerwą do ojca piłkarza]]></description>
         </item>
         
 </channel>
