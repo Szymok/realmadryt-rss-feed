@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 10 Nov 2026 20:07:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:38:30 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/154022-dzisiejsze-okladki</link>
+            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[„Mourinho sprowadza pokój do Realu”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oficjalnie: Kontuzjowany Tchouaméni zwolniony ze zgrupowania Francji]]></title>
+            <link>https://www.realmadryt.pl/news/154020-oficjalnie-kontuzjowany-tchouameni-zwolniony-ze-zgrupowania-francji</link>
+            <pubDate>Tue, 10 Nov 2026 22:48:00 GMT</pubDate>
+            <description><![CDATA[Pomocnik wraca do Madrytu]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Barcelona otworzy przy Camp Nou… cmentarz]]></title>
+            <link>https://www.realmadryt.pl/news/154018-barcelona-otworzy-przy-camp-nou-cmentarz</link>
+            <pubDate>Tue, 10 Nov 2026 22:02:00 GMT</pubDate>
+            <description><![CDATA[Miejsca dostępne za drobną opłatą]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Królewskie pokonują Paris FC w Lidze Mistrzyń [VIDEO]]]></title>
             <link>https://www.realmadryt.pl/news/154016-krolewskie-pokonuja-paris-fc-w-lidze-mistrzyn-video</link>
@@ -21,8 +42,8 @@
         </item>
         
         <item>
-            <title><![CDATA[L'Équipe: Tchouaméni przejdzie badania, najprawdopodobniej doznał kontuzji]]></title>
-            <link>https://www.realmadryt.pl/news/154013-l-equipe-tchouameni-przejdzie-badania-najprawdopodobniej-doznal-kontuzji</link>
+            <title><![CDATA[Media: Tchouaméni ma problemy mięśniowe i wraca do Madrytu [AKTUALIZACJA #2]]]></title>
+            <link>https://www.realmadryt.pl/news/154013-media-tchouameni-ma-problemy-miesniowe-i-wraca-do-madrytu-aktualizacja-2</link>
             <pubDate>Tue, 10 Nov 2026 19:30:00 GMT</pubDate>
             <description><![CDATA[Francuz nie dokończył dzisiejszego treningu]]></description>
         </item>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/154006-the-sun-real-madryt-zaskoczony-ostatnia-wypowiedzia-jj-gabriela-o-zlotej-pilce</link>
             <pubDate>Tue, 10 Nov 2026 15:52:00 GMT</pubDate>
             <description><![CDATA[Królewscy podchodzą przy tym z rezerwą do ojca piłkarza]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Valverde: Nie jestem gotowy na 100%, ale na reprezentację zawsze trzeba przyjeżdżać]]></title>
-            <link>https://www.realmadryt.pl/news/154005-valverde-nie-jestem-gotowy-na-100-ale-na-reprezentacje-zawsze-trzeba-przyjezdzac</link>
-            <pubDate>Tue, 10 Nov 2026 15:31:00 GMT</pubDate>
-            <description><![CDATA[„Teraz gram na boku obrony, więc przygotowuję się, by być tam najlepszy”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Endrick więcej gra w reprezentacji Brazylii niż w Realu Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/153994-endrick-wiecej-gra-w-reprezentacji-brazylii-niz-w-realu-madryt</link>
-            <pubDate>Tue, 10 Nov 2026 13:15:00 GMT</pubDate>
-            <description><![CDATA[Mourinho liczy, że Ancelotti ponownie da mu szansę]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Pierwszy trening w tym tygodniu]]></title>
-            <link>https://www.realmadryt.pl/news/154004-pierwszy-trening-w-tym-tygodniu</link>
-            <pubDate>Tue, 10 Nov 2026 12:25:00 GMT</pubDate>
-            <description><![CDATA[Zajęcia w mocno okrojonym składzie]]></description>
         </item>
         
 </channel>
