@@ -4,11 +4,25 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Nov 2026 21:54:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 02:37:31 GMT</lastBuildDate>
     
         <item>
-            <title><![CDATA[Oficjalnie: Mbappé nie zagra w jutrzejszym meczu reprezentacji Francji]]></title>
-            <link>https://www.realmadryt.pl/news/154041-oficjalnie-mbappe-nie-zagra-w-jutrzejszym-meczu-reprezentacji-francji</link>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/154046-dzisiejsze-okladki</link>
+            <pubDate>Thu, 12 Nov 2026 00:33:00 GMT</pubDate>
+            <description><![CDATA[„Z mistrzem świata się nie dyskutuje”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Niespodziewany remis Hiszpanii U-19, gol Cirii]]></title>
+            <link>https://www.realmadryt.pl/news/154044-niespodziewany-remis-hiszpanii-u-19-gol-cirii</link>
+            <pubDate>Wed, 11 Nov 2026 23:20:00 GMT</pubDate>
+            <description><![CDATA[Dobry mecz atakującego Castilli]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oficjalnie: Mbappé nie zagra w czwartkowym meczu reprezentacji Francji]]></title>
+            <link>https://www.realmadryt.pl/news/154041-oficjalnie-mbappe-nie-zagra-w-czwartkowym-meczu-reprezentacji-francji</link>
             <pubDate>Wed, 11 Nov 2026 20:52:00 GMT</pubDate>
             <description><![CDATA[Zidane potwierdza dyskomfort napastnika]]></description>
         </item>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/154026-militao-i-rudiger-nie-skladaja-broni</link>
             <pubDate>Wed, 11 Nov 2026 14:00:00 GMT</pubDate>
             <description><![CDATA[Chcą walczyć o miejsce w jedenastce]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[L’Équipe: Zidane chce poprawić relacje z Mbappé]]></title>
-            <link>https://www.realmadryt.pl/news/154029-l-equipe-zidane-chce-poprawic-relacje-z-mbappe</link>
-            <pubDate>Wed, 11 Nov 2026 13:06:00 GMT</pubDate>
-            <description><![CDATA[Początek współpracy nie należy do najłatwiejszych]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Drugi trening w tym tygodniu]]></title>
-            <link>https://www.realmadryt.pl/news/154028-drugi-trening-w-tym-tygodniu</link>
-            <pubDate>Wed, 11 Nov 2026 12:47:00 GMT</pubDate>
-            <description><![CDATA[Kolejne zajęcia w Valdebebas]]></description>
         </item>
         
 </channel>
