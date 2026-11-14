@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 13 Nov 2026 19:55:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:36:35 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/154097-dzisiejsze-okladki</link>
+            <pubDate>Sat, 14 Nov 2026 00:13:00 GMT</pubDate>
+            <description><![CDATA[„Rozwój w imponującym tempie w wielkim 2026 roku”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Wyjazdowe przełamanie Castilli]]></title>
+            <link>https://www.realmadryt.pl/news/154094-wyjazdowe-przelamanie-castilli</link>
+            <pubDate>Fri, 13 Nov 2026 23:24:00 GMT</pubDate>
+            <description><![CDATA[Rezerwy pokonały Gimnàstic 1:0]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Maroko wygrywa z Nigrem, Brahim z asystą [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/154086-maroko-wygrywa-z-nigrem-brahim-z-asysta-video</link>
+            <pubDate>Fri, 13 Nov 2026 23:02:00 GMT</pubDate>
+            <description><![CDATA[Pełne 90 minut zawodnika Królewskich]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Hiszpania U-21 lepsza od Japonii]]></title>
+            <link>https://www.realmadryt.pl/news/154093-hiszpania-u-21-lepsza-od-japonii</link>
+            <pubDate>Fri, 13 Nov 2026 23:00:00 GMT</pubDate>
+            <description><![CDATA[Espí zagrał pół godziny]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Holandia rozbija Grecję, dwie asysty Dumfriesa [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/154087-holandia-rozbija-grecje-dwie-asysty-dumfriesa-video</link>
+            <pubDate>Fri, 13 Nov 2026 22:38:00 GMT</pubDate>
+            <description><![CDATA[Aż siedem bramek Holendrów w starciu z Grekami]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[„To Modrić przekonał mnie, by go sprowadzić”]]></title>
             <link>https://www.realmadryt.pl/news/154089-to-modric-przekonal-mnie-by-go-sprowadzic</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/154081-oficjalnie-mauricio-pochettino-nowym-trenerem-manchesteru-united</link>
             <pubDate>Fri, 13 Nov 2026 14:19:00 GMT</pubDate>
             <description><![CDATA[Argentyńczyk był regularnie wymieniany w kontekście Królewskich]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Fresneda: Pobyt w La Fábrice bardzo wiele mnie nauczył]]></title>
-            <link>https://www.realmadryt.pl/news/154080-fresneda-pobyt-w-la-fabrice-bardzo-wiele-mnie-nauczyl</link>
-            <pubDate>Fri, 13 Nov 2026 14:05:00 GMT</pubDate>
-            <description><![CDATA[Komentarze rozchwytywanego prawego obrońcy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[AS: Asencio przyspiesza powrót do gry]]></title>
-            <link>https://www.realmadryt.pl/news/154079-as-asencio-przyspiesza-powrot-do-gry</link>
-            <pubDate>Fri, 13 Nov 2026 14:03:00 GMT</pubDate>
-            <description><![CDATA[Kanaryjczyk chce zagrać już w grudniu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Romano: Latif Issman podpisał kontrakt z Realem Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/154078-romano-latif-issman-podpisal-kontrakt-z-realem-madryt</link>
-            <pubDate>Fri, 13 Nov 2026 13:55:00 GMT</pubDate>
-            <description><![CDATA[Włoch potwierdza doniesienia Marki]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[„Real Madryt wykłada za JJ Gabriela naprawdę duże pieniądze”]]></title>
-            <link>https://www.realmadryt.pl/news/154077-real-madryt-wyklada-za-jj-gabriela-naprawde-duze-pieniadze</link>
-            <pubDate>Fri, 13 Nov 2026 11:52:00 GMT</pubDate>
-            <description><![CDATA[Doniesienia z Niemiec]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Cucurella: Jestem dość wrażliwy i łatwo się wzruszam]]></title>
-            <link>https://www.realmadryt.pl/news/154076-cucurella-jestem-dosc-wrazliwy-i-latwo-sie-wzruszam</link>
-            <pubDate>Fri, 13 Nov 2026 11:30:00 GMT</pubDate>
-            <description><![CDATA[Osobisty minitest z Chiringuito]]></description>
         </item>
         
 </channel>
