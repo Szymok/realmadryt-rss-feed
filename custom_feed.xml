@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Nov 2026 00:36:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:00:23 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Styczniowa decyzja ws. Endricka]]></title>
+            <link>https://www.realmadryt.pl/news/154095-glos-kibica-styczniowa-decyzja-ws-endricka</link>
+            <pubDate>Sat, 14 Nov 2026 07:25:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[El Confidencial: Riquelme źle przyjął decyzję Rafy Nadala, ale zamierza walczyć]]></title>
+            <link>https://www.realmadryt.pl/news/154090-el-confidencial-riquelme-zle-przyjal-decyzje-rafy-nadala-ale-zamierza-walczyc</link>
+            <pubDate>Sat, 14 Nov 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Najnowsze informacje z obozu byłego kandydata na prezesa]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[TEAMtalk: Rozmowa z Bellinghamem kluczowa dla decyzji JJ Gabriela]]></title>
+            <link>https://www.realmadryt.pl/news/154091-teamtalk-rozmowa-z-bellinghamem-kluczowa-dla-decyzji-jj-gabriela</link>
+            <pubDate>Sat, 14 Nov 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Dobry występ Jude'a również poza boiskiem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pół godziny Valverde w wygranym sparingu w Argentynie [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/154098-pol-godziny-valverde-w-wygranym-sparingu-w-argentynie-video</link>
+            <pubDate>Sat, 14 Nov 2026 02:01:00 GMT</pubDate>
+            <description><![CDATA[Kapitan Królewskich zgubił krycie przy golu rywali]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/154097-dzisiejsze-okladki</link>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/154085-zrealizowano-wymiane-murawy-na-bernabeu-video</link>
             <pubDate>Fri, 13 Nov 2026 18:02:00 GMT</pubDate>
             <description><![CDATA[Kolejny domowy mecz za 8 dni]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Barcelona pozyskała dodatkowe 300 milionów na przebudowę Camp Nou]]></title>
-            <link>https://www.realmadryt.pl/news/154083-oficjalnie-barcelona-pozyskala-dodatkowe-300-milionow-na-przebudowe-camp-nou</link>
-            <pubDate>Fri, 13 Nov 2026 16:51:00 GMT</pubDate>
-            <description><![CDATA[Jak liczby Katalończyków wypadają w porównaniu z Bernabéu?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mbappé przechodzi samego siebie]]></title>
-            <link>https://www.realmadryt.pl/news/154084-mbappe-przechodzi-samego-siebie</link>
-            <pubDate>Fri, 13 Nov 2026 16:45:00 GMT</pubDate>
-            <description><![CDATA[Ofensywne statystyki ma lepsze niż w ostatnich sezonach]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Financial Times: Rozpatrzenie odwołania City w połowie grudnia]]></title>
-            <link>https://www.realmadryt.pl/news/154082-financial-times-rozpatrzenie-odwolania-city-w-polowie-grudnia</link>
-            <pubDate>Fri, 13 Nov 2026 14:45:00 GMT</pubDate>
-            <description><![CDATA[Po nim komisja przejdzie do wymierzenia kary]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Mauricio Pochettino nowym trenerem Manchesteru United]]></title>
-            <link>https://www.realmadryt.pl/news/154081-oficjalnie-mauricio-pochettino-nowym-trenerem-manchesteru-united</link>
-            <pubDate>Fri, 13 Nov 2026 14:19:00 GMT</pubDate>
-            <description><![CDATA[Argentyńczyk był regularnie wymieniany w kontekście Królewskich]]></description>
         </item>
         
 </channel>
