@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Nov 2026 16:35:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 21:16:16 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Powrót Maledona i pewna wygrana w Vitorii]]></title>
+            <link>https://www.realmadryt.pl/news/154138-powrot-maledona-i-pewna-wygrana-w-vitorii</link>
+            <pubDate>Sun, 15 Nov 2026 20:51:00 GMT</pubDate>
+            <description><![CDATA[Koszykarze dalej z kompletem zwycięstw w lidze]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Francja – Turcja: Mbappé i Konaté kontra Güler! [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/154135-francja-turcja-mbappe-i-konate-kontra-guler-na-zywo</link>
+            <pubDate>Sun, 15 Nov 2026 19:45:00 GMT</pubDate>
+            <description><![CDATA[Gospodarze szukają awansu, goście uniknięcia spadku]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Anglia prowadzi z Hiszpanią w Madrycie, Bellingham z asystą [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/154132-anglia-prowadzi-z-hiszpania-w-madrycie-bellingham-z-asysta-na-zywo</link>
+            <pubDate>Sun, 15 Nov 2026 19:45:00 GMT</pubDate>
+            <description><![CDATA[Cucurella i Bellingham grają od początku, Huijsen wszedł na drugą połowę]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mourinho zapomina o szkółce]]></title>
+            <link>https://www.realmadryt.pl/news/154134-mourinho-zapomina-o-szkolce</link>
+            <pubDate>Sun, 15 Nov 2026 18:07:00 GMT</pubDate>
+            <description><![CDATA[Portugalczyk nie daje szans canteranos]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[MARCA: Borja Iglesias i Miguel Román nie zagrają z Realem]]></title>
+            <link>https://www.realmadryt.pl/news/154133-marca-borja-iglesias-i-miguel-roman-nie-zagraja-z-realem</link>
+            <pubDate>Sun, 15 Nov 2026 17:40:00 GMT</pubDate>
+            <description><![CDATA[Dwaj ważni gracze Celty nie wystąpią na Bernabéu]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Oficjalnie: Eli Ndiaye wraca do Realu Madryt]]></title>
             <link>https://www.realmadryt.pl/news/154131-oficjalnie-eli-ndiaye-wraca-do-realu-madryt</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/154126-romario-ancelotti-pakuj-manatki-i-spadaj</link>
             <pubDate>Sun, 15 Nov 2026 11:55:00 GMT</pubDate>
             <description><![CDATA[Legenda atakuje Włocha]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Początek wyjazdowej serii]]></title>
-            <link>https://www.realmadryt.pl/news/154124-poczatek-wyjazdowej-serii</link>
-            <pubDate>Sun, 15 Nov 2026 11:38:00 GMT</pubDate>
-            <description><![CDATA[Koszykarze zagrają z Baskonią]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Abalde: Podstawą są obrona i zbiórki, od tego trzeba zacząć]]></title>
-            <link>https://www.realmadryt.pl/news/154123-abalde-podstawa-sa-obrona-i-zbiorki-od-tego-trzeba-zaczac</link>
-            <pubDate>Sun, 15 Nov 2026 11:09:00 GMT</pubDate>
-            <description><![CDATA[Wypowiedzi przed meczem z Baskonią]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: „Niezdolny do gry” Bernardo zwolniony ze zgrupowania Portugalii]]></title>
-            <link>https://www.realmadryt.pl/news/154122-oficjalnie-niezdolny-do-gry-bernardo-zwolniony-ze-zgrupowania-portugalii</link>
-            <pubDate>Sun, 15 Nov 2026 10:26:00 GMT</pubDate>
-            <description><![CDATA[Niedobre nowiny]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 15 listopada]]></title>
-            <link>https://www.realmadryt.pl/news/154121-kartka-z-kalendarza-15-listopada</link>
-            <pubDate>Sun, 15 Nov 2026 10:20:00 GMT</pubDate>
-            <description><![CDATA[Urodziny legend i prezentacja Marcelo]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Doktor Mihić: Dobieramy dietę indywidualnie na podstawie analizy DNA z próbki śliny]]></title>
-            <link>https://www.realmadryt.pl/news/154113-doktor-mihic-dobieramy-diete-indywidualnie-na-podstawie-analizy-dna-z-probki-sliny</link>
-            <pubDate>Sun, 15 Nov 2026 09:30:00 GMT</pubDate>
-            <description><![CDATA[Kulisy rozwoju sztabu medycznego Królewskich]]></description>
         </item>
         
 </channel>
