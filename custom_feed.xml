@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Nov 2026 22:57:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 02:22:55 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/154117-dzisiejsze-okladki</link>
+            <pubDate>Sun, 15 Nov 2026 00:08:00 GMT</pubDate>
+            <description><![CDATA[„Canarinha reanimuje Viníciusa”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Tylko remis Królewskich z Badaloną [VIDEO]]]></title>
             <link>https://www.realmadryt.pl/news/154114-tylko-remis-krolewskich-z-badalona-video</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/154102-pitarch-odejscie-w-styczniu-sam-jeszcze-nie-wiem-chce-tego-co-najlepsze-dla-mnie-i-dla-druzyny</link>
             <pubDate>Sat, 14 Nov 2026 13:55:00 GMT</pubDate>
             <description><![CDATA[„Moim zdaniem jesteśmy najlepszą drużyną w Europie”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Joyeux anniversaire, Yan!]]></title>
-            <link>https://www.realmadryt.pl/news/154101-joyeux-anniversaire-yan</link>
-            <pubDate>Sat, 14 Nov 2026 11:23:00 GMT</pubDate>
-            <description><![CDATA[20. urodziny skrzydłowego]]></description>
         </item>
         
 </channel>
