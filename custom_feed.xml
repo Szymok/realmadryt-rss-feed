@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Nov 2026 21:16:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 01:14:21 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/154145-dzisiejsze-okladki</link>
+            <pubDate>Mon, 16 Nov 2026 00:25:00 GMT</pubDate>
+            <description><![CDATA[„Czerwony alarm w Realu Madryt”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pedro Martínez: To był trudny mecz]]></title>
+            <link>https://www.realmadryt.pl/news/154140-pedro-martinez-to-byl-trudny-mecz</link>
+            <pubDate>Sun, 15 Nov 2026 23:06:00 GMT</pubDate>
+            <description><![CDATA[Wypowiedzi po zwycięstwie z Baskonią]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Terminarz 15. kolejki La Ligi]]></title>
+            <link>https://www.realmadryt.pl/news/154139-terminarz-15-kolejki-la-ligi</link>
+            <pubDate>Sun, 15 Nov 2026 23:04:00 GMT</pubDate>
+            <description><![CDATA[Z Athletikiem w mikołajki]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Powrót Maledona i pewna wygrana w Vitorii]]></title>
             <link>https://www.realmadryt.pl/news/154138-powrot-maledona-i-pewna-wygrana-w-vitorii</link>
@@ -14,17 +35,17 @@
         </item>
         
         <item>
-            <title><![CDATA[Francja – Turcja: Mbappé i Konaté kontra Güler! [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/154135-francja-turcja-mbappe-i-konate-kontra-guler-na-zywo</link>
+            <title><![CDATA[Francja wygrywa z Turcją, asysta Ardy Gülera [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/154135-francja-wygrywa-z-turcja-asysta-ardy-gulera-video</link>
             <pubDate>Sun, 15 Nov 2026 19:45:00 GMT</pubDate>
-            <description><![CDATA[Gospodarze szukają awansu, goście uniknięcia spadku]]></description>
+            <description><![CDATA[Grało czterech graczy Królewskich]]></description>
         </item>
         
         <item>
-            <title><![CDATA[Anglia prowadzi z Hiszpanią w Madrycie, Bellingham z asystą [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/154132-anglia-prowadzi-z-hiszpania-w-madrycie-bellingham-z-asysta-na-zywo</link>
+            <title><![CDATA[Grająca w dziesiątkę Anglia wygrywa z Hiszpanią, Bellingham z asystą [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/154132-grajaca-w-dziesiatke-anglia-wygrywa-z-hiszpania-bellingham-z-asysta-video</link>
             <pubDate>Sun, 15 Nov 2026 19:45:00 GMT</pubDate>
-            <description><![CDATA[Cucurella i Bellingham grają od początku, Huijsen wszedł na drugą połowę]]></description>
+            <description><![CDATA[Pełny mecz Cucurelli, Huijsen wszedł na całą drugą połowę]]></description>
         </item>
         
         <item>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/154128-la-gazzetta-milan-poprosil-kake-by-namowil-endricka-na-wybor-rossonerich</link>
             <pubDate>Sun, 15 Nov 2026 13:10:00 GMT</pubDate>
             <description><![CDATA[Klub z Mediolanu działa w sprawie Brazylijczyka]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[La Repubblica: Fiorentina chce zatrzymać Mastantuono, ale w grze są też inne włoskie kluby]]></title>
-            <link>https://www.realmadryt.pl/news/154127-la-repubblica-fiorentina-chce-zatrzymac-mastantuono-ale-w-grze-sa-tez-inne-wloskie-kluby</link>
-            <pubDate>Sun, 15 Nov 2026 12:51:00 GMT</pubDate>
-            <description><![CDATA[Franco z bardzo dobrymi ocenami w Serie A]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Zmiana scenariusza u Viníciusa]]></title>
-            <link>https://www.realmadryt.pl/news/154125-zmiana-scenariusza-u-viniciusa</link>
-            <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[W końcu tak długo wyczekiwane przełamanie]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Romário: Ancelotti, pakuj manatki i spadaj!]]></title>
-            <link>https://www.realmadryt.pl/news/154126-romario-ancelotti-pakuj-manatki-i-spadaj</link>
-            <pubDate>Sun, 15 Nov 2026 11:55:00 GMT</pubDate>
-            <description><![CDATA[Legenda atakuje Włocha]]></description>
         </item>
         
 </channel>
