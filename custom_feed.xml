@@ -4,8 +4,50 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 16 Nov 2026 01:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 08:00:32 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[1111 ligowych meczów Pedro Martíneza w roli trenera]]></title>
+            <link>https://www.realmadryt.pl/news/154142-1111-ligowych-meczow-pedro-martineza-w-roli-trenera</link>
+            <pubDate>Mon, 16 Nov 2026 08:40:00 GMT</pubDate>
+            <description><![CDATA[Trener Realu Madryt wyrównał historyczny rekord]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Tebas: Ja tylko odpowiadam na wypowiedzi Florentino i przekazy jego telewizji]]></title>
+            <link>https://www.realmadryt.pl/news/154141-tebas-ja-tylko-odpowiadam-na-wypowiedzi-florentino-i-przekazy-jego-telewizji</link>
+            <pubDate>Mon, 16 Nov 2026 08:20:00 GMT</pubDate>
+            <description><![CDATA[Prezes La Ligi swoje]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Francuzi mogą trafić na Hiszpanię w ćwierćfinałach Ligi Narodów]]></title>
+            <link>https://www.realmadryt.pl/news/154146-francuzi-moga-trafic-na-hiszpanie-w-cwiercfinalach-ligi-narodow</link>
+            <pubDate>Mon, 16 Nov 2026 07:55:00 GMT</pubDate>
+            <description><![CDATA[W oczekiwaniu na losowanie]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Ostateczna pozycja Ardy Gülera]]></title>
+            <link>https://www.realmadryt.pl/news/154147-glos-kibica-ostateczna-pozycja-ardy-gulera</link>
+            <pubDate>Mon, 16 Nov 2026 07:25:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[El Debate: Mourinho poprosił o zabezpieczenie przyszłości kluczowych pomocników]]></title>
+            <link>https://www.realmadryt.pl/news/154137-el-debate-mourinho-poprosil-o-zabezpieczenie-przyszlosci-kluczowych-pomocnikow</link>
+            <pubDate>Mon, 16 Nov 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[Teraz klub pracuje nad kontraktem Ardy Gülera]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[„Florentino Pérez jest coraz bardziej przekonany, że Haaland będzie piłkarzem Realu Madryt”]]></title>
+            <link>https://www.realmadryt.pl/news/154136-florentino-perez-jest-coraz-bardziej-przekonany-ze-haaland-bedzie-pilkarzem-realu-madryt</link>
+            <pubDate>Mon, 16 Nov 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Najnowsze doniesienia dotyczące Norwega]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/154145-dzisiejsze-okladki</link>
@@ -46,48 +88,6 @@
             <link>https://www.realmadryt.pl/news/154132-grajaca-w-dziesiatke-anglia-wygrywa-z-hiszpania-bellingham-z-asysta-video</link>
             <pubDate>Sun, 15 Nov 2026 19:45:00 GMT</pubDate>
             <description><![CDATA[Pełny mecz Cucurelli, Huijsen wszedł na całą drugą połowę]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho zapomina o szkółce]]></title>
-            <link>https://www.realmadryt.pl/news/154134-mourinho-zapomina-o-szkolce</link>
-            <pubDate>Sun, 15 Nov 2026 18:07:00 GMT</pubDate>
-            <description><![CDATA[Portugalczyk nie daje szans canteranos]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[MARCA: Borja Iglesias i Miguel Román nie zagrają z Realem]]></title>
-            <link>https://www.realmadryt.pl/news/154133-marca-borja-iglesias-i-miguel-roman-nie-zagraja-z-realem</link>
-            <pubDate>Sun, 15 Nov 2026 17:40:00 GMT</pubDate>
-            <description><![CDATA[Dwaj ważni gracze Celty nie wystąpią na Bernabéu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Eli Ndiaye wraca do Realu Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/154131-oficjalnie-eli-ndiaye-wraca-do-realu-madryt</link>
-            <pubDate>Sun, 15 Nov 2026 16:34:00 GMT</pubDate>
-            <description><![CDATA[Królewscy skrócili jego wypożyczenie]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[El Confidencial: Beckham i Mbappé przegrali walkę o Rodriego z Laportą leżącym w szpitalu]]></title>
-            <link>https://www.realmadryt.pl/news/154130-el-confidencial-beckham-i-mbappe-przegrali-walke-o-rodriego-z-laporta-lezacym-w-szpitalu</link>
-            <pubDate>Sun, 15 Nov 2026 16:11:00 GMT</pubDate>
-            <description><![CDATA[Kulisy letniej telenoweli]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Ostatnio padło pięć goli. Dziś do zgarnięcia 300 PLN wystarczy tylko jeden]]></title>
-            <link>https://www.realmadryt.pl/news/154129-ostatnio-padlo-piec-goli-dzis-do-zgarniecia-300-pln-wystarczy-tylko-jeden</link>
-            <pubDate>Sun, 15 Nov 2026 13:30:00 GMT</pubDate>
-            <description><![CDATA[Artykuł sponsorowany]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[La Gazzetta: Milan poprosił Kakę, by namówił Endricka na wybór Rossonerich]]></title>
-            <link>https://www.realmadryt.pl/news/154128-la-gazzetta-milan-poprosil-kake-by-namowil-endricka-na-wybor-rossonerich</link>
-            <pubDate>Sun, 15 Nov 2026 13:10:00 GMT</pubDate>
-            <description><![CDATA[Klub z Mediolanu działa w sprawie Brazylijczyka]]></description>
         </item>
         
 </channel>
