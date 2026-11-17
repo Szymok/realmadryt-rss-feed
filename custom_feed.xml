@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 16 Nov 2026 18:28:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:56:46 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/154163-dzisiejsze-okladki</link>
+            <pubDate>Tue, 17 Nov 2026 00:04:00 GMT</pubDate>
+            <description><![CDATA[„Mea culpa Viníciusa”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oficjalnie: Ali Barat agentem JJ Gabriela]]></title>
+            <link>https://www.realmadryt.pl/news/154157-oficjalnie-ali-barat-agentem-jj-gabriela</link>
+            <pubDate>Mon, 16 Nov 2026 20:50:00 GMT</pubDate>
+            <description><![CDATA[Reprezentant pojawił się w poniedziałek w Valdebebas]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Niemcy rozbili Holendrów, słaby mecz Dumfriesa [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/154156-niemcy-rozbili-holendrow-slaby-mecz-dumfriesa-video</link>
+            <pubDate>Mon, 16 Nov 2026 20:04:00 GMT</pubDate>
+            <description><![CDATA[Goleada w Berlinie]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[We wtorek mija 3-letnia dyskwalifikacja Luisa Rubialesa]]></title>
             <link>https://www.realmadryt.pl/news/154155-we-wtorek-mija-3-letnia-dyskwalifikacja-luisa-rubialesa</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/154143-krolewscy-wroca-do-treningow-we-wtorek</link>
             <pubDate>Mon, 16 Nov 2026 09:45:00 GMT</pubDate>
             <description><![CDATA[Wstępnie czterech piłkarzy z problemami fizycznymi]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 16 listopada]]></title>
-            <link>https://www.realmadryt.pl/news/154144-kartka-z-kalendarza-16-listopada</link>
-            <pubDate>Mon, 16 Nov 2026 09:10:00 GMT</pubDate>
-            <description><![CDATA[Wędrówka śladami Polaka… ale czy na pewno?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[1111 ligowych meczów Pedro Martíneza w roli trenera]]></title>
-            <link>https://www.realmadryt.pl/news/154142-1111-ligowych-meczow-pedro-martineza-w-roli-trenera</link>
-            <pubDate>Mon, 16 Nov 2026 08:40:00 GMT</pubDate>
-            <description><![CDATA[Trener Realu Madryt wyrównał historyczny rekord]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Tebas: Ja tylko odpowiadam na wypowiedzi Florentino i przekazy jego telewizji]]></title>
-            <link>https://www.realmadryt.pl/news/154141-tebas-ja-tylko-odpowiadam-na-wypowiedzi-florentino-i-przekazy-jego-telewizji</link>
-            <pubDate>Mon, 16 Nov 2026 08:20:00 GMT</pubDate>
-            <description><![CDATA[Prezes La Ligi swoje]]></description>
         </item>
         
 </channel>
