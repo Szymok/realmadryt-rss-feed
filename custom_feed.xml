@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 19 Nov 2026 16:41:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 23:14:01 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[COPE: Real Madryt jest zdecydowany na odkupienie Nico Paza latem]]></title>
+            <link>https://www.realmadryt.pl/news/154245-cope-real-madryt-jest-zdecydowany-na-odkupienie-nico-paza-latem</link>
+            <pubDate>Thu, 19 Nov 2026 22:10:00 GMT</pubDate>
+            <description><![CDATA[Królewscy planują skorzystać z klauzuli]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Figo: Vinícius wróci na swój poziom i odzyska swój status]]></title>
+            <link>https://www.realmadryt.pl/news/154240-figo-vinicius-wroci-na-swoj-poziom-i-odzyska-swoj-status</link>
+            <pubDate>Thu, 19 Nov 2026 19:51:00 GMT</pubDate>
+            <description><![CDATA[„W Realu Madryt teraz wszyscy są zaangażowani w defensywę”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Moretto: Brahim jest bardzo zakochany w Realu Madryt, ale chce grać więcej]]></title>
+            <link>https://www.realmadryt.pl/news/154242-moretto-brahim-jest-bardzo-zakochany-w-realu-madryt-ale-chce-grac-wiecej</link>
+            <pubDate>Thu, 19 Nov 2026 19:00:00 GMT</pubDate>
+            <description><![CDATA[Włoski dziennikarz o kolejnych umowach piłkarzy]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[SER: Życie prywatne Viníciusa budziło niepokój w Realu Madryt]]></title>
+            <link>https://www.realmadryt.pl/news/154239-ser-zycie-prywatne-viniciusa-budzilo-niepokoj-w-realu-madryt</link>
+            <pubDate>Thu, 19 Nov 2026 18:09:00 GMT</pubDate>
+            <description><![CDATA[„Obecnie jest znacznie spokojniejszy”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[„FIFA nie odpowiedziała na żadne z naszych pytań”]]></title>
             <link>https://www.realmadryt.pl/news/154238-fifa-nie-odpowiedziala-na-zadne-z-naszych-pytan</link>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/154230-wielu-w-szatni-realu-madryt-uwaza-bellinghama-za-najlepszego-pilkarza-swiata</link>
             <pubDate>Thu, 19 Nov 2026 11:48:00 GMT</pubDate>
             <description><![CDATA[Wszyscy są zachwyceni Anglikiem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[The Times: United rozważa podjęcie kroków prawnych ws. transferu JJ Gabriela]]></title>
-            <link>https://www.realmadryt.pl/news/154229-the-times-united-rozwaza-podjecie-krokow-prawnych-ws-transferu-jj-gabriela</link>
-            <pubDate>Thu, 19 Nov 2026 10:58:00 GMT</pubDate>
-            <description><![CDATA[Anglicy chcą wyjaśnień]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Trzech kandydatów na prezesa FIFA]]></title>
-            <link>https://www.realmadryt.pl/news/154228-oficjalnie-trzech-kandydatow-na-prezesa-fifa</link>
-            <pubDate>Thu, 19 Nov 2026 10:31:00 GMT</pubDate>
-            <description><![CDATA[Infantino będzie miał rywali]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Sprzeczności i nieścisłości w zeznaniach przedstawicieli Barcelony w Sprawie Negreiry [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/154222-sprzecznosci-i-niescislosci-w-zeznaniach-przedstawicieli-barcelony-w-sprawie-negreiry-video</link>
-            <pubDate>Thu, 19 Nov 2026 10:00:00 GMT</pubDate>
-            <description><![CDATA[Materiał Chiringuito]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 19 listopada]]></title>
-            <link>https://www.realmadryt.pl/news/154217-kartka-z-kalendarza-19-listopada</link>
-            <pubDate>Thu, 19 Nov 2026 09:30:00 GMT</pubDate>
-            <description><![CDATA[Wybitne mecze Cristiano]]></description>
         </item>
         
 </channel>
