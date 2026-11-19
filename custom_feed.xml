@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 19 Nov 2026 00:05:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 07:17:41 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Arda Güler – Historia do stworzenia [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/154221-arda-guler-historia-do-stworzenia-video</link>
+            <pubDate>Thu, 19 Nov 2026 07:25:00 GMT</pubDate>
+            <description><![CDATA[Klub świętuje nową umowę Turka specjalnym filmikiem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Romano: Real Madryt daje czas i wspiera Viníciusa, nie ma mowy o odejściu]]></title>
+            <link>https://www.realmadryt.pl/news/154225-romano-real-madryt-daje-czas-i-wspiera-viniciusa-nie-ma-mowy-o-odejsciu</link>
+            <pubDate>Thu, 19 Nov 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[„Decydujące ws. Endricka będzie to, ile dostanie minut”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Nico Paz imponuje coraz bardziej, a przed Realem Madryt latem wielka decyzja]]></title>
+            <link>https://www.realmadryt.pl/news/154223-nico-paz-imponuje-coraz-bardziej-a-przed-realem-madryt-latem-wielka-decyzja</link>
+            <pubDate>Thu, 19 Nov 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Królewscy mają prawo do odkupienia Argentyńczyka]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/154226-dzisiejsze-okladki</link>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/154209-vinicius-musi-zdecydowac-czy-chce-byc-neymarem-czy-cristiano</link>
             <pubDate>Wed, 18 Nov 2026 13:57:00 GMT</pubDate>
             <description><![CDATA[Opinia Edu Pidala]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[OKdiario: Adidas, Emirates i recepta Florentino na zwiększenie przychodów Realu Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/154207-okdiario-adidas-emirates-i-recepta-florentino-na-zwiekszenie-przychodow-realu-madryt</link>
-            <pubDate>Wed, 18 Nov 2026 13:05:00 GMT</pubDate>
-            <description><![CDATA[Strategia, która przynosi klubowi miliony]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Arda: Moim marzeniem jest nosić tę koszulkę przez wiele lat]]></title>
-            <link>https://www.realmadryt.pl/news/154211-arda-moim-marzeniem-jest-nosic-te-koszulke-przez-wiele-lat</link>
-            <pubDate>Wed, 18 Nov 2026 12:12:00 GMT</pubDate>
-            <description><![CDATA[„Jestem bardzo szczęśliwy, że nadal mogę być częścią tego klubu”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Arda Güler 2032!]]></title>
-            <link>https://www.realmadryt.pl/news/154210-oficjalnie-arda-guler-2032</link>
-            <pubDate>Wed, 18 Nov 2026 11:40:00 GMT</pubDate>
-            <description><![CDATA[Turek przedłużył kontrakt]]></description>
         </item>
         
 </channel>
