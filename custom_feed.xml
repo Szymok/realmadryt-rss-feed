@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Nov 2026 17:59:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:05:23 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/154226-dzisiejsze-okladki</link>
+            <pubDate>Thu, 19 Nov 2026 00:01:00 GMT</pubDate>
+            <description><![CDATA[„Odnowione nadzieje”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[GŁOS KIBICA: GTA VI]]></title>
+            <link>https://www.realmadryt.pl/news/154224-glos-kibica-gta-vi</link>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do naszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Królewskie pokonują Inter w Lidze Mistrzyń [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/154218-krolewskie-pokonuja-inter-w-lidze-mistrzyn-video</link>
+            <pubDate>Wed, 18 Nov 2026 21:22:00 GMT</pubDate>
+            <description><![CDATA[Ważne zwycięstwo pań wyszarpane w końcówce]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Koszykarze przegrali w Stambule po słabym meczu]]></title>
+            <link>https://www.realmadryt.pl/news/154216-koszykarze-przegrali-w-stambule-po-slabym-meczu</link>
+            <pubDate>Wed, 18 Nov 2026 20:02:00 GMT</pubDate>
+            <description><![CDATA[Porażka z niżej notowanym rywalem]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Drugi trening w tym tygodniu]]></title>
             <link>https://www.realmadryt.pl/news/154215-drugi-trening-w-tym-tygodniu</link>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/154210-oficjalnie-arda-guler-2032</link>
             <pubDate>Wed, 18 Nov 2026 11:40:00 GMT</pubDate>
             <description><![CDATA[Turek przedłużył kontrakt]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[TNT Sports: Milan rozpoczął rozmowy w sprawie Endricka]]></title>
-            <link>https://www.realmadryt.pl/news/154208-tnt-sports-milan-rozpoczal-rozmowy-w-sprawie-endricka</link>
-            <pubDate>Wed, 18 Nov 2026 11:24:00 GMT</pubDate>
-            <description><![CDATA[Real chciałby dwóch klauzul w umowie]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mijatović: Widzę, że Vinícius jest znacznie szczęśliwszy w reprezentacji niż w klubie]]></title>
-            <link>https://www.realmadryt.pl/news/154200-mijatovic-widze-ze-vinicius-jest-znacznie-szczesliwszy-w-reprezentacji-niz-w-klubie</link>
-            <pubDate>Wed, 18 Nov 2026 11:10:00 GMT</pubDate>
-            <description><![CDATA[Pedja uderza w Brazylijczyka]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Królewscy z nominacjami do nagród Globe Soccer]]></title>
-            <link>https://www.realmadryt.pl/news/154206-krolewscy-z-nominacjami-do-nagrod-globe-soccer</link>
-            <pubDate>Wed, 18 Nov 2026 11:06:00 GMT</pubDate>
-            <description><![CDATA[Głosowanie kibiców otwarte do 30 listopada]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Juan Mata zakończył piłkarską karierę]]></title>
-            <link>https://www.realmadryt.pl/news/154205-oficjalnie-juan-mata-zakonczyl-pilkarska-kariere</link>
-            <pubDate>Wed, 18 Nov 2026 10:23:00 GMT</pubDate>
-            <description><![CDATA[„Czasami kochać to znaczy pozwolić odejść”]]></description>
         </item>
         
 </channel>
