@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 19 Nov 2026 23:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 03:59:05 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/154250-dzisiejsze-okladki</link>
+            <pubDate>Fri, 20 Nov 2026 00:22:00 GMT</pubDate>
+            <description><![CDATA[„Wielka decyzja”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[COPE: Real Madryt jest zdecydowany na odkupienie Nico Paza latem]]></title>
             <link>https://www.realmadryt.pl/news/154245-cope-real-madryt-jest-zdecydowany-na-odkupienie-nico-paza-latem</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/154227-kogo-posadzilbys-na-lawce-zeby-zrobic-miejsce-dla-nico-paza-bellinghama</link>
             <pubDate>Thu, 19 Nov 2026 12:33:00 GMT</pubDate>
             <description><![CDATA[Kanaryjska dziennikarka o sytuacji Argentyńczyka]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[„Wielu w szatni Realu Madryt uważa Bellinghama za najlepszego piłkarza świata”]]></title>
-            <link>https://www.realmadryt.pl/news/154230-wielu-w-szatni-realu-madryt-uwaza-bellinghama-za-najlepszego-pilkarza-swiata</link>
-            <pubDate>Thu, 19 Nov 2026 11:48:00 GMT</pubDate>
-            <description><![CDATA[Wszyscy są zachwyceni Anglikiem]]></description>
         </item>
         
 </channel>
