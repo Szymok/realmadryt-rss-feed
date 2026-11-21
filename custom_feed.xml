@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 20 Nov 2026 20:43:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 01:45:15 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/154275-dzisiejsze-okladki</link>
+            <pubDate>Sat, 21 Nov 2026 00:28:00 GMT</pubDate>
+            <description><![CDATA[„Miesiąc później wraca inny Real”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pedro Martínez: Nie mieliśmy nikogo grającego na poziomie Wezenkowa czy Fourniera]]></title>
+            <link>https://www.realmadryt.pl/news/154273-pedro-martinez-nie-mielismy-nikogo-grajacego-na-poziomie-wezenkowa-czy-fourniera</link>
+            <pubDate>Fri, 20 Nov 2026 23:40:00 GMT</pubDate>
+            <description><![CDATA[Konferencja prasowa po porażce z Olympiakosem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Potknięcie Castilli na Di Stéfano]]></title>
+            <link>https://www.realmadryt.pl/news/154272-potkniecie-castilli-na-di-stefano</link>
+            <pubDate>Fri, 20 Nov 2026 23:20:00 GMT</pubDate>
+            <description><![CDATA[Rezerwy przegrały z Realem Murcia]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Żadnych złudzeń w Pireusie]]></title>
+            <link>https://www.realmadryt.pl/news/154271-zadnych-zludzen-w-pireusie</link>
+            <pubDate>Fri, 20 Nov 2026 22:35:00 GMT</pubDate>
+            <description><![CDATA[Olympiakos rozbił Królewskich]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Telewizyjny terminarz 13. kolejki La Ligi]]></title>
             <link>https://www.realmadryt.pl/news/154265-telewizyjny-terminarz-13-kolejki-la-ligi</link>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/154252-hotels-com-bedzie-placic-realowi-madryt-5-5-miliona-euro-rocznie</link>
             <pubDate>Fri, 20 Nov 2026 15:11:00 GMT</pubDate>
             <description><![CDATA[Klub zawarł kolejną korzystną umowę]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Po awans do pierwszej piątki]]></title>
-            <link>https://www.realmadryt.pl/news/154236-po-awans-do-pierwszej-piatki</link>
-            <pubDate>Fri, 20 Nov 2026 14:20:00 GMT</pubDate>
-            <description><![CDATA[Castilla zagra z Realem Murcia]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kadra na Celtę]]></title>
-            <link>https://www.realmadryt.pl/news/154261-kadra-na-celte</link>
-            <pubDate>Fri, 20 Nov 2026 13:31:00 GMT</pubDate>
-            <description><![CDATA[Na liście brakuje trzech piłkarzy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Zmęczenie po kadrach pierwszym wyzwaniem dla Mourinho]]></title>
-            <link>https://www.realmadryt.pl/news/154259-zmeczenie-po-kadrach-pierwszym-wyzwaniem-dla-mourinho</link>
-            <pubDate>Fri, 20 Nov 2026 13:16:00 GMT</pubDate>
-            <description><![CDATA[1905 minut w nogach zawodników i podróże przez pół świata]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Francja z Hiszpanią w ćwierćfinale Ligi Narodów!]]></title>
-            <link>https://www.realmadryt.pl/news/154260-francja-z-hiszpania-w-cwiercfinale-ligi-narodow</link>
-            <pubDate>Fri, 20 Nov 2026 12:33:00 GMT</pubDate>
-            <description><![CDATA[Poznaliśmy wyniki losowania]]></description>
         </item>
         
 </channel>
