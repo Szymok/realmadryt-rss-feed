@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 21 Nov 2026 16:30:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 21:52:58 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Bernabéu oddało hołd pamięci Jesúsa de Miguela]]></title>
+            <link>https://www.realmadryt.pl/news/154294-bernabeu-oddalo-hold-pamieci-jesusa-de-miguela</link>
+            <pubDate>Sat, 21 Nov 2026 22:04:00 GMT</pubDate>
+            <description><![CDATA[Wzruszające momenty przed meczem z Celtą]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madryt – Celta Vigo [NA ŻYWO]]]></title>
+            <link>https://www.realmadryt.pl/news/154292-real-madryt-celta-vigo-na-zywo</link>
+            <pubDate>Sat, 21 Nov 2026 20:50:00 GMT</pubDate>
+            <description><![CDATA[Trwa druga połowa]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Real Madryt – Celta Vigo: Znamy składy!]]></title>
+            <link>https://www.realmadryt.pl/news/154291-real-madryt-celta-vigo-znamy-sklady</link>
+            <pubDate>Sat, 21 Nov 2026 19:42:00 GMT</pubDate>
+            <description><![CDATA[Wiemy, na kogo postawił Mourinho]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Właściciel Milanu: Endrick jest jednym z najlepszych zawodników na świecie]]></title>
+            <link>https://www.realmadryt.pl/news/154290-wlasciciel-milanu-endrick-jest-jednym-z-najlepszych-zawodnikow-na-swiecie</link>
+            <pubDate>Sat, 21 Nov 2026 17:44:00 GMT</pubDate>
+            <description><![CDATA[Rossoneri poważnie zainteresowani Brazylijczykiem]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Mourinho i Real wchodzą w trzecią fazę sezonu]]></title>
             <link>https://www.realmadryt.pl/news/154289-mourinho-i-real-wchodza-w-trzecia-faze-sezonu</link>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/154269-gonzalo-arbeloa-przedstawil-mi-projekt-i-mnie-przekonal</link>
             <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Hiszpan o początkach w Fulham]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Co obejrzeć w weekend poza meczem Realu Madryt?]]></title>
-            <link>https://www.realmadryt.pl/news/154280-co-obejrzec-w-weekend-poza-meczem-realu-madryt</link>
-            <pubDate>Sat, 21 Nov 2026 11:15:00 GMT</pubDate>
-            <description><![CDATA[Arbeloa na Etihad, Arsenal z Newcastle i Barcelona z Villarrealem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Odmieniony Real wraca do domu]]></title>
-            <link>https://www.realmadryt.pl/news/154282-odmieniony-real-wraca-do-domu</link>
-            <pubDate>Sat, 21 Nov 2026 10:49:00 GMT</pubDate>
-            <description><![CDATA[Ostatnie wygrane na wyjazdach napędziły zespół]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Giráldez: Ten Real Madryt nie jest aż tak inny względem poprzedniego sezonu]]></title>
-            <link>https://www.realmadryt.pl/news/154277-giraldez-ten-real-madryt-nie-jest-az-tak-inny-wzgledem-poprzedniego-sezonu</link>
-            <pubDate>Sat, 21 Nov 2026 10:30:00 GMT</pubDate>
-            <description><![CDATA[Konferencja prasowa z trenerem Celty]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Ostatni taniec Iago Aspasa na Bernabéu]]></title>
-            <link>https://www.realmadryt.pl/news/154281-ostatni-taniec-iago-aspasa-na-bernabeu</link>
-            <pubDate>Sat, 21 Nov 2026 10:25:00 GMT</pubDate>
-            <description><![CDATA[Hiszpan po raz pierwszy zagrał na tym obiekcie w 2012 roku]]></description>
         </item>
         
 </channel>
