@@ -4,8 +4,43 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Nov 2026 01:50:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:08:59 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Courtois: Kluczowa była przemowa trenera w przerwie]]></title>
+            <link>https://www.realmadryt.pl/news/154302-courtois-kluczowa-byla-przemowa-trenera-w-przerwie</link>
+            <pubDate>Sun, 22 Nov 2026 10:01:00 GMT</pubDate>
+            <description><![CDATA[„W pierwszej połowie nie prezentowaliśmy podstawowych zasad futbolu”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Kartka z kalendarza: 22 listopada]]></title>
+            <link>https://www.realmadryt.pl/news/154299-kartka-z-kalendarza-22-listopada</link>
+            <pubDate>Sun, 22 Nov 2026 09:09:00 GMT</pubDate>
+            <description><![CDATA[Dwie wygrane w Lidze Mistrzów i… lodowisko w miasteczku]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mourinho: Czasami jest trudno i wtedy trzeba pokazać charakter]]></title>
+            <link>https://www.realmadryt.pl/news/154301-mourinho-czasami-jest-trudno-i-wtedy-trzeba-pokazac-charakter</link>
+            <pubDate>Sun, 22 Nov 2026 08:18:00 GMT</pubDate>
+            <description><![CDATA[„Intensywność w pressingu była kluczowa w drugiej połowie”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[GŁOS KIBICA: Kto powinien być pierwszym wykonawcą rzutów karnych?]]></title>
+            <link>https://www.realmadryt.pl/news/154303-glos-kibica-kto-powinien-byc-pierwszym-wykonawca-rzutow-karnych</link>
+            <pubDate>Sun, 22 Nov 2026 07:25:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do dzisiejszej ankiety]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Imponujące statystyki Carlosa Espíego]]></title>
+            <link>https://www.realmadryt.pl/news/154296-imponujace-statystyki-carlosa-espiego</link>
+            <pubDate>Sun, 22 Nov 2026 05:30:00 GMT</pubDate>
+            <description><![CDATA[Hiszpan znowu uratował Królewskich]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Dzisiejsze okładki]]></title>
             <link>https://www.realmadryt.pl/news/154304-dzisiejsze-okladki</link>
@@ -53,41 +88,6 @@
             <link>https://www.realmadryt.pl/news/154294-bernabeu-oddalo-hold-pamieci-jesusa-de-miguela</link>
             <pubDate>Sat, 21 Nov 2026 22:04:00 GMT</pubDate>
             <description><![CDATA[Wzruszające momenty przed meczem z Celtą]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Wymęczone zwycięstwo z Celtą]]></title>
-            <link>https://www.realmadryt.pl/news/154292-wymeczone-zwyciestwo-z-celta</link>
-            <pubDate>Sat, 21 Nov 2026 20:50:00 GMT</pubDate>
-            <description><![CDATA[Espí bohaterem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Real Madryt – Celta Vigo: Znamy składy!]]></title>
-            <link>https://www.realmadryt.pl/news/154291-real-madryt-celta-vigo-znamy-sklady</link>
-            <pubDate>Sat, 21 Nov 2026 19:42:00 GMT</pubDate>
-            <description><![CDATA[Wiemy, na kogo postawił Mourinho]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Właściciel Milanu: Endrick jest jednym z najlepszych zawodników na świecie]]></title>
-            <link>https://www.realmadryt.pl/news/154290-wlasciciel-milanu-endrick-jest-jednym-z-najlepszych-zawodnikow-na-swiecie</link>
-            <pubDate>Sat, 21 Nov 2026 17:44:00 GMT</pubDate>
-            <description><![CDATA[Rossoneri poważnie zainteresowani Brazylijczykiem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho i Real wchodzą w trzecią fazę sezonu]]></title>
-            <link>https://www.realmadryt.pl/news/154289-mourinho-i-real-wchodza-w-trzecia-faze-sezonu</link>
-            <pubDate>Sat, 21 Nov 2026 15:36:00 GMT</pubDate>
-            <description><![CDATA[Co czeka nas do Bożego Narodzenia?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Diomandé czy Vinícius?]]></title>
-            <link>https://www.realmadryt.pl/news/154288-diomande-czy-vinicius</link>
-            <pubDate>Sat, 21 Nov 2026 14:15:00 GMT</pubDate>
-            <description><![CDATA[Nadchodzi chwila prawdy]]></description>
         </item>
         
 </channel>
