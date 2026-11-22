@@ -4,8 +4,36 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Nov 2026 17:06:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 22:26:54 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Pedro Martínez: Przechodzimy przez bardzo delikatny moment pod względem fizycznym]]></title>
+            <link>https://www.realmadryt.pl/news/154322-pedro-martinez-przechodzimy-przez-bardzo-delikatny-moment-pod-wzgledem-fizycznym</link>
+            <pubDate>Sun, 22 Nov 2026 23:18:00 GMT</pubDate>
+            <description><![CDATA[Konferencja prasowa po wygranej z Joventutem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Zwycięstwo koszykarzy po zaciętym meczu]]></title>
+            <link>https://www.realmadryt.pl/news/154321-zwyciestwo-koszykarzy-po-zacietym-meczu</link>
+            <pubDate>Sun, 22 Nov 2026 21:04:00 GMT</pubDate>
+            <description><![CDATA[Królewscy dalej są niepokonani w lidze]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Aspas: Gdyby to Real przegrywał lub remisował, sędzia dodałby mu jeszcze minutę]]></title>
+            <link>https://www.realmadryt.pl/news/154319-aspas-gdyby-to-real-przegrywal-lub-remisowal-sedzia-dodalby-mu-jeszcze-minute</link>
+            <pubDate>Sun, 22 Nov 2026 19:09:00 GMT</pubDate>
+            <description><![CDATA[„Mam bardzo dobre wspomnienia z Bernabéu”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Comesaña: To samo spotkało nas na Bernabéu, wywierają ogromną presję na sędziów]]></title>
+            <link>https://www.realmadryt.pl/news/154318-comesana-to-samo-spotkalo-nas-na-bernabeu-wywieraja-ogromna-presje-na-sedziow</link>
+            <pubDate>Sun, 22 Nov 2026 18:59:00 GMT</pubDate>
+            <description><![CDATA[„W pierwszej połowie aż siedmiu piłkarzy Barcelony protestowało u arbitra”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Maszynka do wygrywania]]></title>
             <link>https://www.realmadryt.pl/news/154307-maszynka-do-wygrywania</link>
@@ -60,34 +88,6 @@
             <link>https://www.realmadryt.pl/news/154313-mbappe-do-diomande-mecz-jeszcze-sie-nie-skonczyl-przestan-tyle-myslec-video</link>
             <pubDate>Sun, 22 Nov 2026 12:58:00 GMT</pubDate>
             <description><![CDATA[Kamery wychwyciły rozmowy przed drugą połową]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[100. ligowy mecz Bellinghama w Realu Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/154306-100-ligowy-mecz-bellinghama-w-realu-madryt</link>
-            <pubDate>Sun, 22 Nov 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Jubileusz Anglika w starciu z Celtą]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Giráldez: Zabiła nas ławka Realu Madryt]]></title>
-            <link>https://www.realmadryt.pl/news/154305-giraldez-zabila-nas-lawka-realu-madryt</link>
-            <pubDate>Sun, 22 Nov 2026 11:18:00 GMT</pubDate>
-            <description><![CDATA[Trener Celty po porażce na Bernabéu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Espen Eskås na PSV]]></title>
-            <link>https://www.realmadryt.pl/news/154310-espen-eskas-na-psv</link>
-            <pubDate>Sun, 22 Nov 2026 11:03:00 GMT</pubDate>
-            <description><![CDATA[Norweg czwarty raz spotka się z Królewskimi]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oceny zawodników po meczu z Celtą Vigo]]></title>
-            <link>https://www.realmadryt.pl/news/154309-oceny-zawodnikow-po-meczu-z-celta-vigo</link>
-            <pubDate>Sun, 22 Nov 2026 11:00:00 GMT</pubDate>
-            <description><![CDATA[Jak grali nasi?]]></description>
         </item>
         
 </channel>
