@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Nov 2026 22:26:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 02:56:52 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/154325-dzisiejsze-okladki</link>
+            <pubDate>Mon, 23 Nov 2026 00:32:00 GMT</pubDate>
+            <description><![CDATA[„Legendarny”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Pedro Martínez: Przechodzimy przez bardzo delikatny moment pod względem fizycznym]]></title>
             <link>https://www.realmadryt.pl/news/154322-pedro-martinez-przechodzimy-przez-bardzo-delikatny-moment-pod-wzgledem-fizycznym</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/154314-oficjalnie-doue-zerwal-wiezadlo-krzyzowe-przednie-w-kolanie</link>
             <pubDate>Sun, 22 Nov 2026 13:07:00 GMT</pubDate>
             <description><![CDATA[Kolejna poważna kontuzja w tym sezonie]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mbappé do Diomandé: „Mecz jeszcze się nie skończył, przestań tyle myśleć” [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/154313-mbappe-do-diomande-mecz-jeszcze-sie-nie-skonczyl-przestan-tyle-myslec-video</link>
-            <pubDate>Sun, 22 Nov 2026 12:58:00 GMT</pubDate>
-            <description><![CDATA[Kamery wychwyciły rozmowy przed drugą połową]]></description>
         </item>
         
 </channel>
