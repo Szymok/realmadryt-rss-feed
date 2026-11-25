@@ -4,8 +4,64 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 25 Nov 2026 11:56:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:57:56 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Footy Headlines: Adidas od przyszłego sezonu ponownie podniesie ceny koszulek]]></title>
+            <link>https://www.realmadryt.pl/news/154405-footy-headlines-adidas-od-przyszlego-sezonu-ponownie-podniesie-ceny-koszulek</link>
+            <pubDate>Wed, 25 Nov 2026 18:48:00 GMT</pubDate>
+            <description><![CDATA[Ile będzie kosztować trykot Realu?]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Chiringuito: JAS publicznie wygarnął Tebasowi złe zarządzanie i ataki na Florentino Péreza]]></title>
+            <link>https://www.realmadryt.pl/news/154404-chiringuito-jas-publicznie-wygarnal-tebasowi-zle-zarzadzanie-i-ataki-na-florentino-pereza</link>
+            <pubDate>Wed, 25 Nov 2026 18:27:00 GMT</pubDate>
+            <description><![CDATA[Kulisy Walnego Zgromadzenia La Ligi]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[5. kolejka LM: Łatwa wygrana Barcelony w Baku [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/154403-5-kolejka-lm-latwa-wygrana-barcelony-w-baku-video</link>
+            <pubDate>Wed, 25 Nov 2026 18:15:00 GMT</pubDate>
+            <description><![CDATA[Środowe mecze Champions League]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Kulisy przemowy Mourinho w przerwie meczu z PSV]]></title>
+            <link>https://www.realmadryt.pl/news/154402-kulisy-przemowy-mourinho-w-przerwie-meczu-z-psv</link>
+            <pubDate>Wed, 25 Nov 2026 16:00:00 GMT</pubDate>
+            <description><![CDATA[Jakie korekty przekazał trener zawodnikom w szatni?]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Courtois: Czas, bym obronił jakiegoś karnego]]></title>
+            <link>https://www.realmadryt.pl/news/154401-courtois-czas-bym-obronil-jakiegos-karnego</link>
+            <pubDate>Wed, 25 Nov 2026 15:10:00 GMT</pubDate>
+            <description><![CDATA[„Jeśli nie biegamy, to zwycięstwo jest niemożliwe”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Vinícius: Jesteśmy rodziną, bardzo was kocham!]]></title>
+            <link>https://www.realmadryt.pl/news/154400-vinicius-jestesmy-rodzina-bardzo-was-kocham</link>
+            <pubDate>Wed, 25 Nov 2026 14:51:00 GMT</pubDate>
+            <description><![CDATA[Brazylijczyk dziękuje kolegom]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Podcast 8x10: Ile powinien zarabiać Jude Bellingham?]]></title>
+            <link>https://www.realmadryt.pl/news/154399-podcast-8x10-ile-powinien-zarabiac-jude-bellingham</link>
+            <pubDate>Wed, 25 Nov 2026 14:41:00 GMT</pubDate>
+            <description><![CDATA[Zapraszamy do wysłuchania naszych opinii]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pedro Martínez: Zwycięstwo byłoby impulsem mentalnym dla drużyny]]></title>
+            <link>https://www.realmadryt.pl/news/154377-pedro-martinez-zwyciestwo-byloby-impulsem-mentalnym-dla-druzyny</link>
+            <pubDate>Wed, 25 Nov 2026 13:25:00 GMT</pubDate>
+            <description><![CDATA[Wypowiedzi przed meczem z Žalgirisem]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Królewscy mają dziś wolne]]></title>
             <link>https://www.realmadryt.pl/news/154398-krolewscy-maja-dzis-wolne</link>
@@ -32,62 +88,6 @@
             <link>https://www.realmadryt.pl/news/154395-oceny-zawodnikow-po-meczu-z-psv</link>
             <pubDate>Wed, 25 Nov 2026 11:02:00 GMT</pubDate>
             <description><![CDATA[Jak wspólnie oceniliśmy wczorajsze występy?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[MARCA: Spotkanie z Barceloną w sprawie Negreiry zakończyło się fiaskiem]]></title>
-            <link>https://www.realmadryt.pl/news/154394-marca-spotkanie-z-barcelona-w-sprawie-negreiry-zakonczylo-sie-fiaskiem</link>
-            <pubDate>Wed, 25 Nov 2026 10:51:00 GMT</pubDate>
-            <description><![CDATA[Real nie osiągnął porozumienia z Katalończykami]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Atak na pierwsze miejsce, które daje korzyści i duże pieniądze]]></title>
-            <link>https://www.realmadryt.pl/news/154393-atak-na-pierwsze-miejsce-ktore-daje-korzysci-i-duze-pieniadze</link>
-            <pubDate>Wed, 25 Nov 2026 10:35:00 GMT</pubDate>
-            <description><![CDATA[Co Real otrzymałby za wygranie fazy ligowej Champions League?]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Laporta: W końcu zażądamy od Realu opłat licencyjnych, bo promują się kosztem Barcelony]]></title>
-            <link>https://www.realmadryt.pl/news/154392-laporta-w-koncu-zazadamy-od-realu-oplat-licencyjnych-bo-promuja-sie-kosztem-barcelony</link>
-            <pubDate>Wed, 25 Nov 2026 10:21:00 GMT</pubDate>
-            <description><![CDATA[„Mają obsesję na punkcie mówienia o Barcelonie”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Kartka z kalendarza: 25 listopada]]></title>
-            <link>https://www.realmadryt.pl/news/154390-kartka-z-kalendarza-25-listopada</link>
-            <pubDate>Wed, 25 Nov 2026 09:50:00 GMT</pubDate>
-            <description><![CDATA[Urodziny Xabiego i początek legendarnej przyśpiewki]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Bellingham króluje w Madrycie]]></title>
-            <link>https://www.realmadryt.pl/news/154391-bellingham-kroluje-w-madrycie</link>
-            <pubDate>Wed, 25 Nov 2026 09:39:00 GMT</pubDate>
-            <description><![CDATA[Anglik znów zachwyca Santiago Bernabéu]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Mourinho: W przerwie pokazałem 3-4 nagrania, bo jeden obraz jest wart więcej niż tysiąc słów]]></title>
-            <link>https://www.realmadryt.pl/news/154389-mourinho-w-przerwie-pokazalem-3-4-nagrania-bo-jeden-obraz-jest-wart-wiecej-niz-tysiac-slow</link>
-            <pubDate>Wed, 25 Nov 2026 09:05:00 GMT</pubDate>
-            <description><![CDATA[Zapis pomeczowej konferencji z trenerem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Po euroligowe przełamanie]]></title>
-            <link>https://www.realmadryt.pl/news/154378-po-euroligowe-przelamanie</link>
-            <pubDate>Wed, 25 Nov 2026 08:35:00 GMT</pubDate>
-            <description><![CDATA[Koszykarze zagrają z Žalgirisem]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[5. kolejka Ligi Mistrzów: Królewscy zdecydowanie na czele tabeli]]></title>
-            <link>https://www.realmadryt.pl/news/154384-5-kolejka-ligi-mistrzow-krolewscy-zdecydowanie-na-czele-tabeli</link>
-            <pubDate>Wed, 25 Nov 2026 08:00:00 GMT</pubDate>
-            <description><![CDATA[W następnej kolejce mecz z Arsenalem]]></description>
         </item>
         
 </channel>
