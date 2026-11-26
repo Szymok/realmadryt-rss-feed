@@ -4,8 +4,29 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 25 Nov 2026 20:57:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:22:45 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/154413-dzisiejsze-okladki</link>
+            <pubDate>Thu, 26 Nov 2026 00:27:00 GMT</pubDate>
+            <description><![CDATA[„Komplet!”]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pedro Martínez: Byliśmy solidni przez cały mecz]]></title>
+            <link>https://www.realmadryt.pl/news/154412-pedro-martinez-bylismy-solidni-przez-caly-mecz</link>
+            <pubDate>Thu, 26 Nov 2026 00:02:00 GMT</pubDate>
+            <description><![CDATA[Konferencja prasowa po zwycięstwie z Žalgirisem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pewne zwycięstwo koszykarzy]]></title>
+            <link>https://www.realmadryt.pl/news/154409-pewne-zwyciestwo-koszykarzy</link>
+            <pubDate>Wed, 25 Nov 2026 23:25:00 GMT</pubDate>
+            <description><![CDATA[Królewscy wyraźnie lepsi od Žalgirisa]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Footy Headlines: Adidas od przyszłego sezonu ponownie podniesie ceny koszulek]]></title>
             <link>https://www.realmadryt.pl/news/154405-footy-headlines-adidas-od-przyszlego-sezonu-ponownie-podniesie-ceny-koszulek</link>
@@ -21,10 +42,10 @@
         </item>
         
         <item>
-            <title><![CDATA[5. kolejka LM: Łatwa wygrana Barcelony w Baku [VIDEO]]]></title>
-            <link>https://www.realmadryt.pl/news/154403-5-kolejka-lm-latwa-wygrana-barcelony-w-baku-video</link>
+            <title><![CDATA[5. kolejka LM: Real samodzielnym liderem! Łatwa wygrana Barcelony [VIDEO]]]></title>
+            <link>https://www.realmadryt.pl/news/154403-5-kolejka-lm-real-samodzielnym-liderem-latwa-wygrana-barcelony-video</link>
             <pubDate>Wed, 25 Nov 2026 18:15:00 GMT</pubDate>
-            <description><![CDATA[Środowe mecze Champions League]]></description>
+            <description><![CDATA[Wpadka PSG, Davide Ancelotti ograł Bayern]]></description>
         </item>
         
         <item>
@@ -67,27 +88,6 @@
             <link>https://www.realmadryt.pl/news/154398-krolewscy-maja-dzis-wolne</link>
             <pubDate>Wed, 25 Nov 2026 12:46:00 GMT</pubDate>
             <description><![CDATA[Powrót do treningów jutro]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Vinícius zrównał się z Puskásem]]></title>
-            <link>https://www.realmadryt.pl/news/154397-vinicius-zrownal-sie-z-puskasem</link>
-            <pubDate>Wed, 25 Nov 2026 12:05:00 GMT</pubDate>
-            <description><![CDATA[35 bramek Brazylijczyka w Pucharze Europy]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Brahim i Diomandé w finałowym gronie kandydatów do nagród CAF]]></title>
-            <link>https://www.realmadryt.pl/news/154396-brahim-i-diomande-w-finalowym-gronie-kandydatow-do-nagrod-caf</link>
-            <pubDate>Wed, 25 Nov 2026 11:16:00 GMT</pubDate>
-            <description><![CDATA[Afrykańska gala coraz bliżej]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oceny zawodników po meczu z PSV]]></title>
-            <link>https://www.realmadryt.pl/news/154395-oceny-zawodnikow-po-meczu-z-psv</link>
-            <pubDate>Wed, 25 Nov 2026 11:02:00 GMT</pubDate>
-            <description><![CDATA[Jak wspólnie oceniliśmy wczorajsze występy?]]></description>
         </item>
         
 </channel>
