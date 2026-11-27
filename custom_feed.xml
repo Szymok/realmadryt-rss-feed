@@ -4,8 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 26 Nov 2026 22:07:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:12:16 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/154438-dzisiejsze-okladki</link>
+            <pubDate>Fri, 27 Nov 2026 00:47:00 GMT</pubDate>
+            <description><![CDATA[„Złoty atak”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Toni Martínez: Na Bernabéu musimy zagrać swój mecz]]></title>
             <link>https://www.realmadryt.pl/news/154433-toni-martinez-na-bernabeu-musimy-zagrac-swoj-mecz</link>
@@ -81,13 +88,6 @@
             <link>https://www.realmadryt.pl/news/154415-mourinho-nie-odpuszcza-w-sprawie-viniciusa</link>
             <pubDate>Thu, 26 Nov 2026 12:33:00 GMT</pubDate>
             <description><![CDATA[„Szykujcie się… Nadchodzi Vini!”]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Maciej Leszczyński występuje w programie „Barça vs Real” [NA ŻYWO]]]></title>
-            <link>https://www.realmadryt.pl/news/154420-maciej-leszczynski-wystepuje-w-programie-barca-vs-real-na-zywo</link>
-            <pubDate>Thu, 26 Nov 2026 12:05:00 GMT</pubDate>
-            <description><![CDATA[Oglądaj i wspieraj od 13:00]]></description>
         </item>
         
 </channel>
