@@ -4,8 +4,22 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 27 Nov 2026 22:26:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:03:31 GMT</lastBuildDate>
     
+        <item>
+            <title><![CDATA[Mourinho: Strzeli Vinícius czy Diomandé, będzie to gol Realu Madryt]]></title>
+            <link>https://www.realmadryt.pl/news/154445-mourinho-strzeli-vinicius-czy-diomande-bedzie-to-gol-realu-madryt</link>
+            <pubDate>Sat, 28 Nov 2026 04:00:00 GMT</pubDate>
+            <description><![CDATA[Zapis przedmeczowej konferencji z trenerem]]></description>
+        </item>
+        
+        <item>
+            <title><![CDATA[Dzisiejsze okładki]]></title>
+            <link>https://www.realmadryt.pl/news/154461-dzisiejsze-okladki</link>
+            <pubDate>Sat, 28 Nov 2026 00:20:00 GMT</pubDate>
+            <description><![CDATA[„Tak, Marc, bawiliśmy się świetnie!”]]></description>
+        </item>
+        
         <item>
             <title><![CDATA[Saka wrócił do treningów przed meczem z Realem Madryt]]></title>
             <link>https://www.realmadryt.pl/news/154454-saka-wrocil-do-treningow-przed-meczem-z-realem-madryt</link>
@@ -74,20 +88,6 @@
             <link>https://www.realmadryt.pl/news/154443-kadra-na-alaves</link>
             <pubDate>Fri, 27 Nov 2026 13:51:00 GMT</pubDate>
             <description><![CDATA[Powrót Mendy’ego i czterech nieobecnych]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[Oficjalnie: Brahim 2031!]]></title>
-            <link>https://www.realmadryt.pl/news/154444-oficjalnie-brahim-2031</link>
-            <pubDate>Fri, 27 Nov 2026 13:02:00 GMT</pubDate>
-            <description><![CDATA[Nowa umowa dla atakującego]]></description>
-        </item>
-        
-        <item>
-            <title><![CDATA[CIES: Piłkarze Realu Madryt biegają najmniej w pięciu największych ligach Europy]]></title>
-            <link>https://www.realmadryt.pl/news/154439-cies-pilkarze-realu-madryt-biegaja-najmniej-w-pieciu-najwiekszych-ligach-europy</link>
-            <pubDate>Fri, 27 Nov 2026 11:30:00 GMT</pubDate>
-            <description><![CDATA[Średnio 9,59 km na 90 minut gry]]></description>
         </item>
         
 </channel>
